@@ -1,0 +1,201 @@
+passage: Programa: Gestão de Riscos e de Desastres
+
+Descrição do Problema:
+Número elevado de população residente em área de risco de desastres nos estados e municípios do país, devido à vulnerabilidade social em que se encontram, percepção insuficiente do risco, baixa cultura de prevenção, desordenamento da ocupação e inadequado planejamento territorial. Estas causas estão intrinsecamente relacionadas à atuação dos governos municipais, que cumprem o papel executor das políticas públicas necessárias para mitigá-las, constituindo-se em peça-chave para a solução do problema.
+
+Causa do Problema:
+- Vulnerabilidade social
+- Percepção insuficiente do risco
+- Falhas nas políticas públicas de gestão de riscos
+- Marcos regulatórios ineficazes
+- Insuficiente articulação interfederativa
+- Insuficiente articulação institucional nos 4 eixos
+- Fragilidade das estruturas das Defesas Civis 
+- Baixa cultura de prevenção
+- Conhecimento insuficiente de situações de risco
+- Ocorrência de eventos extremos
+- Baixo nível de investimentos em infraestrutura
+- Baixa eficiência na alocação dos recursos
+- Desordenamento da ocupação territorial
+- Inadequado planejamento territorial
+
+Evidências do Problema:
+- Aumento considerável da frequência e da intensidade dos desastres naturais
+- Expansão urbana desordenada gerando um Aumento da população em área de risco
+- Construções vulneráveis
+
+Justificativa para a Intervenção:
+- Danos Humanos
+- Morte
+- Danos à saúde
+- Desalojados e desabrigados
+- Danos Econômicos
+- Desqualificação econômica, social e ambiental da área
+- Utilização de grande volume de recursos para a recuperação pós-desastres
+- Danos Ambientais
+- Danos Sociais
+- Marginalização da população
+- Fluxos Migratórios
+- Comprometimento da qualidade de vida
+- Danos Culturais
+
+Evolução Histórica:
+Vigente a mais de dez anos, a atual Política Nacional de Proteção e Defesa Civil – PNPDEC buscou reformular ações e estratégias em torno dos temas gestão de riscos e de desastres, inclusive ressaltando em seu enunciado a importância da “proteção” daqueles vulneráveis e suscetíveis aos eventos extremos. Muitos avanços foram incrementados no debate público e na formulação da agenda, sejam as melhorias estruturais e legais promovidas pelos órgãos federais, ou mesmo no apoio aos entes subnacionais na reformulação de suas coordenações locais.
+No PPA 2020/2023 importantes resultados foram obtidos no plano de capacitação continuada em proteção e defesa civil, bem como em ações não orçamentárias, como o desenvolvimento do manual técnico da Barreira SABO. Porém, o que mais resultou em benefícios à população afetada por desastres foram as ações de resposta e recuperação, cuja Ação 22BO representou mais de 90% dos recursos geridos pela Sedec, indicando que ainda há muito o que fazer na prevenção e mitigação. 
+
+Comparações Internacionais:
+A Política Nacional de Proteção e Defesa Civil está alinhada ao Marco de Sendai.
+
+Relação com os ODS:
+1- Erradicação da Pobreza
+11- Cidades e Comunidades Sustentáveis
+13- Ação contra a mudança global do clima
+
+Agentes Envolvidos:
+Secretaria Nacional de Proteção e Defesa Civil - Sedec; Secretaria Nacional de Segurança Hídrica SNSH; Ministério de Minas e Energia - MME; Agência Nacional de Águas e Saneamento Básico - ANA;  Instituto Brasileiro de Geografia e Estatística - IBGE; Ministério das Cidades; Centro Nacional de Monitoramento e Alertas de Desastres Naturais - CEMADEN; Sistema de Proteção da Amazônia - SIPAM; Superintendência do Desenvolvimento da Amazônia - SUDAM; Instituto Nacional de Pesquisas Espaciais - INPE.
+
+Articulação Federativa:
+Compete à União, aos Estados e aos Municípios: desenvolver cultura nacional de prevenção de desastres, destinada ao desenvolvimento da consciência nacional acerca dos riscos de desastres no País; estimular comportamentos de prevenção capazes de evitar ou minimizar a ocorrência de desastres; estimular a reorganização do setor produtivo e a reestruturação econômica das áreas atingidas por desastres; estabelecer medidas preventivas de segurança contra desastres em escolas e hospitais situados em áreas de risco; oferecer capacitação de recursos humanos para as ações de proteção e defesa civil; e fornecer dados e informações para o sistema nacional de informações e monitoramento de desastres.
+
+Enfoque Transversal:
+Participação do SINPDEC - Sistema Nacional de Proteção e Defesa Civil: formado pelos sistemas de cada ente federativo de modo a congregar todos os atores públicos, privados e a sociedade civil.
+
+Marco Legal:
+Lei n. 14.600, 19 de junho de 2023 (Estrutura PR e Órgãos)
+Lei n. 12.608, de 10 de abril de 2012;
+Lei n. 12.334, de 20 de setembro de 2010;
+Lei n. 12.340, de 1° de dezembro de 2010;
+Decreto n. 11.347, de 1º de janeiro de 2023 (Estrutura MIDR)
+Decreto n. 11.219, de 05 de outubro de 2022;
+Decreto n. 10.426, de 16 de julho de 2020;
+Decreto n. 10.593, de 24 de dezembro de 2020;
+Portaria MDR n. 3.033, de 4 de dezembro de 2020;
+Resolução CONDEC n. 2, de 12 de dezembro de 1994.
+
+Planos Nacionais, Setoriais e Regionais:
+O Plano Nacional de Proteção e Defesa Civil está em fase de elaboração. Ele irá estabelecer o conjunto de princípios, diretrizes e objetivos que norteará a estratégia de proteção e defesa civil a ser implementada pelos três níveis de governo, de forma integrada e coordenada às políticas em curso, especialmente àquelas cujo desenvolvimento impacta em ações de infraestrutura pública, saúde, educação, segurança pública, justiça, assistência social e em outras políticas setoriais que promovam a proteção e defesa civil, com vistas à promoção de um ambiente seguro, e à mitigação de riscos e prevenção de desastres.
+
+Objetivo Geral:
+- Reduzir os riscos de desastres e ampliar a capacidade e tempestividade de resposta e reconstrução pós-desastres
+
+Objetivos Específicos:
+- Ampliar Gestão de Riscos e Desastres
+- Otimizar o apoio federal nas ações de resposta e recuperação pós desastre
+
+Indicadores de Entrega:
+- Empreendimento entregue: nan 
+- Empreendimento entregue: nan 
+- Empreendimento entregue: nan 
+- Empreendimento entregue: nan 
+- Empreendimento entregue: nan 
+- Empreendimento entregue: nan 
+- Empreendimento entregue: nan 
+- Empreendimento entregue: nan 
+- Empreendimento entregue: nan 
+- Empreendimento entregue: nan 
+- Empreendimento entregue: nan 
+- Empreendimento entregue: nan 
+- Empreendimento entregue: nan 
+- Empreendimento entregue: nan 
+- Empreendimento entregue: nan 
+- Empreendimento entregue: nan 
+- Empreendimento entregue: nan 
+- Empreendimento entregue: nan 
+- Empreendimento entregue: nan 
+- Empreendimento entregue: nan 
+- Empreendimento entregue: nan 
+- Empreendimento entregue: nan 
+- Empreendimento entregue: nan 
+- Empreendimento entregue: nan 
+- Empreendimento entregue: nan 
+- Empreendimento entregue: nan 
+- Empreendimento entregue: nan 
+- Empreendimento entregue: nan 
+- Empreendimento entregue: nan 
+- Empreendimento entregue: nan 
+- Empreendimento entregue: nan 
+- Empreendimento entregue: nan 
+- Empreendimento entregue: nan 
+- Empreendimento entregue: nan 
+- Empreendimento entregue: nan 
+- Empreendimento entregue: nan 
+- Empreendimento entregue: nan 
+- Empreendimento entregue: nan 
+- Empreendimento entregue: nan 
+- Empreendimento entregue: nan 
+- Empreendimento entregue: nan 
+- Empreendimento entregue: nan 
+- Empreendimento entregue: nan 
+- Empreendimento entregue: nan 
+- Empreendimento entregue: nan 
+- Empreendimento entregue: nan 
+- Empreendimento entregue: nan 
+- Empreendimento entregue: nan 
+- Empreendimento entregue: nan 
+- Empreendimento entregue: nan 
+- Empreendimento entregue: nan 
+- Empreendimento entregue: nan 
+- Empreendimento entregue: nan 
+- Empreendimento entregue: nan 
+- Empreendimento entregue: nan 
+- Empreendimento entregue: nan 
+- Empreendimento entregue: nan 
+- Empreendimento entregue: nan 
+- Empreendimento entregue: nan 
+- Empreendimento entregue: nan 
+- Empreendimento entregue: nan 
+- Empreendimento entregue: nan 
+- Empreendimento entregue: nan 
+- Empreendimento entregue: nan 
+- Empreendimento entregue: nan 
+- Empreendimento entregue: nan 
+- Empreendimento entregue: nan 
+- Empreendimento entregue: nan 
+- Empreendimento entregue: nan 
+- Empreendimento entregue: nan 
+- Empreendimento entregue: nan 
+- Empreendimento entregue: nan 
+- Empreendimento entregue: nan 
+- Empreendimento entregue: nan 
+- Empreendimento entregue: nan 
+- Empreendimento entregue: nan 
+- Empreendimento entregue: nan 
+- Empreendimento entregue: nan 
+- Empreendimento entregue: nan 
+- Empreendimento entregue: nan 
+- Empreendimento entregue: nan 
+- Empreendimento entregue: nan 
+- Empreendimento entregue: nan 
+- Empreendimento entregue: nan 
+- Empreendimento entregue: nan 
+- Empreendimento entregue: nan 
+- Município selecionado: nan 
+- Número de Empreendimentos entregues referentes a Contenção de Encostas no subeixo Prevenção a Desastres: Contenção de Encostas e Drenagem (eixo Cidades Sustentáveis e Resilientes): A presente entrega agrega as intervenções referentes a Contenção de Encostas no subeixo Prevenção a Desastres: Contenção de Encostas e Drenagem (eixo Cidades Sustentáveis e Resilientes) do Novo PAC, anteriormente apresentadas em entregas individualizadas. 
+- Número de Empreendimentos entregues referentes a Drenagem e Manejo de Águas Pluviais Urbanas no subeixo Prevenção a Desastres: Contenção de Encostas e Drenagem (eixo Cidades Sustentáveis e Resilientes): A presente entrega agrega as intervenções referentes a Drenagem e Manejo de Águas Pluviais Urbanas no subeixo Prevenção a Desastres: Contenção de Encostas e Drenagem (eixo Cidades Sustentáveis e Resilientes) do Novo PAC, anteriormente apresentadas em entregas individualizadas. 
+- Número de entes prioritários capacitados em proteção e defesa civil:  Plano de capacitação continuada em Proteção e Defesa Civil: propõe a realização de capacitações de forma continuada para atender tanto a aspectos básicos em proteção e defesa civil quanto às demandas mais específicas, sobretudo para entes prioritários, fomentando assim o fortalecimento de uma cultura de Proteção e Defesa Civil no País. Acesso ao Plano em: https://www.gov.br/mdr/pt-br/assuntos/protecao-e-defesa-civil/capacitacoes/PlanodeCapacitaoContinuadaVersoAtualizada20220916.pdf
+É possível acessar a lista de entes prioritários pelo endereço: https://www.gov.br/mdr/pt-br/centrais-de-conteudo/publicacoes/protecao-e-defesa-civil-sedec/publicacoes 
+
+São 1972 municípios prioritários, sendo que 1078 já foram capacitados até 2024, sendo:
+Norte : 131, Nordeste: 279, Centro-Oeste: 46, Sudeste: 386, Sul: 236. 
+- Número de mapeamentos de riscos geológicos entregues: Representa o número de mapeamentos voltados para prevenção que serão disponibilizados aos representantes dos municípios contemplados. O indicador representa a quantidade  de mapas entregas. 
+- Número de municípios atendidos com Planos Municipais de Redução de Risco ou instrumento similar: Número de municípios apoiados pelo Governo Federal por meio da Ação 8865 para a elaboração de PMRR ou de instrumentos correlatos que subsidiam o planejamento urbano-ambiental das cidades em projetos de infraestrutura  
+- Número de municípios beneficiados pelo sistema de previsão: Quantifica, anualmente, o total de municípios diretamente atendidos pelos Sistemas de Alerta Hidrológico (SAH) operados pelo Serviço Geológico do Brasil (SGB/CPRM), que recebem previsões e informações hidrológicas em tempo quase real relacionadas a cheias graduais e estiagens. Esses municípios estão inseridos nas áreas de cobertura dos SAH em operação, localizados em bacias hidrográficas estratégicas para a mitigação de desastres naturais associados a eventos hidrometeorológicos extremos. Reflete a abrangência territorial da entrega de previsões hidrológicas qualificadas, destinadas a subsidiar ações de defesa civil, planejamento urbano e respostas emergenciais, contribuindo para a redução da vulnerabilidade e o aumento da resiliência das populações expostas 
+- Número de publicações científicas relacionadas a estudos hidrológicos e hidráulicos: Representa o número total de publicações científicas divulgadas anualmente pelo SGB-CPRM sobre mudanças climáticas, bacias representativas, hidrologia isotópica e sensoriamento remoto aplicado à hidrologia. 
+- Número de publicações relacionadas a estudos hidrológicos e hidráulicos: Indica o total de relatórios e publicações técnico-científicas produzidos e divulgados anualmente pelo SGB-CPRM, contendo informações sobre chuvas intensas, curvas Intensidade-Duração-Frequência (I-D-F), e regionalização de vazões máximas, médias e mínimas. Esses documentos resultam de estudos hidrológicos aplicados, com base em dados de monitoramento, e têm como objetivo apoiar o planejamento urbano, a infraestrutura hídrica e ações de prevenção a eventos hidrometeorológicos extremos, como enchentes e estiagens. 
+- Número Mapas de Manchas de Inundações realizados: Mensura, anualmente, a quantidade de mapas de manchas de inundações elaborados e publicados pelo Serviço Geológico do Brasil (SGB/CPRM), com base em estudos hidrológicos e hidráulicos aplicados. Esses mapas representam, espacialmente, as áreas afetadas por eventos de inundação, contribuindo para a gestão de riscos de desastres, o planejamento urbano e a operação dos Sistemas de Alerta Hidrológico.  
+- Percentual de recursos empenhados frente às demandas de ações de recuperação aprovadas: Devido à necessidade de pronto restabelecimento da situação de normalidade frente à ocorrência de desastres, é necessário quantificar os processos aprovados com recursos empenhados, de modo a nortear eventuais melhorias e ações positivas em direção a um atendimento tempestivo.
+ 
+- Percentual de recursos empenhados frente às demandas de ações de resposta aprovadas: Devido à necessidade de pronto reestabelecimento da situação de normalidade frente à ocorrência de desastres, é necessário quantificar os processos aprovados com recursos empenhados, de modo a nortear eventuais melhorias e ações positivas em direção a um atendimento tempestivo. 
+- Percentual de regiões com a ferramenta de alerta disponibilizada: Percentual de disponibilização da ferramenta Defesa Civil Alerta nas regiões ainda não contempladas, mediante treinamento prévio e ações de comunicação. 
+- Porcentagem de municípios inseridos no sistema de monitoramento e previsão de riscos de seca: O sistema de monitoramento e previsão de risco de seca será implementado a partir da compilação dos bancos de dados desenvolvidos para cada mesorregião do país. O sistema levará em consideração diversas variáveis, incluindo as especificidades regionais relacionadas à vulnerabilidade à seca. Dessa forma, o indicador PORS se refere à porcentagem de municípios brasileiros com resultados do monitoramento e da previsão de seca em relação ao total de municípios brasileiros.
+ 
+- Porcentagem de regiões geográficas intermediárias monitoradas: PMESO se refere à porcentagem de regiões geográficas intermediárias brasileiras (conforme definidas pelo IBGE) com resultados das previsões de risco de deslizamentos de terra em relação ao total de regiões geográficas intermediárias brasileiras. O aumento do indicador PMESO ao longo do tempo representará uma maior cobertura territorial das previsões fornecidas 
+- Progresso na Implementação do Sistema de Nowcasting: O indicador mensura o percentual de avanço do desenvolvimento do conjunto de integrado de ferramentas e ações de capacitação 
+
+O avanço percentual é estabelecido a partir do atingimento de marcos de acompanhamento definidos para o desenvolvimento do conjunto integrado de ferramentas e ações de capacitação. O valor do indicador em 100% representa o estado de "ferramentas desenvolvidas", significando que a ferramenta está operacional, com todas as suas funcionalidades disponíveis para monitoramento e envio de alertas e todos os treinamentos/capacitações previstos realizados. 
+- Taxa de atendimento das demandas de apoio emergencial pela Operação Carro Pipa: O indicador reflete o percentual de atendimento às solicitações feitas pelos entes federativos para apoio emergencial pela Operação Carro Pipa 
+- Valor alocado para seleção (R$): nan 
+
+Indicadores de Objetivos Específicos:
+- Proporção dos municípios nas faixas “Alta” e “Intermediária Avançada” do Índice de Capacidade Municipal na Gestão de Riscos e de Desastres: Considerando que o ICM reflete a capacidade dos municípios para atuar na gestão dos riscos de desastres, a partir de 20 variáveis agrupadas em três dimensões, o presente Indicador visa observar como as ações de fortalecimento efetivadas pelos diferentes níveis de governo influenciam positivamente na melhoria daqueles municípios classificados nas faixas mais baixas, considerando suas especificidades. 
+- Tempo médio ajustado entre a solicitação de recursos e a transferência de recursos para assistência humanitária: O indicador demonstra a agilidade na liberação de recursos previsto na Lei 12.340/2010 para assistência humanitária.

@@ -1,0 +1,225 @@
+passage: Programa: Comunicações para Inclusão e Transformação
+
+Descrição do Problema:
+Utilização deficiente dos serviços de comunicações.
+
+Causa do Problema:
+Reduzido alcance do sinal de rádio e TV digital público;​
+
+Falta de pluralidade de emissoras;​
+
+Infraestrutura​
+
+para suprir a demanda de usos futuros da conectividade e do ecossistema digital, será necessária a construção de redes sustentáveis, modificando backbone, backhaul e os acessos finais da rede;​
+
+o desequilíbrio na atuação regulatória entre os agentes pode gerar desincentivo a investimentos no setor de telecomunicações;​
+
+os novos usos de conectividade, tal como os serviços de telemedicina, precisarão de grande velocidade de rede para a transmissão de imagens de alta definição e a comunicação de sistemas;​
+
+para atender às necessidades de competitividade futura do agronegócio, adotando uma agricultura de precisão, e para atender aos carros autônomos, sem problemas significativos de segurança, serão necessárias grandes coberturas geográficas, incluindo locais remotos, com condições de latência baixíssimas;​
+
+a falta de disponibilidade do serviço de acesso à Internet na área do domicílio representou 16,2% dos domicílios em que não havia utilização da Internet em área rural (PNAD TIC 2021);​
+
+Infraestrutura insuficiente: se a infraestrutura de comunicação não for suficientemente robusta ou abrangente, pode haver áreas onde a conexão é ruim ou inexistente.
+
+Falta de acesso à internet em banda larga em localidades remotas;​
+
+Localidades com prestação inadequada ou inexistente do(s) serviço(s) de comunicação; ​
+
+Dificuldade de acesso aos serviços de comunicações pela população em situação de vulnerabilidade social;​
+
+Interrupção e baixa qualidade dos serviços de comunicações;​
+
+Baixa oferta de recursos de capital para ampliar a qualidade, o acesso e a competitividade do setor de comunicações;​
+
+Em virtude da constante expansão horizontal dos municípios e do desenvolvimento econômico e social da população acarretando impactos na prestação de serviços postais em algumas localidades. ​
+
+Fragilidade da segurança das comunicações;
+
+Acessibilidade​
+
+eventuais divergências entre as normas que regem a oferta de conteúdos por radiodifusão, TV por assinatura e streaming;​
+
+possíveis falhas envolvendo direitos e garantias, inovação, competição e ainda os direitos dos consumidores no ecossistema digital;​
+
+potencial acirramento nas desigualdades sociais e regionais no que se refere ao acesso e ao uso das novas tecnologias digitais;​
+
+em 2021, 7,3 milhões de domicílios do País em que não havia utilização da Internet, os três motivos que mais se destacaram representavam, em conjunto, 85,2%. Esses três motivos foram: falta de interesse em acessar a Internet (29,3%), serviço de acesso à Internet era caro (28,8%) e nenhum morador sabia usar a Internet (27,1%) (PNAD TIC 2021); e​
+
+falta de acesso: se as pessoas não têm acesso aos serviços, seja por falta de infraestrutura ou por outros fatores, isso pode levar a uma utilização deficiente desses serviços.
+
+Dispositivo adequado​
+
+38,3% dos estudantes da rede pública acessavam a Internet pelo computador em 2021 (PNAD TIC 2021);​
+
+no contingente que não tinha telefone móvel celular para uso pessoal, 28,1% alegaram que o aparelho telefônico era caro; 23,5% que não sabiam usar telefone móvel celular; 19,2% por falta de interesse em ter telefone móvel celular (PNAD TIC 2021);​
+
+Habilidades digitais​
+
+em 2021, 69,9% dos que não acessavam à internet alegaram não saber usa-la ou falta de interesse (PNAD TIC 2021);​
+
+falta de conhecimento e dificuldade de acesso aos serviços públicos digitais por parte da população;​
+
+falta de habilidades de comunicação: algumas pessoas podem não ter as habilidades necessárias para usar efetivamente os serviços digitais disponíveis, o que pode levar a uma utilização deficiente dos serviços.​
+
+Segurança e confiança​
+
+aumento da desconfiança dos usuários acerca dos serviços de telecomunicações e ferramentas deles derivadas;​
+
+problemas de segurança: se as pessoas não se sentem seguras ao usar serviços de comunicação, isso pode levar a uma utilização deficiente desses serviços.
+
+Evidências do Problema:
+A falta de disponibilidade do serviço de acesso à Internet na área do domicílio representou 16,2% dos domicílios em que não havia utilização da Internet em área rural (PNAD TIC 2021);
+
+Em 2021, 7,3 milhões de domicílios do País em que não havia utilização da Internet, os três motivos que mais se destacaram representavam, em conjunto, 85,2%. Esses três motivos foram: falta de interesse em acessar a Internet (29,3%), serviço de acesso à Internet era caro (28,8%) e nenhum morador sabia usar a Internet (27,1%) (PNAD TIC 2021);
+
+38,3% dos estudantes da rede pública acessavam a Internet pelo computador em 2021 (PNAD TIC 2021);​
+
+No contingente que não tinha telefone móvel celular para uso pessoal, 28,1% alegaram que o aparelho telefônico era caro; 23,5% que não sabiam usar telefone móvel celular; 19,2% por falta de interesse em ter telefone móvel celular (PNAD TIC 2021);
+
+Em 2021, 69,9% dos que não acessavam à internet alegaram não saber usa-la ou falta de interesse (PNAD TIC 2021);
+
+Obs: dados compilados pela Anatel.
+
+Justificativa para a Intervenção:
+A Pesquisa Nacional por Amostra de Domicílios Contínua - PNAD, realizada em 2021 pelo IBGE, levantou dados importantes sobre o acesso à Internet e à televisão nos domicílios particulares permanentes e o acesso à Internet e a posse de telefone celular para as pessoas com 10 anos ou mais.
+Os números da PNAD TIC 2021 revelam baixos índices de acesso e utilização dos serviços de comunições no país.
+A prestação dos serviços de comunicações é um desafio de implantação de infraestrutura principalmente no que diz respeito a universalização dos serviços em regiões remotas diante de um país de grandezas continentais e de alta concentração populacional.
+Embora a prestação dos serviços sejam de ordem privada, são de interesse público e constitucionalmente são de responsabilidade do Estado, devendo este agir com vistas a universalização dos serviços e também visando à qualidade.
+
+Evolução Histórica:
+Em 2015, a parcela da população coberta com rede de transporte (backhaul) óptica era de 81,33%. Em 2017 o indicador alcançou 88,1% da população,
+porém em 2018 o indicador pouco evoluiu atingindo 89%.
+Em abril de 2015, a velocidade média da banda larga fixa era de 11 Mbps. Em setembro de 2018 a velocidade alcançou 25,88 Mbps, o que representou um
+aumento de 135% em relação à linha de base.
+Em dezembro de 2015, a proporção de acessos da banda larga móvel (3G/4G) era de 70,01% dos acessos móveis pessoais em operação. Em 2018 o
+indicador avançou quatro pontos percentuais em relação ao fechamento do ano de 2017.
+Em maio de 2015, o serviço de banda larga móvel estava disponível em 71,02% dos municípios brasileiros. Em outubro de 2018, o indicador alcançou
+95,5% e, tendo em vista as obrigações de cobertura móvel com tecnologia 3G, exigidas pela Anatel, a meta deve ser totalmente cumprida ao final de 2019
+
+
+Comparações Internacionais:
+Estudo realizado pela Akamai, empresa de internet americana, apurou para o primeiro quadrimestre de 2017, a média mundial de velocidade em 7,2 Mbps
+e de 6,8 Mbps para o Brasil, para os acessos fixos, enquanto que para o acesso móvel a média brasileira foi de 5,2 Mbps.
+A densidade de banda larga fixa no Brasil encontra-se acima da média mundial (14,5%), mas ainda está distante de países desenvolvidos (31%). E, ao se
+comparar a densidade SMP nacional e internacional, e verifica-se que o Brasil tem desempenho de densidade do SMP acompanhando a média mundial.
+
+Agentes Envolvidos:
+SETEL, SECOE, TELEBRAS, ANATEL, ECT, SOF/ME, BNDES, PR.
+
+Articulação Federativa:
+Estados, DF e Municípios.
+
+Enfoque Transversal:
+ Iniciativas de apoio as demais Politicas Setoriais.
+
+Marco Legal:
+Art. 21, inc. X, da Constituição Federal de 1988.
+Lei nº 6.538, de 22 de junho de 1978
+Lei nº 9.472, de 16 de julho de 1997
+Lei nº 9.998, de 17 de agosto de 2000
+Lei nº 10.052, de 28 de novembro de 2000
+Decreto nº 9.612, de 17 de dezembro de 2018
+Decreto nº 10.610, de 27 de janeiro de 2021
+Decreto nº 10.800, de 17 de setembro de 2021
+Portaria MC nº 4.420, de 22 de setembro de 2015
+Portaria MC nº 1.455, de 8 de abril de 2016
+Portaria MC nº 2.115, de 11 de maio de 2016
+Portaria MCTIC nº 1.556, de 21 de março de 2018
+Decreto 7.769, de 28 de junho de 2012
+Decreto 9.637, de 26 de dezembro de 2018
+
+Planos Nacionais, Setoriais e Regionais:
+•	Plano Estrutural de Redes de Telecomunicações – PERT
+•	Brasil 2035 cenários para o desenvolvimento
+•	Estratégia Brasileira para a Transformação Digital (E-Digital)
+•	Plano de Banda Larga nas Escolas – PBLE
+•	Programa Amazônia Integrada Sustentável
+•	Cinturão Digital do Ceará – CDC
+•	Rede Nacional de Ensino e Pesquisa – RNP
+•	“Minas Comunica”, do Estado de Minas Gerais
+•	“Alô Sertão”, do Estado do Ceará
+
+
+Objetivo Geral:
+- Assegurar serviços de comunicações e conectividade, pela oferta inclusiva dos meios de acesso, com o desenvolvimento das habilidades digitais, dando ênfase aos grupos vulnerabilizados
+
+Objetivos Específicos:
+- Apoiar a pesquisa, o desenvolvimento e a inovação em telecomunicações.
+- Promover a inclusão digital e a conectividade significativa
+- Promover o desenvolvimento das habilidades digitais da sociedade.
+- Expandir a Digitalização da TV Aberta
+- Ampliar a segurança das comunicações de agentes do Estado pela exploração da Rede Privativa de Comunicação da Administração Pública Federal (RPCAPF), com criptografia de Estado.
+- Promover o acesso universal ao atendimento dos serviços postais básicos, viabilizando o suprimento das necessidades da sociedade.
+- Promover o acesso universal à distribuição dos serviços postais básicos, viabilizando o suprimento das necessidades da sociedade.
+- Modernizar o Parque Logístico Nacional dos Correios
+- Ampliar a capacidade de processamento dos objetos nacionais e internacionais, com instalação de novos Centros operacionais (Construções)
+
+Indicadores de Entrega:
+- Aluno capacitado: O Programa Computadores para Inclusão objetiva apoiar e viabilizar iniciativas de promoção da inclusão digital por meio dos Centros de 
+Recondicionamento de Computadores (CRC), com a formação profissionalizante no uso das TIC – Tecnologias de Informação e Comunicação. 
+- Backhaul implantado: nan 
+- Cidades Atendidas: Implantação de novas redes de dados no Nordeste 
+- Escolas conectadas: Razão percentual entre a quantidade de escolas públicas da educação básica ativas, com velocidade de download adequada e rede Wi-Fi, e a quantidade total de escolas públicas da educação básica ativas, segundo as fontes elencadas no campo "Fonte de Dados das Variáveis de Cálculo" e os parâmetros de velocidade de download adequada descritos no campo "Notas Explicativas".
+ 
+- Infovia implantada: Implantação de cabo de fibra óptica subaquático, no leito do rio Amazonas, ligando Macapá/AP a Belém/PA, e de redes locais nas sedes dos municípios conectados pelo cabo 
+- Infovia implantada: Implantação de cabo de fibra óptica subaquático, no leito do rio Madeira, ligando Porto Velho/RO a Autazes/AM, e de redes locais nas sedes dos municípios conectados pelo cabo 
+- Infovia implantada: Implantação de cabo de fibra óptica subaquático, no leito do rio Amazonas, ligando Santarém/PA a Manaus/AM, e de redes metropolitanas nas sedes dos municípios conectados pelo cabo. 
+- Infovia implantada: Implantação de cabo de fibra óptica subaquático, no leito do rio Juruá, ligando Uarini/AM a Cruzeiro do Sul/AC, e de redes locais nas sedes dos municípios conectados pelo cabo
+ 
+- Infovia implantada: Implantação de cabo de fibra óptica subaquático, no leito do rio Purus, ligando Manacapuru/AM a Rio Branco/AC, e de redes locais nas sedes dos municípios conectados pelo cabo 
+- Infovia implantada: Implantação de cabo de fibra óptica subaquático, no leito do rio Amazonas, ligando Tefé/AM a Tabatinga/AM, e de redes locais nas sedes dos municípios conectados pelo cabo. 
+- Infovia implantada: nan 
+- Infovia implantada: Implantação de cabo de fibra óptica subaquático, no leito do Rio Branco, ligando Vila de Moura/AM a Boa Vista/RR, e de redes locais nas sedes dos municípios conectados pelo cabo 
+- Localidades conectadas: nan 
+- Localidades conectadas: nan 
+- Municípios conectados: nan 
+- Municípios contemplados pelo programa com infraestrutura de TV Digital implantada: Número de municípios com baixo índice de digitalização dos canais analógicos ou com baixo número de canais digitais, que receberam a infraestrutura para transmissão de sinais digitais de TV aberta no âmbito do programa. 
+- Percentual da população com cobertura 5G ou superior: Fechar a lacuna digital, garantindo cobertura plena em tecnologia 5G, proxy de padrão de qualidade exigido. 
+- Percentual de centros operacionais e administrativos construídos e entregues para o período de 2024 a 2027 para os Estados previstos: Ampliação da capacidade produtiva logística dos Correios com a construção de 1 (um) Complexo Operacional / Administrativo. 
+- Percentual de centros operacionais e administrativos contratados e construídos e entregues para o período de 2024 a 2027 nos Estados previstos: Ampliação da capacidade produtiva logística dos Correios com a construção de 1 (um) Centro de Tratamento de Encomendas. 
+- Percentual de centros operacionais e administrativos contratados e construídos e entregues para o período de 2024 a 2027 nos Estados previstos: Ampliação da capacidade produtiva logística dos Correios com a construção de 1 (um) Centro de Tratamento de Cartas e Encomendas. 
+- Percentual de centros operacionais e administrativos contratados e construídos e entregues para o período de 2024 a 2027 nos Estados previstos: Ampliação da capacidade produtiva logística dos Correios com a construção de 1 (um) Centro de Logística Integrada.
+ 
+- Percentual de centros operacionais e administrativos contratados e construídos e entregues para o período de 2024 a 2027 nos Estados previstos: Ampliação da capacidade produtiva logística dos Correios com a construção de 1 (um) Centro de Tratamento de Encomendas. 
+- Percentual de conclusão da Rede Fixa Segura de Estado: Percentual de conclusão da Rede Fixa, habilitada para implementação do Serviço de Comunicação Segura de Estado, em operação pela Telebras.
+ 
+- Percentual de conclusão da Rede Móvel Segura de Estado: Percentual de conclusão da Rede Móvel, habilitada para implementação do Serviço de Comunicação Segura de Estado, em operação pela Telebras. 
+- Percentual de distritos brasileiros com população igual ou superior a 500 habitantes contemplados com a distribuição postal dentre os previstos para implantação no período de 2024 a 2027: Implantar a distribuição postal nos distritos brasileiros ainda não alcançados com população igual ou superior a 500 habitantes, de 2024 a 2027, visando atingir os 100% de distritos previstos. 
+- Percentual de execução física do projeto: Percentual de execução física do projeto. 
+- Percentual de posições de atendimento postal implantadas dentre as previstas para implantação no período de 2024 a 2027: Implantar as posições de atendimento necessárias, por meio dos diversos canais disponíveis, de 2024 a 2027, visando atingir os 100% das posições previstas. 
+- Percentual de Sistemas de Triagem Automatizada Contratados e Instalados previstos para implantação no período de 2024 a 2027 em Bauru ou Ribeirão Preto/SP: Atualizar tecnologicamente e ampliar a capacidade produtiva do parque de máquinas de triagem automatizada nos Centros de Tratamento dos Correios (em Bauru ou Ribeirão Preto/SP). 
+- Percentual de Sistemas de Triagem Automatizada Contratados e Instalados previstos para implantação no período de 2024 a 2027 em Contagem/MG: Atualizar tecnologicamente e ampliar a capacidade produtiva do parque de máquinas de triagem automatizada nos Centros de Tratamento dos Correios na respectiva cidade. 
+- Percentual de Sistemas de Triagem Automatizada Contratados e Instalados previstos para implantação no período de 2024 a 2027 em Cuiabá/MT: Atualizar tecnologicamente e ampliar a capacidade produtiva do parque de máquinas de triagem automatizada nos Centros de Tratamento dos Correios na respectiva cidade. 
+- Percentual de Sistemas de Triagem Automatizada Contratados e Instalados previstos para implantação no período de 2024 a 2027 em Goiânia/GO: Atualizar tecnologicamente e ampliar a capacidade produtiva do parque de máquinas de triagem automatizada nos Centros de Tratamento dos Correios na respectiva cidade. 
+- Percentual de Sistemas de Triagem Automatizada Contratados e Instalados previstos para implantação no período de 2024 a 2027 em Guarulhos/SP: Atualizar tecnologicamente e ampliar a capacidade produtiva do parque de máquinas de triagem automatizada nos Centros de Tratamento dos Correios na respectiva cidade. 
+- Percentual de Sistemas de Triagem Automatizada Contratados e Instalados previstos para implantação no período de 2024 a 2027 em Jaboatão dos Guararapes/PE: Atualizar tecnologicamente e ampliar a capacidade produtiva do parque de máquinas de triagem automatizada nos Centros de Tratamento dos Correios na respectiva cidade. 
+- Percentual de Sistemas de Triagem Automatizada Contratados e Instalados previstos para implantação no período de 2024 a 2027 em Pinhais/PR: Atualizar tecnologicamente e ampliar a capacidade produtiva do parque de máquinas de triagem automatizada nos Centros de Tratamento dos Correios na respectiva cidade. 
+- Percentual de Sistemas de Triagem Automatizada Contratados e Instalados previstos para implantação no período de 2024 a 2027 em Salvador/BA: Atualizar tecnologicamente e ampliar a capacidade produtiva do parque de máquinas de triagem automatizada nos Centros de Tratamento dos Correios na respectiva cidade. 
+- Percentual de Sistemas de Triagem Automatizada Contratados e Instalados previstos para implantação no período de 2024 a 2027 em Santo Amaro ou ABC/SP: Atualizar tecnologicamente e ampliar a capacidade produtiva do parque de máquinas de triagem automatizada nos Centros de Tratamento dos Correios na respectiva cidade. 
+- Percentual de Sistemas de Triagem Automatizada Contratados e Instalados previstos para implantação no período de 2024 a 2027 em Valinhos ou São José do Rio Preto/SP: Atualizar tecnologicamente e ampliar a capacidade produtiva do parque de máquinas de triagem automatizada nos Centros de Tratamento dos Correios na respectiva cidade. 
+- Quantidade de infovias concluídas: Percentual de evolução na implantação das Infovias. 
+- Quantidade de projetos de pesquisa, desenvolvimento e inovação em telecomunicações contratados: Somatório da quantidade de projetos de pesquisa, desenvolvimento e inovação em telecomunicações contratados no ano de referência 
+- Total de municípios com backhaul de fibra óptica: Municípios conectados com rede de fibra óptica de alta capacidade. 
+- Trechos conectados: nan 
+- Unidades de saúde conectadas: Quantidade de Unidades de Saúde conectadas à Internet como resultado do Programa “Conectividade Significativa na Saúde”, com velocidades de download entre 100 e 200 Mbps. A quantidade de conexões será apurada a partir dos registros administrativos do Programa
+ 
+
+Indicadores de Objetivos Específicos:
+- Número de novos canais digitais de TV autorizados: Número de novos canais digitais de TV autorizados, decorrentes de consignações da União, processos seletivos de TVD Educativa, licitação de TVD comercial e chamamentos de RTVD. 
+ 
+- Número de pedidos de registro de propriedade intelectual no ano de referência: O indicador considera a quantidade de pedidos de registro de propriedade intelectual, no Brasil ou no exterior, resultantes dos programas, projetos e atividades apoiados pelo Funttel. Nesse sentido, o indicador compreende tanto os projetos de pesquisa, desenvolvimento e inovação apoiados com recursos não-reembolsáveis, mas também os projetos financiados pelo Funttel por meio dos agentes financeiros (BNDES e Finep). São considerados pedidos de registro de propriedade intelectual os pedidos de registro de patentes, de software, de modelos de utilidade, de desenhos industriais, de segredos industriais, marcas, topografias de circuitos integrados e licenças free open source software. 
+- Número de pessoas capacitadas em cursos de TICs: O Programa Computadores para Inclusão objetiva apoiar e viabilizar iniciativas de promoção da inclusão digital por meio dos Centros de 
+Recondicionamento de Computadores (CRC), com a formação profissionalizante no uso das TIC – Tecnologias de Informação e Comunicação. 
+- Percentual de conclusão da RPCAPF: Percentual de conclusão da RPCAPF e em operação pela Telebras. 
+- Percentual de distritos com população igual ou superior a 500 habitantes atendidos com distribuição postal: Implantação da distribuição postal nos distritos brasileiros com população acima de 500 habitantes ainda não contemplados com o serviço. 
+- Percentual de infraestrutura disponibilizada por meio da construção de novos centros operacionais no DF, MA e PR (Tratamento de Cartas/Encomendas), MG (Logística Integrada) e CE (Complexo Operacional): Percentual de infraestrutura disponibilizada por meio da construção de 3 (três) centros de tratamento de cartas e encomendas nos Estados do DF, MA e PR; 1 (um) Centro de Logística Integrada no Estado de MG e 1 (um) Complexo Operacional/ Administrativo no Estado do CE.  
+- Percentual de modernização/implantação de 58 novos sistemas de triagem automatizada nos Centros de Tratamento: Brasília (4), Aracaju (2), Bauru (3), Campo Grande (2), Caxias do Sul (2), Contagem (1), Cuiabá (2), Fortaleza (2), Goiania (4), Guarulhos (1), Jaboatão dos Guararapes (1), João Pessoa (2), Joinville (2), Macéio (2), Manaus (2), Natal (2), Passo Fundo (2), Pinhais (1), Ribeirão Preto (3), Salvador (1), Santa Maria (2), Santo Amaro (4), Santo André (2), São José dos Campos (2), São Luís (2), Teresina (2), Vitória (2), Rio de Janeiro (1): Atualizar tecnologicamente e ampliar a capacidade produtiva do parque de máquinas de triagem automatizada nos Centros de Tratamento dos Correios 
+- Percentual de pessoas de 10 anos ou mais que são usuárias da Internet: Uma das formas de o Governo Federal avaliar a evolução de políticas públicas direcionadas ao aumento do acesso à internet por parte dos brasileiros é por meio da divulgação dos resultados da Pesquisa Nacional por Amostra de Domicílios Contínua - PNAD Contínua, especificamente seu módulo temático sobre Tecnologia da Informação e Comunicação - TIC, realizada pelo IBGE. A pesquisa investiga, entre outros pontos, o acesso à Internet entre as pessoas de 10 anos ou mais de idade.
+
+O relatório com os principais achados da pesquisa pode ser acessado por meio do link: https://agenciadenoticias.ibge.gov.br/media/com_mediaibge/arquivos/f070dbf1d5a8e94ff1d37b7b516e0eb5.pdf
+
+Já a tabela com os resultados encontrados pela pesquisa podem ser acessada pela plataforma Sidra no link: https://sidra.ibge.gov.br/Tabela/6793.
+
+Importante ressaltar que os resultados apresentados em um determinado ano referem-se ao ano anterior. Por exemplo, os links acima mencionados, divulgados em 2024, referem-se ao ano de 2023. Por consequencia, os dados a serem preenchidos no SIOP referentes a 2024 só serão conhecidos no segundo semestre de 2025 
+- Percentual de posições necessárias de atendimento postal disponíveis à população brasileira: Disponibilizar, por meio dos diversos canais disponíveis, todas as posições de atendimento previstas, conforme Portaria MCOM 2729/2021, de 2024 a 2027.

@@ -1,0 +1,108 @@
+passage: Programa: Política Nuclear
+
+Descrição do Problema:
+Insuficiência de infraestrutura, recursos humanos especializados e instrumentos normativos para atender as demandas por tecnologias e aplicações na área nuclear, assim como registra-se baixo aproveitamento do potencial nuclear, resultando em oferta insuficiente de produtos e serviços derivados da tecnologia nuclear.
+
+Causa do Problema:
+  Destacam-se como as principais causas de problema central:
+•	A redução crítica no quadro técnico especializado na área nuclear e insuficiência de recursos humanos. 
+•	Insuficiência e inadequação de instrumentos normativos para tecnologias nucleares específicas e inadequação de marco regulatório 
+•	Insuficiência de ações de coordenação do Sistema de Proteção ao Programa Nuclear Brasileiro (Sipron) 
+•	Baixo conhecimento dos recursos nucleares do território nacional e descontinuidade do mapeamento. 
+•	Dependência externa de insumos radioativos. 
+•	Oferta insuficiente de serviços de medicina nuclear para atender a população. 
+•	Infraestrutura de pesquisa insuficiente para o desenvolvimento de tecnologia estratégica na área nuclear. 
+•	Infraestrutura de produção insuficiente para atender as demandas da área nuclear. 
+•	Desconhecimento dos benefícios do setor nuclear pela sociedade e baixo conhecimento sobre a atividade nuclear. 
+
+Evidências do Problema:
+Existe uma evidente insuficiência de infraestrutura, recursos humanos especializados e instrumentos normativos para atender as demandas por tecnologias e aplicações na área nuclear.
+Neste sentido, o problema se materializa com a crescente a falta de investimento em infraestrutura básica e tecnológica para produção, pesquisa, proteção radiológica, licenciamento e fiscalização na área nuclear. Soma-se a isso, o envelhecimento da força de trabalho do setor que, no caso da CNEN, apresenta 50% dos servidores em condições de se aposentar.  Este problema vem se agravando dado a impossibilidade de efetivar um planejamento para a reposição de quadros já reduzidos. 
+
+Justificativa para a Intervenção:
+Em todo o mundo apenas doze países dominam a tecnologia do ciclo de combustível nuclear, incluindo o Brasil. Entre esses países apenas três dispõem de reservas de uranio para exploração comercial, o Brasil entre eles. Dentro desse cenário, o Brasil teria todas as condições para exercer um papel de destaque na cadeia produtiva internacional, de alto valor agregado, no âmbito do setor nuclear, além de garantir sua autonomia em escala industrial.
+
+A intervenção com o Programa específico se justifica visto que as principais deficiências da área nuclear no Brasil devem ser solucionadas por intermédio de uma ação de Governo a fim de proporcionar condições para expansão  das atividades do setor no país , fomentando a participação da iniciativa privada e a inserção  do País  nos mercados internacionais, tornando-o atrativo para novos investimentos com a garantia da segurança quanto à utilização da energia nuclear para o bem-estar da sociedade.
+
+Evolução Histórica:
+O programa nuclear brasileiro teve início na década de 50, com a criação da CNEN, com o objetivo de desenvolver no país as competências tecnológicas voltadas para utilização da energia nuclear em seus vários campos de aplicação.
+Na década de 70 o Brasil deu início a um programa nuclear destinado a explorar o potencial uranífero existente no território nacional, preservando suas reservas estratégicas, a partir do desenvolvimento e implantação de todo ciclo de combustível nuclear juntamente com a introdução de centrais núcleo-elétricas em sua matriz energética.  
+Apesar do impulso inicial proporcionado pelo programa as usinas termonucleares são responsáveis por menos de 3% da produção de energia consumida no país. Por outro lado, existe um grande potencial para ampliar essa participação, uma vez que o Brasil é detentor da sexta maior reserva de urânio do planeta, além de dominar o processo de enriquecimento de urânio e de fabricação de elementos combustíveis para usinas nucleares.
+Além disso, o país investiu no desenvolvimento de capacitação própria para promover o uso das radiações ionizantes dos mais diversos campos de aplicação, tais como: medicina, agricultura, meio ambiente, indústria alimentícia e outras aplicações industriais.
+Entretanto, constata-se que esse investimento não foi suficiente para atender a crescente demanda da sociedade por produtos e serviços proporcionados pela tecnologia nuclear.
+
+Essa situação vem sendo reportada no âmbito dos sucessivos ciclos de planejamento do governo federal, por intermédio do PPA, sem, no entanto, atingir o nível de intervenção necessário para o atendimento da sociedade.
+
+Comparações Internacionais:
+A título de exemplificação, pode-se destacar a situação referente a área médica. Nesse campo, o Brasil está muito aquém de outros países em desenvolvimento como por exemplo a Argentina, que proporciona um atendimento à sua população em torno de 4   vezes maior do que ocorre no Brasil.
+Em termos de pesquisa e desenvolvimento o Brasil está entre os primeiros colocados no que se refere à produção científica, medida pelo número artigos indexados em publicações internacionais. No entanto, em termos de produção tecnológica, ocupamos as últimas posições no ranking mundial.
+
+Quanto a área de segurança nuclear observa-se, em vários países a existência de uma autoridade regulatória independente, tais como: Estados Unidos, França, Finlândia, Espanha, Argentina e Paraguai, o que não ocorre no Brasil. Esses órgãos são responsáveis pela regulamentação e pelo licenciamento e fiscalização das atividades nucleares. Essas instituições, não realizam atividades nucleares operacionais e não são responsáveis pela formulação da política nuclear de seus países, conforme preconizado pela Convenção de Segurança Nuclear, da qual o Brasil é signatário. 
+
+Relação com os ODS:
+Com relação aos Objetivos de Desenvolvimento Sustentável, segundo a Agência Internacional de Energia Atômica-AIEA o setor nuclear contribui diretamente para nove entre os dezessete   ODS formulados, a saber:
+ODS 02 - Fome zero e agricultura sustentável: acabar com a fome, alcançar a segurança alimentar e melhoria da nutrição e promover a agricultura sustentável.
+ODS 03 - Saúde e bem-estar: assegurar uma vida saudável e promover o bem-estar para todos, em todas as idades.
+ODS 06 – Assegurar a disponibilidade e gestão sustentável de água e saneamento para todas e todos.
+ODS 07 - Energia limpa e acessível: garantir acesso à energia barata, confiável, sustentável e renovável para todos.
+ODS 09 - Inovação infraestrutura: construir infraestrutura resiliente, promover a industrialização inclusiva e sustentável, e fomentar a inovação.
+ODS 13 – Tomar medidas urgentes para combater a mudança climática e seus impactos.
+ODS14 – Conservação e uso sustentável dos oceanos, dos mares e dos recursos marinhos para o desenvolvimento sustentável 
+ODS15- Proteger, recuperar e promover o uso sustentável dos ecossistemas terrestres, gerir de forma sustentável as florestas, combater a desertificação, deter e reverter a degradação da terra e deter a perda de biodiversidade.  
+ODS17- Fortalecer os meios de implementação e revitalizar a parceria global para o desenvolvimento sustentável.
+
+Agentes Envolvidos:
+  Mistério da Ciência, Tecnologia e Inovação, Comissão Nacional de Energia Nuclear-CNEN, Autoridade Nacional de Segurança Nuclera - ANSN; Empresa de Pesquisa Energética-EPE, Companhia de Pesquisa e Recursos Minerais-CPRM, Gabinete de Segurança Institucional-.GSI, Ministério de Minas e Energia-MME, Industria Nucleares do Brasil-INB, Ministério da Saúde-MS, Ministério da Economia-ME, Nuclebrás Equipamentos Pesados-NUCLEP, Secretaria de Orçamento Federal-SOF. 
+
+Articulação Federativa:
+Não há
+
+Enfoque Transversal:
+Agenda Transversal:
+6) Verde.
+
+Marco Legal:
+ Comissão Nacional de Energia Nuclear - CNEN, autarquia federal, criada pela Lei nº 4.118/62, de 27 de agosto de 1962, vinculada ao Ministério da Ciência, Tecnologia, Inovações e Comunicações, com autonomia administrativa e financeira, dotada de personalidade jurídica de direito público, com sede e foro na cidade do Rio de Janeiro, tem como competências, de acordo com as Leis nos6.189/74, de 16 de dezembro de 1974, e 7.781/89, de 27 de junho de 1989: colaborar na formulação da Política Nacional de Energia Nuclear; executar as ações de pesquisa, desenvolvimento e promoção da utilização da energia nuclear para fins pacíficos; formar recursos humanos para o setor nuclear; efetuar o gerenciamento dos rejeitos radioativos; realizar ações de radioproteção; produzir radioisótopos; disponibilizar produtos e serviços; e, regular, licenciar, autorizar, controlar e fiscalizar todas as atividades nucleares. 
+
+Planos Nacionais, Setoriais e Regionais:
+Estrategia Nacional de Ciência, Tecnologia e Inovação (ENCTI) - 2023-2030.
+
+Objetivo Geral:
+- Promover o desenvolvimento da tecnologia nuclear e suas aplicações para ampliar a capacidade de oferta de produtos e serviços, para atender a demanda e os benefícios dos usos pacíficos da energia nuclear e das radiações ionizantes, de forma segura e sustentada.
+
+Objetivos Específicos:
+- Desenvolver a ciência e a tecnologia nucleares e suas aplicações de forma segura, para atender aos diversos usos pela sociedade
+- Produzir e fornecer radiofármacos e radioisótopos para atendimento à sociedade
+- Ampliar a formação especializada de recursos humanos para o setor nuclear
+- Garantir a proteção radiológica das instalações radiativas e nucleares, a segurança física e nuclear e o controle de materiais nucleares
+- Expandir, implantar e operar o ciclo completo para produção do combustível nuclear em escala capaz de atender a demanda dos reatores nucleares brasileiros e ampliar as oportunidades para exportação de insumos e serviços
+- Ampliar a produção de equipamentos pesados para as indústrias nuclear e de alta tecnologia, aumentando a capacidade nacional no setor
+- Fortalecer as atividades proteção radiológica, gerenciamento de rejeitos e gestão ambiental e resposta a situações de emergência
+
+Indicadores de Entrega:
+- Capacidade de Produção de EC (Elementos Combustíveis): Mede a Capacidade de Produção de Elementos Combústiveis , na Fábrica de Elementos Combustíveis da INB, localizada em Resende - RJ, destinados a atender a demanda das Usinas Nucleares em operação no país.
+ 
+- Capacidade Operacional Efetiva de produção de U3O8: Mede a Capacidade de Produção do Concentrado de Urânio (U308) em toneladas, na Unidade de Concentração de Urânio da INB em Caetité - BA. 
+- Capacidade Operacional Efetiva em Kg UF6: Mede a Capacidade de Produção de Urânio Enriquecido, em Kg UF6 (Hexafluoreto de Urânio ), na Usina de Enriquecimento de Urânio da INB, localizada em Resende - RJ 
+- Indicador de produção fabril: Quantidade produzida no ano. 
+- Número de alunos de pós-graduação (lato e scricto sensu) formados nos cursos da CNEN: (1) Mede a quantidade total de alunos (Mestrado e Doutorado) que terminam seu trabalho acadêmico (defesa de monografia de Mestrado e Tese de Doutorado) nos programas de Pós-Graduação (Área de Tecnologia Nuclear, Engenharia Nuclear e de Aplicações das Radiações Ionizantes) nas UTCs vinculadas à DPD/CNEN ; (2) Não estão incluidos os alunos formados pelas universidades externas à CNEN, e que podem ter recebido, ou não, bolsas de estudo da CNEN. 
+- Número de artigos da CNEN publicados, no ano, em revistas indexadas na base de dados Web of Science: Mede o número de artigos da CNEN publicados, no ano, em revistas indexadas na base de dados Web of Science. 
+- Número de atividade (mCi) gerada pela CNEN na produção de radiofármacos no ano: Mede o número de atividade (mCi) gerada pela CNEN na produção de radiofármacos no ano 
+- Número de atividade (mCi) gerada pela CNEN na produção de radiofármacos no ano: Mede o número de atividade (mCi) gerada pela CNEN na produção de radiofármacos no ano 
+- Número de bolsas concedidas no por ano pela CNEN: Mede a quantidade total de bolsas (Iniciação Científica. Mestrado, Doutorado e Pós-Doutorado) que são ofertadas através da Ação 2B32 para os Programas de Ensino e Pós-Graduação das UTCs da DPD/CNEN e para as universidades externas à CNEN  
+- Número de instalações com material nuclear controlado: Número de instalações com material nuclear controlado 
+- Número de instalações radiativas e nucleares controladas: Identifica a quantidade total de instalações radiativas e nucleares controladas pela CNEN 
+- Número de Itens tecnológicos desenvolvidos: Mede o número de Itens tecnológicos desenvolvidos (patentes, programas de computador, know-how e outros ativos de propriedade intelectual) 
+- Número de Radioisótopos e Radiofármacos que fazem parte do Portfólio da CNEN: Mede a diversificação de produtos ofertados pela CNEN.  
+- Percentual de avanço do projeto: Percentual de avanço do projeto 
+- Percentual de Avanço do Projeto: Percentual de avanço do projeto de Instalação do Projeto LFN. 
+- Percentual de Avanço do Projeto: Percentual de avanço do projeto. 
+- Percentual de Instalações Radiativas e Nucleares Existentes na CNEN Licenciadas: Indica o percentual de instalações radiativas e nucleares existentes na CNEN controladas, por meio do resultado entre o número de instalações licenciadas sobre o total das existentes. 
+
+Indicadores de Objetivos Específicos:
+- Indicador de produção fabril: Percentual dos produtos em fabricação no ano.  
+- Número de Profissionais Formados: Mede o número de profissionais formados nos cursos de pós-graduação em UTCs da CNEN (com ou sem bolsa de estudo de qualquer origem, inclusive da CNEN) e os alunos formados em outras instituições superior com bolsas de estudo concedidas pela CNEN. 
+- Percentual de instalações controladas: Mede  o percentual de instalações radiativas e nucleares controladas, por meio de análise documental e fiscalizações/inspeções. 
+- Produção de Itens tecnológicos desenvolvidos para a Área Nuclear e Afins: Mede o número de Itens tecnológicos desenvolvidos (patentes, programas de computador, know-how e outros ativos de propriedade intelectual) 
+- Produção de Radioisótopos e Radiofármacos Fornecida aos Centros de Medicina Nuclear no país: Mede a quantidade de atividade gerada na produção de radioisótopos e radiofármacos fornecidos aos centros de medicina nuclear, medida em mCi/. 
+- Taxa de Nacionalização do Ciclo de Combustível Nuclear: O indicador é apurado a partir da relação entre a capacidade de produção nacional de insumos e processos frente o total demandado pelo ciclo de produção do combustível nuclear no país.

@@ -1,0 +1,188 @@
+passage: Programa: Mineração Segura e Sustentável
+
+Descrição do Problema:
+Os problemas fundamentais envolvem:
+(1) Entraves que prejudicam o fluxo de investimentos para setor, considerados estratégicos para a economia, para a transição energética e para a segurança alimentar; e
+(2) Riscos socioambientais quando a mineração se realiza sem as devidas salvaguardas.
+
+Causa do Problema:
+Os problemas estão associados principalmente a:
+
+•	Modelo de gestão pública do patrimônio mineral brasileiro insuficiente;
+•	Gestão de títulos minerários e na fiscalização das operaçõe deficientes;
+•	Baixa previsibilidade em relação ao tempo de outorga e exigências relacionadas;
+•	Baixa integração entre o planejamento do setor mineral e dos setores de infraestrutura;
+•	Geração e disponibilização de conhecimento geocientífico do território nacional insuficiente; 
+•	Ações de pesquisa, desenvolvimento e inovação no setor mineral insuficientes;
+•	Arcabouço institucional e normativo insuficientes para assegurar o adequado fechamento de minas;
+•	Estruturas de mineração com classificação de risco acima do desejável, gerando insegurança nas comunidades que habitam seu entorno;
+•	Atuação insuficiente para a internalização das políticas no desenvolvimento sustentável e eficiente da mineração
+
+
+Evidências do Problema:
+•	Percepção social negativa acerca da atividade e desconhecimento dos seus benefícios e importância socioeconômica;
+•	Atividades ilegais de mineração, em áreas proibitivas para a atividade, como terras indígenas e determinadas unidades de conservação;
+•	Alto nível de informalidade no segmento da mineração artesanal e de pequena escala;
+•	Nível de desenvolvimento socioeconômico de alguns municípios mineradores aquém do desejável, considerado a distribuição de royalties da atividade;
+•	Atratividade ao investimento em pesquisa mineral aquém do desejável, considerando a extensão territorial, a diversidade geológica e o potencial para recursos minerais do país;
+•	Investimentos em pesquisa de minerais estratégicos aplicados na produção de baterias, veículos elétricos e outros elementos da transição energética aquém do desejável;
+•	Elevada dependência externa de insumos minerais para a segurança alimentar (insumos para fertilizantes e remineralizadores de solo;
+•	Perda de competitividade em relação a outros países mineradores;
+•	Nível de conhecimento geológico do território nacional aquém do desejável para a atratividade aos investimentos.
+
+
+Justificativa para a Intervenção:
+A gestão do patrimônio mineral é atividade exclusiva de Estado, cabendo aos governos atuarem em prol do melhor aproveitamento desses recursos, convertendo-os em geração de riquezas e benefícios para a sociedade brasileira. Trata-se, portanto, de criar condições de atratividade aos investimentos no setor, promovendo a pesquisa e a produção mineral no território nacional, e ao mesmo tempo assegurar que a mineração observe as melhores práticas em suas operações e somente se realize com as devidas salvaguardas socioambientais. No contexto da transição global para uma economia de baixo carbono, é fundamental atrair investimentos e viabilizar e implantação de projetos responsáveis para o aproveitamento de minerais com aplicação em tecnologias de produção de energias renováveis e limpas. A disponibilidade desses insumos é condição sine qua non para que a transição energética se efetive, em uma escala global. O Brasil possui importantes reservas desses recursos e potencial para expandi-las e poderá ocupar um papel de destaque nesse cenário. Importante, ainda, é atrair investimentos para a ampliação de reservas e abertura de projetos de insumos minerais para a segurança alimentar, reduzindo a dependência externa de minerais como potássio e fosfato, e ampliando o uso de remineralizadores corretivos de solo, beneficiando a agricultura brasileira.
+
+Evolução Histórica:
+Nos últimos 10 anos, o setor mineral nacional passou por diferentes momentos, sendo as mais marcantes: i) o boom de commodities, especialmente entre 2011 e 2012, período em que a produção mineral brasileira atingiu recordes históricos; ii) o período da revisão regulatória, entre 2013 e 2017 que, somado à recessão econômica atravessada pelo país em 2015/2016, foi marcado por uma queda no desempenho no setor; e iii) a retomada da atividade, a partir de 2017, atribuída à melhora da situação econômica brasileira, à crescente demanda internacional por bens minerais e a um ambiente setorial mais amigável, com avanços regulatórios significativos, como a criação da Agência Nacional de Mineração (ANM). O ritmo dessa retomada de crescimento do setor mineral, entretanto, foi momentaneamente interrompido pela pandemia de Covid-19, que afetou significativamente a economia brasileira e mundial a partir de março de 2020. Entretanto, ao contrário da maioria dos setores da economia nacional, o efeito negativo sobre o setor foi de curta duração e movimento de recuperação da indústria mineral brasileira não demorou a se manifestar. Já a partir do segundo semestre de 2020 registrou-se uma notável reversão no movimento de queda, devido a (i) à rápida recuperação dos preços dos principais bens minerais, entre eles o minério de ferro; (ii) à desvalorização cambial; e (iii) sinalização de retomada econômica internacional, especialmente pelo retorno da atividade econômica chinesa. Outro fator que contribuiu para a manutenção das atividades do setor mineral durante a pandemia foi sua inclusão, na legislação brasileira, entre as atividades econômicas consideradas essenciais. Nos últimos cinco anos, o setor mineral tem mantido sua participação na economia nacional, sendo responsável por cerca de 3% do PIB do país, de acordo com dados do IBGE. No mercado de trabalho, o setor foi responsável por aproximadamente 830 mil empregos diretos em 2021, o equivalente a 10,5% dos empregos da indústria, considerando os dados do Ministério do Trabalho e Emprego. Em termos de comércio internacional, a participação de produtos de origem mineral, bens primários e transformados (exceto petróleo e gás natural) nas exportações nacionais alcançou a média de 20% do valor total, no período 1994 a 2008. Nesse mesmo período, o saldo da balança comercial do setor passou de US$1 bilhão para US$17 bilhões. Entre 2010 e 2020, a participação do setor mineral nas exportações brasileiras teve uma pequena elevação, representando, em média, 23,2% do total. No período, o saldo da balança comercial do setor mineral passou para o patamar médio de US$24 bilhões. Apesar da importância do setor para a economia nacional, seu desenvolvimento esbarra em entraves que impedem um avanço compatível com o potencial do país em termos de recursos minerais. Exemplo disso está no fato de que países mineradores com características geológicas e potencial mineral semelhantes têm se mostrado mais atrativos aos investimentos em pesquisa e produção mineral. Dados de associações do setor apontam que do total de dispêndios globais em pesquisa mineral o Brasil tem recebido historicamente de 2 a 3% desses recursos anualmente, atrás de países como Canadá, Austrália, Peru e Chile, entre outros. Um baixo nível de investimento em pesquisa mineral resulta em redução das reservas nacionais, com impacto negativo no desenvolvimento de novos projetos, na geração de emprego e renda, no comércio internacional e na arrecadação de receitas.
+
+Comparações Internacionais:
+Em nível global, embora o Brasil possua extenso território, ampla diversidade geológica e notável potencial mineral, o nível de investimentos em pesquisa mineral é considerado baixo quando comparado a países com características semelhantes, como Canadá e Austrália. Segundo dados de associações do setor, dos recursos privados dispendidos em pesquisa mineral no mundo, o Brasil tem recebido historicamente, a cada ano, de 2 a 3% do total. O Canadá, por sua vez, tem recebido nos últimos anos cerca de 20% desses recursos. Países da América Latina, como Peru e Chile, também estão à frente do Brasil. Para que se tenha ideia da importância da questão, a pesquisa mineral é etapa fundamental para o desenvolvimento do setor mineral de um país, na medida em que é a atividade que possibilita a descoberta de novas jazidas, que no futuro se converterão em minas. Portanto, é fundamental ampliar a atratividade do setor mineral brasileiro aos investimentos privados. Aperfeiçoar a governança e a gestão do patrimônio mineral nacional, promover a estabilidade regulatória e a segurança jurídica, conferir um ambiente de previsibilidade ao investidor, aumentar o nível de conhecimento geológico do território, estimular a criação de mecanismos de financiamento, promover a pesquisa e a inovação e assegurar a responsabilidade socioambiental no setor constituem um rol abrangente de ações que certamente contribuirão para elevar o patamar da mineração brasileira no cenário internacional, como foco no desenvolvimento sustentável do país.
+
+Relação com os ODS:
+Objetivo 2 - Fome Zero e Agricultura Sustentável; 
+Objetivo 7 - Energia Acessível e Limpa; 
+Objetivo 8 – Trabalho Decente e Crescimento Econômico;
+Objetivo 9 - Indústria, Inovação e Infraestrutura; 
+Objetivo 11 – Cidades e Comunidades Sustentáveis;
+Objetivo 12 - Consumo e Produção Responsáveis; e
+Objetivo 13 - Ação contra a Mudança Global do Clima.
+
+
+Agentes Envolvidos:
+Ministério de Minas e Energia, por meio da Secretaria de Geologia, Mineração e Transformação Mineral; Agência Nacional de Mineração; Serviço Geológico Brasileiro - Companhia de Pesquisa de Recursos Minerais; e Indústrias Nucleares do Brasil S/A.
+
+Em sua esfera de atuação, é esperado que as instituições diretamente envolvidas com o Programa promovam articulação com diversos órgãos e entidades públicas e privadas para realização de programas e projetos, entre elas: MCTI, MAPA, MDA, MMA, MF, MGI, EMBRAPA, EMBRAPII, ABDI, CETEM, CONFEA/CREA, IBRAM, ABCM, CBDB, ABC, etc.
+
+
+Articulação Federativa:
+Não há, inicialmente, a previsão de ações a serem realizadas por outros entes federativos no âmbito do Programa. Entretanto, uma execução bem-sucedida do instrumento demandará a articulação do governo central com órgãos e entidades estaduais e municipais. Consideradas as diversidades regionais e locais e a pluralidade do setor mineral nacional, tais articulações deverão ser construídas e aprimoradas no caso a caso. Destaca-se, nesse cenário, a importância de se ampliar o fluxo de investimentos para regiões mineradoras, promover o desenvolvimento local a partir da mineração e estimular a formalização das atividades de menor escala.
+
+Enfoque Transversal:
+O setor mineral se caracteriza por ser uma indústria primária cujos produtos gerados nesta indústria tornam-se matérias primas variadas para as indústrias secundárias.
+
+A mineração, portanto, se destaca por ser uma indústria de base e também por sua condição de impulsionar novas e outras oportunidades econômicas. 
+
+Por esta razão existe uma correlação entre as ações e políticas deste setor com outros setores, cuja lista exemplificativa inclui: 
+
+1. Política Energética 
+2. Política Agrícola 
+3. Política Industrial
+4. Política Ambiental 
+5. Política de Gestão do Território 
+6. Política de Resíduos Sólidos  
+7. Política de Segurança de Barragens
+
+
+Marco Legal:
+O marco legal decorre de disposições da Constituição Federal (art. 20, art. 176, art. 225 e art. 231, como exemplos). Adicionalmente, aplicam-se: (i) Decreto-Lei nº 227/1967; (ii) Lei nº 6.567/1978; (iii) Lei nº 7.805/1989; Lei 13.540/2017, (iv) Lei nº 13.575/2017; (v) Decreto nº 9.406/2018; (vi) Decreto nº 11.659/2023; (vii) Decreto nº 11.108/2022.
+
+Planos Nacionais, Setoriais e Regionais:
+Plano Nacional de Mineração 2030 e Plano Decenal de Mapeamento Geológico Básico e Levantamento de Recursos (PlanGeo)
+
+Objetivo Geral:
+- Criar, no setor mineral brasileiro, um ambiente orientado para a sustentabilidade, a transição energética, a segurança do público e a
+atratividade aos investimentos
+
+Objetivos Específicos:
+- Aumentar a segurança da mineração para a sociedade brasileira
+- Estimular a adoção de práticas sustentáveis no setor mineral brasileiro
+- Criar um ambiente orientado para a atração de investimentos em pesquisa, produção e transformação mineral
+- Ampliar as reservas de minerais estratégicos para a transição energética
+- Ampliar o suprimento de insumos minerais estratégicos para a segurança alimentar
+- Melhorar as condições socioeconômicas de municípios mineradores e afetados
+
+Indicadores de Entrega:
+- Área levantada por aerogeofísica (Km2): Levantamentos aerogeofísicos pelos métodos magnético, radiométrico, eletromagnético e gravimétrico, a serem realizados em áreas de maior potencial para novas descobertas minerais e/ou em áreas de conhecimento geológico imaturo. Seu histórico é vinculado a Ação 4872 - Levantamentos Aerogeofísicos que foi agrupada por diretrizes orçamentárias à Ação 213Y como plano Orçamentário de Levantamentos Geológicos. Tem por base legal: CF/88, arts. 20, inciso IX, e 21, incisos XV e XIX; Decreto-lei nº 764, de 15 de agosto de 1969; Lei nº 8.970, de 28 de dezembro de 1994; e Decreto nº 1.524, 20-06-1995. Prevê a retomada de levantamentos aerogeofísicos, cuja relevância está amparada nos objetivos principais:
+1) Dados aerogeofísicos despertam interesse para novas áreas, sendo decisivos para fomentar investimentos do setor mineral;
+ 2) Subsidiam os estudos que visam o entendimento dos condicionantes geológicos dos depósitos minerais, e portanto, a definição de áreas de mais
+elevado potencial para pesquisa mineral;
+3) Promovem o avanço do conhecimento geológico do território brasileiro, uma vez que a integração geológico-geofísica é fundamental para cartografia
+geológica; 4) Subsidiam a pesquisa hidrogeológica, especialmente na região semiárido brasileiro, além de projetos relacionados à área de risco geológico.
+Os aerolevantamentos serão realizados em áreas de escudo cristalino e bacias sedimentares, utilizando diferentes métodos de aquisição
+(magnetométrico, radiométrico, gravimétrico, eletromagnético), a serem definidos em função do interesse geológico específico da área a ser levantada. 
+ 
+- Área mapeada (Km2): Atende ao Plano Nacional de Mineração no quesito avanço do conhecimento geológico do território brasileiro. Estão vinculados projetos que têm entre seus objetivos principais a realização de cartografia geológica sistemática (avançar com a mesma em todo o território Brasileiro) em escalas de Trabalho >=1:250K, preferencialmente em 1:100K, nos seguintes contextos: 1) Províncias minerais com conhecimento geológico incompatível com a importância econômica; 2) Áreas com elevado potencial para descoberta de novos depósitos minerais; 3) Novas fronteiras do conhecimento geológico. Os projetos serão realizados em áreas de escudo cristalino e bacias sedimentares. A cartografia geológica será realizada segundo os procedimentos metodológicos do Serviço Geológico do Brasil, onde é prevista a integração de informações obtidas em diversas fontes (ex. da interpretação de dados geofísicos e de imagens de sensoriamento remoto, de levantamentos geológicos e geoquímicos de campo, de análises laboratoriais, etc), somadas com informações oriundas de trabalhos prévios, com objetivo de disponibilizar produtos que representem o estado da arte do conhecimento geológico. Prevê a realização de levantamentos geológicos sistemáticos com metas específicas para território amazônico e não amazônico, e também com demandas dos diversos setores beneficiados (setor produtivo, academia, gestores públicos, etc). 
+- Áreas disponibilizadas com potencial para transição energética: O indicador do número de áreas disponibilizadas com potencial para extração de minerais para transição energética demonstra a quantidade de áreas em rodadas da Nova Disponibilidade que contenham uma das substâncias Lítio, Cobalto, Cobre, Níquel, Quartzo ou Terras raras.  
+- Áreas reavaliadas e valoradas: Reavaliação e valoração, para licitação e pesquisa complementar pós-leilão, das áreas de titularidade da CPRM, com o objetivo de estimular a produção mineral brasileira. O Patrimônio Mineral da CPRM consiste nos direitos minerários da empresa que requerem uma atualização e organização das informações com vistas à valoração, licitação e posterior gestão dos ativos. Serão criadas ou otimizadas bases de dados e efetuada a modelagem geométrica e a avaliação econômica destes depósitos, com posterior avaliação socioambiental. 
+- Estudo de melhores práticas na cobertura internacionais no uso de garantias financeiras para a cobertura de riscos ambientais associados à mineração realizado: Realização de estudo de melhores práticas na cobertura internacionais no uso de garantias financeiras para a cobertura de riscos ambientais associados à mineração  
+- Estudos para o adequado fechamento de minas: A entrega compreende a realização de um conjunto de estudos, a saber:
+•	Estudo de Seguro ambiental
+•	Estudo de Condicionantes de outorga
+•	Revisão dos marcos normativos relacionados a questão dos passivos da mineração
+ 
+- Índice de adimplência da CFEM:  A Compensação Financeira pela Exploração de Recursos Minerais (CFEM), também conhecida como "royalty" da mineração, deve ser o principal instrumento para o alcance da melhoria das condições socioeconômicas dos municípios mineradores e afetados. Para isso são necessárias medidas que assegurem que a arrecadação seja condizente com o aproveitamento realizado pelas empresas. Visando medir os índices de adimplência da CFEM, a ANM desenvolveu um indicador.  
+- Índice de transparência na aplicação da CFEM: Mede a taxa de municípios mineradores que adotam medidas para dar transparência à aplicação dos recursos recebidos a título de Compensação Financeira pela Exploração de Recursos Minerais – CFEM 
+- Levantamento Geoquímico Realizado (Km2): Realização de levantamento geoquímico prospectivos através da coleta de amostras em sedimentos de corrente, concentrados de minerais pesados, solos e águas de drenagem, objetivando definir indicadores de áreas potencialmente favoráveis a concentrações minerais. Execução de trabalhos de campo para coleta de amostras de sedimento de fundo de rios e lagos, concentrados de minerais pesados (água, solo), análises de 70 elementos químicos mais e medidas no local do pH, temperatura, oxigênio dissolvido, condutividade, bem como a interpretação dos resultados analíticos. Com o objetivo de gerar informações da constituição química do substrato rochoso, da cobertura de solos e das águas superficiais e subterrâneas, visando subsidiar os levantamentos geológicos, estudos de avaliação de recursos minerais, argilominerais e hidro químicos.  
+- Municípios beneficiados pelo aprimoramento da fiscalização, gestão e aplicação dos recursos da CFEM: Municípios beneficiados pela realização de parcerias, com o apoio do Governo Federal, voltadas a melhoria da fiscalização e  gestão dos recursos recebidos a título de Compensação Financeira pela Exploração dos Recursos Minerais - CFEM, com o objetivo de assegurar o retorno das riquezas para as populações locais na forma desenvolvimento socioeconômico local, com efeito na educação, saúde, segurança, qualidade do meio ambiente, diversificação econômica, etc. 
+- Número de análises de recursos minerais e hídricos realizadas: Execução de análises minerais em apoio aos projetos finalísticos do SGB/CPRM e clientes externos. A regra estabelecida pela Agência Nacional de Mineração - ANM estabelece que o Laboratório de Análises Minerais - LAMIN é o laboratório oficial para realização dos estudos in loco e análises laboratoriais para classificação, autorização e fiscalização de lavra de fontes hidrominerais no Brasil.
+A capacidade laboratorial está organizada na Rede LAMIN, composta por quatro Laboratórios Analíticos no Rio de Janeiro, São Paulo, Manaus e Caeté (MG), dois Laboratórios de Hidroquímica, em Porto Alegre e Recife, e doze Laboratórios de Preparação de Amostras distribuídos nas diversas unidades do SGB/CPRM, em todas as regiões do país.
+
+ 
+- Número de áreas avaliadas: Identificação de áreas favoráveis e seleção de eventuais alvos para prospecção mineral, visando estimular a pesquisa e a produção de minerais industriais no país. Os projetos visam a avaliação de áreas potenciais de materiais necessários a construção civil, saneamento básico e indústria. São eles: calcários, titânio, argilas especiais, areia para construção civil e indústria, caulim, gesso, rochas ornamentais, gemas dentre outros. Base Legal: Lei 14026/2020. 
+- Número de áreas avaliadas avaliados quanto ao seu potencial mineral: Identificação de áreas favoráveis e seleção de eventuais alvos para prospecção mineral, visando estimular a pesquisa e a produção mineral brasileira, tendo em vista que, embora sejam responsáveis pela maior parte do valor da produção mineral brasileira, muitas das Províncias Minerais Brasileiras ainda não possuem nível de conhecimento homogêneo em toda sua extensão. Os levantamentos e estudos sistemáticos tem como meta permitir a definição de blocos futuros para prospecção. Além disso, pretende-se definir a mesma abordagem nas áreas potenciais, fora do âmbito das Províncias Minerais conhecidas, buscando expandir as fronteiras exploratórias brasileiras. As atividades têm por objetivo integrar as informações de geologia, geofísica, geoquímica, controles estruturais, tectônicos e ocorrências minerais, dentro do conceito de Sistemas Minerais e Footprints Regionais, com a finalidade de produzir mapas de recursos minerais e de favorabilidade e informes de recursos minerais e potencial mineral. Essa entrega no PPA (2020-2023) constou no PO0002 da Ação 2399 – Avaliação de Recursos Minerais do Brasil: com 11(2020), 10 (2021), 5(2022), 11(2023) estudos entregues. 
+- Número de áreas com potencial geoeconômico avaliadas: Detalhar e avaliar áreas com potencial com vistas a aumentar a atratividade e a competitividade do setor mineral brasileiro, auxiliando no desenvolvimento de metodologias para definição dos minerais críticos e estratégicos do país, entre outras políticas públicas relacionadas. Ainda relacionado está o modelamento e o desenvolvimento de plataforma integrada de dados minerais. 
+- Número de áreas com potencial prospectivo e favorabilidade para agrominerais e remineralizadores avaliadas: O Brasil é um dos grandes produtores agrícolas mundiais, porém é fortemente dependente da importação de insumos minerais agrícolas. Visando reduzir esta vulnerabilidade, serão realizados projetos temáticos para identificação de áreas favoráveis à prospecção destes minerais, principalmente fosfato e potássio. Além disso, serão investigados potenciais materiais remineralizadores de solos, a partir da identificação das unidades agrogeológicas mapeadas mais favoráveis ou de rejeitos da mineração (uso do pó de rocha/rochagem). As entregas deste PO contribuirão para o alcance do objetivo específico: "Ampliar o suprimento de Minerais Insumos Fertilizantes com foco na Segurança Alimentar. Atende aos itens I a V do Art. 4ª do Estatuto Social do SGB e do seu objetivo estratégico de gerar conhecimento geocientífico e colaborar para o desenvolvimento das atividades do setor mineral e gestão pública; compõe ação fundamental do Plano Nacional de Fertilizantes. Faz parte das ações do Plano Nacional de Mineração - PNM 2030 . Os minerais de K (potássio) e P (fósforo) fazem parte daqueles definidos no Decreto de Minerais Estratégicos Nº 10.657, de 24 de março de 2021 e também são considerados conceitualmente como minerais críticos para o Brasil.  
+- Número de áreas com potencial prospectivo para minerais estratégicos para a transição energética avaliadas: Indicador de refere a quantidade de área avaliada. Detalha e avalia áreas com potencial prospectivo (favorabilidade de exploração) para commodities consideradas críticas e estratégicas para a transição energética e a economia de baixo carbono. Envolve a pesquisa de áreas favoráveis à exploração de minerais componentes necessários à transição energética visando a produção de energia limpa, tais como os minerais de cobre, lítio, cobalto, ETR, grafita, vanádio, níquel, com forte dependência da indústria tecnológica e dos novos conceitos de mobilidade e energia (críticos). 
+- Número de áreas com potencial prospectivo para minerais nucleares avaliadas: Estudo, detalhamento e avaliação de áreas com potencial prospectivo para minerais nucleares voltados para apoiar a política energética nacional com foco nas energias limpas. Os projetos desenvolverão pesquisa de áreas com potencialidade de reservas de minerais de U e Th. Está de acordo com os aos itens I a V do Art. 4ª do Estatuto Social do SGB e do seu objetivo estratégico de gerar conhecimento geocientífico e colaborar para o desenvolvimento das atividades do setor mineral e gestão pública. Compõe ação fundamental do Plano Nacional da Mineração . Faz parte daqueles minerais abordados com estratégicos para o Brasil- Decreto Nº 10.657, de 24 de março de 2021 
+- Número de áreas disponibilizadas com potencial de extração de minerais com uso para segurança alimentar: O indicador demonstra a quantidade de áreas disponibilizadas em rodadas da Nova Disponibilidade com potencial para pesquisa e/ou para produção de insumos minerais para uso em segurança alimentar, tais como fertilizantes. Substâncias consideradas: Fosfato; Nitrato de potássio; Nitrato de sódio; Magnésio; Enxofre 
+- Número de Blocos para Licitação: Áreas que passaram por reavaliação e valoração dos ativos minerais da CPRM e serão efetivamente licitadas, envolvendo os seguintes bens minerais: caulim, níquel, agrominerais, fosfato, diamante, níquel, ouro e turfas.   
+- Número de itens de acervo de materiais geológicos informações geocientíficas preservados/disponibilizados: Disponibilizar acervos geocientíficos das Redes de Litotecas, Museu de Ciencias da Terra  e Rede de Bibliotecas, visando fomentar a pesquisa, o conhecimento e a atratividade de investimentos no setor mineral. Os acervos compreendem materiais geológicos (testemunhos de sondagem, amostras de rocha e sedimentos, alíquotas geoquímicas),disponibilizados na Rede de Litotecas; amostras de minerais e rochas, meteoritos, fósseis, e acervo bibliográfico e documentalsob a guarda do Museu de Ciências da Terra; acervo bibliográfico e documental catalogados na Rede de Biblioteca em meio físico e digital, por meio da Biblioteca Virtual, Catálogo Online e Repositório Institucional de Geociências - RIGeo. 
+- Número de levantamentos geológico-ambientais com foco no uso adequado do território realizados: Indicador consiste de levantamentos/estudos geológico-ambientais, em todo o território nacional, baseados em conhecimentos geocientíficos integrados, com vistas à aplicação em questões ambientais, de saúde e ordenamento territorial.  As entregas do indicador contemplam três linhas temáticas: 1) Geologia, meio ambiente e saúde; 2) Levantamentos da geodiversidade; 3) Levantamentos da geomorfologia. 
+- Número de mapas produzidos: A integração geológica e geofísica (anteriormente Integração regional) será realizada em áreas extensas, definidas por limites territoriais (ex. Brasil e estados da federação), por limites de grandes objetos geológicos (Ex. Cráton Amazônico, Província Carajás, Província Borborema, Quadrilátero ferrífero). Nos projetos vinculados a este Plano Orçamentário para o PPA 2024-2027 a integração geológica regional será realizada sob os seguintes aspectos: 1) Como ação prioritária de projetos, como nos casos daqueles em que o objetivo maior é a produção de mapas de integração geológica (ex. projetos Mapas Geológicos Estaduais, Municipais); 2) Como ação complementar de projetos, a exemplo de projetos desenvolvidos em objetos geológicos/regiões (ex. Província Carajás) e outros objetivos diversos.3) Integração geológica geofísica, como a produção de, por exemplo, Informes de Geofísica Aplicada, Atlas geofísicos e Cartas de Anomalias Geofísicas. Os produtos serão fruto da análise integrada de dados e informações geológicas de diversas naturezas (estruturais, geoquímicos, geocronológicos, metalogenéticos, geofísicos, etc.), oriundos de fontes diversas (CPRM, relatórios de pesquisa, trabalhos acadêmicos, artigos técnico-científicos, etc.), e representarão o estado da arte do conhecimento geológico, subsidiando a pesquisa mineral, os estudos acadêmicos e de geodiversidade, e as ações de gestão territorial e ocupação do meio físico. 
+- Percentual de Áreas Nominadas em Disponibilidade: O indicador do percentual de áreas NOMINADAS, aptas para a disponibilidade, em relação ao total de áreas no edital no período evidencia o quanto a ANM está atendendo aos interesses do setor mineral dentro do universo de áreas do edital da Nova Disponibilidade.  
+- Sistema de certificação ESG implementado: Trata-se da criação de um sistema de certificação para instalações do setor mineral brasileiro, com o objetivo de comprovar e incentivar a adoção de melhores práticas ambientais, sociais e de governança (ESG) no setor. A iniciativa busca alinhar as operações minerais aos padrões internacionais de sustentabilidade, promovendo um desenvolvimento mais responsável e transparente da atividade mineral no País. 
+- Taxa de análise automatizada dos processos de outorga de títulos minerários dos sistemas existentes: Esse índice reflete a análise automatizada de requerimentos de outorga de títulos minerários, com aumento gradativo dos processos que entram e são decididos dentro dos sistemas existentes na ANM.
+
+O primeiro ano representa a manutenção do índice em 24%, apenas com o sistema REPEM em produção.
+
+O segundo ano representa o acréscimo para 40% com o desenvolvimento do novo SIGÁreas para automatização de análise do direito de prioridade e ligação do REPEM aos processos oriundos do SOPLE, em procedimento de disponibilidade. 
+O aporte do novo SIGÁreas representa avanço para todos os futuros sistemas de automação de análise de requerimentos de títulos minerários, pois têm potencial para automatizar a análise do direito de prioridade com a retirada de interferência no momento do requerimento.
+
+O terceiro ano vai para 45% com a entrada em produção de pelo menos 1 dos novos sistemas, RELIC ou REPLG.
+
+O quarto ano vai para 50%, porque existe a possibilidade de os três sistemas estarem em produção, com a análise automática dos requerimentos de licenciamento (RELIC) e permissão de lavra garimpeira (REPLG), mas que ainda não tiveram seu desenvolvimento iniciado. 
+
+O Sistema RELAV está previsto para ser desenvolvido e poderá entrar em atividade em 2027, mas depende do cumprimento da agenda regulatória e de aporte financeiro, representa uma grande economia de tempo e aumento da eficiência do trabalho, considerando que as análises dos PAEs consomem muito tempo técnico da equipa da Outorga e ainda gera dados estruturados para alimentar os sistemas da Fiscalização. 
+
+Sempre que um sistema novo entra em produção, o índice começa baixo e pode comprometer a manutenção da meta. O desenvolvimento de todos os sistemas continuará ativo em busca do aumento do índice de automação.
+
+Reflete diretamente no aumento da eficiência do gasto de tempo dos técnicos da outorga, os quais serão direcionados para os requerimentos com análise mais complexa e que apresentam maior risco operacional.
+ 
+- Taxa de desenvolvimento do Sistema Integrado de Gestão de Barragens de Mineração 2.0: Trata-se de porcentagem de implantação do sistema SIGBM 2.0 em substituição a versão atualmente em uso. 
+A versão atual do SIGBM apresenta limitações, como por exemplo: design não responsivo, desconfiguração da tela, tecnologia ultrapassada, limitada e lenta. O projeto SIGBM 2.0 visa ter uma nova versão mais responsiva, utilizando a arquitetura Clean, para separar melhor as responsabilidades dos códigos, ajudando na escrita de testes e manutenção. O SIGBM 2.0 será dotado de API para comunicar e extrair algumas responsabilidades da aplicação. Esse novo projeto permitirá maior dinamismo, melhor gerenciamento e melhor usabilidade para os usuários. Além de permitir, com o uso da inteligência artificial, uma atuação mais integrada e responsiva em segurança de barragens de mineração. 
+- Taxa de implementação da Plataforma de Fiscalização Responsiva - FIRMINA: Busca mensurar o percentual de avanço da implementação da plataforma de fiscalização responsiva, indicando os empreendimentos que foram avaliados conforme os parâmetros de conformidade e estão classificados em relação aos níveis de risco. Espera-se um aumento progressivo do quantitativo classificado, até chegar à totalidade do universo de empreendimentos. 
+- Taxa de planos de fechamento de minas analisados: Necessidade em se gerenciar o planejamento e a execução das análises técnicas referentes aos Planos de Fechamentos de Minas – PFM (Resolução ANM nº 68 de 30 de abril de 2021), permitindo assim, garantir o devido fechamento das atividades de lavra, e o devido retorno do uso da área lavrada à população. 
+- Tempo de análise de requerimento de lavra: O indicador visa mostrar a redução, em dias, do tempo de análise dos requerimentos de lavra 
+ 
+
+Indicadores de Objetivos Específicos:
+- Índice de atratividade de Investimento: O Índice de Atratividade de Investimento - IAI tem por objeto mensurar os esforços da administração federal na atração de investimentos para o setor mineral brasileiro.
+O IAI avalia o resultado das entregas do Objetivo Específico 0045 com foco na gestão dos títulos minerários para a concessão de lavra e oferta de áreas em disponibilidade para pesquisa e produção mineral, e, também, o aumento do conhecimento geológico, considerando o mapeamento geológico sistemático, preferencialmente na escala 1:100.000, o levantamento geoquímico prospectivo e o levantamento aerogeofísico.
+As metas adotadas refletem, no caso da gestão de outorgas e disponibilidade de áreas, a expectativa da ANM considerando os esforços na melhoria da infraestrutura tecnológica e a experiência acumulada na execução do PPA 2020-2023.
+Em relação ao aumento do conhecimento geológico, foi considerando o planejamento estratégico da CPRM para o período do PPA 2024-2027.
+O IAI é composto por um conjunto de indicadores para aferição da gestão de outorgas e disponibilidade de áreas e aferir a realização de estudos geológicos. 
+
+1 - Automatização das outorgas de títulos minerários (%)				
+2 -  Redução do tempo de análise dos requerimentos de pesquisa  (em dias)				
+3 - Disponibilização de áreas em Oferta Pública (% de áreas para pesquisa e produção mineral ofertadas)				
+4 - Mapeamento geológico sistemático, preferencialmente na escala 1:100.000, realizado (km2)				
+5 - Levantamentos geoquímicos prospectivos realizados. (km2)				
+6 - Levantamentos aerogeofísicos realizados. (km2)				
+Para fins de estruturação do IAI, foram definidos pesos para cada indicador, de acordo com a sua relevância na gestão dos recursos minerais e aumento do conhecimento geológico do território, conforme abaixo:
+INDICADOR	MELHOR	PESO
+1 - Automatização das outorgas de títulos minerários (%)	↑	20%
+2 -  Redução do tempo de análise dos requerimentos de pesquisa  (em dias)	↓	20%
+3 - Disponibilização de áreas em Oferta Pública (% de áreas para pesquisa e produção mineral ofertadas)	↑	15%
+4 - Mapeamento geológico sistemático, preferencialmente na escala 1:100.000, realizado (km2)	↑	15%
+5 - Levantamentos geoquímicos prospectivos realizados. (km2)	↑	15%
+6 - Levantamentos aerogeofísicos realizados. (km2)	↑	15%
+ 
+- Número de empreendimentos do setor com Selo ESG: Número de empreendimentos do setor mineral com certificação que ateste a internalização de práticas ESG em suas operações. 
+- Número de municípios mineradores com melhoria de indicadores sociais: Os indicadores socioeconômicos compreendem, em geral, uma medida estatística de determinado aspecto social e/ou econômico que visa traduzir ou informar sobre a realidade de um determinado local ou grupo de pessoas, a depender do recorte escolhido para a aferição. Sendo assim, o indicador proposto para o objetivo específico em tela servirá como parâmetro para avaliar a efetividade de políticas públicas direcionadas para municípios mineradores selecionados 
+- Percentual das reservas de minerais para a transição energética: O Brasil é um dos principais países mineradores com expressiva participação na produção mineral mundial. Com a emergência da transição energética, é fundamental que o País amplie o percentual de reservas dos minerais para a transição energética 
+- Percentual de produção de minerais para segurança alimentar: Diminuir a dependência externa de minerais para a segurança alimentar com foco nos fertilizantes de fosfato e potássio. Analisar o percentual da produção nacional dos produtos em relação ao consumo total. 
+
+ 
+- Taxa de redução de nível de emergência de barragens de mineração: A TRNE mede a variação percentual do número de barragens em todos os níveis de emergência em relação ao número de barragens em todos os níveis de emergência em 31/12/2023.

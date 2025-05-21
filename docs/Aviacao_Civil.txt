@@ -1,0 +1,136 @@
+passage: Programa: Aviação Civil
+
+Descrição do Problema:
+Acesso restrito da população brasileira ao modal aéreo, especialmente nas localidades distantes dos grandes centros urbanos.
+
+Causa do Problema:
+Baixa conectividade do transporte aéreo brasileiro, especialmente em localidades distantes dos grandes centros urbanos, associada à baixa renda média da população brasileira e à inadequação de parte da infraestrutura aeroportuária regional.
+
+Evidências do Problema:
+Em um país com dimensões continentais apenas 121 aeroportos são atendidos pelo transporte aéreo regular de passageiros e cargas. Ademais, há um número restrito de viagens per capita, quando se compara o Brasil com outros países com características geográficas semelhantes.
+
+Justificativa para a Intervenção:
+A ampliação e/ou modernização de aeroportos regionais, a capacitação de profissionais para o setor de aviação civil, a implantação de equipamentos de auxílios à navegação aérea em aeroportos e a promoção de ambiente regulatório favorável para atração de novas empresas aéreas para o mercado doméstico de transporte aéreo contribuirão, de forma sustentável, para viabilizar ampliação do acesso ao transporte aéreo pela população brasileira.
+
+Evolução Histórica:
+Dado o contexto do PPA 2019 -2023, o IDAC - Índice de Desenvolvimento da Aviação Civil é um único indicador medido por três parâmetros de diferentes pesos:
+
+IDRA - Índice de Desenvolvimento da Rede Aeroportuária - Baseado no somatório dos IGBs dos aeroportos desenvolvido para o PAN	(Peso 50%)
+ISGP - Índice de Satisfação Geral dos Passageiros - Com base na pesquisa realizada pela SAC (Peso 30%)
+ISAC - Índice de Segurança da Aviação Civil - Redução do número médio de Acidentes no PPA. (Peso 20%)
+
+O resultado do IDAC versus a meta estabelecida foi a seguinte:
+
+Fato relevante observado durante a última PPA foi a pandemia de Covid-19, o que que suscitou a alterações e considerações que afetam aos indicadores propostos no PPA atual.
+
+IDRA – índice baseado no atendimento a aeroportos na rede, colocando pesos diferentes a aeroportos que atendem a cidades mais populosas, o IBGN. Em teoria, IBGN maiores seriam prioritários, mas não foi um critério que apontou as prioridades de investimento. Outro ponto discutido foi o critério, no qual 50 passageiros seriam suficientes para o atendimento do mercado. Este indicador sozinho não é suficiente, todavia, para avaliar o número de passageiros processados no Brasil para os mercados atendidos.
+Assim sendo, a proposta foi que o IDRA se transformasse em dois indicadores, um para mercados atendidos, sem um peso que os diferencie, e o atendimento fica por conta de mercados que processem acima de 2.000 passageiros; e outro para medição de passageiros transportados, fato que espelha a aviação civil servindo ao transporte de pessoas no território nacional, inclusive em aeroportos concedidos. 
+Estes são dois indicadores que espelham as iniciativas do governo federal em frentes distintas: os aeroportos concedidos ou programas de PPP; os aeroportos geridos pela INFRAERO; aeroportos geridos por estados e municípios com recursos de investimento federais, estudados pelo Plano Aeroviário Nacional, apensado anexo.
+
+ISGP – Certamente a satisfação do passageiro é fator relevante para o governo federal, mas o que se observou foi uma estagnação do indicador, tornando-se mais relevante – neste momento – que a população acesse o transporte aéreo a ter uma visão positiva do setor. Desta forma, este tornou-se um indicador secundário, que continuará a ser medido por pesquisa de satisfação patrocinada pela SAC, mas sai do PPA. Importante citar que as medidas continuam a ser tomadas com operadores aeroportuários, aéreos e autoridades para a contínua melhoria da qualidade do serviço entregue à sociedade, mas fica desacoplado do PPA.
+
+ISAC – O ISAC foi controverso desde o primeiro ano. Fator prioritário na aviação, a segurança tinha como medição precípua o número de acidentes, o que gerou explicações desde seu primeiro ano, já que a medida era a antítese da segurança, e a meta era de menos acidentes. Outro ponto de melhoria desde o primeiro ano foi a média móvel de cinco anos, medida adotada mundialmente para indicadores parecidos. Entretanto, 2018 apresentou-se, após o estabelecimento das metas, um ano com número excessivo de acidentes, que contaminaria o indicador por todo o período do PPA. 
+Desta forma, para o novo ciclo, o indicador foi exatamente o que é utilizado pela ANAC para se avaliar a segurança operacional, o número de acidente por milhão de decolagem. Manter este número baixo é a meta dos órgãos reguladores e operadores nacionais, e o que torna a aviação civil um dos modais mais seguros do mundo.
+Para complementar, foi inserido um indicador que avalie o acompanhamento das emissões de gases de efeito estufa mediante a evolução tecnológica da frota nacional.
+
+Comparações Internacionais:
+Dados do Banco Mundial.
+https://data.worldbank.org/indicator/IS.AIR.DPRT?locations=BR
+https://data.worldbank.org/indicator/IS.AIR.DPRT?locations=BR-1W&name_desc=false
+
+
+Relação com os ODS:
+Objetivo 7. Objetivo de Desenvolvimento Sustentável - Energia limpa e acessível - Garantir o acesso a fontes de energia fiáveis, sustentáveis e modernas para todos.
+7.a Até 2030, reforçar a cooperação internacional para facilitar o acesso a pesquisa e tecnologias de energia limpa, incluindo energias renováveis, eficiência energética e tecnologias de combustíveis fósseis avançadas e mais limpas, e promover o investimento em infraestrutura de energia e em tecnologias de energia limpa.
+Objetivo 9. Construir infraestruturas resilientes, promover a industrialização inclusiva e sustentável e fomentar a inovação.
+9.1 Desenvolver infraestrutura de qualidade, confiável, sustentável e resiliente, incluindo infraestrutura regional e transfronteiriça, para apoiar o desenvolvimento econômico e o bem-estar humano, com foco no acesso equitativo e a preços acessíveis para todos.
+
+
+Agentes Envolvidos:
+Companhias aéreas, operadores aeroportuários, profissionais do setor, Governos Federal, Estadual e Municipal.
+
+Articulação Federativa:
+Haverá interação/parceria com os governos estaduais e municipais, especialmente com relação a investimentos em infraestruturas aeroportuárias a serem realizadas.
+
+Enfoque Transversal:
+Infra S.A, Agência Nacional de Aviação Civil, Departamento Nacional de Infraestrutura de Transportes
+
+Marco Legal:
+Lei nº 5.862, de 12 de dezembro de 1972, que autoriza o Poder Executivo a constituir a empresa pública denominada Empresa Brasileira de Infraestrutura Aeroportuária – INFRAERO, e dá outras providências;
+Lei nº 6.009, de 26 de dezembro de 1973, que dispõe sobre a utilização e a exploração dos aeroportos, das facilidades à navegação aérea e dá outras providências
+Lei nº 7.565, de 19 de dezembro de 1986, que dispõe sobre o Código Brasileiro de Aeronáutica;
+Lei nº 8.987, de 13 de fevereiro de 1995, que dispõe sobre o regime de concessão e permissão da prestação de serviços públicos previsto no art. 175 da Constituição Federal, e dá outras providências;
+Lei nº 9.491, de 9 de setembro de 1997, que altera procedimentos relativos ao Programa Nacional de Desestatização, revoga a Lei n° 8.031, de 12 de abril de 1990, e dá outras providências.
+Lei nº 9.636, de 15 de maio de 1998, que dispõe sobre a regularização, administração, aforamento e alienação de bens imóveis de domínio da União;
+Lei nº 11.182, de 27 de setembro de 2005, que cria a Agência Nacional de Aviação Civil – Anac, e dá outras providências;
+Lei nº 11.578, de 26 de novembro de 2007 – que dispõe sobre a transferência obrigatória de recursos financeiros para a execução pelos Estados, Distrito Federal e Municípios de ações do Programa de Aceleração do Crescimento – PAC.
+Lei nº 12.379, de 6 de janeiro de 2011, que dispõe sobre o Sistema Nacional de Viação – SNV, e dá outras providências;
+Lei n° 12.462, de 4 de agosto de 2011 (e as demais alterações) – que cria a Secretaria de Aviação Civil da Presidência da República - SAC-PR e o Fundo
+Nacional de Aviação Civil - FNAC;
+Lei nº 12.648, de 17 de maio de 2012 – que altera diversos dispositivos da legislação vigente com objetivo de viabilizar o processo de concessão de exploração da infraestrutura aeroportuária (ATAERO) com percentual voltado à investimentos em aeroportos por meio do Programa Federal de Auxílio à Aeroportos –PROFAA (Art2º, §2º)
+Lei nº 13.097, de 19 de janeiro de 2015, que cria, nos arts. 114 a 121, o Programa de Desenvolvimento da Aviação Regional - PDAR e no art. 122 faz alterações à Lei nº 7.565, de 19 de dezembro de 1986);
+Lei nº 13.190, de 19 de novembro de 2015 (Altera a Lei nº 12.462, de 4 de agosto de 2011) -Institui o Regime Diferenciado de Contratações Públicas – RDC para obras e serviços de engenharia, relacionadas a melhorias na mobilidade urbana ou ampliação de infraestrutura logística (Art. 1º, §4);
+Lei nº 13.319, de 25 de julho de 2016, que extingue o Adicional de Tarifa Aeroportuária e amplia o limite de participação do investimento estrangeiro na aviação civil;
+Lei nº 13.475, de 28 de agosto de 2017, que dispõe sobre o exercício da profissão de tripulante de aeronave, denominado aeronauta e revoga a Lei nº 7.183, de 5 de abril de 1984;
+Decreto-Lei nº 9.760, de 5 de setembro de 1946, que dispõe sobre os bens imóveis da União e dá outras providências;
+Decreto nº 6.780, de 18 de fevereiro de 2009, que aprova a Política Nacional de Aviação Civil - PNAC e dá outras providências;
+Decreto nº 7.168, de 5 de maio de 2010, que dispõe sobre o Programa Nacional de Segurança da Aviação Civil Contra Atos de Interferência Ilícita -PNAVSEC, , revogado pelo Decreto nº 11.195, de 8 de setembro de 2022;
+Decreto nº 7.554, de 15 de agosto de 2011, que dispõe sobre a coordenação das atividades públicas nos aeroportos, institui a Comissão Nacional de Autoridades Aeroportuárias - CONAERO e as Autoridades Aeroportuárias, revogado pelo Decreto nº 10.703, de 18 de maio de 2021.;
+Decreto nº 7.554, de 15 de agosto de 2011, que dispõe sobre a coordenação das atividades públicas nos aeroportos, institui a Comissão Nacional de
+Autoridades Aeroportuárias - CONAERO e as Autoridades Aeroportuárias.
+Decreto nº 7.624, de 22 de novembro de 2011, que dispõe sobre as condições de exploração, pela iniciativa privada, da infraestrutura aeroportuária por
+meio de concessão;
+Decreto nº 7.871, de 21 de dezembro de 2012, que dispõe sobre as condições de delegação da exploração de aeródromos civis públicos por meio de
+autorização;
+Decreto nº 8.024, de 4 de junho de 2013, que regulamenta o funcionamento do Fundo Nacional de Aviação Civil, instituído pela Lei nº 12.462, de 4 de agosto de 2011, e dá outras providências;
+Decreto nº 11.354, de 1º de janeiro de 2023, que aprova a estrutura regimental do Ministério de Portos e Aeroportos.
+
+
+Planos Nacionais, Setoriais e Regionais:
+Política Nacional de Aviação Civil e Plano Aeroviário Nacional PAN.
+
+Objetivo Geral:
+- Desenvolver e integrar a aviação civil, de forma sustentável, com foco na segurança, no aumento da competitividade, na qualidade dos serviços e na ampliação do acesso ao transporte aéreo pela população brasileira.
+
+Objetivos Específicos:
+- Ampliar o número de aeroportos regionais atendidos por transporte aéreo regular de passageiros e cargas.
+- Ampliar o número de usuários do transporte aéreo.
+- Reduzir a intensidade de emissões de CO2 da aviação civil brasileira.
+- Promover e aprimorar a segurança da aviação civil brasileira.
+
+Indicadores de Entrega:
+- Número de aeroportos com equipamentos auxílios à navegação aérea implantados: O indicador número de aeroportos com equipamentos auxílios à navegação aérea implantados indica com precisão o total absoluto de aeroportos com equipamentos implantados, objeto do indicador. 
+- Número de aeroportos regionais ampliados/modernizados: O número de aeroportos regionais ampliados/modernizados refere-se à conclusão de obras contratadas. 
+- Número de aeroportos regionais ampliados/modernizados: O número de aeroportos regionais ampliados/modernizados refere-se à conclusão de obras contratadas. 
+- Número de aeroportos regionais ampliados/modernizados: O número de aeroportos regionais ampliados/modernizados refere-se à conclusão de obras contratadas. 
+- Número de aeroportos regionais ampliados/modernizados: O número de aeroportos regionais ampliados/modernizados refere-se à conclusão de obras contratadas 
+- Número de aeroportos regionais ampliados/modernizados: O número de aeroportos regionais ampliados/modernizados refere-se à conclusão de obras contratadas. 
+- Número de aeroportos regionais ampliados/modernizados: O número de aeroportos regionais ampliados/modernizados refere-se à conclusão de obras contratadas. 
+- Número de aeroportos regionais ampliados/modernizados: O número de aeroportos regionais ampliados/modernizados refere-se à conclusão de obras contratadas. 
+- Número de aeroportos regionais ampliados/modernizados: O número de aeroportos regionais ampliados/modernizados refere-se à conclusão de obras contratadas. 
+- Número de aeroportos regionais ampliados/modernizados: O número de aeroportos regionais ampliados/modernizados refere-se à conclusão de obras contratadas. 
+- Número de aeroportos regionais ampliados/modernizados: O número de aeroportos regionais ampliados/modernizados refere-se à conclusão de obras contratadas. 
+- Número de aeroportos regionais ampliados/modernizados: O número de aeroportos regionais ampliados/modernizados refere-se à conclusão de obras contratadas. 
+- Número de aeroportos regionais ampliados/modernizados: O número de aeroportos regionais ampliados/modernizados refere-se à conclusão de obras contratadas. 
+- Número de aeroportos regionais ampliados/modernizados: O número de aeroportos regionais ampliados/modernizados refere-se à conclusão de obras contratadas. 
+- Número de aeroportos regionais ampliados/modernizados: O número de aeroportos regionais ampliados/modernizados refere-se à conclusão de obras contratadas. 
+- Número de aeroportos regionais ampliados/modernizados: O número de aeroportos regionais ampliados/modernizados refere-se à conclusão de obras contratadas. 
+- Número de aeroportos regionais ampliados/modernizados: O número de aeroportos regionais ampliados/modernizados refere-se à conclusão de obras contratadas. 
+- Número de aeroportos regionais ampliados/modernizados: O número de aeroportos regionais ampliados/modernizados refere-se à conclusão de obras contratadas. 
+- Número de aeroportos regionais ampliados/modernizados: O número de aeroportos regionais ampliados/modernizados refere-se à conclusão de obras contratadas. 
+- Número de aeroportos regionais ampliados/modernizados: O número de aeroportos regionais ampliados/modernizados refere-se à conclusão de obras contratadas. 
+- Número de aeroportos regionais ampliados/modernizados: O número de aeroportos regionais ampliados/modernizados refere-se à conclusão de obras contratadas. 
+- Número de aeroportos regionais ampliados/modernizados: O número de aeroportos regionais ampliados/modernizados refere-se à conclusão de obras contratadas 
+- Número de indivíduos capacitados para o setor de aviação civil: Número de indivíduos capacitados para o setor de aviação civil indica com precisão o total absoluto de pessoas capacitadas, objeto do indicador. 
+- Número de novas empresas entrantes no mercado doméstico: O número de novas empresas entrantes no mercado doméstico indica se o ambiente regulatório está favorável à entrada de novas empresas no mercado de transporte aéreo doméstico. 
+- Percentual de execução da aquisição de equipamentos para obtenção capacidade laboratorial: percentual de execução traz a melhor medida para o acompanhamento do andamento da elaboração dos estudos 
+- Percentual de execução dos estudos necessários para subsidiar as políticas de desenvolvimento dos combustíveis sustentáveis de aviação: O percentual de execução traz a melhor medida para o acompanhamento da elaboração dos estudos  
+- Percentual de implementação da metodologia BIM nos Projetos Aeroportuários analisados pela SAC: O percentual de execução traz a melhor medida para o acompanhamento da implementação do BIM nos Projetos Aeroportuários analisados pela SAC. 
+- Percentual de implementação do módulo aeroportuário ao SICRO: O percentual de execução traz a melhor medida para o acompanhamento da implementação do módulo aeroportuário ao SICRO. 
+- Projetos aceitos: O número de projetos aceitos pela área técnica da SAC, que estão aptos a serem licitados pelo interessado  
+
+Indicadores de Objetivos Específicos:
+- Intensidade de emissões – [Kg.CO2/RTK]: massa de emissões geradas ponderada pela quantidade de passageiros e carga transportados: A Intensidade de emissões – [Kg.CO2/RTK] – é uma medida que indica a massa de emissões geradas pela aviação civil para viabilizar o transporte de uma tonelada de carga (ou passageiro) ao longo de um quilômetro. 
+- Média móvel, dos últimos 5 anos, do número de acidentes anuais, por milhão de decolagens, envolvendo aeronaves do transporte aéreo regular brasileiro com peso máximo de decolagem acima de 5.700 kgf: Média móvel, dos últimos 5 anos, do número de acidentes anuais, por milhão de decolagens, envolvendo aeronaves do transporte aéreo regular brasileiro com peso máximo de decolagem acima de 5.700 kgf. 
+- Número de aeroportos, com mais de 2000 passageiros processados (chegadas e partidas), por ano: O número de aeroportos, com mais de 2000 passageiros processados (chegadas e partidas), por ano implica em valor mínimo que indica regularidade.  
+- Número de passageiros transportados - transporte aéreo (regular e não regular) com origem no território nacional: O Número de passageiros transportados - transporte aéreo (regular e não regular) com origem no território nacional reflete exatamente o que se quer medir para atingimento do objetivo específico e objetivo geral.

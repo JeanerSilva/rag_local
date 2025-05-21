@@ -1,0 +1,83 @@
+passage: Programa: Inclusão Socioeconômica do Público do Cadastro Único
+
+Descrição do Problema:
+Os Objetivos do Desenvolvimento Sustentável trazem dentre suas metas a erradicação da pobreza, a geração de trabalho decente e o crescimento econômico. Contudo, as desigualdades de oportunidades de acesso a direitos e inclusão socioeconômica das pessoas em situação de vulnerabilidade ainda persistirem. Pessoas nas camadas de menor renda e com menor escolaridade têm taxas de ocupação inferiores à média nacional. As diferenças entre homens e mulheres são substantivas e estão relacionadas diretamente com o papel social conferido às mulheres. Negros, pessoas com baixa escolaridade, bem como aqueles pertencentes às camadas de renda mais baixa e residentes nas regiões e estados mais pobres apresentam menores taxas de formalização no emprego e maior taxa de pobreza extrema.
+
+Causa do Problema:
+As condições de vida da população melhoraram com a valorização do salário mínimo, assim como em decorrência de ações de geração de emprego, fortalecimento da agricultura familiar, transferência de renda e acesso a bens e serviços nas últimas décadas, porém, há aqueles que se mantiveram na miséria, mesmo depois desse amplo processo de inclusão. São os mais vulneráveis a parcela para a qual é mais difícil garantir mobilidade social e acesso à cidadania. Para estes, as barreiras que impedem a melhora da qualidade de vida nem sempre são facilmente identificáveis e sua transposição requer um leque de intervenções mais amplo, além das políticas públicas tradicionais de enfrentamento a pobreza. 
+
+Evidências do Problema:
+A Organização Internacional do Trabalho, em estudo intitulado “World Employment and Social Outlook Trends, 2023”, afirma que, apesar da tendência de queda no desemprego ocorrida em 2022, a redução da taxa de crescimento do PIB para os anos vindouros fará com que essa tendência possa ser alterada, esperando-se que o nível de desemprego permaneça inalterado ou aumente.
+O rendimento médio do brasileiro no 1º trimestre de 2023, segundo o Instituto Brasileiro de Geografia e Estatística – IBGE, é de R$ 2.891 e, segundo o Departamento Intersindical de Estatística e Estudos Socioeconômicos (DIEESE), o salário mínimo para suprir as necessidades de uma família de quatro pessoas, em maio de 2023, deveria ter sido de R$ 6.652,09.
+Logo, políticas de garantias de emprego e ampliação da renda devem ser realizadas.
+
+Justificativa para a Intervenção:
+A compreensão de que os mais pobres, exatamente pelo nível de exclusão, abandono, desinformação e isolamento, são os que têm menor condição de inserção no mundo do trabalho. Neste sentido, o Estado tem a responsabilidade de promover políticas e programas de inclusão socioeconômica, que visem garantir melhores condições de vida e de direitos a camada de maior vulnerabilidade social, fazendo com que estas pessoas consigam sair da pobreza, de forma decente e com os seus direitos sociais garantidos.
+
+Evolução Histórica:
+Existem diversas experiências no Ministério do Trabalho e Emprego - MTE, tais como o Sistema Nacional de Emprego (Sine), que atua na intermediação de mão-de-obra, que oferece um serviço de busca de vagas de emprego e agendamento de entrevista com possíveis empregadores, criado em 1975 sob a égide da Convenção nº. 88 da Organização Internacional do Trabalho (OIT). 
+Para o empreendedorismo tem-se o Programa Nacional do Microcrédito Produtivo Orientado (PNMPO), com o objetivo principal de estimular a geração de trabalho e renda entre microempreendedores populares, mediante a disponibilização de fontes específicas de financiamento ao microcrédito produtivo orientado.
+Cabe destacar, que as políticas do MTE são mais gerais, não se focalizando no público-alvo do cadastro único.
+Deve-se dar destaque ainda para o Programa do Seguro-Desemprego, o Abono Salarial e Fundo de Amparo ao Trabalhador (FAT).
+
+
+Comparações Internacionais:
+A Organização Internacional do Trabalho, em estudo intitulado “World Employment and Social Outlook Trends, 2023”, afirma que a criação de empregos formais recuperou totalmente após a pandemia, mas novos ganhos estagnaram após 2022. Esta tendência foi impulsionada por uma combinação de forte crescimento econômico em 2021 e, no início de 2022, níveis do emprego privado formal recuperaram-se totalmente da pandemia na grande maioria dos países na região da América latina e Caribe. 
+Em junho de 2022, entre os países com dados disponíveis no âmbito da América Latina (Argentina, Brasil, Colômbia, Costa Rica, El Salvador, México, Paraguai, Peru e Uruguai), os níveis de emprego privado formal eram mais elevados do que em junho de 2020. Durante o período de dois anos, o emprego formal teve crescimento forte no Brasil (8 por cento) e Colômbia e Paraguai (7 por cento).
+Os ganhos no emprego formal desde o auge da pandemia, também são resultado de uma série de políticas específicas de cada país que foram implementadas para fortalecer a criação de empregos formais. Ao longo de 2022, os ganhos desaceleraram e, dada a crescente incerteza das perspectivas, os ajustes na força de trabalho em 2022, foram realizadas ajustando as horas-trabalhadas em vez de contratar mais trabalhadores formais.
+Cabe destacar, também, os recentes aumentos na nos empregos informais, isto em grande parte devido, nos últimos anos, às restrições relacionadas a pandemia, que proporcionou que diversos trabalhadores começassem a trabalhar por conta própria ou até mesmo fizeram a abertura de muitos pequenos negócios, muitos dos quais são de natureza informal. 
+Contudo, o crescimento do emprego formal ultrapassou o informal, o que se explica pela redução do emprego informal em vários países da América Latina e Caribe. A queda foi mais pronunciada no Uruguai e na Costa Rica, onde a parcela o emprego informal caiu 5% e 3% pontos, respectivamente. Em outros países a queda foi menor, como 0,5% na Argentina e Brasil, 1,5% no Chile, 1,3% no México e 0,2% no Paraguai. A exceção fica por conta do Peru que viu o emprego informal crescer além do formal, em 2,5%.
+
+Relação com os ODS:
+O programa está alinhado com os ODS 1 – Erradicação da Pobreza (metas 1.1, 1.2 e 1.3), ODS 8 – Trabalho decente e crescimento econômico (metas 8.3, 8.5, 8.8 e 8.10) e ODS 10 – Redução das desigualdades (metas 10.1, 10.2 e 10.4)
+O fomento do emprego, qualificação e empreendedorismo visa proporcionar o aumento de renda, em condições decentes e sem nenhum tipo de discriminação ou de desigualdade, proporcionando inclusive a garantia de direitos.
+
+Agentes Envolvidos:
+O Programa Progredir, que está em reformulação e em vias de se tornar o Plano de Inclusão Socioeconômica, tem por diretriz a integração das políticas públicas existentes a fim de criar sinergia entre suas ações. Sua implementação envolve a combinação de adesão voluntária dos estados e municípios, fortalecimento do trabalho socioassistencial de preparação para o mundo do trabalho e parceria com organizações não governamentais (ONGs), organizações da sociedade civil de interesse público (OSCIPs), empresas e entidades representativas aderentes à proposta de mobilização social pela empregabilidade e inclusão produtiva. O Governo Federal, por meio da Secretaria de Inclusão Socioeconômica (SISEC) do Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome, coordena as ações, presta apoio técnico, disponibiliza ferramentas, fomenta a capacitação para ações e realiza o monitoramento das ofertas e demandas. Além das esferas de governo, participam do plano outros segmentos sociais e privados que aportam recursos, serviços, programas, projetos e equipamentos, visando a construção de parcerias para a oferta de oportunidades. 
+
+Articulação Federativa:
+A articulação governamental no âmbito do Progredir, que está em reformulação e tornar-se-á o Plano de Inclusão Socioeconômica, envolve a parceria do Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome - MDS com os da Educação; Trabalho e Emprego; Ministério do Desenvolvimento, Indústria, Comércio e Serviços; Ministério da Ciência, Tecnologia e Inovação; dentre outros, no fortalecimento de políticas intersetoriais de inclusão socioeconômica. Esses órgãos, integrarão instância de gestão, a ser estabelecida em decreto que substituirá o Decreto nº 9.160/2017, e possuirá as competências de promover a articulação e acompanhar e aperfeiçoar as ações de inclusão socioeconômica. Esse decreto está sendo atualizado para se adequar a recente reforma administrativa com a criação de novos ministérios e atualização de suas competências e formas de funcionamento.
+
+Enfoque Transversal:
+Buscando reforçar as ações do programa, estão sendo firmadas parcerias, protocolos de intenções e termos de descentralização orçamentária com órgãos das três esferas de Governo, empresas estatais e iniciativa privada. Algumas dessas parcerias são:
+• Pronatec – formação inicial e continuada (FIC) – MEC 
+• Pronatec – educação a distância (EAD) – MEC/Ministério da Ciência, Tecnologia, Inovações e Comunicações (MCTIC) 
+• Aprendizagem (jovem aprendiz) – Ministério do Trabalho e Emprego (MTE)/Confederação Nacional da Indústria (CNI)/Serviço Nacional de Aprendizagem Industrial (Senai) 
+• Senai/Centro de Integração Empresa-Escola (CIEE) 
+• Inclusão digital e inovação – MCTI
+• Tecnologias sociais e inclusão pelo conhecimento – MCTI/ Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq) 
+• Educação financeira – Conselho Monetário Nacional (CMN)/ Banco Central do Brasil (Bacen) 
+• Empreendedorismo – Serviço Brasileiro de Apoio às Micro e Pequenas Empresas (Sebrae)/ 
+• Microcrédito – Caixa Econômica Federal/Banco do Brasil (BB)/Banco do Nordeste (BNB)/Bacen/Programa Nacional do Microcrédito Produtivo Orientado (PNMPO). 
+
+Marco Legal:
+• A Medida Provisória nº 1.213, de 22 de abril de 2024, institui o Programa Acredita no Primeiro Passo e a garantia de operações de crédito no âmbito do Programa, a qual será operacionalizada por meio do Fundo Garantidor de Operações (FGO);
+• Em 24/05/2024, na 38ª Assembleia Geral Extraordinária do FGO, foi aprovada alteração do estatuto do Fundo criando o programa de garantia FGO Acredita no Primeiro Passo;
+• A regulamentação do Programa Acredita no Primeiro Passo será por meio de Portarias do MDS;
+• A proposta de instituição de conselho de inclusão socioeconômica será elabora, mas sem a necessidade de também instituir um sistema;
+• Lei nº 14.995, de 10 de outubro de 2024, que institui o Programa Acredita no Primeiro Passo;
+• Portaria MDS nº 997, de 3 de julho de 2024, que dispõe sobre o Programa Acredita no Primeiro Passo e dá outras providências;
+• Portaria MDS nº 998, de 4 de julho de 2024, que dispõe sobre os agentes estruturadores de negócio e credenciamento de instituições ofertantes do Programa Acredita no Primeiro Passo;
+• Portaria MDS nº 1.011, de 8 de agosto de 2024, que estabelece condições para contratação de operações de crédito no âmbito do Programa Acredita no Primeiro Passo, instituído pela Medida Provisória nº 1.213, de 22 de abril de 2024;
+• Portaria SISEC/MDS nº 8, de 31 de dezembro de 2024, que define os objetivos do Programa Acredita no Primeiro Passo para o ano de 2025.
+
+Planos Nacionais, Setoriais e Regionais:
+Não há até o momento.
+
+Objetivo Geral:
+- Inclusão Socioeconômica para o público do Cadastro Único, com idade de 16 a 65 anos, com atuação nos eixos da intermediação de mão de obra, qualificação profissional e empreendedorismo.
+
+Objetivos Específicos:
+- Promover a empregabilidade de pessoas inscritas no Cadastro Único com idade de 16 a 65 anos
+- Fomentar o Empreendedorismo de pessoas inscritas no Cadastro Único com idade de 16 a 65 anos
+
+Indicadores de Entrega:
+- Número de pessoas de 16 a 65 anos inscritas no Cadastro Único que realizarem operação de microcrédito: Número de operações de crédito aos microempreendedores da população entre 16 a 65 anos inscrita no Cadastro Único realizadas com instituições financeiras e vinculadas ao Fundo Garantidor para pessoas do Cadastro Único. 
+- Número de pessoas de 16 a 65 anos inscritas no Cadastro Único que realizarem operação de microcrédito com subvenção de estruturadores de negócio: Número de operações de crédito aos microempreendedores da população entre 16 a 65 anos inscrita no Cadastro Único realizadas com instituições financeiras e vinculadas ao Fundo Garantidor para pessoas do Cadastro Único, com subvenção de estruturadores de negócio paga pelo MDS.	 
+- Número de pessoas entre 16 a 65 anos inscritas no Cadastro Único encaminhadas para vagas de emprego: Número de pessoas da população entre 16 a 65 anos inscritas no Cadastro Único encaminhadas para vagas de emprego. 
+- Número de pessoas entre 16 a 65 anos inscritas no Cadastro Único encaminhadas para vagas de qualificação: Número de pessoas da população entre 16 a 65 anos inscritas no Cadastro Único matriculadas em cursos de qualificação. 
+- Número de vagas oferecidas em curso de formação empreendedora para pessoas de 16 a 65 anos inscritas no Cadastro Único: Número de pessoas da população entre 16 a 65 anos inscrita no Cadastro Único matriculadas em curso de formação empreendedora oferecidas. 
+
+Indicadores de Objetivos Específicos:
+- Nº de pessoas, entre 16 a 65 anos inscritas no Cadastro Único, encaminhadas para cursos de formação empreendedora ou que realizarem operações de microcrédito: O indicador representa o terceiro eixo de atuação da inclusão socioeconômica do público do Cadastro Único, consoante ao objetivo do Programa: Empreendedorismo. Representando as pessoas qualificadas e as pessoas tomadores de crédito para empreender. 
+- Número de pessoas da população entre 16 a 65 anos inscritas no Cadastro Único matriculadas em cursos de qualificação ou encaminhadas para vagas de emprego: O indicador representa dois dos três eixos de atuação voltados para a inclusão Socioeconômica do público do Cadastro Único, consoante o objetivo do Programa:  a intermediação de mão de obra e a qualificação profissional.

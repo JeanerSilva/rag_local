@@ -1,0 +1,102 @@
+passage: Programa: Defesa da Democracia e Segurança Jurídica para Inovação em Políticas Públicas
+
+Descrição do Problema:
+A União e o Estado Brasileiro necessitam de representação judicial e extrajudicial nos seus assuntos de interesse.
+
+Causa do Problema:
+Dificuldade de conciliação da formulação de políticas públicas com os riscos jurídicos: falta de análise dos impactos da litigiosidade na avaliação e monitoramento das políticas públicas.
+
+Mau uso do direito de litigar: cultura do litígio, baixo custo de litigar, automação e processo judicial eletrônico, baixa penalização do litigante em situações de mau uso do direito de litigar.
+
+Problemas no assessoramento jurídico aos Órgãos da Administração Pública Federal: baixo nível de consulta dos órgãos da Administração Pública Federal em determinados temas, pouco conhecimento pelos órgãos assessorados do papel da AGU, orientações jurídicas que necessitam de mais uniformização, regramento administrativo falho ou contraditório.
+
+Baixa padronização e/ou uniformidade das decisões judiciais em relação com a jurisprudência, prolongamento excessivo dos processos judiciais, regramento insuficiente para redução de litígio, ausência de custeio processual pelos Órgãos responsáveis pelos atos e/ou políticas públicas.
+
+Inaplicabilidade das soluções de mediação e negociação para resolução de conflitos.
+
+Necessidade de defesa do Estado Democrático de Direito.
+
+
+Evidências do Problema:
+A litigiosidade judicial no Brasil tem se intensificado nos últimos anos. O Conselho Nacional de Justiça evidenciou a evolução histórica desse problema no Relatório Justiça em Números 2018: ano base 2017 (p. 74). Em 2017, foram 29 milhões de novos processos judiciais, um aumento de 18% em relação a 2009. O aumento do estoque de processos aumentou mais ainda, são 109 milhões em 2017, um aumento de 28% em relação a 2009.
+Como reflexo desse aumento exponencial de processos judiciais, o tempo médio de baixa de um processo judicial na Justiça Comum que passa pelas fases de conhecimento e execução, considerando apenas o 1º e 2º graus, ficou em 5 anos e 6 meses em 2017. Se o processo for uma execução de título extrajudicial no 1º grau, o tempo salta para 7 anos e 7 meses em média em 2017. Essas informações foram obtidas no Painel Justiça em Números do CNJ.
+(https://paineis.cnj.jus.br/QvAJAXZfc/opendoc.htm?document=qvw_l%2FPainelCNJ.qvw&host=QVS%40neodimio03&anonymous=true&sheet=shResumo
+DespFT).
+No Superior Tribunal de Justiça, o tempo médio dos processos baixados é de 1 ano e 2 meses, no Tribunal Superior do Trabalho é de 1 ano e 7 meses, no
+T r i b u n a l S u p e r i o r E l e i t o r a l é d e 1 a n o e 2 m e s e s e n o S u p e r i o r T r i b u n a l M i l i t a r é d e 3 m e s e s :
+(https://paineis.cnj.jus.br/QvAJAXZfc/opendoc.htm?document=qvw_l%2FPainelCNJ.qvw&host=QVS%40neodimio03&anonymous=true&sheet=shResumo
+DespFT). No Supremo Tribunal Federal, o tempo médio de tramitação dos processos pendentes é de 2 anos e 4 meses (CNJ, Supremo em ação 2018: anobase
+2017, p. 52).
+
+Justificativa para a Intervenção:
+A atuação do governo federal é muito importante para combater a crescente demanda judicial envolvendo o Estado brasileiro, com ações que levem à prevenção ou mitigação de múltiplas consequências negativas: piora no ambiente de negócios, o aumento do risco Brasil, a perda de investimento estrangeiros, o comprometimento da imagem do País, o aumento do custo da máquina pública, o prejuízo ao erário, a insegurança jurídica, a morosidade na solução dos conflitos, a cultura da impunidade e os riscos à democracia.
+O aumento de litígios judiciais também tem levado ao crescimento das despesas públicas totais da União, Estados e Distrito Federal para o seu custeio.
+Em 2017, as despesas totais do Poder Judiciário no Brasil foram de mais de R$ 90 bilhões, um crescimento de 46,6% em relação a 2009.
+
+Evolução Histórica:
+No contexto de dois programas temáticos do PPA 2016-2019, foram desempenhadas ações destinadas a mitigar o problema identificado, a saber:
+Programa 2038 – Democracia e Aperfeiçoamento da Gestão Pública, com relevância das seguintes atividades: aperfeiçoamento a defesa jurídica do Estado brasileiro em controvérsias jurídicas em foro estrangeiro; melhoria da qualidade da atuação jurídica por meio de correições presenciais e eletrônicas nos órgãos; aprimoramento dos mecanismos de identificação dos riscos de conflitos judiciais relevantes que impactam na execução das políticas públicas, visando a revisão das teses adotadas; e ampliação da participação da AGU na formulação e implementação das políticas públicas para assegurar sua conformidade jurídica; integração do Sistema AGU de Inteligência Jurídica – Sapiens aos Sistemas do Poder Judiciário; e aprimoramento do conhecimento jurídico dos servidores públicos, de forma a auxiliá-los na implementação das políticas públicas.
+No Programa 2081 - Justiça, Cidadania e Segurança Pública, as principais medidas adotadas foram: redução da litigiosidade no Poder Judiciário nas ações judiciais em que a União e suas Autarquias e Fundações figurem como partes; incentivo institucional à prática de atos administrativos em consonância com a jurisprudência pacificada no âmbito dos tribunais superiores; aperfeiçoamento das normas para conciliação, mediação, negociação e arbitragem, dispensa de apresentação de defesa e não interposição ou desistência de recurso; implantação da estrutura e mecanismos de conciliação, mediação, negociação e arbitragem previstas na nova lei de mediação.
+Outra iniciativa é a Estratégia Nacional de Não-Judicialização (ENAJUD), que trata da implantação de medidas para promover a redução dos litígios e contribuir para o acesso à justiça e para a celeridade e a efetividade de direitos e garantias fundamentais. A Estratégia está progredindo em seus objetivos, visto que em 2014 foram realizados 101.725 acordos — o que representou uma média mensal de 9.248 acordos e implicou uma economia de R$ 355,2 milhões ao erário público.
+No contexto do PPA 2020-2023 o problema foi tratado no Programa  4005 Proteção jurídica da União com o objetivo de: promover a defesa, o assessoramento e a consultoria jurídica, de forma a gerir os riscos jurídicos da atuação da União e tendo por meta aumentar em 1,0 ponto percentual ao ano a Taxa de Sucesso Judicial.
+
+
+Comparações Internacionais:
+A Comissão Europeia para a Eficiência da Justiça (CEPEJ) elabora estudos nos Estados membros da União Europeia, abrangendo aqueles em negociação, os candidatos a ingresso além de Israel e Marrocos, perfazendo um total de 48 (“European judicial systems Efficiency and quality of justice”,
+CEPEJ Studies nº 26, edição de 2018, dados de 2016). É utilizado o indicador “disposition time”, que é resultado da divisão da quantidade de casos pendentes no final do período pela quantidade de casos resolvidos, multiplicado por 365 (p. 238). Os resultados médios são divididos na seguinte forma para o ano de 2016:
+
+- Litígios civis e comerciais na 1ª instância: média de 233 dias
+- Litígios civis e comerciais na 2ª instância: média de 244 dias
+- Litígios civis e comerciais na instância máxima: média de 238 dias
+- Litígios criminais na 1ª instância: média de 138 dias
+- Litígios criminais na 2ª instância: média de 143 dias
+- Litígios criminais na instância máxima: média de 143 dias
+Nos Estados Unidos, não é utilizado um indicador geral de medição do tempo de tramitação de processos judiciais, de modo que as informações
+disponíveis são de alguns tribunais:
+- Cortes de Apelação: mediana de 5,4 a 13 meses no período de abril de 2018 a março de 2019.
+https://www.uscourts.gov/sites/default/files/data_tables/fcms_na_appsumary0331.2019.pdf
+- L i t í g i o s c i v i s e m g e r a l n a s C o r t e s D i s t r i t a i s : m e d i a n a d e 9 , 2 m e s e s e m 2 0 1 8 .
+h t t p s : / / w w w . u s c o u r t s . g o v / s i t e s / d e f a u l t / f i l e s / d a t a _ t a b l e s / j f f _ 6 . 3 _ 0 9 3 0 . 2 0 1 8 . p d f
+- Litígios criminais em geral nas Cortes Distritais: mediana de 6,6 meses em 2018.
+https://www.uscourts.gov/sites/default/files/data_tables/jff_6.3_0930.2018.pdf
+
+
+Relação com os ODS:
+ODS 16.3 - Promover o Estado de Direito, em nível nacional e internacional, e garantir a igualdade de acesso à justiça para todos
+
+Agentes Envolvidos:
+Órgãos e Entidades da Administração Pública Federal
+
+Articulação Federativa:
+Não se aplica
+
+Enfoque Transversal:
+O Programa possui atuação direta nas políticas públicas de todos os demais Órgãos
+
+Marco Legal:
+Artigo 131 da Constituição Federal, Lei Complementar nº 73/1993, Lei nº 9.028/1995, Lei nº 9.469/1997, Lei nº 9.704/1998, art. 19-D da Lei nº 10.522/2002, com redação da Medida Provisória nº 881/2019, e artigo 9º e seguintes da Lei nº 10.480/2002 e o DECRETO Nº 11.328, DE 1º DE JANEIRO DE 2023.
+
+Planos Nacionais, Setoriais e Regionais:
+Planejamento Estratégico Institucional da AGU.
+
+
+
+Objetivo Geral:
+- Promover a defesa da democracia e preservar a legitimação dos Poderes, por meio da representação da União e de suas entidades, e construir soluções inovadoras que contribuam para a segurança jurídica e a efetividade das políticas públicas.
+
+Objetivos Específicos:
+- Prestar consultoria e assessoramento jurídico proativo, propositivo e uniforme
+- Prevenir e Reduzir a Litigiosidade
+- Promover a defesa jurídica coordenada e assertiva.
+
+Indicadores de Entrega:
+- Quantidade de Acordos Celebrados: Quantidade de acordos celebrados nos processos judiciais 
+- Taxa de Análise de Processos Judiciais: Mede a taxa referente às tarefas judiciais ou jurídicas analisadas no período de apuração.  
+- Taxa de Execução: Taxa de acompanhamento da construção do imóvel sede da AGU em Fortaleza.
+Cálculo baseado no percentual de execução dividido 100% da obra entregue. 
+- Tempo Médio Estimado de Conclusão das Demandas do Consultivo: Informa o tempo médio previsto para que uma demanda seja resolvida por um órgão consultivo da AGU 
+
+Indicadores de Objetivos Específicos:
+- Taxa de Redução de Litígios: Mede a eficácia da aplicação de instrumentos destinados a abstenção e desistência de recursos judiciais bem como de abstenção de contestação e reconhecimento jurídico dos pedidos em hipóteses previstas em normas e pareceres referenciais.  
+- Taxa de Satisfação dos Órgãos e Entidades Assessorados: Busca medir a efetividade da atuação consultiva e de assessoramento jurídico prestado aos órgãos e entidades assessorados pelas unidades da AGU por meio de pesquisa de satisfação. Os destinatários da pesquisa serão os gestores dos órgãos e entidades assessorados.   
+- Taxa de Sucesso Judicial: Mede o resultado da atuação contenciosa judicial dos órgãos da AGU com o objetivo de subsidiar decisões gerenciais que permitam identificar oportunidades de melhoria a serem implementadas.

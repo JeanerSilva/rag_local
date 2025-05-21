@@ -1,0 +1,197 @@
+passage: Programa: Inovação nas Empresas para uma Nova Industrialização
+
+Descrição do Problema:
+O fenômeno da desindustrialização acelerada no Brasil tem sido um problema crescente, refletindo na diminuição da participação da indústria no PIB e seus impactos negativos no crescimento econômico e desenvolvimento regional. Neste contexto, a intervenção estatal no apoio para a modernização e inovação das indústrias e das empresas tem sido insuficientes para promover a mitigação desse fenômeno.
+
+Causa do Problema:
+A desindustrialização é um problema complexo e multicausal gerado por fatores internos e externos. No que tange à área de ciência e tecnologia, são sinalizados os pontos principais:
+1) Baixo investimento governamental em P&D: os investimentos do país em P&D tem sido baixos, comparativamente aos países desenvolvidos. Em razão da estrutura econômica e social do país, são necessários aportes robustos para dar suporte ao setor empresarial na modernização econômica e no sistema de inovação. A premissa básica é que sem ciência, não há inovação e sem inovação, não há desenvolvimento econômico. Considerando a aversão empresarial ao risco, é necessário o aporte governamental para a transformação industrail brasileira.
+2) Ausência de um alinhamento e esforço efetivo de políticas de Estado para transformar a estrutura econômica do país, alavancando o desenvolvimento tecnológico na manufatura avançada, integrada e inteligente.
+2) Baixa integração entre setores público e privado: A falta de colaboração efetiva entre universidades, instituições de pesquisa e empresas privadas limita a transferência de conhecimento e tecnologia para aplicações práticas. 
+3) Estrutura institucional e burocracia: Problemas com a gestão de instituições de pesquisa, burocracia excessiva e falta de autonomia prejudicam a eficiência e a inovação científica.
+4) Pouca ênfase em pesquisa aplicada e inovação: A falta de foco em pesquisa aplicada e inovação pode levar a uma menor transferência de tecnologia para a indústria e a sociedade.
+5) Desafios para a criação e consolidação de empresas inovadoras de base tecnológica, incluindo apoio por meio de incubadoras.
+6) Baixo investimento empresarial em P&D e inovação.
+7) Baixo percentual de empresas que implemnetaram inovações de produto e/ou processo.
+
+Evidências do Problema:
+Algumas evidências:
+1) Baixo investimento em P&D: Segundo dados de 2020, os dispêndios nacionais em pesquisa e desenvolvimento (P&D) (Em bilhões de US$ correntes de PPC) é de 36,8 bi (muito longe dos 144,4 da Alemanha, 720,9 dos EUA); o percentual desse dispêndio em relação ao PIB é de 1,14% (sendo 0,62% oriundo do governo) (longe dos percentuiais da Alemanha de 3,13% e 3,45% dos EUA); No período entre 2013 e 2019, os países membros da OCDE investiram, em média, 2,4% do PIB em P&D. No mesmo período, o Brasil destinou para P&D uma média de 1,2% do PIB. Embora o crescimento do dispêndio nacional tenha mostrado evolução nas últimas décadas, ele não foi suficiente para reduzir a defasagem em relação aos países centrais e propiciar as ações exigida por um país nas dimensões do Brasil. Nesse período, enquanto outras economias emergentes, como China e Coreia do Sul, mudaram sua estrutura de C&T, o Brasil manteve sua posição relativa em termos de participação na matriz mundial. Na comparação de dispêndios em P&D per capta entre países selecionados, o Brasil só supera a África do Sul e a Índia, ficando atrás de Rússia e China e mais distante ainda da Alemanha, Coreia e Estados Unidos. A análise dos dispêndios empresariais em C&T nos últimos 20 anos mostra-se baixa, vindo em tendência decrescente, reforçando sua natureza econômica pró-cíclica. Essa realidade se confirma quando se compara o Brasil a países como Coreia e China que, proporcionalmente, possuem maiores investimentos do setor empresarial que do governo. Entretanto, a experiência internacional mostra que, sem aportes públicos, não existe investimento privado.  Portanto, a economia brasileira que foi estimulada pelo apoio público à inovação entre 2009 e 2014, sentiu os efeitos da redução dos aportes estatais entre 2015-2017.  A manutenção de investimentos em P&D como despesas primárias discricionárias reduz o potencial de expansão do setor na economia brasileira em razão da limitação de gastos do Poder Executivo.
+2) Ausência de um alinhamento e esforço efetivo de políticas de Estado para transformar a estrutura econômica do país: Quando há a avaliação dos esforços de países como EUA, China, Alemanha e Japão, observa-se o papel central do Estado em alcançar objetivos específicos para alavancarem o setor industrial (manufatura avançada) e os colocarem como referência mundial na conquista das externalidades positivas do desenvolvimento tecnológico. Falta ao Brasil o direcionamento estratégico do desenvolvimento industrial tecnológico a fim de atingir um desafio nacional que o reposicione diante de vantagens já existentes (no Mercosul, BRICs) e em setores que garantam autonomia estratégica a fim de se prevenir contra choques e crises externas (a exemplo de insumos farmacêuticos, adubos e fertilizantes químicos, petróleio e minerais refinados). Há que se ir além de propostas em medidas econômicas, lançando efetivo esforço de transformação social com base no desenvolvimento tecnológico, por meio da rede de inovação integrada na indústria-universidade-governo-sociedade. 
+3) Baixa integração entre setores público e privado: Rauen (2016) afirma que a interação entre ICT-empresa no país permanece tímida e que a infraestrutura de pesquisa é incapaz de prover, na interação com o mercado, os resultados necessários para a produção de novas tecnologias e serviços que gerem a dinamização da economia nacional. O diagnóstico proferido é de que não obstante haja o estímulo ao engajamento dos entes públicos em atividades de inovação com empresas, não houve alteração da dinâmica da pesquisa no país, que produz conhecimento por meio de linhas de pesquisa dissociadas dos interesses do setor empresarial/econômico.
+4) Relação entre produção científica e inovação: O Brasil não conseguiu estabelecer uma posição de destaque no cenário mundial como potência inovadora. Apesar de ser o 11º país em número de publicações acadêmicas, 12ª economia mundial, é o  54º no Índice Global de Inovação (GII), entre 132 nações. Ou seja, ocupa-se uma posição de destaque no mundo em volume de produção científica, mas esse conhecimento não é revertido em inovação.
+5) Estrutura institucional e burocracia: Problemas com a gestão de instituições de pesquisa, burocracia excessiva e falta de autonomia podem prejudicar a eficiência e a inovação científica. Yigitcanlar et al. (2019), aponta burocracia no processo para as empresas se candidatarem aos incentivos. Haddad e Maldonado (2017) constatam que diversas empresas utilizam apenas recursos privados no desenvolvimento de produtos em razão do excesso de burocracia na obtenção de incentivos públicos. Marques, Yigitcanlar e Costa (2015) assevera que somente as empresas habituadas com o funcionamento do sistema conseguem fazer uso desses incentivos. Alon e Godinho (2016) constatam que pequenas e médias empresas encontram dificuldades em obter orientações sobre como obter os incentivos e não possuem, muitas vezes, o conhecimento sobre a lei, impossibilitando a utilização dos benefícios
+6) Pouca ênfase em pesquisa aplicada e inovação:  Há que se considerar a distribuição do percentual dos pesquisadores envolvidos em P&D em tempo integral por setor. Dados de 2014 apontam que 26,1% estão em empresas (na Alemanha são 56,3%, na China são 62,1%, na Coreia, 79,5%), 3,3% no governo (na Alemanha 15%, na China 19,4%, na Coreia 7,2%), 69,9% no ensino superior (18,5% na China,  28,7% na Alemanha, 12,1% na Coreia) e 0,7% em entidades privadas sem fins lucrativos (1,2% da Coreia, 1,3% do Japão). Dados de 2017 mostram que  o percentual de inovação das empresas que implementaram inovações de produto e/ou processo foi de 33,6%, destacando que o setor de eletrecidade e gás teve índice redizido de 44,1% em 2011 para 28,4% em 2017. A indústria e serviços mantiveram-se em torno de 30%. O alcance da política é pequeno 116.962 empresas (102.514 indústrias, 13.854 serviços e 594 eletrecidade e gás). 
+7) Baixa integração entre setores público e privado: A falta de colaboração efetiva entre universidades, instituições de pesquisa e empresas privadas pode limitar a transferência de conhecimento e tecnologia para aplicações práticas. A interação entre ICT-empresa no país permanece tímida e a infraestrutura de pesquisa é incapaz de prover, na interação com o mercado, os resultados necessários para a produção de novas tecnologias e serviços que gerem a dinamização da economia nacional. O diagnóstico proferido é de que não obstante haja o estímulo ao engajamento dos entes públicos em atividades de inovação com empresas, não houve alteração da dinâmica da pesquisa no país, que produz conhecimento por meio de linhas de pesquisa dissociadas dos interesses do setor empresarial/econômico (Rauen, 2016).
+8) desafios inerentes à criação e consolidação de empresas inovadoras de base tecnológica, incluindo apoio por meio de incubadoras: Beltrami, souza e Oliveira (2019) constatam que os maiores desafios das incubadoras referem-se à transferência de tecnologia (TT), à falta de suporte institucional, de regulamentações e suporte financeiro. Ademais, há elevada taxa de desistência do procedimento de incubação e pouca procura. De acordo com a Global Entrepreneuship Monitor (GEM) 2009, divulgada pelo Serviço Brasileiro de Apoio às Micro e Pequenas Empresas (Sebrae), apenas 0,6% das micro e pequenas empresas brasileiras são inovadoras.
+9) Baixo investimento empresarial em P&D: O percentual do dispêndio nacional em P&D financiado por empresas no Brasil,  em 2019, foi de 48,9%, muito aquém de países como China (76,3%), Coreia (76,9%), EUA (65,5), Alemanha (64,5%). Em relação ao PIB, corresponde a 0,59% ( na China é 1,7%; na Coreia 3,56%; nos EUA, 2,08% e Alemanha 2,04%).     
+10)  Baixo percentual de empresas que implementaram inovações de produto e/ou processo. Dados mostram que entre 1998 e 2017, o percentual do número de empresas que inovaram em comparação com o número toral de empresas ficou entre 31,9 e 38,4%, sendo esse ápice ocorrido entre 2006-2008. O dispêndio em atividades inovativascomo percentual da receita líquida de vendas da indústria de transforação vem caindo acentuadamente (em 2003, chegava a 3,9%, em 2017, o valor foi de 1,7%). Os dados de participação regional de empresas inovadoras  refletem a desigualdade do país, uma vez que os índices maiores estão no eixo Sul, Sudeste. 
+11) Impacto negativo do Acordo UE-Mercosul (2019) que restringe as compras governamentais, representando risco nos setores em que o Brasil é mais competitivo, estabelecendo assimetrias entre países e prejudicando o polo menos desenvolvido no fluxo do comércio.
+
+Justificativa para a Intervenção:
+A justificativa para a intervenção do Estado na política industrial reside na longa tradição histórica de governos que promovem atividades econômicas críticas para a segurança nacional, o bem-estar econômico e a prosperidade geral. A intervenção do estado visa subsidiar e proteger os estabelecimentos manufatureiros nascentes, expandindo o setor manufatureiro para aumentar o bolo econômico geral por meio da criação de empregos, avanços tecnológicos e retornos crescentes à escala. Além disso, o ressurgimento da política industrial é impulsionado pela necessidade de medidas proativas para enfrentar a desigualdade e as mudanças climáticas e a urgência de revigorar a inovação e as capacidades industriais. Com os governos inevitavelmente engajados na política industrial, é imperativo que eles atuem de forma deliberada e consciente, utilizando novos entendimentos e políticas de melhores práticas que visem externalidades de bons empregos, abranjam setores de serviços e empresas menores e empreguem arranjos de governança colaborativa para resultados efetivos . A abordagem política proposta deve ser complementada por medidas regulatórias, de seguro social e macroeconômicas, reconhecendo que as políticas industriais por si só não podem criar uma economia inclusiva e de bons empregos e que outros objetivos como transição climática, inovação e resiliência da cadeia de suprimentos também requerem atenção.
+A importância da  participação do MCTI no processo de reindustrialização é o suporte do estímulo à inovação à política industrial, com a finalidade de fortalecer as áreas de pesquisa e produção de conhecimento aplicado às atividades econômicas por meio do fomento da colaboração entre ICT-empresa, estímulo a projetos e empresas inovadoras, fomento de atividades de P&D nas empresas.
+Pelas razões expostas, impulsionar a ciência e inovação é peça fundamental para a promoção do crescimento econômico, alicerçado em nova base industrial e tecnológica. O país necessita de uma política de Estado, superando ações incrementais de manobras às restrições econômicas (teto de gastos, taxa de juros alta, alta volatilidade cambial, financeirização) e produtivas (déficit educacional e tecnológico, desestruturação das capacidades estatais). Ademais, a intervenção governamental deve conduzir a  inovação para setores estratégicos e agendas globais (mudança climática, transformação digital, transição energética, objetivos do desenvolvimento sustentável) a fim de garantir a autonomia, a soberania e o desenvolvimento oriundo dos ganhos com o crescimento econômico.
+
+Evolução Histórica:
+O grau de industrialização no Brasil passou de um máximo de 35,9%, em 1985, para 9,8%, em 2013. A literatura internacional aponta que, nos países em desenvolvimento, essa redução ocorre em razão do conjunto de políticas econômicas adotadas a partir dos anos 1990, influenciadas em grande medida pelos ditames neoliberais presentes no Consenso de Washington, a exemplo do processo de abertura comercial e financeira e a saída do Estado na economia. Entre 1930 e 1980, o Estado brasileiro adotou a estratégia da industrialização pela substituição de importações. Na década de 80, em razão de mudanças na política monetária estadunidense, houve uma grande crise da economia internacional, que gerou impacto negativo na economia brasileira, que estiveram aliadas ao ideário neoliberal, definidor dos novos rumos do papel do Estado na economia. O crescimento anual médio da indústria de transformação foi de apenas 0,9% na década de 1980 e 1,7% entre 1990 e 2004. A participação da indústria de transformação no PIB caiu de 27,3% em 1986 para 11,3% em 2018, atingindo o índice mais baixo da história desde 1948, quando a participação era de pouco mais de 16%. O Brasil tem apresentado nas últimas décadas uma trajetória focada no seu processo produtivo de commodities primárias, de produtos de baixa intensidade tecnológica e intensivos em recursos naturais, destinadas à exportação (60% das exportações). Se comparado ao comércio mundial, as exportações de produtos de média e alta tecnologia respondem exatamente por este percentual (60%).
+No que tange a evolução das políticas de ciência e tecnologia no Brasil, o historiador Paulinyi (1986), classifica quatro fases:1)“nucleação aleatória de competências” (até 1950) - caracterizada pela ausência de políticas e estratégias governamentais em C&; as instituições foram criadas sem uma visão sistêmica, mas para atender peculiaridades nacionais e emergências conjunturais e são poucos os pesquisadores formados no país e no exterior e, geralmente, ocorre por iniciativa própria dos indivíduos; 2)“nucleação programada” (1951 – 1980) - criação de uma base de apoio estatal a C&T, em especial pela criação do CNPq, da CAPES, da FINEP; 3)“crescimento e interação mútua” (anos 80 até a virada do século) - maior interação entre os diversos atores do cenário científico e tecnológico brasileiro, marcada pela criação, em 1985, do Ministério da Ciência e Tecnologia (MCT), que absorveu em sua estrutura a FINEP, o CNPq e suas unidades de pesquisa; contou com a inserção de dois artigos referentes à C&T na Constituição Federal (inciso IX do art. 5º e art. 218 da CF); também houve a aprovação da  Lei n.9.478/1977 que destinou um percentual dos royalties sobre a produção de petróleo para o MCT, originando os Fundos Setoriais que incrementariam os recursos do FNDCT; pela Lei da Inovação (Lei 10.973/2004); e, pela  “Lei do Bem ” (Lei 11.196/2005), que fundamentaram uma nova modalidade de subvenção econômica, prevendo o financiamento não reembolsável às empresas; e, 4) a atual fase de “amadurecimento” (Século XXI) - arcabouço institucional e regulatório robusto e completo na área de CT&I, permitindo que estratégias sejam formuladas para o aperfeiçoamento contínuo do sistema, tendo como foco a produção científica que avança a fronteira do conhecimento e a geração de inovações de produtos, processos e serviços, intensificando-se o relacionamento internacional. Estas estratégias são expressas nos Plano de Ação para a Ciência, Tecnologia e Inovação 2007-2010 (PACTI 2007-2010) e nas duas edições da Estratégia Nacional de Ciência, Tecnologia e Inovação (2012-2015 e 2016-2022). Mais recentemente, o Marco Legal de CT&I (Decreto nº 9.283/2018) foi sancionado para atender dispositivos da Lei nº 13.243/2016 que necessitavam de regulamentação, alterando nove leis para criar um ambiente mais favorável à pesquisa, desenvolvimento e inovação nas universidades, nos institutos públicos e nas empresas: Lei de Inovação, Lei das Fundações de Apoio, Lei de Licitações, Regime Diferenciado de Contratações Públicas, Lei do Magistério Federal, Lei do Estrangeiro, Lei de Importações de Bens para Pesquisa, Lei de Isenções de Importações e Lei das Contratações Temporárias. 
+
+
+Comparações Internacionais:
+Conforme dados da Confederação Nacional da Indústria (CNI), a participação do Brasil na produção industrial mundial vem em trajetória de queda desde 2009, caindo de 1,24%, em 2018, para 1,19%, em 2019, levando o país a ocupar a 16ª posição.
+Destaca-se, também, a comparação entre Brasil e o Mundo no que tange ao percentual do PIB da manufatura a preços constantes de 2010. Os dados revelam que enquanto o Mundo apresenta o percentual médio de 17%, que manteve-se estável entre 2010 e 2018, o Brasil apresenta queda neste período, saindo da casa dos 15% para 13%. No caso brasileiro é importante destacar que o percentual da manufatura no PIB chegou a 22% entre 1970 e 1980, caindo paulatinamente na década de 1980 até os dias atuais.
+No âmbito da inovação, o Brasil ocupa a 54ª posição no Índice Global de Inovação, entre 132 países, embora seja o 11º país em número de publicações acadêmicas e o 12ª economia mundial. 
+O percentual do dispêndio nacional em P&D financiado por empresas no Brasil,  em 2019, foi de 48,9%, muito aquém de países como China (76,3%), Coreia (76,9%), EUA (65,5), Alemanha (64,5%). Em relação ao PIB, corresponde a 0,59% ( na China é 1,7%; na Coreia 3,56%; nos EUA, 2,08% e Alemanha 2,04%). 
+Quanto a distribuição do percentual dos pesquisadores envolvidos em P&D em tempo integral por setor, os dados de 2014 apontam que 26,1% estão em empresas (na Alemanha são 56,3%, na China são 62,1%, na Coreia, 79,5%), 3,3% no governo (na Alemanha 15%, na China 19,4%, na Coreia 7,2%), 69,9% no ensino superior (18,5% na China,  28,7% na Alemanha, 12,1% na Coreia) e 0,7% em entidades privadas sem fins lucrativos (1,2% da Coreia, 1,3% do Japão).
+Como resultado das mudanças do comércio, da produção, da concorrência e da inovação em termos globais, as cadeias de valor passaram a se fragmentar geograficamente. Os países avançados terceirizam a produção e ampliam seus dispêndios em P&D.
+
+Relação com os ODS:
+Objetivo 9 - Indústria, Inovação e Infraestrutura - Construir infraestrutura resiliente, promover a industrialização inclusiva e sustentável, e fomentar a inovação 9.2 - Promover a industrialização inclusiva e sustentável e, até 2030, aumentar significativamente a participação da indústria no emprego e no produto interno bruto, de acordo com as circunstâncias nacionais, e dobrar sua participação nos países de menor desenvolvimento relativo 9.3 - Aumentar o acesso das pequenas indústrias e outras empresas, particularmente em países em desenvolvimento, aos serviços financeiros, incluindo crédito acessível e propiciar sua integração em cadeias de valor e mercados 9.4 - Até 2030, modernizar a infraestrutura e reabilitar as indústrias para torná-las sustentáveis, com eficiência aumentada no uso de recursos e maior adoção de tecnologias e processos industriais limpos e ambientalmente adequados; com todos os países atuando de acordo com suas respectivas capacidades 9.5 - Fortalecer a pesquisa científica, melhorar as capacidades tecnológicas de setores industriais em todos os países, particularmente nos países em desenvolvimento, inclusive, até 2030, incentivando a inovação e aumentando substancialmente o número de trabalhadores de pesquisa e desenvolvimento por milhão de pessoas e os gastos público e privado em pesquisa e desenvolvimento
+
+Agentes Envolvidos:
+Agentes Envolvidos:  
+Secretarias e Instituições vinculadas ao MCTI:
+Secretaria de Desenvolvimento Tecnológico e Inovação (SETEC);
+Secretaria de Políticas e programas Estratégicos (SEPPE);
+Secretaria de Ciência e Tecnologia para Transformação Digital (SETAD);
+Secretaria de Ciência e Tecnologia para o Desenvolvimento Social (SEDES)
+Financiadora de Estudos e Projetos (FINEP);
+Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq);
+Empresa Brasileira de Pesquisa e Inovação Industrial (EMBRAPII);
+Instituições externas ao MCTI:
+Agência Brasileira de Desenvolvimento Industrial (ABDI)
+Banco Nacional de Desenvolvimento Econômico e Social (BNDES)
+Fundações Estaduais de Amparo à Pesquisa (FAPs)
+Conselho Nacional das Fundações Estaduais de Amparo à Pesquisa (CONFAP)
+Secretarias Estaduais de Ciência, Tecnologia e Inovação
+Conselho Nacional de Secretários para Assuntos de Ciência Tecnologia e Inovação
+Sistema S
+Serviço Nacional de Aprendizagem Industrial (SENAI)
+Serviço Brasileiro De Apoio Às Micro E Pequenas Empresas (SEBRAE)
+Movimento Empresarial Pela Inovação (MEI)                                                                                                                                                                 
+Confederação Nacional da Indústria (CNI)
+Bancos Regionais de Desenvolvimento Econômico
+Associações Setoriais
+
+Articulação Federativa:
+Iniciativas de Apoio as demais Políticas Setoriais
+
+Enfoque Transversal:
+Agenda Transversal:
+6) Verde.
+
+Marco Legal:
+Emenda Constitucional n° 85, de 26 de fevereiro de 2015 (Inclusão do conceito de inovação na constituição federal);
+Lei n° 13.243, de 11 de janeiro de 2016 (Novo Marco Legal da Ciência, Tecnologia e Inovação);
+Decreto n° 9.283, de 07 de fevereiro de 2018 (Regulamentação do Novo Marco Legal da Ciência, Tecnologia e Inovação);
+Lei n° 10.973, de 02 de dezembro de 2004 (Lei da Inovação);
+Lei n° 11.196, de 21 de novembro de 2005 (Lei do Bem);
+Decreto-Lei nº 719 de 1969 (Criação do Fundo Nacional de Desenvolvimento Científico e Tecnológico – FNDCT);
+Lei n.º 11.540, de 12 de novembro de 2007 (Regulamentação do FNDCT);
+Decreto nº. 6.938, de 13 de agosto de 2009 (Regulamentação do FNDCT);
+Lei Complementar n° 167, de 24 de abril de 2019 (Lei do Simples Nacional, que facilita a abertura de start-Up);
+Lei Complementar n° 177, de 12 de janeiro de 2021 (Lei de descontingenciamento do FNDCT);
+Portaria MCTI nº 6.998, de 10 de maio de 2023 (estabelece diretrizes para a elaboração da ENCTI 2023-2030).
+
+Planos Nacionais, Setoriais e Regionais:
+Estratégia Nacional de Ciência, Tecnologia e Inovação
+Plano de Ciência, Tecnologia e Inovação para Manufatura Avançada no Brasil (ProFuturo - Produção do Futuro) (MCTI, 2017).
+Plano Nacional de Internet das Coisas (MCTI, 2017).
+Plano Nacional de Mineração 2030 (MME, 2011).
+Plano Nacional Fertilizantes 2050 (Secretaria Especial de Assuntos Estratégicos, 2021).
+Plano Decenal de Expansão de Energia 2032.
+Plano Nacional de Eficiência Energética.
+Plano Nacional de Energia 2030. 
+Programa Nacional de Produção e Uso de Biodiesel (PNPB).
+Programa Nacional de Hidrogênio (PNH2).
+Portaria MCTI n° 6.100/2022, institui a Iniciativa Brasileira do Hidrogênio (IBH2).
+Portaria MCTI n° 6101/2022, institui o Sistema Brasileiro de Laboratórios de Hidrogênio (SisH2-MCTI).
+Portaria n° 6.022/2022, institui o Programa InovaNióbio-MCTI.
+Portaria MCTI nº 4.082/2018, Institui o Programa Nacional de Apoio à Geração de Empreendimentos Inovadores (Programa Centelha)
+Portaria MCTI nº 6.762/2019, Institui o Programa Nacional de Apoio aos Ambientes Inovadores (PNI) Portaria MCTI nº 4.680/2021
+Portaria MCTI nº 5.365/2021, Dispõe sobre a Política de Desenvolvimento Científico, Tecnológico e Inovação para Tecnologias Habilitadoras, no âmbito do MCTI.
+Portaria MCTI nº 3.459/2019, Institui a Iniciativa Brasileira de Nanotecnologia.
+Portaria MCTI nº 245/2012, Institui o Sistema Nacional de Laboratórios em Nanotecnologias (SisNANO).
+Decreto nº 10.746/2021, Institui a Política de Ciência, Tecnologia e Inovação de Materiais Avançados e o Comitê Gestor de Materiais Avançados.
+Portaria MCTI nº 4.964/2021, Institui o Programa de Inovação em Grafeno.
+Portaria GABMI nº 4.530/2021, Institui o Sistema Nacional de Laboratórios de Fotônica.
+Portaria Nº 4.532/2021, Institui a Iniciativa Brasileira de Fotônica.
+Decreto nº 10.095/2019, Comitê Consultivo de Nanotecnologia e Novos Materiais.
+Decreto nº 10.137/2019, Comitê Consultivo de Fotônica.
+Portaria MCTI nº 6.998/2023, estabelece as diretrizes para a elaboração da ENCTI 2023 a 2030.
+
+Objetivo Geral:
+- Promover e apoiar o desenvolvimento tecnológico e a inovação nas empresas nacionais, com foco em projetos que alavanquem a industrialização do País por meio da promoção de atividades que adicionem valor à produção nacional
+
+Objetivos Específicos:
+- Incentivar a colaboração entre ICTs e empresas para o desenvolvimento tecnológico e o aumento do conteúdo de inovação nacional
+- Ampliação dos investimentos em P&D.
+- Ampliar o custo-efetividade dos incentivos fiscais à PD&I (geridos pelo MCTI) nas empresas nacionais
+- Incentivar o desenvolvimento de ambientes inovadores e o empreendedorismo inovador
+- Fomentar a transformação digital, a capacitação digital, a estruturação e a expansão da utilização de TICs nos complexos industriais estratégicos para o desenvolvimento nacional
+- Fomentar o desenvolvimento e a autonomia na produção de semicondutores, com ênfase na redução da dependência externa tecnológica e na redução do desequilíbrio da balança comercial, visando o fortalecimento da capacidade tecnológica nacional, mediante investimentos em pesquisa, infraestrutura e formação de profissionais qualificados.
+
+Indicadores de Entrega:
+- Ampliação de investimento em PD&I como incentivo da Lei de TICs: Ampliação de investimento em PD&I como incentivo da Lei de TICs
+
+ 
+- Evolução dos recursos de subvenção econômica: Recursos de subvenção econômica liberados para empresas .
+
+ 
+- Incremento dos Investimentos de Subvenção Econômica e Encomendas em Defesa Química, Biológica, Radiológica e Nuclear (DQBRN): O apoio à inovação por meio de subvenção econômica é uma estratégia eficaz para estimular a realização de parcerias entre instituições de pesquisa, como as ICTs, e empresas. Esse tipo de incentivo financeiro desempenha um papel fundamental para impulsionar o desenvolvimento de projetos inovadores, aproximando o conhecimento científico-tecnológico do setor produtivo. Sendo assim, é primordial apoiar a inovação nas empresas por meio de Chamadas públicas de apoio ao desenvolvimento de base tecnológica e à inovação, incluindo subvenção econômica, buscando sempre estimular a realização de parceiras com ICTs para projetos de Defesa Química, Biológica,Radiológica e Nuclear (DQBRN).
+ 
+- Incremento dos investimentos de Subvenção Econômica e Encomendas em Tecnologias de Defesa para a Base Industrial de Defesa e Segurança: O apoio à inovação por meio de subvenção econômica é uma estratégia eficaz para estimular a realização de parcerias entre instituições de pesquisa, como as ICTs, e empresas. Esse tipo de incentivo financeiro desempenha um papel fundamental para impulsionar o desenvolvimento de projetos inovadores, aproximando o conhecimento científico-tecnológico do setor produtivo. Sendo assim, é primordial apoiar a inovação nas empresas por meio de Chamadas públicas de apoio ao desenvolvimento de base tecnológica e à inovação, incluindo subvenção econômica, buscando sempre estimular a realização de parceiras com ICTs para projetos de Tecnologias de Defesa. 
+- Incremento dos Investimentos de Subvenção Econômica e Encomendas para projetos de aeronaves demonstradoras de tecnologias: O apoio à inovação por meio de subvenção econômica é uma estratégia eficaz para estimular a realização de parcerias entre instituições de pesquisa, como as ICTs, e empresas. Esse tipo de incentivo financeiro desempenha um papel fundamental para impulsionar o desenvolvimento de projetos inovadores, aproximando o conhecimento científico-tecnológico do setor produtivo. Sendo assim, é primordial apoiar a inovação nas empresas por meio de Chamadas públicas de apoio ao desenvolvimento de base tecnológica e à inovação, incluindo subvenção econômica, buscando sempre estimular a realização de parceiras com ICTs para projetos de Plataformas Demonstradoras de Novas Tecnologias Aeronáuticas. 
+- Incremento dos Investimentos de Subvenção Econômica e Encomendas para projetos de artefatos espaciais: O apoio à inovação por meio de subvenção econômica é uma estratégia eficaz para estimular a realização de parcerias entre instituições de pesquisa, como as ICTs, e empresas. Esse tipo de incentivo financeiro desempenha um papel fundamental para impulsionar o desenvolvimento de projetos inovadores, aproximando o conhecimento científico-tecnológico do setor produtivo. Sendo assim, é primordial apoiar a inovação nas empresas por meio de Chamadas públicas de apoio ao desenvolvimento de base tecnológica e à inovação, incluindo subvenção econômica, buscando sempre estimular a realização de parceiras com ICTs para projetos de artefatos de exploração espacial e suas aplicações. 
+- Número de ecossistemas de inovação apoiados: Edital de Cidades Inteligentes;
+Edital de Parques Tecnológicos;  e
+Edital de Centros de Inovação.
+ 
+- Número de empresas/projetos de PD&I apoiados: Projetos apoiados no âmbito do Programa Tecnova 
+- Número de empresas/projetos de PD&I apoiados: Projetos apoiados no âmbito dos Programas Centelha, Conecta Startup-BR e outras iniciativas semelhantes.
+ 
+- Número de ICTs com Núcleo de Inovação Tecnológica instituído: Número de ICTs com Núcleo de Inovação Tecnológica instituído 
+- Número de ICTs com Política de Inovação implementada: Número de ICTs com Política de Inovação implementada
+ 
+- Número de jovens e mulheres capacitadas: Apoio a programas de letramento digital / eletrônico e formação em tecnologias computacionais voltada para a indústria 4.0 que contemplem jovens e mulheres, residentes nas zonas rurais e nas periferias urbanas, possibilitando a inserção no mundo da comunicação digital e do trabalho de base científico-tecnológico e emancipação social e econômica.
+
+Total de jovens e mulheres de baixa renda capacitados na zona rural e periferias urbanas com perspectiva de inserção no mundo do trabalho contemporâneo.
+ 
+- Número de mecanismos de geração de empreendimentos apoiados: Edital de Laboratórios Abertos de Prototipagem e Editais de Incubadoras/aceleradoras 
+- Número de profissionais de nível superior em P&D nas empresas incentivadas pela Lei de TICs: Trata-se do acompanhamento do quantitativo de recursos humandos capacitados por meio de programa apoiado pela Lei de TICs, para atuarem com a demanda de TICs.
+ 
+- Número de projetos cooperativos ICTs e empresas apoiados: Considerando que as ICTs possuem papel fundamental no avanço científico, tecnológico e na inovação, o apoio direto a essas instituições beneficia o acesso, pelas empresa, à tecnologia e conhecimento de ponta que podem impulsionar o processo de reindustrialização do país. Ainda, o apoio à ICTs facilita a transferência de tecnologia e conhecimento para as empresas, permitindo que elas incorporem avanços tecnológicos em seus processos, produtos e serviços, além de diminui os custos de pesquisa e desenvolvimento das empresas, uma vez que a as ICTs já possuem estrutura e recursos humanos especializados. Sendo assim, é primordial incentivar as ICTs a realizarem projetos de desenvolvimento tecnológico e inovação com empresas, em especial nas temáticas de nanotecnologia, fotônica, materiais avançados, tecnologias quânticas, energias renováveis e biocombustíveis, transportes, recursos minerais, petróleo e gás, água e saneamento. Tais incentivos tem sido feito principalmente por meio de Encomendas, Chamadas Públicas e do apoio a laboratórios multiusuários, de acesso aberto a usuários públicas e privados, incluindo empresas, tais como, Sistema Nacional de Laboratórios em Nanotecnologias (SisNANO), Sistema Nacional de Laboratórios de Fotônica (Sisfóton-MCTI), Sistema Nacional de Laboratórios de Hidrogênio (SisH2), dentre outros 
+- Número de soluções desenvolvidas: Projetos apoiados via chamadas públicas, realizados com recursos do FNDCT ou do PPI.
+ 
+- Número de startups aceleradas lideradas por mulheres: Programa Mulheres Inovadoras.
+ 
+- Número de startups na área de saúde fomentadas: A contagem de startups novas no setor de saúde pode indicar o nível de interesse e atividade empreendedora na área. 
+- Percentual de projetos de subvenção direta que tem participação de ICTs: Percentual de projetos de subvenção direta contratados no ano que, pela Relação de Itens Original, contém repasses a ICTs. 
+- Quantidade de beneficiários/ano de bolsas vinculadas a projetos de PD&I em empresas: Essas bolsas representam um mecanismo fundamental para apoiar e incentivar a participação de estudantes, pesquisadores e profissionais no desenvolvimento de atividades de pesquisa de alto nível e na criação de um ambiente propício à inovação. Alguns dos principais motivos pelos quais o número de beneficiários de bolsas de PD&I é relevante são: a) Formação de talentos; b) Ampliação da base de pesquisadores; c) Fomento à pesquisa aplicada; d) Aumento da produtividade científica; e) Fortalecimento da pesquisa em diferentes regiões; f) Estímulo à inovação empresarial; g) Melhoria na competitividade do país.
+ 
+- Valor adicionado bruto no complexo industrial-tecnológico - DEFESA e SEGURANÇA: Mede o valor agregado do complexo industrial-tecnológico do setor de defesa e segurança , destacando a contribuição específica para o Produto Interno Bruto (PIB) do país, permitindo analisar a produtividade e eficiência da indústria tecnológica do setor, bem como seu papel no crescimento econômico geral. 
+- Valor adicionado bruto no complexo industrial-tecnológico - ENERGIA: Mede o valor agregado do complexo industrial-tecnológico do setor de energia , destacando a contribuição específica para o Produto Interno Bruto (PIB) do país, permitindo analisar a produtividade e eficiência da indústria tecnológica do setor, bem como seu papel no crescimento econômico geral. 
+- Valor adicionado bruto no complexo industrial-tecnológico - SAÚDE: Valor adicionado bruto no complexo industrial-tecnológico - SAÚDE 
+- Valor a mais investido em relação à contrapartida exigida pela Lei do Bem: Somatório dos valores do investimento privado realizado em P,D&I, associado aos incentivos fiscais acompanhados pelo MCTI.
+
+
+ 
+- Valor médio em projetos de pesquisa científica e tecnológica em colaboração entre ICTs e empresas: A linha de base igual a zero é devido há não ter ainda havido exemplos de chamadas para projetos tecnológicos incluindo apenas recursos para custeio e capital, excetuando bolsas.
+ 
+
+Indicadores de Objetivos Específicos:
+- Evolução da proporção do faturamento em bens com tecnologia nacional em relação ao faturamento auferido pela indústria com bens incentivados, no âmbito da Lei de TICs (Lei no 8.248, de 1991): Percentual do faturamento em bens com reconhecimento de tecnologia nacional versus o faturamento dos demais bens incentivados pela Lei de TICs.
+
+
+ 
+- Evolução do valor de investimentos em P,D&I relacionados aos instrumentos de incentivos fiscais geridos pelo MCTI: Evolução do valor de investimentos em PD&I relacionados aos instrumentos de incentivos fiscais geridos pelo MCTI
+
+
+
+
+ 
+- Percentual do valor da subvenção direta repassado a ICTs: Percentual do valor das subvenções diretas contratadas no ano que, pela Relação de Itens Original do projeto, será repassado a ICTs. 
+- Quantidade de componentes semicondutores produzidos: Desenvolvimento e manufatura de produtos e aplicações em semicondutores; manutenção das instalações da fábrica e a operação da linha de produção; identificação e atendimento de demandas de mercado, promovendo o desenvolvimento de circuitos integrados de aplicação específica; fornecimento de soluções em microeletrônica, incorporando em seus produtos componentes semicondutores desenvolvidos no País; promoção e atração de investimentos em projeto e fabricação de circuitos integrados no Brasil; apoio à formação e capacitação de recursos humanos especializados em projeto e processo de fabricação de circuitos integrados; estímulo às atividades de pesquisa, desenvolvimento e inovação, em parceria com universidades, centros de pesquisa e empresas, nacionais e internacionais promovendo o aperfeiçoamento da cadeia produtiva. 
+- Valor adicionado bruto nos complexos industriais-tecnológicos: Mede o valor agregado pelos complexos industriais-tecnológicos, destacando a contribuição específica para o Produto Interno Bruto (PIB) do país, permitindo analisar a produtividade e eficiência da indústria tecnológica, bem como seu papel no crescimento econômico geral. 
+- Valor total investido em ações de fomento aos ambientes inovadores e ao empreendedorismo inovador: Valor total investido em programas, projetos e iniciativas voltadas ao fomento de ambientes de inovação e ao estímulo ao empreendedorismo inovador, por meio das seguintes linhas de ação: 1. Apoio à criação e ao desenvolvimento de startups e empresas de base tecnológica; 2. Apoio descentralizado à P,D&I em empresas de base tecnológica/startups com faturamento anual de até R$ 16 milhões; 3. Apoio à P,D&I nas empresas e incentivo à incorporação de pesquisadores; 4. Apoio ao fortalecimento de ecossistemas de inovação (parques tecnológicos, centros de inovação, cidades inteligentes etc.); 5. Apoio a mecanismos de geração de empreendimentos inovadores (incubadoras, aceleradoras, hubs, laboratórios de prototipagem etc.); 6. Incentivo à representatividade feminina no empreendedorismo inovador.

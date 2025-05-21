@@ -1,0 +1,124 @@
+passage: Programa: Comunicação Pública e Governamental
+
+Descrição do Problema:
+Falta de recursos para melhorar a infraestrutura física e de tecnologia da informação que possibilite à Imprensa Nacional levar o Diário Oficial da União a todos os rincões do País de forma célere, segura e certificada digitalmente, bem como divulgar o acervo cultural.
+Na área gráfica, também faltam investimentos que otimizem a prestação de serviços gráficos estratégicos para a melhor comunicação dos programas sociais governamentais.
+Além disso, atualmente existe uma baixa efetividade na difusão de conteúdos que contribuam para a formação crítica das pessoas, ocasionado, entre outros fatores, pelo reduzido alcance do sinal das plataformas de TV Digital e Rádios FM EBC, que busca ampliar este acesso. Apesar de o ambiente digital ter possibilitado novos espaços de participação e oportunidades, a disseminação das plataformas de redes sociais trouxe mudanças estruturais no meio comunicacional, que passou, nos últimos anos, a ser inundado por conteúdos desinformativos. Dados o volume e a velocidade de postagens nocivas - muitas vezes orquestrada, financiada por grupos coordenados com objetivos políticos e/ou econômicos específicos - a desinformação desorganiza a capacidade da sociedade de interpretar a realidade, fragmenta as audiências e o debate público e ameaça o consenso sobre fatos, sobre a ciência e sobre o próprio conhecimento.
+
+Causa do Problema:
+Em relação a Imprensa Nacional falta de recursos de todos os tipos e de visibilidade da instituição.
+Em função do reduzido alcance do sinal de suas plataformas, a EBC não atende, em sua plenitude, o interesse coletivo da população de receber serviços de radiodifusão pública e serviços conexos, complementares à comunicação privada. Existe a necessidade de otimizar o emprego de recursos financeiros, de forma a possibilitar maiores investimentos na infraestrutura de transmissão, com consequente ampliação do alcance do sinal.
+A prevalência de modelos de negócios das chamadas big techs, baseados na captura de dados - acumulam milhões de dados sobre o comportamento e o consumo de informação dos usuários até mesmo quando estes não estão utilizando qualquer uma das suas plataformas especificamente - e no engajamento dos usuários (tempo de atenção dedicado a permanecer conectado), reforçam viés de confirmação e induzem a radicalização por meio de algoritmos que potencializam a disseminação de desinformação. Isso afeta o direito de acesso das pessoas à informação de qualidade e tem causado impactos graves na saúde mental das pessoas, sobretudo de crianças e adolescente.
+
+Evidências do Problema:
+Baixa utilização das ferramentas tecnológicas, dos serviços gráficos oferecidas pela Imprensa Nacional e pouca disseminação do acervo cultural; demanda aquém do potencial de oferta devido ao layout pouco amigável do DOU. 
+Até o primeiro semestre de 2023, a média da população brasileira coberta com sinal de Televisão Digital terrestre pela EBC é de 57% e com o sinal de Rádio FM cerca de 25%, com referência no Censo 2010 – IBGE.
+
+Estudo recente do MIT[ ] sobre o Twitter aponta que as notícias falsas circulam 70% mais do que notícias verdadeiras, isso já excluindo o uso de robôs. Esse efeito é maior para notícias políticas falsas (do que para outras notícias falsas) quando o assunto é terrorismo, catástrofes naturais, ciência, lendas urbanas, ou informação financeira. E as falsas notícias chegaram a 1.500 pessoas cerca de seis vezes mais depressa do que a verdade.
+A disseminação de desinformação durante a pandemia contribuiu para milhares de mortes, ao passo em que os discursos de ódio fazem vítimas diárias, especialmente entre os setores mais vulneráveis da população. Segundo dados levantados pela Agência Patrícia Galvão, só no primeiro semestre de 2022 foram notificadas 7096 denúncias de ataques misóginos na internet, o equivalente a 40 denúncias por dia. Segundo pesquisa realizada pela Gênero e Número em parceria com o Repórteres sem Fronteira, 41,9% das mulheres já sofreram violência online devido à sua profissão. Ainda, 53,1% informaram que a violência sofrida impactou em sua rotina laboral, e 14,7% afirmam ter desenvolvido algum tipo de problema mental. Não bastasse, das violências de gênero contra jornalista, 68% se originam em meios digitais.
+
+
+Justificativa para a Intervenção:
+Chamar a atenção do governo para a necessidade de prestação deste serviço de Comunicação Pública e Governamental com maior qualidade.
+A EBC foi criada para contribuir na construção da cidadania. Tem função estratégica de complementariedade dos sistemas privado, público e estatal de comunicação, além de promover o desenvolvimento e a integração nacional, com a programação rica em educação e cultura a todos os segmentos da sociedade brasileira, em todas as regiões do País.
+Os desafios mencionados quanto ao ambiente digital apontam para a urgência de se formular e implementar políticas públicas específicas, com foco no desenvolvimento de competências para que todas as pessoas possam interagir e produzir conteúdos digitais de forma consciente, responsável e cidadã. A educação midiática, ainda que não seja capaz de curar todos os males das relações humanas mediadas pela Internet, pode desempenhar um papel crucial nesse contexto. 
+
+
+Evolução Histórica:
+Há 215 anos prestando serviço público de qualidade, a Imprensa Nacional tem lutado nas últimas décadas para levar o Diário Oficial da União a todos os rincões do País. Disponível apenas por meio eletrônico desde novembro de 2017, o DOU tem esbarrado na falta de recursos para melhorar a sua infraestrutura de tecnologia da informação. 
+No PPA 2020-2023 a meta era alcançar as 27 capitais com o sinal de TV Digital e Rádio FM, por meio de geração própria ou da Rede Nacional de Comunicação Pública (RNCP). Apesar de o objetivo principal ser as capitais, a EBC possui, atualmente, 65 emissoras de TV e 36 de Rádio, entre emissoras próprias e afiliadas em diversas regiões do país. Para o PPA 2024-2027, o objetivo é ampliar o alcance ao disponibilizar o sinal de TV Digital e Rádio FM para outros municípios do interior dos Estados ainda não atendidos, de modo a ampliar a penetração da Rede Nacional de Comunicação Pública até que todas as regiões do Brasil possam estar contempladas.
+Diante do cenário e novos desafios que surgiram no ambiente informacional digital ao longo dos últimos anos, foi criada no âmbito da SECOM/PR a Secretaria de Políticas Digitais (SPDIGI/SECOM/PR) em janeiro de 2023, a quem, conforme o Decreto nº 11.362, de 1º de janeiro de 2023, e a Portaria Secom/PR nº 1, de 19 de janeiro de 2023, compete entre outras coisas, a formulação e implementação de políticas públicas para promoção da liberdade de expressão, do acesso à informação e de enfrentamento à desinformação e ao discurso de ódio na Internet e a formulação, articulação e implementação de políticas públicas de educação e formação para o uso de serviços digitais de comunicação, em articulação com outros ministérios.
+
+
+Comparações Internacionais:
+Para a Imprensa Nacional, não há comparações internacionais.
+
+A EBC destaca que a transição para a TV digital está em andamento em muitas partes do mundo. A transmissão analógica de televisão foi o padrão por décadas, mas a digitalização trouxe benefícios, como maior qualidade de imagem e som, além de permitir mais canais em uma largura de banda limitada.
+
+No entanto, a velocidade da transição para a TV digital varia de país para país. Em alguns lugares, como os Estados Unidos, a transição para a TV digital foi concluída em 2009, tornando a TV analógica obsoleta. Em outros países, como Reino Unido, Alemanha e Austrália, a transição para a TV digital também foi concluída, encerrando completamente a transmissão analógica.
+De igual forma, o rádio em FM apresenta melhor qualidade de som aos ouvintes do veículo rádio, se comparado ao AM.
+Contudo a  transição para a TV Digital e Rádio FM exige investimentos significativos em infraestrutura e equipamentos, o que pode ser um desafio para alguns países como o Brasil, considerando suas dimensões continentais e grande volume de municípios.
+
+As ações do Brasil de combate à desinformação e promoção da integridade da informação e construção de um ambiente digital confiável está alinhada com iniciativas internacionais, como o Global Digital Compact da ONU e o processo de definição de "guidelines  for  a  multistakeholder  approach  in  the  context  of regulating  digital  platforms", da  UNESCO. E também devem estar coadunadas com iniciativas internacionais, como o Rabat Plan of Action, lançado em 2013 pelo Alto Comissariado das Nações Unidas para Direitos Humanos, que destaca a responsabilidade coletiva dos governos, líderes religiosos, líderes comunitários, meios de comunicação, sociedade civil organizada em fomentar a unidade social, a tolerância e o diálogo para evitar o incitamento ao ódio.  E também com o esforço empreendido pelo Departamento de Comunicações Globais das Nações Unidas, liderado por Melissa Fleming (Under-Secretary-General for Global Communications), para desenvolver um Código de Conduta para a Integridade da Informação nas Plataformas Digitais.
+
+
+Relação com os ODS:
+No caso da Imprensa Nacional, o Programa de Comunicação Pública e Governamental se relaciona com os Objetivos de Desenvolvimento Sustentável (ODSs) porque a instituição adotou várias práticas alinhadas a esses objetivos, tais como parar de imprimir o Diário Oficial da União (salvo alguns Diários por dia) e reciclagem. Os ODS especificamente relacionados são os seguintes:
+Objetivo 11. Tornar as cidades e os assentamentos humanos inclusivos, seguros, resilientes e sustentáveis, especificamente no quesito 11.4 Fortalecer esforços para proteger e salvaguardar o patrimônio cultural e natural do mundo
+Objetivo 12. Assegurar padrões de produção e de consumo sustentáveis, especificamente nos quesitos 12.2 Até 2030, alcançar a gestão sustentável e o uso eficiente dos recursos naturais, 12.5 Até 2030, reduzir substancialmente a geração de resíduos por meio da prevenção, redução, reciclagem e reuso, 12.7 Promover práticas de compras públicas sustentáveis, de acordo com as políticas e prioridades nacionais.
+No que se refere a  Empresa Brasil de Comunicação - EBC, o Programa é alinhado a ODS 10 -  Redução das desigualdades: reduzir as desigualdades dentro dos países e entre eles. Com a implementação do programa espera-se proporcionar o direito de acesso à comunicação pública e aos meios de informação a todos, inclusive às pessoas com deficiência, tornando o Brasil um país cada vez mais inclusivo e democrático.
+
+
+
+Agentes Envolvidos:
+O agente envolvido é o Diretor-Geral da Imprensa Nacional, sob os auspícios da Casa Civil da Presidência, agente público atuando em nome da referida instituição.
+O Ministério das Comunicações, órgão responsável na disponibilização de outorga de canais e as emissoras afiliadas que integram a Rede Nacional de Comunicação Pública com o objetivo de ampliar o alcance do sinal de TV Digital e Rádio FM.
+Para qualificar o ambiente informacional, estarão envolvidos a Secretaria de Políticas Digitais da SECOM, o Ministério da Educação e o Ministério da Saúde.
+
+
+Articulação Federativa:
+A atuação é nacional, pois o Diário Oficial da União é impresso para todo o País.
+A EBC possui articulações com o Programas voltados à digitalização do sinal de televisão no Brasil para disponibilização de novos canais outorgados. 
+As entregas que visam qualificar o ambiente informacional digital estão pactuadas com MEC e Ministério da Saúde e são feitas em articulação com estados e municipios.
+
+Enfoque Transversal:
+Objetivo Específico de Promover o Conhecimento Público do Acervo Histórico-Bibliográfico da IN tangencia as políticas públicas do Ministério da Cultura e da Educação.
+A Empresa Brasil de Comunicação, pode apresentar enfoque transversal com as articulações das políticas públicas voltadas à digitalização do sinal de televisão no Brasil.
+As entregas relacionadas à qualificação do ambiente informacional digital tem foco no desenvolvimento de competências para que todas as pessoas possam interagir e produzir conteúdos digitais de forma consciente, responsável e cidadã, favorecendo de modo transversal a toda a sociedade e a efetividade de políticas públicas.  
+
+Marco Legal:
+ Decreto No. 11.397, de 21/01/23. (Imprensa Nacional)
+ Lei nº 11.652/2008, alterada pela Lei nº 13.417/2017, a qual institui os princípios e objetivos dos serviços de radiodifusão pública explorados pelo Poder Executivo ou outorgados a entidades de sua administração indireta; autoriza o Poder Executivo a constituir a Empresa Brasil de Comunicação - EBC, e demais dispositivos que regulamentam os serviços de radiodifusão.
+Decreto nº 11.362, de 1º de janeiro de 2023, e a Portaria Secom/PR nº 1, de 19 de janeiro de 2023.
+
+
+Planos Nacionais, Setoriais e Regionais:
+A relação com a Política de Comunicação Pública e Governamental, tanto para Imprensa Nacional como para Empresa Brasil de Comunicação - EBC está correlacionado aos seus respectivos Planejamento Estratégico. de longo prazo.
+
+
+Objetivo Geral:
+- Ampliar o acesso da sociedade a informações publicas e governamentais, assegurando-lhes transparência, credibilidade e representatividade, para fortalecer a cidadania e a participação social.
+
+Objetivos Específicos:
+- Melhorar os canais de acesso às informações oficiais
+- Promover o Conhecimento Público do Acervo Histórico-Bibliográfico da Imprensa Nacional
+- Ampliar a prestação de serviços gráficos estratégicos
+- Expandir a Radiodifusão Pública
+- Qualificar o ambiente informacional, a partir da promoção da educação midiática.
+
+Indicadores de Entrega:
+- Índice Básico de Acessibilidade Presencial (Índice composto a partir da Seção 3 da Pesquisa Anual de Museus – PAM): Índice Básico de acessibilidade, composto a partir da Seção 3 da Pesquisa Anual de Museus – PAM, considerando o seguinte conjunto:
+ P 3.1 - Aberto
+ P 3.2 - Aberto nos finais de semana
+ P 3.3 - Aberto ao público geral
+ P 3.4 - Entrada não cobrada
+ P 3.5 - Bebedouro, estacionamento, sanitário
+ P 3.6 - Recursos para atendimento a turistas estrangeiros
+ P 3.7 - Infraestrutura para visitantes com dificuldade de locomoção
+ P 3.8 - Instalações para pessoas com deficiências auditivas e visuais 
+- Nº de ações desenvolvidas: nan 
+- Nº de bolsistas contemplados por editais da área: nan 
+- Nº de profissionais da educação formados: nan 
+- Nº de trabalhadores do SUS qualificados: nan 
+- Número de atividades de difusão cultural realizadas: Número de atividades de difusão cultural realizadas, considerando o seguinte conjunto: (i) Concurso do Museu; (ii) Exposições temporárias; e (iii) Eventos diversos, tais como encontro das Associações Brasileiras de Imprensas Oficiais - ABIO, feira do livro, uso do Auditório. 
+- Número de exposições realizadas: Número de exposições realizadas para fomentar a divulgação do acervo cultural da Imprensa Nacional 
+- Número de serviços gráficos realizados para a Administração Pública Federal: Número de ordens de serviços gráficos estratégicos registrados para Administração Pública Federal (impressão de documentos oficiais, livros, cartilhas e outros materiais informativos). Esse indicador mede a produção da Imprensa Nacional e sua capacidade de atender à demanda da Administração Pública. 
+- Percentual da população coberta com sinal aberto de TV Digital: Demonstra o avanço liquido da radiodifusão na plataforma TV, ou seja, percentual de população com cobertura de sinal de TV Aberta Digital. 
+- Percentual da população coberta com sinal terrestre de Rádio FM: Demonstra o avanço liquido da radiodifusão na plataforma Rádio, ou seja, percentual de população com cobertura de sinal de Rádio em FM. 
+- Percentual de editais prevendo obras com conteúdos na temática de Educação Midiática: nan 
+- Percentual de resultados buscados e encontrados com êxito: Percentual de buscas efetuadas nos canais de acesso às informações oficiais publicadas no DOU que satisfazem a demanda do usuário 
+- Percentual de tempo de disponibilidade dos canais (Portal, APP): Percentual de tempo que os canais de acesso às informações oficiais publicadas no DOU (Portal, APP) permanecem disponíveis aos usuários 
+- Percentual de UFs que receberam apoio técnico à implementação da Educação Midiática nas políticas do programa Escola em Tempo Integral: Será oferecido apoio técnico, por meio de webinários, para as Secretarias de Educação das cinco regiões do país para incentivar a implementação da Educação Midiática nas políticas do programa Escola em Tempo Integral.
+ 
+
+Indicadores de Objetivos Específicos:
+- Número de acessos ao acervo cultural da Imprensa Nacional: Mede o quantitativo de acessos à biblioteca digital, biblioteca física, museu digital e museu físico. A biblioteca digital é composta por diversos documentos e publicações produzidas pela Imprensa Nacional ao longo de sua história.
+A expectativa de crescimento é de 6% anualmente; portanto, esperamos os seguintes números:
+(i) Final de 2024 ==> 52.317
+(ii) Final de 2025 ==> 55.456
+(iii) Final de 2026 ==> 58.783
+(iv) Final do PPA ==> 62.311 
+- Número de Órgãos e Entidades da Administração Pública Federal Atendidos com Serviços Gráficos: nan 
+- Número de profissionais capacitados em educação midiática: Este indicador reunirá dados dos ministérios da Saúde (trabalhadores do SUS capacitados no enfrentamento à desinformação) e da Educação (profissionais da educação capacitados em educação midiática)  
+- Percentual de população coberta com sinal de radiodifusão pública (TV Digital e Rádio FM): Demonstra o avanço liquido da radiodifusão em ambas as plataformas, TV Digital e Rádio FM, ou seja, percentual de população com cobertura de sinal dos dois veículos. 
+- Taxa de satisfação do usuário com os canais de acesso às informações oficiais publicadas no DOU (Portal e APP): Taxa de satisfação do usuário com os canais de acesso às informações oficiais publicadas no DOU (Portal e APP)

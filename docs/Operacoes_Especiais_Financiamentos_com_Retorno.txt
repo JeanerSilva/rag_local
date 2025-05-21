@@ -1,0 +1,4 @@
+passage: Programa: Operações Especiais: Financiamentos com Retorno
+
+Descrição do Problema:
+Operações Especiais: Financiamentos com Retorno

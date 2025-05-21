@@ -1,0 +1,64 @@
+passage: Programa: Inclusão de Famílias em Situação de Vulnerabilidade no Cadastro Único e Produção de Informações e Conhecimento para políticas sociais
+
+Descrição do Problema:
+Dificuldade em localizar, identificar e caracterizar a vulnerabilidade social das famílias de baixa renda
+
+Causa do Problema:
+Dificuldade de encontrar as famílias de baixa renda, assim como dificuldade de caracterizar a sua condição socioeconômica. As famílias de baixa renda, caracterizadas como famílias com renda mensal igual ou inferior a meio salário-mínimo per capita em grande parte não estão inseridas em registros administrativos do governo. Por exemplo, existem pessoas no Cadastro Único que não constam nem na base de CPF e nem no cadastro CNIS, o que dificulta a identificação desse público.
+
+Evidências do Problema:
+Até dezembro de 2022, havia 41,2 milhões de famílias registradas no Cadastro Único, sendo 93,6 milhões de pessoas. Em média, todos os meses, ocorrem 700 mil inclusões e 1,4 milhão de atualizações cadastrais. No primeiro semestre de 2023, em processos que qualificam as informações cadastrais (averiguação cadastral, revisão cadastral, em decorrência de óbito), 1,5 milhão de famílias tiveram os cadastros excluídos. Por outro lado, de acordo com o IBGE (PNAD Contínua 2021), ressalvando as disparidades regionais, 34,4% da população brasileira vivia com até ½ salário-mínimo, ou seja, 73 milhões de pessoas. Esta realidade aponta que é preciso usar grande conjunto de pesquisas estatísticas, avaliações e esforço no processo de cadastramento, para inserir de forma qualificada a população de baixa renda nos registros administrativos do Governo Federal.
+
+Justificativa para a Intervenção:
+O enfrentamento das condições de pobreza é a razão principal que justifica a solução do problema. Para isso, é necessário o fortalecimento do Cadastro Único, um instrumento que atende mais de 28 programas sociais federais. Como a integração de políticas públicas é essencial para o enfrentamento à pobreza, a padronização da coleta de dados melhora não só a focalização, mas a efetividade das políticas sociais. Só a atuação federal, em conjunto com estados e municípios, permite essa padronização. Da mesma forma, a produção de informações ajuda os gestores a melhor entender as regras dos diferentes programas sociais e executá-los com maior eficácia.
+
+Evolução Histórica:
+O Programa 5029 - Produção de Dados e Conhecimento para o Aprimoramento de Políticas Públicas, no PPA de 2020-2023 tem como alguns de seus objetivos reduzir a pobreza por meio de transferência de renda; fortalecer o Cadastro Único para Programas Sociais do Governo Federal como articulação de políticas sociais para famílias de baixa renda e aperfeiçoar e consolidar o modelo federativo de gestão do Cadastro Único para Programas Sociais. Vale destacar que a continuidade do Cadastro Único está incluída no programa proposto.
+
+Comparações Internacionais:
+Programas de transferência de renda foram implementados em diversos países ao redor do mundo. No Brasil, o Cadastro Único de Programas Sociais consegue, a um custo administrativo baixo, coletar dados de um grande número de famílias de baixa renda. É essa estrutura que garante ao Brasil ser um dos países mais eficientes do mundo no combate à pobreza extrema. Além disso, esses dados são usados por programas de transferência de renda estaduais, garantindo a focalização de programas sociais nas três esferas de governo.
+
+Relação com os ODS:
+Dentre os objetivos da Agenda 2030 para o Desenvolvimento Sustentável, o programa da SAGICAD contribui diretamente para o ODS 1 – Erradicação da pobreza: acabar com a pobreza em todas as suas formas, em todos os lugares e para o ODS 10 – Redução das desigualdades: reduzir as desigualdades dentro dos países e entre eles.
+
+Agentes Envolvidos:
+Agentes públicos e sociais que atuam em políticas públicas do Ministério do Desenvolvimento, Assistência Social, Família e Combate à Fome, assim como profissionais que atuam como coordenadores de políticas sociais nos Estados e Municípios. Esses agentes atuam na coleta dos dados do beneficiário potencial, utilizando-se deles no desenho dos seus projetos e ações. Além disso, são envolvidos os agentes de controle social da assistência social, que acompanham e fiscalizam a gestão do Cadastro Único.
+
+Articulação Federativa:
+Gestão descentralizada na qual participam, além do Governo Federal, os Estados e Municípios, caracterizando uma articulação federativa nas três esferas de governo para garantir o cadastramento, a caracterização e o monitoramento da população de baixa renda.
+
+Enfoque Transversal:
+Vários são os programas dos Governos Federal, Estaduais e Municipais, usuários e não usuários do Cadastro Único, tais como: Tarifa Social de Energia Elétrica; Programa Minha Casa Minha Vida; Carteira do Idoso; Aposentadoria para Pessoas de Baixa Renda; Telefone Popular; Isenção de Pagamento de Taxa de Inscrição em Concursos Públicos; Programas Cisternas; Água para Todos; Bolsa Verde; Bolsa Estiagem; Programa de Fomento às Atividades Produtivas Rurais/ Assistência Técnica e Extensão Rural; Programa Nacional de Reforma Agrária; Programa Nacional de Crédito Fundiário; Crédito Instalação; Carta Social; Serviços Assistenciais; Programa Brasil Alfabetizado; Programa de Erradicação do Trabalho Infantil (Peti); Identidade Jovem (ID Jovem) e ENEM. 
+Além disso, o Cadastro Único é uma ferramenta de articulação intersetorial de modo a possibilitar o mapeamento das vulnerabilidades para o desenvolvimento de políticas e ações para o público de baixa renda.
+
+Marco Legal:
+Decreto nº 11.016, de 29 de março de 2022 
+Portaria nº 810, de 14 de setembro de 2022 
+Portaria nº 94, de 4 de setembro de 2013 
+Portaria nº 864, de 2 de março de 2023 
+Instrução Normativa Conjunta SAGICAD/SENARC/SNAS/MDS nº 3, de 11 de abril de 2023. 
+Legislação sobre avaliação: Portaria nº 2.227, de 06 de junho de 2018 
+Legislação sobre monitoramento: Portaria nº 2.527, de 10 de outubro de 2018
+
+
+Planos Nacionais, Setoriais e Regionais:
+Planejamento Estratégico do Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome 2023/2026
+
+Objetivo Geral:
+- Identificar e incluir famílias em situação de vulnerabilidade social no Cadastro Único e produzir informações e conhecimento para promoção do acesso às políticas sociais e seu aprimoramento.
+
+Objetivos Específicos:
+- Prover às políticas públicas dados e informações atualizadas das famílias de baixa renda residentes no Brasil
+- Produzir estudos, dados, ferramentas informacionais, dentre outros, para o aperfeiçoamento das políticas de desenvolvimento e assistência social e seus impactos sobre a sociedade brasileira
+
+Indicadores de Entrega:
+- Número de encontros anuais com os gestores estaduais e municipais do Cadastro Único realizados: Número de encontros presenciais realizados com os gestores do Cadastro Único das metrópoles e dos Estados, por ano, sob responsabilidade do MDS. 
+- Número de novos estudos publicados por secretaria do MDS: Considerando a atribuição da SAGICAD de conduzir estudos avaliativos com o objetivo de gerar conhecimento para a elaboração e o aprimoramento das políticas públicas, a secretaria executa diretamente ou contrata instituições de ensino e pesquisa para desenvolverem os estudos. Considerando o período da pandemia, e a necessidade de destinar recursos para o enfrentamento da situação de calamidade pública, de 2021 a Jun/2023 foi dada continuidade a estudos já iniciados nos anos anteriores, sem que fosse possível dar início a novas contratações. Desta forma, para o período apurado, o índice de referência é zero. Para o PPA 2024/2027 o planejamento é a retomada do desenvolvimento de novos estudos. 
+- Percentual de execução do projeto de integração Cadastro Único - CNIS: Percentual de execução do projeto de integração das informações do CNIS ao Cadastro Único. O projeto prevê 3 etapas de execução visando à interoperabilidade entre os sistemas. Etapa 1 – Povoamento inicial, no Cadastro Único, dos dados de trabalho e benefícios previdenciários e assistenciais do CNIS por meio de arquivo (offline). Etapa 2 – Povoamento de atualização e incremento, visando identificar novos vínculos de trabalho, novos benefícios previdenciários e assistenciais, bem como os desligamentos ocorridos ainda por meio de arquivo (offline); Etapa 3 - Interoperabilidade entre os sistemas, com a integração automatizada e em tempo real das informações do CNIS no Cadastro Único (online).
+ 
+- Percentual de Programas Estratégicos do MDS com dados atualizados na nova versão do VIS Data (Visualizador de Dados Sociais): Trata-se de indicador que reflete a evolução da atualização dos Programas Estratégicos do Ministério no novo VISDATA. O percentual permite apurar a entrega da nova versão da ferramenta, bem como a manutenção da atualização dos dados dos Programas estratégicos do Ministério. É, portanto, um indicador dinâmico, que permite apuração da atualização permanente de dados referentes a programas do Planejamento Estratégico do Ministério. 
+- Quantidade de Cursos e Recursos Educacionais Digitais (REDs) novos ou atualizados ofertados: Número de cursos e Recursos Educacionais Digitais novos ou atualizados ofertados nas diversas modalidades (presenciais, híbridos ou a distância) para pessoas gestoras, entrevistadoras e operadoras do sistema do Cadastro Único no âmbito federal, estadual, distrital e municipal.   
+
+Indicadores de Objetivos Específicos:
+- Percentual de famílias de baixa renda no Cadastro Único com informações atualizadas (Taxa de Atualização Cadastral): A Taxa de Atualização Cadastral é um indicador utilizado para medir o desempenho de cada município quanto à atualização cadastral. Além disso, fornece um diagnóstico sobre o nível de focalização do cadastro no que se refere ao percentual de cadastros atualizados de famílias com renda per capita inferior a ½ salário-mínimo. Além de ser um dos componentes do Índice de Gestão Descentralizada (IGD), conforme dispõe a Portaria n° 754. Cabe ressaltar que, com base no IGD, o Ministério calcula o valor dos recursos financeiros que serão repassados aos entes federados. Ademais, à medida que o ministério desenvolve processos de qualificação do Cadastro Único, e também quando os programas usuários utilizam de forma intensiva o Cadastro, há uma melhoria na TAC, visto que esses programas também demandam de seus beneficiários a atualização periódica de suas informações. 
+- Proporção de programas do MDS que estão no Planejamento Estratégico com documentação na Wiki-ID: Razão do número de programas documentados na Wiki-ID pelo número de programas definidos no Planejamento Estratégico do MDS 2023/2026.

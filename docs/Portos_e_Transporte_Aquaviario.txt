@@ -1,0 +1,295 @@
+passage: Programa: Portos e Transporte Aquaviário
+
+Descrição do Problema:
+Insuficiências e/ou ineficiências dos sistemas portuário e de transportes marítimo e hidroviário.
+
+Causa do Problema:
+Baixo nível de investimentos públicos e baixa integração entre os modais de transporte; não realização de investimentos na ampliação da infraestrutura portuária, que impede o aumento da capacidade, reduz a eficiência operacional, bem como pode acarretar maiores custos aos usuários; ociosidade de áreas em portos organizados, impactando a sustentabilidade financeira das respectivas administrações portuárias, assim como na carência de oferta de infraestrutura para movimentação de cargas e consequente aumento do custo logístico brasileiro; legislação difusa e complexa; gestão portuária pública ineficiente; falta de flexibilidade na contratação de obras e serviços pelas autoridades portuárias públicas; pouca coordenação dos agentes públicos.
+
+Evidências do Problema:
+Paralisação da navegação nas hidrovias federais por falta de condições adequadas de navegabilidade, como falta de calado para embarcações, saturação em pontos específicos, paralisação de funcionamento de eclusas e de instalações portuárias do DNIT. Conforme o Acórdão nº 2.711/2020 – Plenário, de 07/10/2020, no âmbito do processo TC 022.534/2019-9, o Tribunal de Contas da União – TCU, no relatório de auditoria, demonstrou a tendência de aumento da participação de Terminais de Uso Privado (TUP) no setor portuário brasileiro. 
+Alguns portos públicos estão apresentando significativo percentual de áreas sem ocupação ou com contratos precários que impedem a realização de investimentos de longo prazo. Segundo o relatório, a taxa média de ociosidade de áreas portuárias foi de 56%. Aumento da carga, porém a oferta de capacidade não acompanha esse crescimento. Desbalanceamento da matriz, sendo o aquaviário representando aproximadamente 18% dessa matriz.
+
+Justificativa para a Intervenção:
+A movimentação portuária brasileira é condicionada por questões relacionadas à conjuntura internacional e doméstica. O contexto externo expressa oportunidades de demanda pelos bens brasileiros e de fornecimento de insumos e produtos em condições mais eficientes. Nesse contexto, há a prevalência de uma situação de incertezas devido às tensões comerciais entre os dois maiores players mundiais - Estados Unidos e China - e à proliferação de acordos preferenciais em âmbitos restritos (especialmente os bilaterais).
+Segundo a United Nations Conference on Trade and Development (Unctad), em 2022, é recomendado que haja um maior investimento nas cadeias de abastecimento marítimo, sob a perspectiva de que os portos, as frotas marítimas e as conexões com o interior devem estar mais bem preparados para futuras crises globais, mudanças climáticas e a transição para energia de baixo carbono. O relatório aponta, ainda, a crise da cadeia de suprimentos dos últimos dois anos como tendo exposto a incompatibilidade entre a demanda e oferta de capacidade de logística marítima.
+A ausência de investimentos adequados no setor contribui de forma crucial para o desbalanceamento da matriz de transportes brasileira e para os problemas na intermodalidade do país. Obras como dragagem, transposição de trechos não navegáveis por meio de eclusas e canais artificiais, derrocagem de obstáculos naturais, balizamento e sinalização são necessárias para o desenvolvimento da malha hidroviária, que também necessita de investimentos na modernização, ampliação e obras de melhorias em portos, alguns em completo defasamento, e em terminais fluviais intermodais. O incentivo massivo à cabotagem também é de suma importância, que aborda questões como a frota inadequada, o equilíbrio no fluxo de cargas e os planos de incentivo.
+O Departamento Nacional de Infraestrutura de Transportes - DNIT é responsável pela manutenção das hidrovias federais, das eclusas e de instalações portuárias por ele construídas e, assim, é fundamental garantir a conservação do patrimônio público com estas ações. 
+Conforme previsto na art. 3º da Lei n.º 12.815/2012, a exploração dos portos organizados e de instalações portuárias, com o objetivo de aumentar a competitividade e o desenvolvimento do país, deve seguir diretrizes que denotam estratégias para a alavancagem de investimentos na ampliação da infraestrutura portuária, proporcionando maior eficiência operacional ao setor e reduzindo custos aos usuários.
+Com vistas a assegurar a realização de investimentos em infraestrutura portuária, necessários a garantir a expansão da capacidade para fazer frente ao crescimento do setor, foram previstos na Lei nº 12.815, de 2013, mecanismos de implementação das políticas públicas estabelecidas pelo Governo, dentre os quais está a de realização de novos arrendamentos e concessões, mediante a realização de procedimentos licitatórios.
+Assim, com vistas a reduzir a ociosidade de áreas dentro de Portos Organizados, bem como aumentar a capacidade de movimentação de cargas no setor portuário, é proposto em objetivo específico a realização de novos arrendamentos portuários ou concessões de parte das funções da administração portuária, que denotam estratégias para a alavancagem de investimentos na ampliação da infraestrutura portuária, proporcionando maior eficiência operacional ao setor e redução de custos aos usuários.
+
+Evolução Histórica:
+A partir de 1990, com a promulgação da Lei da Modernização dos Portos, houve a abertura à iniciativa privada das atividades portuárias, o que propiciou as condições necessárias para reformas, contribuiu para a evolução do setor e para a solução dos problemas da falta de investimento, excesso de mão-de-obra, ausência de competitividade e elevados custos operacionais. A Lei, dessa forma, incentivou a competição e a parceria público-privada que resultaram no aumento da quantidade de investimentos, na melhor gestão operacional portuária, no ganho de produtividade e na redução de tarifas. 
+Essa redução de custos contribuiu para o desenvolvimento de novas tecnologias, com a aquisição de novos equipamentos, e na especialização das cargas com o uso de contêineres e mão-de-obra mais especializada. 
+Outras modificações institucionais foram implementadas com a criação do Conselho Nacional de Integração de Políticas de Transportes - CONIT, da Agência Nacional de Transportes Aquaviários - ANTAQ e do DNIT. A partir de então, o País experimentou a criação de polos concentradores e distribuidores de cargas (hub ports), a cabotagem e o comércio exterior. 
+Em  2016, a Secretaria Nacional de Portos passou a integrar o Ministério da Infraestrutura - MInfra, com o incremento de investimentos privados, notadamente observados entre 2019 e 2022. 
+Em razão do Decreto nº 11.354/2023, a Secretaria Nacional de Portos e Transportes Aquaviários - SNPTA teve sua estrutura alterada, passando a integrar o Ministério de Portos e Aeroportos, como sinalização de um novo reforço na política pública portuária, com ênfase na atuação vocacional dos portos públicos para o desenvolvimento regional.
+
+Comparações Internacionais:
+O Brasil possui a maior a hidrográfica do planeta e é o quarto maior potencial hidroviário do mundo, com 50 mil quilômetros de rios navegáveis, sem além da costa de 7,5 mil km de extensão com mais de 30 portos instalados. 
+Segundo dados do Banco Mundial, o potencial hidroviário do Brasil é menor somente que o da China e Rússia, os dois maiores países do mundo, e da União Europeia. No entanto, o país utiliza apenas 28% deste potencial, com 14 mil quilômetros de hidrovias. Os Estados Unidos têm um potencial menor, de 41 mil quilômetros, porém usam toda sua capacidade regularmente.  O transporte hidroviário representa apenas 1,8% do transporte no aquaviário no país, o de cabotagem 9,6% e o dutoviário 3,4%. 
+O transporte lacustre é o menos utilizado, tanto no Brasil quanto no mundo. As maiores vias lacustres brasileiras são a Lagoa dos Patos, em Porto Alegre, com 10.145 km², e a Lagoa Mirim, que liga o sul do país ao Uruguai, com aproximadamente 3.750 km². Dentre os principais lagos navegáveis do mundo destacam-se os Lagos Superior, Michigan, Huron, Erie e Ontário, que formam a região dos Grandes Lagos e cobrem uma área de 245 mil Km2 localizados na fronteira entre os Estados Unidos e o Canadá, e o Lago Titicaca, localizado na Cordilheira dos Andes. O transporte marítimo responde por aproximadamente 75% do comércio internacional do Brasil.
+
+Relação com os ODS:
+ODS 6 - Há parcerias porto-gestão pública local para complementação de redes de esgoto onde não há o atendimento da rede pública - VPorts . Há mutirão de limpeza do rio e programas de conscientização sobre o descarte irregular do lixo nos rios e oceanos – Porto de Itajaí. Os Portos de Paranaguá e Antonina obrigam que todas as operações que possam causar poluição da água. 
+ODS 7 - Estão em início de desenvolvimento estudos associados ao carbono zero "Projeto Codeba Carbono Zero", no Porto de Salvador, e um estudo de construção de planta de desenvolvimento de energia renovável, numa parceria SENAI-CITATEC, no Porto de Aratu. Os Portos de Paranaguá e Antonina disponibilizaram energia solar às comunidades indígenas da Ilha da Cotinga e contrataram um estudo de viabilidade técnica econômica e ambiental para a implementação de uma usina biodigestora para a produção de energia elétrica de forma sustentável a partir dos resíduos oriundos da atividade portuária e utilização da mesma pelos equipamentos da infraestrutura dos Portos do Paraná.
+ODS 9 - Facilitar o desenvolvimento de infraestrutura sustentável e resiliente em países em desenvolvimento, por meio de apoio financeiro, tecnológico e técnico.
+ODS 11 - Estão em desenvolvimento programas de educação ambiental e comunicação social em parceria porto-gestão pública local, incluindo o aproveitamento de espaços públicos, como parques – Vports, Porto do Itaqui, dentre outros. Os Portos de Paranaguá e Antonina monitoram a emissão de fumaça preta dos veículos movidos a diesel e realocaram famílias que haviam invadido a área portuária.
+ODS 17 - Há participação dos portos nos Movimentos Nacionais/Estaduais ODS – Porto de Itajaí – e a busca de convênios/parcerias de troca de conhecimento com portos de países europeus – Portos de Paranaguá e Antonina.
+Além disso, a ANTAQ relaciona os projetos e ações da Agenda Ambiental com os ODS; desenvolve, ainda, iniciativas que serão realizadas, algumas concluídas e outras que são contínuas. Coordenam, também, o Índice de Desempenho Ambiental, a partir do qual fazem uma associação preliminar dos indicadores com os ODS e podem avaliar para cada um como tem sido a evolução dos portos desde 2012. Uma possibilidade que pode ser discutida é de que o IDA vire um indicador associado especificamente com os portos brasileiros.
+
+Agentes Envolvidos:
+Ministério de Portos e Aeroportos; Secretaria Nacional de Portos e Transportes Aquaviários - SNPTA; Departamento Nacional de Infraestrutura de Transportes - DNIT; Agência Nacional de Transportes Aquaviários - ANTAQ; PPI; Autoridades Portuárias; Banco Nacional de Desenvolvimento Econômico e Social - BNDES; Infra S.A.; Órgãos de controle; Operadores Portuários; Possíveis investidores.
+
+Articulação Federativa:
+União, Estados e Municípios.
+Sistema Nacional de Viação - SNV é composto pelo Sistema Federal de Viação - SFV e pelos sistemas de viação dos Estados, do Distrito Federal e dos Municípios. Quanto aos modos de transporte, o SNV compreende os subsistemas rodoviário, ferroviário, aquaviário e aeroviário. 
+Compete à União, nos termos da legislação vigente, a administração do Sistema Federal de Viação, que compreende o planejamento, a construção, a manutenção, a operação e a exploração dos respectivos componentes.
+Durante a condução dos processos de arrendamento/concessão há a constante interação com as prefeituras e os governos estaduais onde os portos estão localizados.
+
+Enfoque Transversal:
+Ministério da Marinha; Ministério da Ciência, Tecnologia e Inovação; Ministério da Defesa; Ministério da Fazenda; Ministério da Gestão e da Inovação em Serviços Públicos; Ministério da Justiça e Segurança Pública; Ministério do Meio Ambiente e Mudança do Clima; Ministério de Minas e Energia; Ministério das Relações Exteriores; Ministério do Trabalho e Emprego; Ministério dos Transportes; Receita Federal.
+
+Marco Legal:
+Lei 10.233 - Dispõe sobre a reestruturação dos transportes aquaviário e terrestre, cria o Conselho Nacional de Integração de Políticas de Transporte, a Agência Nacional de Transportes Terrestres, a Agência Nacional de Transportes Aquaviários e o Departamento Nacional de Infraestrutura de Transportes, e dá outras providências.
+Lei 9.432 – Dispõe sobre a ordenação do transporte aquaviário e dá outras providências.
+Lei 9.537 – Dispõe sobre a segurança do tráfego aquaviário em águas sob jurisdição nacional (LESTA).
+Lei 9.611 – Dispõe sobre o transporte multimodal de cargas.
+Lei 9.966 – Dispõe sobre a prevenção, o controle e a fiscalização da poluição causada por lançamento de óleo e outras substâncias nocivas ou perigosas em águas sob jurisdição nacional e dá outras providências.
+Lei 10.893 – Dispõe sobre o Adicional ao Frete para a Renovação da Marinha Mercante – AFRMM e o Fundo da Marinha Mercante – FMM, e dá outras providências.
+Decreto-Lei 37 – Dispõe sobre o imposto de importação, reorganiza os serviços aduaneiros e dá outras providências.
+Decreto 666 – Institui a obrigatoriedade de transporte em navio de bandeira brasileira e dá outras providências.
+Decreto 2.256 – Regulamenta o Registro Especial Brasileiro-REB para embarcações de que trata a Lei nº 9.432, de 8 de janeiro de 1997.
+Decreto 2.596 – Regulamenta a Lei nº 9.537, de 10/09/97, que dispõe sobre LESTA.
+Decreto 3.411 – Regulamenta a Lei nº 9.611, de 19/02/98, que dispõe sobre o Transporte Multimodal de Cargas.
+Decreto 4.136 – Dispõe sobre a especificação das sanções aplicáveis às infrações às regras de prevenção, controle e fiscalização da poluição causada por lançamento de óleo e outras substâncias nocivas ou perigosas em águas sob jurisdição nacional, prevista na Lei n o 9.966, de 28 de abril de 2000, e dá outras providências.
+Decreto 10.950/2022 - Dispõe sobre o Plano Nacional de Contingência para Incidentes de Poluição por Óleo em Águas sob Jurisdição Nacional.
+Decreto 4.543 – Regulamenta a administração das atividades aduaneiras, e a fiscalização, o controle e a tributação das operações de comércio exterior (Artigos 210 e 211 – Proteção à bandeira brasileira).
+Decreto 25.403 – Desonera do ICMS os insumos para indústria naval.
+Lei 9.074 – Dispõe sobre outorgas de concessão e permissão de serviços públicos.
+Lei 9.611 – Dispõe sobre o transporte multimodal de cargas.
+Decreto 3.411 – Regulamenta a Lei nº 9.611, de 19/02/98, que dispõe sobre o Transporte Multimodal de Cargas.
+Decreto 5.276 – Altera os art. 2º e 3º do Decreto nº 3.411/2000.
+Decreto 5.296 – Regulamenta as Leis 10.048/2000 e 10.098/2000.
+Decreto 5.934 – Dispõe sobre mecanismos e critérios para aplicação do art. 40 da Lei 10.741/03 (Estatuto do Idoso, inciso III – os serviços de transporte aquaviário interestadual, abertos ao público, realizados nos rios, lagos, lagoas e baías, que operam linhas regulares, inclusive travessias).
+85/DPC – Aprova as Normas da Autoridade Marítima para Embarcações Empregadas na Navegação Interior – NORMAM 02.
+Decreto 9.861/2019 - Dispõe sobre a Comissão Nacional de Segurança Pública nos Portos, Terminais e Vias Navegáveis e sobre as Comissões Estaduais de Segurança Pública nos Portos, Terminais e Vias Navegáveis.
+Decreto 10.703/2021 - Institui a Comissão Nacional das Autoridades Aeroportuárias, a Comissão Nacional das Autoridades nos Portos e a Comissão Nacional das Autoridades de Transportes Terrestres.
+Decreto 9.048 – Altera o Decreto nº 8.033, de 27 de junho de 2013, que regulamenta o disposto na Lei nº 12.815, de 5 de junho de 2013, e as demais disposições legais que regulam a exploração de portos organizados e de instalações portuárias.
+Decreto 8.033 – Regulamenta o disposto na Lei nº 12.815, de 5 de junho de 2013, e as demais disposições legais que regulam a exploração de portos organizados e de instalações portuárias.
+Lei 12.815 – Dispõe sobre a exploração direta e indireta pela União de portos e instalações portuárias e sobre as atividades desempenhadas pelos operadores portuários; altera as Leis nºs 5.025, de 10 de junho de 1966, 10.233, de 5 de junho de 2001, 10.683, de 28 de maio de 2003, 9.719, de 27 de novembro de 1998, e 8.213, de 24 de julho de 1991; revoga as Leis nos 8.630, de 25 de fevereiro de 1993, e 11.610, de 12 de dezembro de 2007, e dispositivos das Leis nºs 11.314, de 3 de julho de 2006, e 11.518, de 5 de setembro de 2007; e dá outras providências.
+Lei 11.314 – Altera a Lei no 8.112, de 11 de dezembro de 1990, que dispõe sobre o regime jurídico dos servidores públicos civis da União, das autarquias e das fundações públicas federais, a Lei no 10.233, de 5 de junho de 2001, que dispõe sobre a reestruturação dos transportes aquaviário e terrestre, cria o Conselho Nacional de Integração de Políticas de Transporte, a Agência Nacional de Transportes Terrestres, a Agência Nacional de Transportes Aquaviários e o Departamento Nacional de Infraestrutura de Transportes (Lei dos Portos).
+Lei 11.518 – Acresce e altera dispositivos das Leis nos 10.683, de 28 de maio de 2003, 10.233, de 5 de junho de 2001, 10.893, de 13 de julho de 2004, 5.917, de 10 de setembro de 1973, 11.457, de 16 de março de 2007, e 8.630, de 25 de fevereiro de 1993, para criar a Secretaria Especial de Portos, e dá outras providências (Lei dos Portos).
+Lei 10.233 – Dispõe sobre a reestruturação dos transportes aquaviário e terrestre, cria o Conselho Nacional de Integração de Políticas de Transporte, a Agência Nacional de Transportes Terrestres, a Agência Nacional de Transportes Aquaviários e o Departamento Nacional de Infraestrutura de Transportes, e dá outras providências.
+Lei 14.301 - Institui o Programa de Estímulo ao Transporte por Cabotagem (BR do Mar) e otimiza o emprego dos recursos oriundos da arrecadação do AFRMM.
+Regimento Interno – Resolução nº 3.585-ANTAQ, de 18 de agosto de 2014. Aprova o novo Regimento Interno da Agência Nacional de Transportes Aquaviários – ANTAQ.
+Norma da Resolução – 124 – ANTAQ – Norma sobre a fiscalização e o processo administrativo relativos à prestação de serviços de transporte aquaviário, de apoio marítimo e de apoio portuário e à exploração da infraestrutura aquaviária e portuária.
+
+Planos Nacionais, Setoriais e Regionais:
+Plano Nacional de Logística; Plano Setorial Portuário; Plano Setorial Hidroviário; Plano Geral de Parcerias; Planos Mestres Portuários; Planos de Desenvolvimento e Zoneamento; Plano Hidroviário Estratégico; Planejamento Estratégico do Ministério de Portos e Aeroportos. Durante a elaboração dos estudos destinados à realização do processo licitatório para a ocupação e desenvolvimento de área no Porto Organizado, são considerados alguns documentos, dentre os quais estão: Plano Nacional Logístico, Plano de Desenvolvimento de Zoneamento e Planos Mestres do respectivo porto, bem como Planos Setoriais da carga a ser movimentada na área e demais políticas públicas setoriais vigentes.
+
+Objetivo Geral:
+- Promover o desenvolvimento, a eficiência, a qualidade, a competitividade e a segurança dos portos e transporte aquaviário, priorizando iniciativas que tenham foco no serviço adequado e que sejam inovadoras e baseadas na sustentabilidade socioambiental.
+
+Objetivos Específicos:
+- Aumentar a disponibilidade de instalações portuárias (IP4) nos municípios localizados às margens dos rios navegáveis.
+- Promover o adequado embarque e desembarque de cargas e passageiros, garantindo a disponibilidade, a acessibilidade e a perenidade das instalações portuárias (IP4).
+- Ofertar vias em condições adequadas para a navegação.
+- Adequar a capacidade portuária à demanda de cargas e passageiros existente e futura.
+- Tornar o sistema portuário mais competitivo, seguro, sustentável, inclusivo e com acessibilidade.
+- Financiar a construção ou manutenção de embarcações, estaleiros e infraestruturas portuárias com recursos do Fundo da Marinha Mercante - FMM.
+
+Indicadores de Entrega:
+- Índice de disponibilidade de operação de eclusas: Este indicador apresenta o percentual de eclusas, sob responsabilidade do DNIT, em operação.  
+- Índice de disponibilidade de operação de eclusas em SP: Este indicador apresenta o percentual de eclusas, sob responsabilidade do DNIT, em operação.  
+- Índice de disponibilidade de operação de eclusas na BA: Este indicador apresenta o percentual de eclusas, sob responsabilidade do DNIT, em operação.  
+- Índice de disponibilidade de operação de eclusas no PA: Este indicador apresenta o percentual de eclusas, sob responsabilidade do DNIT, em operação.  
+- Índice de disponibilidade de operação de eclusas no RS: Este indicador apresenta o percentual de eclusas, sob responsabilidade do DNIT, em operação.  
+- Número de canais de navegação ampliados: Realização de derrocamentos e dragagem de aprofundamento que permitam maior calado e por maior tempo. 
+- Número de contratos assinados: O indicador apresenta efetivamente se o contrato previsto foi assinado 
+- Número de contratos assinados: O indicador apresenta efetivamente se o contrato previsto foi assinado 
+- Número de contratos assinados: O indicador apresenta efetivamente se o contrato previsto foi assinado 
+- Número de contratos assinados: O indicador apresenta efetivamente se o contrato previsto foi assinado 
+- Número de contratos assinados: O indicador apresenta efetivamente se o contrato previsto foi assinado 
+- Número de contratos assinados: O indicador apresenta efetivamente se o contrato previsto foi assinado. 
+- Número de contratos assinados: O indicador apresenta efetivamente se o contrato previsto foi assinado 
+- Número de contratos assinados: O indicador apresenta efetivamente se o contrato previsto foi assinado 
+- Número de contratos assinados: O indicador apresenta efetivamente se o contrato previsto foi assinado 
+- Número de contratos assinados: O indicador apresenta efetivamente se o contrato previsto foi assinado 
+- Número de contratos assinados: O indicador apresenta efetivamente se o contrato previsto foi assinado 
+- Número de contratos assinados: O indicador apresenta efetivamente se o contrato previsto foi assinado 
+- Número de contratos assinados: O indicador apresenta efetivamente se o contrato previsto foi assinado 
+- Número de contratos assinados: O indicador apresenta efetivamente se o contrato previsto foi assinado 
+- Número de contratos assinados: O indicador apresenta efetivamente se o contrato previsto foi assinado 
+- Número de contratos assinados: O indicador apresenta efetivamente se o contrato previsto foi assinado 
+- Número de contratos assinados: O indicador apresenta efetivamente se o contrato previsto foi assinado 
+- Número de contratos assinados: O indicador apresenta efetivamente se o contrato previsto foi assinado 
+- Número de contratos de concessão de terminais portuários ou de portos organizados assinados: O indicador visa a demonstrar o número de contratos de concessão/arrendamentos portuários assinados no respectivo ano. 
+- Número de embarcações financiadas entregues: Este índice busca avaliar os resultados e impactos da política de transporte aquaviário. Para isso, aborda as seguintes dimensões do Planejamento Estratégico Institucional: Competitividade e Satisfação do Usuário. 
+- Número de estaleiros financiados entregues: Este índice busca avaliar os resultados e impactos da política de transporte aquaviário. Para isso, aborda as seguintes dimensões do Planejamento Estratégico Institucional: Competitividade e Satisfação do Usuário. 
+- Número de estudos concluídos: O indicador apresenta efetivamente se o estudo previsto foi concluído. 
+- Número de estudos concluídos: O indicador apresenta efetivamente se o estudo previsto foi concluído. 
+- Número de estudos entregues: Quantidade de EVTEA entregue.  
+- Número de estudos entregues: Quantidade de EVTEA entregue.  
+- Número de estudos entregues: nan 
+- Número de estudos entregues: Quantidade de EVTEA entregue 
+- Número de estudos entregues: Quantidade de EVTEA entregue 
+- Número de Estudos realizados: Este indicador mostra a quantidade de Estudos realizados anualmente. 
+- Número de infraestruturas portuárias financiadas entregues: Este índice busca avaliar os resultados e impactos da política de transporte aquaviário. Para isso, aborda as seguintes dimensões do Planejamento Estratégico Institucional: Competitividade e Satisfação do Usuário. 
+- Número de instalações portuárias em operação: Este indicador mostra o número de instalações portuárias (IP4) em operação sob responsabilidade do DNIT. 
+- Número de instalações portuárias (IP4) mantidas e em operação no AM, RO e RR: Este indicador mostra o número de instalações portuárias (IP4) mantidas e em operação sob responsabilidade do DNIT 
+- Número de instalações portuárias (IP4) mantidas e em operação no MA e PI: Este indicador mostra o número de instalações portuárias (IP4) mantidas e em operação sob responsabilidade do DNIT 
+- Número de instalações portuárias (IP4) mantidas e em operação no PA e AP: Este indicador mostra o número de instalações portuárias (IP4) mantidas e em operação sob responsabilidade do DNIT 
+- Número de novas funcionalidades implementadas: Considerando a ausência de indicador disponível, a metodologia adotada permite aferir o andamento da entrega proposta. 
+- Número de obras de modernização de eclusas implantadas: Este indicador mostra a quantidade de obras de modernização concluídas nas Eclusas sob responsabilidade do DNIT 
+- Número de portos organizados com estudos climáticos elaborados: Considerando a ausência de indicador disponível, a metodologia adotada permite aferir o andamento da entrega proposta. 
+- Número de portos organizados que implantaram o PCS: Considerando a ausência de indicador disponível, a metodologia adotada permite aferir o andamento da entrega proposta. 
+- Número de relatórios entregues - PMH Lagoa Mirim: Este indicador mostra a quantidade de campanhas de manutenção de sinalização realizadas anualmente. 
+- Número de relatórios entregues - PMH Madeira: Este indicador mostra a quantidade de campanhas de manutenção de sinalização realizadas anualmente. 
+- Número de relatórios entregues - PMH Paraguai: Este indicador mostra a quantidade de campanhas de manutenção de sinalização realizadas anualmente. 
+- Número de relatórios entregues - PMH São Francisco: Este indicador mostra a quantidade de campanhas de manutenção de sinalização realizadas anualmente. 
+- Número de relatórios entregues - PMH Tapajós: Este indicador mostra a quantidade de campanhas de manutenção de sinalização realizadas anualmente. 
+- Número de relatórios entregues - PMH Tocantins: Este indicador mostra a quantidade de campanhas de manutenção de sinalização realizadas anualmente. 
+- Número de serviços /campanhas de desobstrução/destocamento realizados: Este indicador mostra a quantidade de campanhas desobstrução/destocamento realizados anualmente 
+- Número de serviços/campanhas de dragagem realizados: Este indicador mostra a quantidade de campanhas dragagens realizadas anualmente 
+- Número de serviços/campanhas de dragagem realizados: Este indicador mostra a quantidade de campanhas dragagens realizadas anualmente 
+- Número de serviços/campanhas de dragagem realizados: Este indicador mostra a quantidade de campanhas dragagens realizadas anualmente 
+- Número de serviços/campanhas de dragagem realizados: Este indicador mostra a quantidade de campanhas dragagens realizadas anualmente 
+- Número de serviços/campanhas de dragagem realizados: Este indicador mostra a quantidade de campanhas dragagens realizadas anualmente 
+- Número de serviços/campanhas de dragagem realizados: Este indicador mostra a quantidade de campanhas dragagens realizadas anualmente 
+- Número de serviços/campanhas de sinalização realizados por ano: Este indicador mostra a quantidade de campanhas de manutenção de sinalização realizadas anualmente. 
+- Número de serviços/campanhas de sinalização realizados por ano: Este indicador mostra a quantidade de campanhas de manutenção de sinalização realizadas anualmente. 
+- Número de serviços/campanhas de sinalização realizados por ano: Este indicador mostra a quantidade de campanhas de manutenção de sinalização realizadas anualmente. 
+- Número de serviços/campanhas de sinalização realizados por ano: Este indicador mostra a quantidade de campanhas de manutenção de sinalização realizadas anualmente. 
+- Número de serviços/campanhas de sinalização realizados por ano: Este indicador mostra a quantidade de campanhas de manutenção de sinalização realizadas anualmente. 
+- Número de serviços/campanhas de sinalização realizados por ano: Este indicador mostra a quantidade de campanhas de manutenção de sinalização realizadas anualmente. 
+- Número de serviços/campanhas de sinalização realizados por ano: Este indicador mostra a quantidade de campanhas de manutenção de sinalização realizadas anualmente. 
+- Número de serviços/campanhas de sinalização realizados por ano: Este indicador mostra a quantidade de campanhas de manutenção de sinalização realizadas anualmente. 
+- Número de serviços/campanhas de sinalização realizados por ano: Este indicador mostra a quantidade de campanhas de manutenção de sinalização realizadas anualmente. 
+- Número de serviços/campanhas de sinalização realizados por ano: Este indicador mostra a quantidade de campanhas de manutenção de sinalização realizadas anualmente. 
+- Número de serviços/campanhas de sinalização realizados por ano: Este indicador mostra a quantidade de campanhas de manutenção de sinalização realizadas anualmente. 
+- Número de serviços/campanhas de sinalização realizados por ano: Este indicador mostra a quantidade de campanhas de manutenção de sinalização realizadas anualmente. 
+- Número de serviços/campanhas de sinalização realizados por ano: Este indicador mostra a quantidade de campanhas de manutenção de sinalização realizadas anualmente. 
+- Número de TUPs que operam com PSP: Considerando a ausência de indicador disponível, a metodologia adotada permite aferir o andamento da entrega proposta. 
+- Percentual da Execução Física da Obra: nan 
+- Percentual da Execução Física da Obra: Enquanto indicador operacional, a métrica facilita a gestão do gerente de projeto, em detrimento da adoção de outros mais complexos.
+ 
+- Percentual das áreas dos portos organizados regularizados: Considerando a ausência de indicador disponível, a metodologia adotada permite aferir o andamento da entrega proposta. 
+- Percentual de execução física da adequação do retroporto instalação portuária de São Raimundo/AM: Este indicador mostra o percentual de execução física de cada instalação sob responsabilidade do DNIT, em relação ao que ele tem planejado executar. 
+- Percentual de execução física da da Modernização da Eclusa de Amarópolis: Este indicador mostra o percentual de execução física de cada Modernização de Eclusa sob responsabilidade do DNIT, em relação ao que ele tem planejado executar. 
+- Percentual de execução física da da Modernização da Eclusa de Anel de Dom Marco: Este indicador mostra o percentual de execução física de cada Modernização de Eclusa sob responsabilidade do DNIT, em relação ao que ele tem planejado executar. 
+- Percentual de execução física da da Modernização da Eclusa de Bom Retiro do Sul: Este indicador mostra o percentual de execução física de cada Modernização de Eclusa sob responsabilidade do DNIT, em relação ao que ele tem planejado executar. 
+- Percentual de execução física da da Modernização da Eclusa de Fandango: Este indicador mostra o percentual de execução física de cada Modernização de Eclusa sob responsabilidade do DNIT, em relação ao que ele tem planejado executar. 
+- Percentual de execução física da instalação portuária de Barcelos/AM: Este indicador mostra o percentual de execução física de cada instalação sob responsabilidade do DNIT, em relação ao que ele tem planejado executar. 
+- Percentual de execução física da instalação portuária de Borba/AM: Este indicador mostra o percentual de execução física de cada instalação sob responsabilidade do DNIT, em relação ao que ele tem planejado executar. 
+- Percentual de execução física da instalação portuária de Caburé/MA: Este indicador mostra o percentual de execução física de cada instalação sob responsabilidade do DNIT, em relação ao que ele tem planejado executar. 
+- Percentual de execução física da instalação portuária de Cai N'água: Este indicador mostra o percentual de execução física de cada instalação sob responsabilidade do DNIT, em relação ao que ele tem planejado executar. 
+- Percentual de execução física da instalação portuária de Canutama/AM: Este indicador mostra o percentual de execução física de cada instalação sob responsabilidade do DNIT, em relação ao que ele tem planejado executar. 
+- Percentual de execução física da instalação portuária de Careira da Várzea e Tefé/AM: Este indicador mostra o percentual de execução física de cada instalação sob responsabilidade do DNIT, em relação ao que ele tem planejado executar. 
+- Percentual de execução física da instalação portuária de Eirunepé/AM: Este indicador mostra o percentual de execução física de cada instalação sob responsabilidade do DNIT, em relação ao que ele tem planejado executar. 
+- Percentual de execução física da instalação portuária de Humaitá/AM: Este indicador mostra o percentual de execução física de cada instalação sob responsabilidade do DNIT, em relação ao que ele tem planejado executar. 
+- Percentual de execução física da instalação portuária de Itacoatiara/AM: Este indicador mostra o percentual de execução física de cada instalação sob responsabilidade do DNIT, em relação ao que ele tem planejado executar. 
+- Percentual de execução física da instalação portuária de Jutaí/AM: Este indicador mostra o percentual de execução física de cada instalação sob responsabilidade do DNIT, em relação ao que ele tem planejado executar. 
+- Percentual de execução física da instalação portuária de Lábrea/AM: Este indicador mostra o percentual de execução física de cada instalação sob responsabilidade do DNIT, em relação ao que ele tem planejado executar. 
+- Percentual de execução física da instalação portuária de Manaus Moderna/AM: Este indicador mostra o percentual de execução física de cada instalação sob responsabilidade do DNIT, em relação ao que ele tem planejado executar. 
+- Percentual de execução física da instalação portuária de Manicoré/AM: Este indicador mostra o percentual de execução física de cada instalação sob responsabilidade do DNIT, em relação ao que ele tem planejado executar. 
+- Percentual de execução física da instalação portuária de Santa Isabel do Rio Negro/AM: Este indicador mostra o percentual de execução física de cada instalação sob responsabilidade do DNIT, em relação ao que ele tem planejado executar. 
+- Percentual de execução física da instalação portuária de Santana/AP: Este indicador mostra o percentual de execução física de cada instalação sob responsabilidade do DNIT, em relação ao que ele tem planejado executar. 
+- Percentual de execução física da instalação portuária de Santo Antônio do Içá/AM: Este indicador mostra o percentual de execução física de cada instalação sob responsabilidade do DNIT, em relação ao que ele tem planejado executar. 
+- Percentual de execução física da instalação portuária de São Gabriel da Cachoeira/AM: Este indicador mostra o percentual de execução física de cada instalação sob responsabilidade do DNIT, em relação ao que ele tem planejado executar. 
+- Percentual de execução física da instalação portuária de São Paulo de Olivença/AM: Este indicador mostra o percentual de execução física de cada instalação sob responsabilidade do DNIT, em relação ao que ele tem planejado executar. 
+- Percentual de execução física da instalação portuária de São Raimundo/AM: Este indicador mostra o percentual de execução física de cada instalação sob responsabilidade do DNIT, em relação ao que ele tem planejado executar. 
+- Percentual de execução física de instalação portuária: Este indicador mostra o percentual de execução física de cada instalação sob responsabilidade do DNIT, em relação ao que ele tem planejado executar. 
+- Percentual de implantação do canal de navegação da Lagoa Mirim/RS: Este indicador calcula o percentual médio do avanço físico das obras de ampliação de canais de navegação. 
+- Percentual de implantação do canal de navegação do Rio Tietê: Este indicador calcula o percentual médio do avanço físico das obras de ampliação de canais de navegação. 
+- Percentual de implantação do canal de navegação do rio Tocantins: Este indicador calcula o percentual médio do avanço físico das obras de ampliação de canais de navegação. 
+- Percentual de portos organizados com declaração de cumprimento do ISPS Code válida: Considerando a ausência de indicador disponível, a metodologia adotada permite aferir o andamento da entrega proposta. 
+- Percentual de trabalhadores capacitados: Considerando a ausência de indicador disponível, a metodologia adotada permite aferir o andamento da entrega proposta. 
+- Porcentagem da Execução do Empreendimento: nan 
+- Porcentagem da Execução do Empreendimento: nan 
+- Porcentagem da Execução do Empreendimento: nan 
+- Porcentagem da Execução Física: Enquanto indicador operacional, a métrica facilita a gestão do gerente de projeto, em detrimento da adoção de outros mais complexos.
+ 
+- Porcentagem da Execução Física: Enquanto indicador operacional, a métrica facilita a gestão do gerente de projeto, em detrimento da adoção de outros mais complexos.
+ 
+- Porcentagem da Execução Física: Enquanto indicador operacional, a métrica facilita a gestão do gerente de projeto, em detrimento da adoção de outros mais complexos.
+ 
+- Porcentagem da Execução Física: Enquanto indicador operacional, a métrica facilita a gestão do gerente de projeto, em detrimento da adoção de outros mais complexos.
+ 
+- Porcentagem da Execução Física: Enquanto indicador operacional, a métrica facilita a gestão do gerente de projeto, em detrimento da adoção de outros mais complexos.
+ 
+- Porcentagem da Execução Física: nan 
+- Porcentagem da Execução Física: nan 
+- Porcentagem da Execução Física: nan 
+- Porcentagem da Execução Física: nan 
+- Porcentagem da Execução Física: Enquanto indicador operacional, a métrica facilita a gestão do gerente de projeto, em detrimento da adoção de outros mais complexos.
+ 
+- Porcentagem da Execução Física: Enquanto indicador operacional, a métrica facilita a gestão do gerente de projeto, em detrimento da adoção de outros mais complexos.
+ 
+- Porcentagem da Execução Física: Enquanto indicador operacional, a métrica facilita a gestão do gerente de projeto, em detrimento da adoção de outros mais complexos.
+ 
+- Porcentagem da Execução Física: Enquanto indicador operacional, a métrica facilita a gestão do gerente de projeto, em detrimento da adoção de outros mais complexos.
+ 
+- Porcentagem da Execução Física: Enquanto indicador operacional, a métrica facilita a gestão do gerente de projeto, em detrimento da adoção de outros mais complexos.
+ 
+- Porcentagem da Execução Física: Enquanto indicador operacional, a métrica facilita a gestão do gerente de projeto, em detrimento da adoção de outros mais complexos. 
+- Porcentagem da Execução Física: Enquanto indicador operacional, a métrica facilita a gestão do gerente de projeto, em detrimento da adoção de outros mais complexos.
+ 
+- Porcentagem da Execução Física: Enquanto indicador operacional, a métrica facilita a gestão do gerente de projeto, em detrimento da adoção de outros mais complexos.
+ 
+- Porcentagem da Execução Física: Enquanto indicador operacional, a métrica facilita a gestão do gerente de projeto, em detrimento da adoção de outros mais complexos.
+ 
+- Porcentagem da Execução Física: Enquanto indicador operacional, a métrica facilita a gestão do gerente de projeto, em detrimento da adoção de outros mais complexos.
+ 
+- Porcentagem da Execução Física: Enquanto indicador operacional, a métrica facilita a gestão do gerente de projeto, em detrimento da adoção de outros mais complexos.
+ 
+- Porcentagem da Execução Física: Enquanto indicador operacional, a métrica facilita a gestão do gerente de projeto, em detrimento da adoção de outros mais complexos.
+ 
+- Porcentagem da Execução Física: Enquanto indicador operacional, a métrica facilita a gestão do gerente de projeto, em detrimento da adoção de outros mais complexos.
+ 
+- Porcentagem da Execução Física: Enquanto indicador operacional, a métrica facilita a gestão do gerente de projeto, em detrimento da adoção de outros mais complexos.
+ 
+- Porcentagem da Execução Física: Enquanto indicador operacional, a métrica facilita a gestão do gerente de projeto, em detrimento da adoção de outros mais complexos.
+ 
+- Porcentagem da Execução Física: Enquanto indicador operacional, a métrica facilita a gestão do gerente de projeto, em detrimento da adoção de outros mais complexos.
+ 
+- Porcentagem da Execução Física: Enquanto indicador operacional, a métrica facilita a gestão do gerente de projeto, em detrimento da adoção de outros mais complexos.
+ 
+- Porcentagem da Execução Física: Enquanto indicador operacional, a métrica facilita a gestão do gerente de projeto, em detrimento da adoção de outros mais complexos.
+ 
+- Porcentagem da Execução Física: Enquanto indicador operacional, a métrica facilita a gestão do gerente de projeto, em detrimento da adoção de outros mais complexos.
+ 
+- Porcentagem da Execução Física: Enquanto indicador operacional, a métrica facilita a gestão do gerente de projeto, em detrimento da adoção de outros mais complexos.
+ 
+- Porcentagem da Execução Física: Enquanto indicador operacional, a métrica facilita a gestão do gerente de projeto, em detrimento da adoção de outros mais complexos.
+ 
+- Porcentagem da Execução Física: Enquanto indicador operacional, a métrica facilita a gestão do gerente de projeto, em detrimento da adoção de outros mais complexos.
+ 
+- Porcentagem da Execução Física: Enquanto indicador operacional, a métrica facilita a gestão do gerente de projeto, em detrimento da adoção de outros mais complexos.
+ 
+
+Indicadores de Objetivos Específicos:
+- Adequação do nível de saturação dos complexos portuários: O indicador de Saturação é calculado pelo quociente entre a demanda manifesta ou estimada para o ano de referência, e a capacidade potencial ou operacional no mesmo ano. Assim, ele possui grande capacidade descritiva, pois combina num único indicador as duas principais medidas operacionais de um terminal (demanda movimentada e capacidade ofertada). É uma medida internacionalmente adotada, mas que possui mais de uma forma de aferição, e para a qual o Brasil ainda não possui uma metodologia padronizada.
+Neste ciclo de planejamento, será adotada a metodologia em desenvolvimento no âmbito do Plano Setorial Portuário, que busca evoluir os conceitos já anteriormente praticados em planos portuários anteriores, mas agora compatibilizando os dados de movimentação portuária reais atualmente disponibilizados pela Antaq com dados de projeção de demanda portuária futura advindos do Plano Nacional de Logística (PNL 2035). O Objetivo é que todos os complexos portuários do Brasil estejam com nível de saturação menor ou igual a 75% até o ano de 2035
+ 
+- Extensão (em km) das hidrovias economicamente navegadas: O Indicador apura a extensão das vias interiores economicamente navegadas, constituindo-se em um proxy da utilização do modal hidroviário no país. 
+- Média global do Índice de Gestão das Autoridades Portuárias - IGAP: Conforme disciplina a Portaria 574/2018, o Índice de Gestão das Autoridades Portuárias – IGAP é composto por diversos indicadores que abrangem vários aspectos da gestão e eficiência portuária, incluindo: 
+I - retorno sobre o capital;
+II - eficiência operacional;
+III - eficiência administrativa;
+IV - nível de execução orçamentária para fins de investimento;
+V - índice de notificações da ANTAQ;
+VI - desempenho ambiental;
+VII - manutenção dos acessos aquaviários;
+VIII - aderência do regulamento de exploração do porto às orientações estabelecidas pelo poder concedente;
+IX - regularidade fiscal com a União, Estado e Município;
+X - regularidade trabalhista;
+XI - divulgação do regulamento de exploração do porto vigente;
+XII - divulgação das pautas e das atas das reuniões do CONSAD e do CAP;
+XIII - divulgação das tabelas tarifárias do porto organizado;
+XIV - divulgação da relação atualizada de operadores portuários pré-qualificados; e
+XV - divulgação dos contratos de exploração de áreas e instalações portuárias e respectivos aditivos. 
+- Número de empreendimentos entregues: Este índice busca avaliar os resultados e impactos da política de transporte aquaviário. Para isso, aborda as seguintes dimensões do Planejamento Estratégico Institucional: Competitividade e Satisfação do Usuário. 
+- Número de instalações portuárias (IP4) implantadas: Este indicador mostra o número de instalações portuárias públicas de pequeno porte concluídas sob responsabilidade do DNIT. Novas instalações portuárias previstas (7 instalações portuárias): Jutaí/AM, Barcelos/AM, Lábrea/AM, Santana/AP, Santo Antônio do Içá/AM, São Gabriel da Cachoeira/AM e São Paulo de Olivença/AM. 
+- Percentual de instalações portuárias (IP4) em operação: Este indicador mostra o percentual de instalações portuárias (IP4) em operação sob responsabilidade do DNIT, em relação ao total implantado.

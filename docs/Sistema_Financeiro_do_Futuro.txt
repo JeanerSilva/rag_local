@@ -1,0 +1,67 @@
+passage: Programa: Sistema Financeiro do Futuro
+
+Descrição do Problema:
+O brasileiro apresenta um elevado nível de preocupação com as questões financeiras, principalmente com a possibilidade de não ter dinheiro suficiente para pagar suas contas mensais, conforme apontou a pesquisa Global Findex, pesquisa internacional do Banco Mundial sobre inclusão financeira. Além disso, a resiliência financeira dos brasileiros, mensurada pela facilidade de o cidadão lidar com choques financeiros inesperados, está bem abaixo da média dos países da OCDE. Essas questões estão diretamente relacionadas com o bem-estar financeiro da população.
+Novos entrantes (instituições de pagamento e fintechs) no mercado possuem um papel fundamental para aumento de competitividade no setor, pois resultam em maior acesso ao sistema financeiro pelos cidadãos e também maior oferta de serviços e de crédito, com potencial queda das tarifas e do custo do crédito. As fintechs são empresas que introduzem inovações nos mercados financeiros por meio do uso intenso de tecnologia, com potencial para criar novos modelos de negócios. Atuam por meio de plataformas online e oferecem serviços digitais inovadores relacionados ao setor. Esses novos modelos de negócio, intensamente baseados em soluções tecnológicas, precisam ser supervisionados em termos de impactos sobre a solidez dos sistemas financeiros e seus efeitos sobre os direitos dos clientes das instituições financeiras. O consumidor de produtos e serviços financeiros precisa, assim, de um conjunto de conhecimentos e habilidades para que possa gerenciar suas finanças e lidar de forma consciente com os riscos e oportunidades que surgem nesse contexto. Há ainda a afluência dos riscos cibernéticos, uma vez que não há precedentes para o nível de dependência e de integração para as soluções tecnológicas adotadas pelas entidades supervisionadas pelos bancos centrais, o que inclui toda sua cadeia de prestadores de serviços, demandando também a intensificação da supervisão sobre essas atividades e seus riscos.
+
+Causa do Problema:
+A transformação digital dos sistemas financeiro e de pagamentos apresenta oportunidades em termos de ganhos de eficiência, mas também acompanha questões relativas à segurança cibernética que precisam ser gerenciadas. Apesar do avanço identificado em termos de competitividade dos sistemas financeiro e de pagamentos e de inclusão da população brasileira, é preciso aprofundar a compreensão das causas das lacunas existentes.
+
+
+
+Evidências do Problema:
+A edição mais recente da Série Cidadania Financeira, publicação do BCB para disseminar conhecimentos sobre cidadania financeira que analisa os dados da pesquisa Global Findex, mostrou uma diminuição da desigualdade em indicadores de inclusão financeira ao longo dos últimos anos, como um possível resultado de ações promovidas pelo BCB para aumento da competitividade nos sistemas financeiro e de pagamentos. Os principais avanços observados estão no maior acesso e uso de serviços financeiros pelos brasileiros, principalmente considerando a população de menor renda.
+
+O crescimento no uso de pagamentos digitais no Brasil ao longo dos últimos anos também resultou na redução da desigualdade entre os indicadores dos grupos mais ricos e mais pobres. Em 2017, 43% do grupo de menor renda utilizava pagamentos digitais contra 68% dos mais ricos, uma diferença de 25 pontos percentuais (p.p). Em 2021, a diferença reduziu para 7 p.p., com 72% dos mais pobres utilizando pagamentos digitais. Alguns fatores podem estar relacionados a esse rápido crescimento da adoção de meios digitais pelos brasileiros: maior número de prestadores de serviço no mercado; expansão das fintechs, notadamente das instituições de pagamento; evolução tecnológica; criação do Pix; aumento do acesso à internet e aos smartphones pela população em geral.
+
+Justificativa para a Intervenção:
+Melhorar o nível de bem-estar financeiro da população é um desafio que, segundo a OCDE, é o principal objetivo da educação financeira. A educação financeira busca aumentar a consciência financeira, conhecimentos, atitudes e comportamentos necessários para que os cidadãos tomem decisões financeiras saudáveis.  
+Embora a edição mais recente da Série Cidadania Financeira tenha mostrado uma diminuição da desigualdade em indicadores de inclusão financeira, iniciativas como as apresentadas no item anterior precisam continuar, de forma que essa desigualdade possa cair ainda mais, e o Brasil possa se aproximar a índices de inclusão financeira alcançados por países da OCDE.
+O acesso do cidadão a serviços financeiros que se adequem às suas necessidades e a custos acessíveis se insere na definição de inclusão financeira que, juntamente com a educação financeira, são peças-chave para a completa cidadania financeira do indivíduo.
+Vale lembrar que, como define a Global Partnership for Financial Inclusion (GPFI/G20), a inclusão financeira não se refere unicamente ao puro acesso a serviços financeiros providos por instituições formais, mas também à efetividade e qualidade desse acesso e seu uso a custos acessíveis para os consumidores, de forma sustentável para os provedores. 
+
+
+Evolução Histórica:
+Os principais avanços estão no maior acesso e uso de serviços financeiros pelos brasileiros, principalmente considerando a população de menor renda. A pesquisa Global Findex indicou, por exemplo, um crescimento de 70% para 84% entre 2017 e 2021 na parcela de adultos detentores de conta corrente em instituições financeiras no Brasil. Considerando apenas o extrato dos 40% mais pobres entre os brasileiros, o número evoluiu de 57% em 2017 para 82% em 2021.
+
+Comparações Internacionais:
+A resiliência financeira dos brasileiros, mensurada pela facilidade de o cidadão lidar com choques financeiros inesperados, está bem abaixo da média dos países da OCDE, conforme apontou a já citada pesquisa Global Findex. Dos países do grupo em que se encontra (renda média-alta), o Brasil está entre aqueles que têm a menor resiliência. 
+
+Relação com os ODS:
+O BCB contribui, direta ou indiretamente, para o alcance de 9 dos 17 ODS. O BCB desenvolve ações estratégicas que contribuem mais diretamente para o alcance dos ODS 4, 8 e 17.
+O Programa Aprender Valor, por exemplo, contribui para o alcance do ODS 4, que envolve a promoção de oportunidades de aprendizagem ao longo da vida para todos. 
+O ODS 8 consiste em promover o crescimento econômico sustentado, inclusivo e sustentável, emprego pleno e produtivo e trabalho decente para todos. O Pix é um exemplo de ação do BCB que contribui para o alcance da meta 8.10, que envolve o incentivo à expansão do acesso aos serviços bancários e financeiros para todos. 
+Por meio das ações desenvolvidas no âmbito da dimensão de Sustentabilidade da Agenda BCB#, o BCB também contribui para o alcance do ODS 17, de fortalecer os meios de implementação e revitalizar a parceria global para o desenvolvimento sustentável.
+
+
+Objetivo Geral:
+- Fomentar a eficiência, a sustentabilidade e a transformação digital dos sistemas financeiro e de pagamentos, com maior inclusão e educação financeira de cidadãos.
+
+Objetivos Específicos:
+- Promover a transformação digital e a competição para ampliar o acesso a transações e serviços financeiros e de pagamentos.
+- Aprimorar a resiliência operacional do Sistema Financeiro Nacional (SFN), promovendo ações para fortalecimento da gestão da resiliência cibernética nas entidades supervisionadas.
+- Ampliar o alcance da população, em especial do público escolar, a conteúdos de educação financeira, história dos instrumentos de pagamentos, conceitos básicos de economia e de sustentabilidade.
+
+Indicadores de Entrega:
+- Exercícios cibernéticos: Exercícios cibernéticos realizados entre ESs 
+- Museu de Valores do BC - virtual lançando: nan 
+- Nova plataforma do Programa Aprender Valor implementada: nan 
+- Novas tecnologias Pix implementadas: Novas tecnologias Pix implementadas de modo a facilitar a experiência para o usuário, ter robustez de mecanismos e medidas para garantir a segurança das transações, possibilitar estrutura integrada e de ampla de participação, possibilitando pagamentos entre instituições distintas. 
+- Novo Museu de Valores do BC inaugurado: Inauguração do Museu de Valores do BC 
+- Open finance – compartilhamento de dados de investimentos e câmbio implementado: Serviço implementado 
+- Open finance – jornada sem redirecionamento na iniciação de pagamento implementado: Especificação de ajustes nas APIs de pagamento - Application Programming Interface, visando a uma jornada sem redirecionamento para iniciação de transação de pagamento 
+- Pix automático implementado: Pix automático implementado. Modalidade que visa facilitar pagamentos recorrentes por meio do Pix, de forma automática mediante autorização prévia do usuário pagador. 
+- Quantidade de Entidades supervisionadas (ESs) incluídas no mapa: Verificar a quantidade de ESs incluídas no mapa da exposição ao risco cibernético do SFN 
+- Quantidade de Workshops realizados: nan 
+- Real Digital Implementado: Verificar o desenvolvendo várias ações voltadas para a emissão em formato digital da moeda brasileira - Drex. 
+
+Indicadores de Objetivos Específicos:
+- Índice de alcance das ações de Educação Financeira do Banco Central do Brasil: Medir a capacidade de o BC atingir o cidadão com ações de educação financeira. O índice é formado a partir de quatro indicadores táticos: [1] Público atingido por meio de informações de Educação Financeira fornecidas pelo BC; [2] Público atingido por meio de formações e capacitações em Educação Financeira realizadas pelo BC; [3] Número de acessos ao conteúdo do Museu de Valores; e [4] Número de escolas participantes do Programa Aprender Valor.
+
+Métrica: (Quantidade de pessoas alcançadas pelas ações de informação[1] + Quantidade de pessoas alcançadas pelas ações de formação[2] x5 + Quantidade de acessos ao conteúdo do Museu[3] + Quantidade de escolas participantes do Aprender Valor[4] x 10)/1.000. 
+- Índice de execução das ações para fortalecimento da gestão da resiliência cibernética no SFN: Índice de execução (IE, em %) das ações para fortalecimento da gestão da resiliência  cibernética nos sistemas financeiro e de pagamentos:
+= 0,4 (Mapa da exposição) + 0,3 (Exercícios cibernéticos) + 0,3 (Workshops)
+ 
+- Número de transações digitais anuais per capita: O indicador "Número de transações digitais anuais per capita" mensura a utilização de meios digitais de pagamento (TED, DOC, boleto, Pix e cartões) somado ao número de chamadas de Open Finance (excluídas as chamadas de iniciadores de pagamento). Esses serviços digitais são ofertados pelas instituições autorizadas pelo Banco Central do Brasil, per capita (dados fornecidos pelo IBGE em dezembro de ano de referência).
+Esse indicador foi escolhido, portanto, para retratar a efetiva transformação digital pela qual passam os clientes dos sistemas financeiro e de pagamentos. Ao não focar na oferta ou na criação de serviços digitais, mas olhar para o efetivo uso desses serviços, o indicador tem capacidade de mensurar como o cidadão é incluído nesse ecossistema. Quanto mais efetiva a estratégia de transformação digital, maior a utilização desses serviços.
+Observe adicionalmente que, ao ser apurado de forma per capita, esse indicador elimina o viés do crescimento populacional da apuração de sua variação anual.

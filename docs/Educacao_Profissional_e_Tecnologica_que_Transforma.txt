@@ -1,0 +1,182 @@
+passage: Programa: Educação Profissional e Tecnológica que Transforma
+
+Descrição do Problema:
+Acesso e permanência desiguais e insuﬁcientes na Educação Proﬁssional e Tecnológica, especialmente entre a população de maior vulnerabilidade social como as populações negras, indígenas, quilombolas, pessoas surdas, pessoas com deﬁciência, povos do campo, das águas e das ﬂorestas. Desalinhamento entre a oferta e a formação na educação proﬁssional e as demandas da sociedade, do mundo do trabalho e das diversidades de populações e seus territórios. Desconhecimento de indicadores padronizados de qualidade educacional para a EPT, incluindo as estatísticas intersetoriais na análise de oferta, de fluxo e rendimento, da aprendizagem dos saberes do trabalho, da aderência da oferta ao contexto social, econômico e produtivo local e nacional, da inserção dos egressos no mundo do trabalho e das condições institucionais de oferta, contemplando as diversidades de populações e seus territórios.
+
+Causa do Problema:
+•	Falta de previsão de metas específicas para os níveis/modalidades da EPT, para além do técnico, no PNE;
+•	Necessidade de aprimoramento de políticas públicas em educação profissional e tecnológica voltadas a públicos específicos
+•	Extinção da SASE no governo anterior
+•	Necessidade de atualização dos Normativos atuais
+•	Engessamento das áreas dos docentes da Rede Federal de Educação Profissional, Científica e Tecnológica (Rede Federal de EPCT) para acompanhamento das atualizações das demandas
+•	Ausência de acompanhamento de egressos
+•	Limitação da infraestrutura relacionada ao planejamento inicial da unidade 
+•	Demora na atualização dos Catálogos Nacionais de Cursos e Guia FIC
+•	Dinamicidade do mundo de trabalho
+•	Falta de indicador de empregabilidade
+•	A EPT não possui uma política de financiamento sistemática, perene e organizada
+•	Falta de indicadores específicos para EPT
+•	Dificuldade de articulação entre as redes de ensino
+•	Dificuldade de articulação das redes EPT com o mercado e interministerial
+•	Dificuldade de definição de um modelo e diretrizes para a avaliação considerando as especificidades da EPT
+•	Bases de dados atuais apresentam falhas e são fragmentadas
+•	Falta de integração com os sistemas acadêmicos 
+•	Falta de atualização de dados no Sistec por parte de algumas redes
+•	Limitação orçamentária
+•	Pouco ou quase nenhum incentivo financeiro para maior envolvimento de empresas na formação e qualificação de profissionais
+
+
+Evidências do Problema:
+Indicador 11A: no período de 2013 a 2021 houve uma expansão do número absoluto de matrículas de educação profissional técnica de nível médio no Brasil. De 1.602.946 matrículas, em 2013, passou-se a 1.851.541, em 2021, totalizando um crescimento de aproximadamente 15,5% no período. Entretanto, para o atingimento da meta, seria necessário um crescimento de 200%. Percebe-se o movimento ascendente do indicador entre os anos de 2016 e 2020, com posterior interrupção desse crescimento em 2021, representando redução de quase 50 mil matrículas (49.936) em comparação aos valores de 2020. Logo no início do processo de monitoramento, o indicador apresentou um desenvolvimento significativo, atingindo 1.886.167 matrículas em 2014 – um aumento de 17,7%. Nos dois anos seguintes, ocorreu um movimento decrescente, com queda de 5,9%. A partir de 2016, passa a se recuperar, crescendo 7,1% em um período de quatro anos, e atinge o pico da série histórica em 2020, com 1.901.477 matrículas. Em 2021, foi interrompida a série de crescimento, presumivelmente um efeito da pandemia, com uma queda de 2,6%, alcançando 1.851.541 matrículas. Em 2022 alcançou o número de 2.069.771 matrículas.
+
+GRÁFICO 1 – Matrículas em EPT de nível médio – Brasil – 2013-2022 (anexo)
+
+Indicador 11B: acompanha a participação do segmento público na expansão da EPT de nível médio. A análise da evolução das matrículas, especificamente no período de 2013 a 2021, demonstrou uma expansão de 248.595 matrículas na EPT de nível médio. O segmento público experimentou uma expansão superior a esse valor (251.624 matrículas). Assim, o Indicador 11B atingiu, em 2021, o valor de 101,2%. Isso significa que o segmento privado passou por uma retração no período, com o número de matrículas em 2021 estando abaixo do apresentado na linha de base, em 2013. O crescimento verificado assinala, portanto, que o segmento público foi responsável por toda a expansão das matrículas da EPT de nível médio. Já em 2022 2022 o segmento privado foi responsável por 185.141 matrículas enquanto o público somente por 33.089 matrículas.
+
+GRÁFICO 2 – Participação do segmento público na expansão das matrículas em EPT de nível médio – Brasil – 2013-2022 (anexo)
+
+Indicador 11C: monitoramento exclusivo do segmento público apresentando a sua expansão percentual acumulada no período de 2013 a 2021. Em 2014, verifica-se uma expansão das matrículas na ordem de 1,5 p.p. sobre os valores apresentados na linha de base (2013). Posteriormente, constata-se uma sequência de quatro anos de acréscimos nas matrículas: 7,0 p.p. (2015), 6,3 p.p. (2016), 2,4 p.p. (2017) e 6,8 p.p. (2018). Em 2019, observa-se a primeira redução do indicador (-1,1 p.p.), seguida de uma recuperação, com o aumento de 8,5 p.p. (2020), representando o maior valor da série histórica, 31,4%. No exercício de 2021, registra-se uma nova retração do indicador (-3,5 p.p), chegando-se 27,9% de crescimento acumulado em relação ao ano de 2013. Em 2022 o resultado foi 31,6%.
+
+GRÁFICO 3 – Expansão acumulada no segmento público na oferta de matrículas em EPT de nível médio em relação a 2013 – Brasil – 2013-2022 (anexo)
+
+Além dos indicadores acima demonstrados, alguns relatórios de auditorias, bem como Acórdãos do TCU apresentam informações que se traduzem em evidências para os problemas aqui descritos, conforme abaixo:
+•	Acórdão 770/2020-TCU-Plenário: dispõe sobre a reserva de vagas para pessoas com deficiência nos cursos técnico de nível médio;
+•	Acórdão 7874/2017 -TCU- 2ª Câmara: insuficiência do valor da assistência estudantil;
+•	Acórdão 612/2021 TCU-Plenário: ausência de um sistema nacional de avaliação da educação profissional; ausência de um censo da educação profissional; ausência de indicadores das atividades de pesquisa e extensão e de empregabilidade de egressos;
+•	Acórdão TCU n.º 2267/2005: ausência de indicadores;
+•	Acórdão TCU nº 506/2013-TCU-Plenário: evasão na EPT;
+•	Acórdão 8435/2020 e Acórdão 2356/2022: ausência de articulação com a finalidade de desenvolver e implementar medidas que visem a melhoria da eficiência energética;
+•	391% dos jovens entre 14 e 29 anos com instrução inferior ao ensino médio completo abandonam a escola por necessidade de trabalho e 29,2% por falta de interesse (PNAD Contínua 2019 - IBGE);
+•	5% dos docentes que atuam na educação inclusiva tem capacitação na área; 
+•	29% das escolas do país não têm qualquer recurso de acessibilidade;
+•	Apenas 9% dos jovens que fazem o ensino médio acessam a educação profissional técnica de nível médio. Em países da União Europeia esse valor é de 43% (Education at a Glance 2021).
+
+
+Justificativa para a Intervenção:
+Entre 2003 e 2016, o governo federal investiu fortemente na educação da população brasileira, desenvolvendo políticas públicas com base em uma visão sistêmica da educação, com iniciativas da creche à pós-graduação. Antigos programas foram ampliados e aperfeiçoados, ao passo que novos foram criados. Os programas educacionais existentes, até então fortemente centrados no ensino fundamental, foram aperfeiçoados e ampliados para todas as etapas da educação básica, como é o caso da alimentação e transporte escolar, além do livro didático. Ao mesmo tempo, novos e relevantes programas foram criados, a exemplo do Pronatec, na educação profissional.
+Um novo padrão de relacionamento entre a União e os governos estaduais, distrital e municipais foi estabelecido com o Plano de Ações Articuladas (PAR), trazendo uma lógica de apoio prioritário aos entes federados que mais precisam e mais transparência aos repasses de recursos discricionários do governo federal, materializando a cooperação federativa em educação. E um vigoroso processo de expansão da rede de educação profissional e tecnológica foi executado, com destaque para a criação dos Institutos Federais de Educação, Ciência e Tecnologia, assim como na educação superior, com a criação de novas universidades e campi em todo o país. Importante mencionar, ainda, a entrada na agenda pública de temas estratégicos como a inclusão educacional das pessoas com deficiência e a valorização da diversidade humana, com a implementação de políticas de cotas, entre outras medidas. Merece registro a ampla e democrática discussão em torno da construção do Plano Nacional de Educação 2014-2024, que trouxe 20 metas e uma série de estratégias para a educação básica em todas as suas etapas e para a educação superior, além das modalidades de ensino do país.
+Contudo, todas essas conquistas foram comprometidas. Entre 2019 e 2022, o Ministério da Educação (MEC) e suas autarquias passaram por fortes retrocessos institucionais, orçamentários e normativos. Esse período foi marcado pela falta de planejamento; descontinuidade de políticas relevantes; desarticulação com os sistemas de ensino estaduais e municipais; incapacidade de execução orçamentária; e omissões perante os desafios educacionais brasileiros. A educação foi duramente atingida por um governo que fugiu às pautas fundamentais da educação, promovendo um verdadeiro desmonte das políticas públicas em curso e colocando na pauta temas ultraconservadores. Associado a isso, veio a tragédia da pandemia da Covid-19, cujos efeitos foram ainda mais severos juntos aos estudantes e profissionais da educação brasileiros pelo descaso do governo. 
+A atenção da nova gestão do Ministério da Educação deverá voltar os olhos para o enfrentamento dos efeitos da pandemia na educação. Uma política nacional, coordenada pelo MEC em pactuação com os estados e municípios, universidades, institutos federais e demais redes, com foco no combate aos problemas já evidenciados na EPT é uma das principais prioridades. 
+Nesse contexto, a expectativa é de que a retomada das ações prioritárias da nova gestão esteja refletida no PPA 2024-2027, com o aperfeiçoamento e ampliação de programas e iniciativas já consolidados anteriormente (até 2016), bem como com a criação de novas políticas públicas a serem entregues a sociedade com vistas à superação das desigualdades e melhoria nos índices de aprendizagem, de acesso, permanência e conclusão em todos os níveis, etapas e modalidades educacionais.
+
+
+Evolução Histórica:
+O Relatório do 4º Ciclo de Monitoramento das metas do PNE aponta que, de 1.602.946 matrículas em educação profissional técnica de nível médio, em 2013, passou-se a 1.851.541, em 2021, totalizando um crescimento de aproximadamente 15,5% no período. A expansão correspondeu a 248.595 matrículas, o que representa 7,7% da expansão necessária para o atingimento da meta estabelecida para o ano de 2024.
+A região Sudeste é a que apresenta os maiores percentuais de oferta de matrículas de educação profissional técnica de nível médio (41,3%), seguida pelas regiões Nordeste (31,8%), Sul (16,2%), Norte (5,6%) e Centro-Oeste (5,1%). Ressaltam-se o expressivo crescimento da oferta ocorrido nas regiões Nordeste (65,1%) e Norte (17,0%) e as variações constatadas para as regiões Sul (7,3%) e Centro-Oeste (9,8%), no período de 2013 a 2021. A região Sudeste, que concentra cerca de 42% da população brasileira, apresentou decréscimo de matrículas (-3,5%), contrariando o sentido apontado pelo PNE.
+A desagregação por unidades da Federação demonstrou que, no ano de 2021, 15 estados brasileiros experimentaram uma redução nas matrículas, enquanto 11 estados e o Distrito Federal experimentaram uma expansão. 
+Em 2021, experimentaram expansão de matrículas os cursos técnicos integrados (8,7%), os técnicos concomitantes (5,0%) e os técnicos integrados à EJA (1,3%). Em contrapartida, sofreram redução de matrículas os cursos normal/magistério (-22,6%) e os técnicos subsequentes (-10,7%).
+A rede federal apresenta a melhor evolução no período analisado, com acréscimo de 36,9% nas matrículas, e as redes estaduais tiveram crescimento médio de 28,5%, enquanto as municipais apresentaram forte queda (-39,7%) no número de matrículas e as privadas uma leve redução de 0,4%.
+O crescimento da rede federal se caracterizou pelo massivo acréscimo nas matrículas em cursos técnicos integrados (80,5%) e pela redução das matrículas em cursos técnicos integrados à EJA (33,5%) e em cursos técnicos concomitantes (52,9%). As matrículas em cursos técnicos subsequentes, ainda que tenham experimentado uma evolução de 18,3%, entre 2013 e 2021, estão em processo de declínio, experimentando redução de 37,5% desde 2015.
+As redes estaduais apresentam um processo desigual de crescimento, com as matrículas em cursos técnicos integrados subindo 134,7%, perante 42,0% nos cursos técnicos integrados à EJA. Para os cursos técnicos subsequentes, concomitantes e normal/magistério, notam-se reduções de 3,2%, 15,3% e 55,7%, respectivamente.
+No âmbito das redes privadas, percebe-se um decréscimo de 17,3% nas matrículas de cursos técnicos integrados, com retração no número absoluto de matrículas – valores menores que os da linha de base –, enquanto os cursos técnicos subsequentes tiveram expansão de 9,1%.
+Da expansão total de 248.595 matrículas, 251.624 estão no segmento público, o que representa 101,2% da expansão observada e a superação do percentual de 50% de participação prevista no PNE. Contudo, em 2021, a educação profissional técnica de nível médio interrompeu sua sequência de alta no setor público, demonstrando
+retração de 31.049 matrículas.
+
+
+Comparações Internacionais:
+De acordo com o Education at a Glance 2021 (OCDE), dentre os países da União Europeia, em média 43% dos formados no ensino médio são concluintes da educação profissional. No Brasil, os concluintes da educação profissional representam apenas 9% dos concluintes do ensino médio. Vale esclarecer que este estudo não inclui os concluintes dos Cursos Técnicos Subsequentes (pós-médio e não superior), mas apenas aqueles que concluíram o Ensino Médio articulado com a Educação Profissional Técnica de Nível Médio (nas modalidades integrado e concomitante). O estudo da OCDE aponta a baixa atratividade dessa modalidade de educação em países como o Brasil.
+Ainda de acordo com o estudo Education at a Glance 2021, na maioria dos países da OCDE, os homens têm maior probabilidade de seguir um curso profissionalizante, em relação às mulheres. Diferentemente do Brasil, onde o percentual de mulheres concluintes do ensino médio profissionalizante (integrado e concomitante), em 2019, foi de 56%, acima da média da OCDE (45%). Em relação aos programas não vocacionais de ensino médio no Brasil, as mulheres também apresentaram uma alta participação (54% dos concluintes), em comparação com a média dos países da OCDE (55%).  
+
+
+Relação com os ODS:
+ODS 4: Assegurar a educação inclusiva e equitativa e de qualidade, e promover oportunidades de aprendizagem ao longo da vida para todos. (https://odsbrasil.gov.br/objetivo/objetivo?n=4).
+
+Agentes Envolvidos:
+•	Ministério da Educação e todos os órgãos e entidades a eles vinculados; 
+•	Instituições ofertantes: Os cursos técnicos são realizados em instituições devidamente credenciadas pelos sistemas de ensino.
+•	Sistema Federal de Ensino: Institutos Federais; Colégio Pedro II; Escolas Técnicas Vinculadas às Universidades Federais; Centros Federais de Educação Tecnológica e Universidade Tecnológica Federal do Paraná, Rede de Instituições Educacionais do Sistema Único de Saúde – a RETSUS, vinculada ao Ministério da Saúde; SENAI, SENAC, SENAR e SENAT, vinculados aos Serviços Nacionais de Aprendizagem (SNA), como instituições privadas de educação profissional, vinculadas ao sistema Sindical, nos termos do Art. 240 da Constituição Federal; Instituições de ensino superior devidamente habilitadas para ofertar cursos técnicos, nos termos do Art. 20-B da Lei nº 12.513/2011, na redação dada pela Lei nº 12.816/2013.
+•	Sistemas estaduais, distrital e municipais de ensino: Redes públicas estaduais, distrital e municipais de educação profissional e tecnológica; Escolas técnicas privadas; Instituições de ensino superior mantidas pelo poder público estadual ou municipais devidamente habilitadas para ofertar cursos técnicos.
+
+
+Articulação Federativa:
+O MEC busca, em articulação e em regime de colaboração com os entes subnacionais, implementar políticas públicas que visam garantir o pleno exercício do direito à educação, compreendendo a universalização do acesso e a melhoria da qualidade da educação básica em todas as suas dimensões. As ações estratégicas do MEC são desenvolvidas por meio da prestação de apoio técnico e financeiro, em caráter suplementar, aos estados, ao Distrito Federal e aos municípios, promovendo a equidade, a qualidade das aprendizagens escolares, a valorização e a qualificação dos profissionais que atuam na educação básica.
+Portanto, é importante ressaltar que o alcance do Objetivo do Programa depende fortemente também dos esforços de estados, Distrito Federal e municípios. É, pois, um desafio que só será alcançado com o trabalho conjunto de toda a Federação, dado que a educação é competência comum (Constituição Federal de 1988, art. 23) dos entes federados e estes devem organizar, em regime de colaboração, seus sistemas de ensino, com suas respectivas prioridades de atuação constitucionalmente estabelecidas (ao município, educação infantil e ensino fundamental; ao estado, ensinos fundamental e médio; e à União, educação superior).
+
+
+Enfoque Transversal:
+As ações desenvolvidas têm interface com as seguintes agendas/temas transversais: 
+•	Jovens e adultos;
+•	mulheres;
+•	populações negras;
+•	populações indígenas;
+•	populações quilombolas;
+•	populações originárias;
+•	povos dos campos, das flores e das águas;
+•	imigrantes e refugiados;
+•	pessoas surdas;
+•	pessoas com deﬁciência;
+•	apenados;
+•	igualdade racial;
+•	Agenda Verde;
+•	diversidade;
+•	inclusão.
+
+
+Marco Legal:
+Leis e Decretos (instituição das políticas relacionadas aos objetivos e entregas do PPA):
+
+•	Constituição Federal: art. 205 a 215 e 231
+•	Lei nº 9.394/1996 – LDB
+•	Lei nº 13.005/2014 - PNE 2014-2024
+•	Decreto 5.154, de 23 de julho de 2004, que regulamenta dispositivos da LDB no tocante a educação profissional e tecnológica.
+•	Lei nº 12.513, de 26 de outubro de 2011, que institui o Programa Nacional de Acesso ao Ensino Técnico e Emprego – Pronatec.
+•	Lei nº 11.892, de 29 de dezembro de 2008, que institui a Rede Federal de Educação Profissional, Científica e Tecnológica; cria os Institutos Federais de Educação, Ciência e Tecnologia.
+
+Resoluções do CNE (relacionadas aos objetivos e entregas do PPA):
+
+•	Resolução CNE/CP nº 1, de 5 de janeiro de 2021, que define as Diretrizes Curriculares Nacionais Gerais para a Educação Profissional e Tecnológica.
+•	Resolução nº 3, de 21 de novembro de 2018, que atualiza as Diretrizes Curriculares Nacionais para o Ensino Médio.
+•	Resolução CNE/CP nº 1, de 6 de maio de 2022, que institui as Diretrizes Curriculares Nacionais para a Formação de Professores da Educação Profissional Técnica de Nível Médio (EPTNM-Formação).
+•	Resolução CNE/CEB nº 1, de 28 de maio de 2021, que institui Diretrizes Operacionais para a Educação de Jovens e Adultos nos aspectos relativos ao seu alinhamento à Política Nacional de Alfabetização (PNA) e à Base Nacional Comum Curricular (BNCC), e Educação de Jovens e Adultos a Distância.
+
+Portarias MEC (relacionadas aos objetivos e entregas do PPA):
+
+•	Portaria nº 725, de 13 de abril de 2023, institui o Programa Mulheres Mil.
+•	Portaria nº 1.045, de 27 de dezembro de 2022, altera o §1º do art. 46 da Portaria nº 1.042, de 21 de dezembro de 2021, que estabelece as normas para execução da Bolsa-Formação no âmbito do Programa Nacional de Ensino Técnico e Emprego - Pronatec, instituído pela Lei nº 12.513, de 26 de outubro de 2011.
+•	Portaria nº 646, de 21 de dezembro de 2022, dispõe sobre a implantação, o funcionamento e a política de fomento dos Polos de Inovação nos Institutos Federais de Educação, Ciência e Tecnologia (Institutos Federais), nos Centros Federais de Educação Tecnológica - Cefet e no Colégio Pedro II, e revoga a Portaria nº 167, de 22 de março de 2022.
+•	Portaria nº 711, de 27 de setembro de 2022, institui Grupo de Trabalho para concepção de Sistema de Avaliação da Educação Profissional e Tecnológica ‒ Sinaept.  
+•	Portaria nº 615, de 18 de agosto de 2022, institui o Programa para Desenvolvimento em Energias Renováveis e Eficiência Energética nas Instituições Federais de Educação - EnergIFE, o seu Conselho Consultivo e dá outras providências.
+•	Portaria nº 491, de 7 de outubro de 2021, institui a Plataforma Aprenda Mais - Cursos abertos e online da Rede Federal e o Comitê Gestor da Plataforma.
+•	Portaria nº 713, de 8 de setembro de 2021, que trata das diretrizes para a organização dos Institutos, CEFETs e CPII, define parâmetros e normas para a sua expansão e dispõe sobre a criação e implementação do modelo de dimensionamento de cargos efetivos, cargos de direção e funções gratificadas e comissionadas na aba legislação e atos normativos.
+•	Portaria nº 48, de 27 de janeiro de 2021, altera o caput do art. 4º da Portaria Setec nº 62, de 24 de janeiro de 2020, que trata sobre o procedimento de recebimento de pedidos de autorização de cursos técnicos pelas Instituições Privadas de Ensino Superior.
+•	Portaria Setec nº 62, de 24 de janeiro de 2020, dispõe sobre os procedimentos associados à oferta de cursos técnicos de nível médio por instituições privadas de ensino superior - IPES de que trata a Portaria MEC nº 1.718, de 2019.
+•	Portaria nº 1.718, de 8 de outubro de 2019, dispõe sobre a oferta de cursos de educação profissional técnica de nível médio por Instituições Privadas de Ensino Superior - Ipes.
+
+
+Planos Nacionais, Setoriais e Regionais:
+Plano Nacional de Educação – Lei nº 13.005, de 25 de junho de 2014.
+
+Objetivo Geral:
+- Ampliar o acesso, a permanência e a formação de qualidade na Educação Profissional e Tecnológica, considerando potencialidades sociais, culturais e produtivas locais, com vistas à superação das desigualdades e à valorização da diversidade, na perspectiva da equidade, da inclusão e da sustentabilidade, visando a formação integral.
+
+Objetivos Específicos:
+- Consolidar a Rede Federal de Educação Profissional, Científica e Tecnológica, considerando o atendimento pleno das unidades às suas comunidades, levando-se em conta as especificidades territoriais, sociais, culturais e ambientais, de sustentabilidade, inclusão e acessibilidade.
+- Expandir a oferta da Educação Profissional e Tecnológica, levando-se em conta as desigualdades regionais, raciais, de nível socioeconômico, bem como as especificidades sociais, culturais, territoriais e ambientais, de sustentabilidade, inclusão e acessibilidade.
+- Qualificar a Educação Profissional e Tecnológica, fomentando programas, projetos e ações que fortaleçam a atenção às demandas da sociedade na oferta de ensino, pesquisa, extensão e inovação, levando-se em conta as especificidades sociais, culturais, territoriais e ambientais, de sustentabilidade, inclusão e acessibilidade.
+- Realizar estudos e pesquisas educacionais sobre a Educação Profissional e Tecnológica, buscando o aprimoramento contínuo e a disseminação das informações de forma a oferecer subsídios que contribuam para a indução da melhoria do ensino ofertado.
+
+Indicadores de Entrega:
+- Número absoluto de matrículas de Educação de Jovens e Adultos na forma integrada à Educação Profissional: Número de matrículas de Educação de Jovens e Adultos integrada à educação profissional, tanto no Ensino Fundamental (EF), quanto no Ensino Médio (EM). 
+- Número absoluto de matrículas na Educação Profissional Técnica de Nível Médio: Número de matrículas em cursos técnico de nível médio, considerando as seguintes formas de oferta: a) Técnico Integrado; b) Técnico Integrado – EJA; c) Técnico Concomitante; d) Técnico Subsequente; e) Normal/ magistério. 
+- Número de Certificações de Saberes e Experiências profissionais reconhecidos: O indicador representa o resultado da ação de certificação do profissional. 
+- Número de matrículas de cursos de Qualificação Profissional: Número de matrículas em Cursos de Qualificação Profissional, com carga horária maior ou igual a 160h 
+- Número de matrículas em cursos de mestrado e doutorado profissional (ProfEPT): O indicador representa o esforço da Setec/MEC, em parceria com as instituições de ensino que integram a Rede Federal EPCT, concretizado na concessão de vagas e no apoio à contínua ocupação das mesmas pelo corpo discente de cursos stricto sensu, ofertados em rede. 
+- Número de matrículas em cursos superiores de tecnologia no País: Número de matrículas em cursos superiores de tecnologia no País.  
+- Número de matrizes de referência curricular construídas: Esta entrega tem como objetivo contribuir para a estruturação de um sistema nacional de avaliação da EPT.  No total, serão construídas 13 (treze) matrizes durante a vigência do PPA 2024-2027, conforme planejamento anual, contemplando os eixos tecnológicos que estruturam a organização dos cursos de educação profissional técnica de nível médio no país. 
+- Número de obras apoiadas na Rede Federal de Educação Profissional, Científica e Tecnológica (RFEPCT): Refere-se ao número de obras que foram apoiadas pela Setec/MEC, mediante descentralização orçamentária via TED, para realização de obras. 
+- Número de produtos desenvolvidos e publicados: Produtos desenvolvidos (Anuários, estudos sobre EPT, por exemplo) 
+- Número de projetos e ações apoiados pela SETEC: Número de projetos e ações apoiados. 
+- Número de unidades da RFEPCT: Refere-se ao número de unidades que compõe a Rede Federal de EPCT 
+- Número de unidades de ensino da Rede Federal de Educação Profissional, Científica e Tecnológica apoiadas pela Setec/MEC para aquisição de equipamentos: Refere-se ao número de unidades de ensino que foram apoiadas pela Setec/MEC, mediante descentralização orçamentária via TED para aquisição de equipamentos. 
+- Número de vagas ofertadas e apoiadas pela Setec: Quantitativo de vagas ofertadas e apoiadas pela Setec/MEC, em iniciativas voltadas à valorização e formação dos Profissionais da Educação Profissional e Tecnológica. 
+- Número de vagas ofertadas pelas unidades da RFEPCT em iniciativas voltadas à sustentabilidade: Número de vagas ofertadas pelas instituições de ensino que ofertam EPT em iniciativas voltadas à sustentabilidade e adaptabilidade ambiental.  
+- Número total de Polos de Inovação nas instituições da RFEPCT: Refere-se ao número de Polos de Inovação que compõe a Rede Federal de EPCT 
+- Percentual de unidades apoiadas: Refere-se ao % de unidades, em relação a todas as unidades da RFEPCT, que possuem internet de alta velocidade para o desenvolvimento de suas atividades administrativas e pedagógicas. 
+- Percentual de unidades da RFEPCT com projetos de pesquisa, extensão e inovação apoiados pela Setec: Percentual de unidades da Rede Federal de Educação Profissional, Científica e Tecnológica com projetos de pesquisa, extensão e inovação apoiados pela Setec. 
+
+Indicadores de Objetivos Específicos:
+- Número de iniciativas, projetos, ações e programas apoiados: Número de iniciativas, projetos, ações e programas apoiados. 
+- Número de matrículas em cursos técnicos de nível médio e em cursos de qualificação profissional: O Indicador expressa a soma do número de matrículas em cursos técnico de nível médio e em cursos de qualificação profissional no ano. 
+- Percentual da totalidade de matrículas atingida na Rede Federal de Educação Profissional, Científica e Tecnológica, com base nas tipologias definidas: O Indicador expressa o percentual de atingimento da capacidade de matrículas das unidades da Rede Federal de Educação Profissional e Tecnológica. 
+- Percentual de realização de produtos e estudos referentes à Educação Profissional e Tecnológica, conforme planejamento anual: Indicador para monitoramento do cumprimento das metas do Inep para o Objetivo Específico 4 – EPT (IDIEPTOE4).
+O indicador sintetiza o percentual de atingimento das metas previstas nas entregas 1 e 2, referentes aos produtos desenvolvidos e estudos realizados, conforme planejamento anual.

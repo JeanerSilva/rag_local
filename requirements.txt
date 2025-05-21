@@ -1,7 +1,8 @@
 langchain>=0.1.20
 langchain-core>=0.1.36
 langchain-community>=0.0.33
-llama-cpp-python==0.2.64
+#llama-cpp-python==0.2.64      pip install llama-cpp-python --prefer-binary
+
 pydantic>=2.6
 tqdm>=4.66.2
 streamlit>=1.34.0

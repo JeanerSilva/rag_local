@@ -1,0 +1,108 @@
+passage: Programa: Saneamento Básico
+
+Descrição do Problema:
+A ausência de serviços adequados de saneamento expõe a população a condições insalubres e leva à degradação ambiental. A falta de saneamento tem impacto direto na saúde púbica, estando relacionada à proliferação de doenças parasitárias e infecciosas, contrinbuindo para o aumento nos índices de morbimortalidade e nos custos de atenção à saúde, além de estar diretamente relacionada a processos de degradação ambiental, e, portanto, à redução da qualidade de vida e ao aumento da desigualdade social, com impacto direto na atividade econômica.
+
+Causa do Problema:
+Déficit de oferta e acesso a serviços adequados de saneamento básico;
+Gestão e prestação deficientes dos serviços de saneamento básico;
+Baixo nível de investimentos;
+Falhas na formulação, na implementação e na avaliação das políticas públicas;
+Baixo envolvimento e consciência da população sobre saúde ambiental;
+Baixa participação e controle social na gestão da política de saneamento básico.
+
+Evidências do Problema:
+O Plansab traz um diagnóstico do setor para as diversas componentes do saneamento básico. Verifica-se, a partir dos índices de atendimento dos serviços de saneamento básico à população do Brasil, que o alcance desses serviços tem sido gradativamente ampliado, embora ainda existam grandes desafios a serem superados.
+Segundo o modelo conceitual do Plansab, o atendimento e o déficit, por população e domicílios, por componente do saneamento básico no Brasil, em 2017, é o apresentado na tabela abaixo:
+1. Abastecimento de água
+1.1 Atendimento adequado: 118.801.000 habitantes ou 40.135.000 domicílios
+1.2. Atendimento precário: 81.687.000 habitantes ou 27.596.000 domicílios
+1.3. Sem atendimento: 5.626.000 habitantes ou 1.900.000 domicílios
+
+2. Esgotamento sanitário
+2.1 Atendimento adequado: 99.037.000 habitantes ou 33.458.000 domicílios
+2.2. Atendimento precário: 100.337.000 habitantes ou 33.897.000 domicílios
+2.3. Sem atendimento: 6.740.000 habitantes ou 2.277.000 domicílios
+
+3. Limpeza Urbana e Manejo de Resíduos Sólidos
+3.1 Atendimento adequado: 133.828.000 habitantes ou 45.212.000 domicílios
+3.2. Atendimento precário: 51.619.000 habitantes ou 17.438.000 domicílios
+3.3. Sem atendimento: 20.667.000 habitantes ou 6.982.000 domicílios
+
+Justificativa para a Intervenção:
+As intervenções em saneamento geram externalidades positivas em relação à saúde pública, meio ambiente, qualidade de vida e produtividade econômica. 
+O abastecimento de água é vital para a sobrevivência humana e para viabilizar um amplo conjunto de atividades produtivas. 
+A ausência de soluções adequadas para a coleta e tratamento desses esgotos, resulta, por sua vez, em condições precárias de saneamento, favorecendo a proliferação de doenças parasitárias e infecciosas e causando a degradação dos corpos hídricos. Assim, o afastamento e tratamento dos esgotos sanitários são fundamentais para resguardar a saúde pública e preservar o meio ambiente, melhorando, assim, a qualidade de vida da população. 
+No caso dos resíduos sólidos, o crescimento acelerado e desordenado das cidades brasileiras, associado ao consumo, em larga escala, de produtos industrializados e descartáveis, tem causado um aumento excessivo na quantidade de resíduos sólidos domiciliares das áreas urbanas e rurais, com impacto na saúde e no meio ambiente.
+
+Evolução Histórica:
+Verifica-se, a partir dos índices de atendimento dos serviços de saneamento básico à população do Brasil, que o alcance desses serviços tem sido gradativamente ampliado, embora ainda existam grandes desafios a serem superados. Quando comparamos os dados atuais de cobertura, referentes a 2017, com os dados coletados pelo Censo 2010, nota-se um importante avanço no percentual da população que conta com algum nível de atendimento. Em relação ao abastecimento de água, observa-se uma redução do percentual de pessoas sem atendimento de 6,8% para 2,7%; no esgotamento sanitário, um decréscimo de 9,6% para 3,3%; e para o manejo de resíduos sólidos, uma diminuição de 14,2% para 10,0%. Observa-se que, das três componentes, apenas para o esgotamento sanitário o atendimento adequado se encontra em um patamar a 50%, com 48,0%. Relativamente ao abastecimento de água potável e ao manejo de resíduos sólidos, o atendimento adequado situa-se num patamar superior a 50,0%, atingindo 64,9%, no caso do manejo de resíduos sólidos, e 57,7%, no caso do abastecimento de água potável.
+
+Comparações Internacionais:
+Dados de 2015 compilados pelo UNICEF e pela OMS colocam o Brasil numa posição confortável no que diz respeito ao acesso ao abastecimento de água, em termos globais. Quando analisada a América Latina e o Caribe, num total de 46 países, o Brasil encontra-se em 17ª colocação, atrás de nações como Chile, Argentina, Paraguai, Uruguai e México. 
+Já em relação ao esgotamento sanitário, dado o elevado déficit em termos de cobertura da coleta e do tratamento dos efluentes, a situação brasileira é mais grave: em comparação a outros países da América Latina e Caribe, o Brasil ocupa a 33ª posição para o mesmo conjunto de nações analisadas pela OMS/UNICEF.
+
+Relação com os ODS:
+Objetivo 6. Água Potável e Saneamento (Assegurar a disponibilidade e a gestão sustentável da água e saneamento para todos)
+Objetivo 11. Cidades e Comunidades Sustentáveis (Tornar as cidades e os assentamentos humanos inclusivos, seguros, resilientes e sustentáveis).
+
+Agentes Envolvidos:
+SNSA/MCIDADES, CODEVASF, DNOCS, SUDAM, SUDENE, Prestadores de Serviços, Bancos Públicos, Agências de Fomento, Estados e Municípios, ANA e Agências Reguladoras subnacionais.
+
+Articulação Federativa:
+No Brasil, a formulação e a execução de ações de saneamento básico envolvem, historicamente, complexas relações federativas, nas quais se observam iniciativas de cooperação ou de concorrência, entre os órgãos e entidades da União, dos Estados, do Distrito Federal e dos Municípios. 
+Embora prevaleça o entendimento de que a titularidade dos serviços seja dos Municípios, a Constituição estabelece que a melhoria das condições de saneamento é competência comum da União, dos Estados, do Distrito Federal e dos Municípios. 
+Os Órgãos da União atualmente possuem competências no âmbito do Saneamento Básico são o Ministério das Cidades, o Ministério do Meio Ambiente (ao qual a ANA é vinculada), a Ministério da Integração e Desenvolvimento Regional (ao qual a CODEVASF é vinculada), o Ministério da Saúde, o Ministério da Cidadania. 
+Assim sendo, há uma multiplicidade de atores atuando com o tema, o que denota uma fragmentação institucional. Portanto, a cooperação federativa é estratégica e representa um desafio constante a ser vencido para a implementação da Política Pública de Saneamento Básico.
+
+Enfoque Transversal:
+O saneamento, originalmente, fundamenta-se na promoção de ações que busquem a melhoria das condições de saúde. Mais recentemente, a noção de saneamento passa a incorporar questões que vão além dos aspectos sanitários, agregando a dimensão ambiental, com destaque à importância das intervenções para a preservação e a conservação do meio ambiente, e para o desenvolvimento urbano, evidenciando-se seu papel na indução do desenvolvimento sustentável e, por conseguinte, na melhoria da qualidade de vida da população brasileira e na garantia da preservação dos recursos naturais para as gerações futuras. 
+Sob essa lógica de intersetorialidade, os serviços de saneamento devem ser concebidos em articulação com as políticas de desenvolvimento urbano e regional, de habitação, de combate à pobreza, de proteção ambiental, de recursos hídricos, de promoção da saúde, de educação ambiental, prevenção às mudanças climáticas e outras de relevante interesse social voltadas para a melhoria da qualidade de vida.
+
+Marco Legal:
+Lei nº 11.445/2007, Decreto nº 7.217/10, Lei nº 12.305/10, Decreto nº 7.404/10; Lei nº 10.257/01; Decreto n° 8.141/2013; Portaria Interministerial n° 571/2013.
+
+Planos Nacionais, Setoriais e Regionais:
+Segundo a Lei n.º 11.445/2007, é de responsabilidade da União a elaboração do Plansab e dos planos regionais de saneamento para as RIDE. A versão original do Plansab, principal instrumento da política pública nacional de saneamento básico, foi elaborada pelo Governo Federal em amplo processo participativo e em total consonância com a Lei de Diretrizes Nacionais para o Saneamento Básico. O Plansab está em fase de revisão, conforme determina a legislação. Os planos regionais de saneamento sob responsabilidade da União estão em sua fase final de elaboração, e compreendem o Plano da Região Integrada de Desenvolvimento do Distrito Federal e Entorno, da Região Integrada de Desenvolvimento da Grande Teresina e da Região Integrada de Desenvolvimento do Polo Petrolina e Juazeiro. O planejamento do titular também é ponto fundamental da Lei n.º 11.445/2007, que estabelece que estes entes devem elaborar planos de saneamento. Dados de 2017 indicam que apenas 28,7% dos municípios possuem planos municipais de saneamento básico.
+
+Objetivo Geral:
+- Ampliar o acesso e melhorar a qualidade das ações e dos serviços de saneamento básico nas áreas urbanas e rurais, visando a universalização e a integração entre as políticas públicas relacionadas, segundo os princípios da equidade, integralidade e sustentabilidade
+
+Objetivos Específicos:
+- Ampliar o acesso da população aos serviços adequados de abastecimento de água no meio urbano
+- Ampliar o acesso aos sistemas e às soluções alternativas de abastecimento de água no meio rural
+- Ampliar o acesso da população aos serviços adequados de esgotamento sanitário no meio urbano
+- Ampliar o acesso aos sistemas e às soluções alternativas de esgotamento sanitário no meio rural
+- Diminuir o risco de inundações através da implantação, ampliação ou melhoria dos sistemas de drenagem urbana e manejo de águas pluviais
+- Ampliar o acesso da população aos serviços adequados de manejo de resíduos sólidos e limpeza urbana
+- Melhorar a capacidade institucional dos titulares, prestadores e reguladores dos serviços públicos de saneamento básico
+
+Indicadores de Entrega:
+- Empreendimento entregue: Empreendimento entregue referente à Reestruturação da infraestrutura para a gestão de resíduos da construção civil e volumosos, contida no Subeixo Gestão de Resíduos Sólidos, executado pelo(a) Prefeitura Municipal de Belo Horizonte. Localidade: Belo Horizonte - MG 
+- Empreendimento entregue: Empreendimento entregue referente à Ampliação do Programa Municipal de Coleta Seletiva no município de Belo Horizonte, contida no Subeixo Gestão de Resíduos Sólidos, executado pelo(a) Prefeitura Municipal de Belo Horizonte. Localidade: Belo Horizonte - MG 
+- Empreendimento entregue: Empreendimento entregue referente ao Melhoria da estrutura de triagem dos resíduos recicláveis, contida no Subeixo Gestão de Resíduos Sólidos, executado pelo(a) Prefeitura Municipal de São Caetano do Sul. Localidade: São Caetano do Sul - SP 
+- Novo PAC: empreendimentos entregues no subeixo Abastecimento de Água (eixo Água para Todos): nan 
+- Novo PAC: empreendimentos entregues no subeixo Esgotamento Sanitário (eixo Cidades Sustentáveis e Resilientes): nan 
+- Número de empreendimentos contratados para obras de Drenagem Urbana Sustentável e de Manejo de Águas Pluviais: Quantificação do número de empreendimentos de drenagem urbana e manejo de águas pluviais apoiados pela unidade contratados no período 
+- Número de empreendimentos entregues no subeixo Gestão de Resíduos Sólidos (eixo Cidades Sustentáveis e Resilientes): A presente entrega agrega as intervenções do Ministério das Cidades incluídas no Novo PAC no subeixo Gestão de Resíduos Sólidos (eixo Cidades Sustentáveis e Resilientes), anteriormente apresentadas em entregas individualizadas. 
+- Número de pessoas capacitadas: nan 
+- Percentual de adesão de entidades reguladoras infranacionais (ERIs) às normas de referência da ANA: Conforme Lei 9984/2000 atualizada pela Lei 14.026/2020, estabelece no Art.4°A que a ANA instituirá normas de referência para a regulação dos serviços públicos de saneamento básico por seus titulares e suas entidades reguladoras e fiscalizadoras. Gradualmente a ANA publicará as Normas com os temas espabelecidos neste artigo e, por meio do Sistema de Acompanhamento da Regulação do Saneamento (SASB), coleta informações juntos às ERIs sobre os requisitos definidos nas Normas de Referência. 
+- População beneficiada com a Implantação de Sistemas de Esgotamento Sanitário nos estados de Alagoas, Bahia, Maranhão, Minas Gerais, Pernambuco, Piauí e Sergipe: População beneficiada com as obras de esgotamento sanitário nos estados de Alagoas, Bahia, Maranhão, Minas Gerais, Pernambuco, Piauí e Sergipe. 
+- Quantidade de empreendimentos concluídos no período, para população rural: O indicador quantifica os emprrendimentos de infraestrutura de abastecimento de água, tornando-se o melhor indicador por detalha o quantitativo dos empreendimentos concluídos. 
+- Quantidade de empreendimentos de sistemas ou soluções alternativas concluídos no período, para população rural: O indicador quantifica os empreendimentos de sistemas ou soluções alternativas de esgotamento sanitário. 
+- Quantidade de empreendimentos entregues que receberam ações de apoio à gestão: Em condições ideais, todas as soluções alternativas de saneamento (tipicamente soluções mais pontuais em áreas isoladas e/ou rurais) deveriam ser atendidas com ações estruturantes, no entanto, devido às limitações de recursos financeiros e de capacidade operacional, apenas uma parcela de soluções alternativas implantadas é contemplada com ações estruturante, sendo esta parcela o que o indicador quantifica.  
+- Valor alocado para seleção (R$): Informa a quantidade de recursos financeiros da União aplicados (desembolsados) em empreendimentos de sistemas resíduos sólidos urbanos por meio do OGU ou FGTS. 
+- Valor alocado para seleção (R$): Informa a quantidade de recursos financeiros da União aplicados (desembolsados) em empreendimentos de sistemas simplificados de abastecimento de água por meio do OGU ou FGTS. 
+- Valor alocado para seleção (R$): Informa a quantidade de recursos financeiros da União aplicados (desembolsados) em empreendimentos de sistemas de esgotamento sanitário por meio do OGU ou FGTS. 
+- Valor alocado para seleção (R$): Informa a quantidade de recursos financeiros da União aplicados (desembolsados) em empreendimentos de sistemas de abastecimento de água por meio do OGU ou FGTS. 
+
+Indicadores de Objetivos Específicos:
+- Parcela de domicílios não sujeitos a situação de risco de inundação (SINISA): O indicador IGR0001 do SINISA (que corresponde ao D2 do Plansab e ao IN040 do SNIS) mede a parcela de domicílios urbanos não sujeitos a risco de inundação em percentual. É o indicador que apresenta a melhor avaliação da adequação dos serviços e sistemas de Drenagem e Manejo de Águas Pluviais Urbanas (DMAPU). 
+- Percentual de domicílios rurais abastecidos com água por rede de distribuição ou por poço ou nascente: O indicador se mostra objetivo e alinhado ao plano nacional de saneamento básico. Possui disponibilidade de dados com periodicidade anual 
+- Percentual de domicílios rurais servidos por rede coletora ou fossa séptica para os excretas ou esgotos sanitários ou outras soluções adequadas: O indicador se mostra objetivo e alinhado ao Plano Nacional de Saneamento Básico (PLANSAB). Possui disponibilidade de dados com periodicidade anual. 
+- Percentual de domicílios urbanos abastecidos com água por rede de distribuição ou por poço ou nascente: O indicador (que corresponde ao A2 do Plansab) indica as formas de acesso ao saneamento urbano: domicílios urbanos atendidos por rede de abastecimento de água potável ou por poço ou nascente com canalização interna ao domicílio.
+É o único indicador nacional que incorpora as formas alternativas de acesso ao abastecimento de água potável 
+- Percentual de domicílios urbanos servidos por rede coletora ou fossa séptica para os excretas ou esgotos sanitários: Indicador mostra o percentual de domicílios que são atendidos por soluções adequadas para os esgotos domésticos e para os excretas sanitários. A principal solução urbana é a rede coleta de esgotos, mas também pode haver soluções alternativas como as fossas sépticas. Faz parte do conjunto de indicadores do Plansab para o componente Esgotamento Sanitário (junto com o E1 e E3).
+ 
+- Porcentagem de municípios com planos de saneamento básico (SINISA): Resultado apurado anualmente pelo SINISA por meio de formulário específico. A pergunta é feita diretamente aos municípios sobre a existência do Plano Municipal de Saneamento Básico, existência da Lei que o aprovou, metas, quais componentes contempla (água, esgoto, drenagem e resíduos sólidos), entre outras informações. 
+- Proporção de Resíduos Sólidos Urbanos Coletados com destinação final adequada: Proporção de resíduos sólidos (resíduos sólidos urbanos: resíduos sólidos domiciliares + resíduos sólidos de limpeza pública) com destinação adequada, considerando a recuperação de resíduos sólidos recicláveis e orgânicos e a disposição em aterros sanitários, em relação à estimativa da massa coletada. Não inclui: resíduos públicos de saneamento básico; dos serviços de saúde; da construção civil; agrossilvopastoris; de serviços de transporte e de mineração. Indicador ODS 11.6.1

@@ -1,0 +1,201 @@
+passage: Programa: Direito à Cultura
+
+Descrição do Problema:
+Há uma série de desafios e problemas relacionados ao setor cultural do país. O Brasil é um país vasto e diversificado, com desigualdades socioeconômicas e geográficas significativas. Muitas vezes, o acesso a bens, equipamentos e serviços culturais é restrito a determinados grupos sociais ou regiões. Políticas culturais buscam garantir que todos os cidadãos tenham igualdade de oportunidades para participar e desfrutar das atividades culturais, independentemente de sua origem ou localização.
+
+De igual modo, o Brasil possui uma rica diversidade de patrimônios culturais, incluindo manifestações artísticas, folclóricas, arquitetônicas e históricas. No entanto, muitos desses elementos estão ameaçados devido à falta de conservação, urbanização descontrolada e outros fatores. Políticas culturais visam proteger e preservar esse patrimônio para as gerações presentes e futuras.
+
+Há ainda falta de políticas públicas busquem criar condições favoráveis para o desenvolvimento criativo, incluindo a concessão de incentivos financeiros, espaços de criação, bolsas de estudo e outras oportunidades. Apoiar artistas, escritores, músicos e outros agentes culturais é fundamental para a produção cultural do país.
+
+Outros problemas de igual relevância está na desarticulação das políticas com a economia, com a relação entre cultura e educação, na falta de iniciativas em escala nacional para promoção da diversidade cultural e da internacionalização da cultura brasileira.
+
+Causa do Problema:
+Os problemas enfrentados pelas políticas públicas de cultura no Brasil têm diversas causas interligadas, que refletem as complexidades sociais, econômicas e políticas do país. Algumas das principais causas incluem:
+
+Desigualdades Sociais e Econômicas: As profundas disparidades socioeconômicas no Brasil dificultam o acesso a bens e serviços culturais, a fruição e a produção cultural de forma justa e democrárica. A falta de acesso e manutenção à direitos básicos de sobrevivência  e de infraestrutura em algumas regiões expõe camadas mais vulneráveis da população a situação de exclusão das condições de exercício dos direitos culturais A falta de recursos financeiros, educação de qualidade e infraestrutura em algumas regiões dificulta a participação igualitária na cultura.
+
+Histórico de Exclusão: A história do Brasil é marcada por séculos de exclusão e ataques à grupos étnicos e culturais, como indígenas, afrodescendentes e populações tradicionais. Essa exclusão histórica ainda se reflete nas desigualdades de reconhecimento e valorização de manifestações culturais em sua diversidade, e de proteção e promoção das expressões culturais, tradicionais e originárias.
+
+Falta de Investimento e Priorização: A cultura muitas vezes não é priorizada nas políticas públicas e nos investimentos governamentais. Isso pode resultar em falta de recursos para projetos culturais, manutenção de patrimônio histórico, formação artística e outras atividades culturais.
+
+Burocracia e Falta de Coordenação: A burocracia e a falta de coordenação entre diferentes esferas do governo podem dificultar a implementação eficaz das políticas culturais. Isso pode levar a atrasos na realização de projetos e dificuldades na distribuição de recursos.
+
+Cultura Marginalizada na Educação: A cultura muitas vezes não é adequadamente integrada nos currículos educacionais, limitando as oportunidades das novas gerações de se envolverem e apreciarem diversas formas culturais desde cedo.
+
+Falta de Infraestrutura Cultural: Em muitas áreas do Brasil, a infraestrutura cultural é insuficiente. A falta de espaços adequados para apresentações artísticas, exposições, ensaios e outros eventos limita a promoção e a fruição da cultura.
+
+Falta de Conscientização e Engajamento: A falta de conscientização sobre a importância da cultura para o desenvolvimento humano, para a valorização e respeito às diversidades e à valores democráticos, além do potencial estratégico, econômico e criativo do setor cultural, pode levar à negligência das políticas culturais por parte dos formuladores de políticas e do público em geral.
+
+
+
+Evidências do Problema:
+As evidências dos problemas enfrentados pelas políticas públicas de cultura no Brasil são observadas em vários aspectos da sociedade e do setor cultural. Algumas dessas evidências incluem: 
+
+Desigualdade de Acesso: A falta de acesso igualitário à cultura é evidente nas disparidades regionais e socioeconômicas. Populações de baixa renda e em áreas remotas muitas vezes têm acesso limitado a espaços culturais, atividades e eventos. 
+
+Baixo Investimento Público: A parcela do orçamento público destinada à cultura frequentemente é insuficiente para atender às demandas e necessidades culturais do país. Isso se traduz em falta de financiamento para projetos culturais, preservação do patrimônio e formação artística. 
+
+Falta de Conservação do Patrimônio: A deterioração de monumentos históricos e culturais em várias partes do país é uma evidência da falta de recursos e políticas eficazes de preservação do patrimônio cultural. 
+
+Carência de Espaços Culturais: Muitas comunidades, especialmente as de menor poder aquisitivo, enfrentam a falta de espaços culturais adequados para a realização de eventos, apresentações e exposições. 
+
+Obstáculos Burocráticos: A burocracia excessiva e os processos complexos para obtenção de financiamento e licenças podem desencorajar artistas e grupos culturais a buscar apoio oficial. 
+
+Falta de Educação Cultural: A ausência de programas educacionais que integrem a cultura de maneira significativa nos currículos escolares resulta em uma geração que muitas vezes não compreende a importância da cultura em suas vidas. 
+
+Desvalorização do Trabalho Cultural: Muitos profissionais e artistas culturais enfrentam condições precárias de trabalho, baixa remuneração e falta de reconhecimento, o que demonstra a falta de valorização da cultura como um setor essencial. 
+
+Redução de Recursos em Crises Econômicas: Em momentos de crises econômicas, os recursos destinados à cultura muitas vezes são cortados, impactando negativamente as atividades culturais e criativas. 
+
+Perda de Expressões Culturais Tradicionais: O declínio de expressões culturais tradicionais devido à falta de apoio e reconhecimento também é uma evidência dos problemas nas políticas culturais. 
+
+Essas evidências refletem as complexidades dos problemas culturais enfrentados no Brasil e destacam a necessidade de abordagens abrangentes e colaborativas para desenvolver políticas públicas eficazes que promovam o acesso, a valorização e a diversidade cultural no país. 
+
+Justificativa para a Intervenção:
+A elaboração e execução de políticas públicas de cultura pelo poder público são fundamentais para atender a uma série de objetivos e necessidades da sociedade. Essas justificativas envolvem a busca pelo bem-estar da população, a promoção da cultura como eixo do desenvolvimento sustentável, a garantia de direitos e oportunidades para todos, principalmente na produção e acesso a bens e serviços culturais, o acesso equitativo à diversidade cultural, a preservação do patrimônio cultural, e geração de emprego e renda. 
+
+Evolução Histórica:
+A evolução das políticas públicas de cultura no Brasil reflete tanto os avanços quanto as limitações no reconhecimento e na promoção da diversidade cultural, na valorização das tradições e na busca pela democratização do acesso à cultura. As abordagens têm evoluído ao longo do tempo para melhor atender às necessidades e aspirações da sociedade brasileira. A evolução histórica é marcada por diferentes períodos e abordagens, refletindo as mudanças sociais, políticas e culturais ao longo do tempo.  
+
+Com o processo de redemocratização a partir dos anos 80, houve um aumento do reconhecimento da diversidade cultural do Brasil. A Constituição de 1988 garantiu a liberdade de expressão e a promoção da cultura, além de estabelecer a criação de políticas culturais. 
+
+Na década de 1990, foi criada a Lei Rouanet, que possibilitou incentivos fiscais para financiar projetos culturais por meio de doações de empresas e pessoas físicas. Essa lei foi uma tentativa de incentivar a produção cultural e a captação de recursos privados para o setor. 
+
+Nos anos 2000, houve um aumento do investimento em políticas culturais e na formulação de políticas públicas de cultura, a abordagem da cultura em três dimensões: econômica, simbólica e como um direito de cidadania. Houve também um maior reconhecimento das culturas indígenas e afrodescendentes, bem como uma crescente valorização das expressões culturais regionais. 
+
+No final dos anos 2000 e início dos anos 2010, houve um movimento em direção à economia criativa, com um foco maior nas indústrias culturais e criativas como motores do desenvolvimento econômico e da inovação. 
+
+Nos anos mais recentes, as políticas culturais no Brasil enfrentam desafios para o seu fortalecimento nos entes federados, com a criação de conselhos de cultura, planos estaduais e municipais de cultura e a constituição de fundos de cultura para ampliar o acesso à cultura para todas as camadas da sociedade. 
+
+Comparações Internacionais:
+Várias nações ao redor do mundo implementam políticas públicas de cultura para promover o acesso a bens e serviços culturais pela população, o intercâmbio cultural com outros países, a preservação do patrimônio, a diversidade cultural e a inclusão de cultura como eixo do desenvolvimento sustentável.  
+
+Assim como o Brasil, a França possui um Ministério da Cultura dedicado exclusivamente a políticas culturais. A França é conhecida por suas fortes políticas de proteção e promoção do patrimônio cultural, bem como pelo apoio à produção artística, ao cinema e às artes visuais.  
+
+O Canadá é conhecido por suas políticas de multiculturalismo, que buscam reconhecer e valorizar a diversidade cultural do país. O governo canadense apoia grupos culturais e promove a inclusão de diferentes expressões culturais em suas políticas. A Suécia considera a cultura como um direito de todos os cidadãos. O país investe em políticas culturais para garantir o acesso equitativo à cultura, promovendo a participação cultural em todas as camadas da sociedade. O Japão investe em políticas que apoiam a indústria cultural, incluindo anime, mangá, cinema e música. O governo apoia exportações culturais e promove a cultura japonesa no exterior. 
+
+Cuba prioriza o acesso universal à cultura como parte integrante das políticas de bem-estar social. O governo investe na educação artística, nas atividades culturais comunitárias e na promoção da produção artística local. A Noruega tem um sistema de financiamento cultural público robusto, onde uma porcentagem do orçamento público é destinada a atividades culturais. Isso inclui apoio a projetos culturais independentes, museus e centros culturais. Portugal tem investido na valorização do patrimônio cultural, especialmente em áreas como a requalificação de edifícios históricos e a preservação de monumentos. 
+
+Já na América do Sul, a Bolívia também tem uma história e abordagens únicas em relação às políticas públicas de cultura. O país tem uma rica diversidade cultural devido à sua mistura de povos indígenas, e descendentes de indígenas e europeus, e outras influências culturais. As políticas públicas de cultura na Bolívia são influenciadas por essa diversidade e pelo desejo de preservar e promover suas identidades culturais únicas. A Argentina é conhecida por sua forte tradição cinematográfica e artística. As políticas públicas apoiam, a produção cinematográfica local, promovem festivais de cinema e incentivam as artes visuais contemporâneas. 
+
+Relação com os ODS:
+Meta 4.7 do ODS 4: Até 2030, garantir que todos os alunos adquiram conhecimentos e habilidades necessárias para promover o desenvolvimento sustentável, inclusive, entre outros, por meio da educação para o desenvolvimento sustentável e estilos de vida sustentáveis, direitos humanos, igualdade de gênero, promoção de uma cultura de paz e não violência, cidadania global e valorização da diversidade cultural e da contribuição da cultura para o desenvolvimento sustentável.
+
+Meta 11.4 do ODS 11: Fortalecer esforços para proteger e salvaguardar o patrimônio cultural e natural do mundo.
+ 
+Meta 12b do ODS 12: Desenvolver e implementar ferramentas para monitorar os impactos do desenvolvimento sustentável para o turismo sustentável, que gera empregos, promove a cultura e os produtos locais.
+
+Agentes Envolvidos:
+Gestores Públicos Federais, Gestores Públicos Estaduais e Municipais, fazedores de cultura, entidades privadas e coletivos culturais.  
+
+Articulação Federativa:
+Sistema Nacional de Cultura, art. 216-A da Constituição Federal
+
+Enfoque Transversal:
+- Mulheres
+- Crianças e Adolescentes
+- Igualdade Racial
+- Povos Indígenas
+- Verde
+
+Marco Legal:
+Art. 215, Art. 216 e 216-A da Constituição Federal; Lei nº 12.343, de 2 de dezembro de 2010; Lei nº 8.313, de 23 de dezembro de 1991.
+
+Planos Nacionais, Setoriais e Regionais:
+Plano Nacional de Cultura; Política Nacional de Cultura Viva
+
+Objetivo Geral:
+- Consolidar a cultura como um dos eixos estratégicos de desenvolvimento social e sustentável, por meio do acesso, produção e fruição da cultura, o desenvolvimento técnico, a garantia dos direitos autorais, do direito à arte, à cultura, à memória e às tradições; o fomento, o fortalecimento das cadeias produtivas e criativas; a preservação e a difusão da memória e do Patrimônio Cultural, com respeito aos direitos humanos e à diversidade cultural, étnica e regional brasileira.
+
+Objetivos Específicos:
+- Ampliar a prática leitora e o repertório criativo da população
+- Fortalecer os meios de produção, fruição e consumo das cadeias e redes produtivas da economia criativa
+- Preservar e difundir a diversidade de memórias e patrimônios culturais brasileiros
+- Promover e preservar a diversidade cultural, as expressões e os saberes artísticos e culturais, a democratização de bens e serviços culturais, com acessibilidade e atenção a recortes por territórios.
+- Fomentar a formação, a fruição, a produção artística e cultural, a pesquisa, a memória e a inovação nos ambientes educacionais e culturais formais e informais, com atenção às premissas de descentralização, territorialização e diversidade de gênero e raça.
+
+Indicadores de Entrega:
+- Ações para a promoção da diversidade cultural realizadas: Os resultados de anos anteriores estão em fase de consolidação. 
+- Agente Cultura Viva beneficiado: Os resultados de anos anteriores estão em fase de consolidação. 
+- Atividades, iniciativas, projetos e ações culturais fomentas ou apoiadas: SEFLI:  N° de iniciativas apoiadas.
+SCDC: N° de Ações culturais apoiadas anualmente para a promoção da culturas populares e tradicionais e da diversidade cultural brasileira.
+FUNARTE: N° de Bolsas ou prêmios de formação concedidos.
+FUNARTE: N° Projetos ou atividades culturais fomentados
+FUNARTE: N° Atividades ou iniciativas fomentadas/apoiadas 
+- Bibliotecas públicas implantadas ou modernizadas: Os resultados de anos anteriores estão em fase de consolidação. 
+- Bilbioteca afro-brasileira modernizada: Modernização de biblioteca afro-brasileira para ampliar o acesso de seus acervos à população.
+
+Os resultados de anos anteriores estão em fase de consolidação. 
+- Bolsas concedidas: Os resultados de anos anteriores estão em fase de consolidação. 
+- Bolsas concedidas: Os resultados de anos anteriores estão em fase de consolidação. 
+- Campanhas de divulgações para combate de tráfico ilícito feitas: Os resultados de anos anteriores estão em fase de consolidação. 
+- Canteiro Modelo implantado: Realizar  ações relacionadas ao Patrimônio Imaterial, ao sistema Nacional de Patrimônio Cultural e ao Programa Conviver, com vistas à implantação de 09 (nove) Canteiros Modelos.  
+- Capacitação realizada: Os resultados de anos anteriores estão em fase de consolidação. 
+- Disponibilização de equipamento cultural ao público: Implementação de equipamento cultural no imóvel Casa de Afonso Arinos. 
+- Encontros realizados: Os resultados de anos anteriores estão em fase de consolidação. 
+- Equipamentos multiculturais itinerantes (MovCEUS) entregues: Promoção de ações e atividades culturais por meio de equipamentos multiculturais itinerantes (MovCEUS).  
+- Escolas Beneficiadas com Ações de Arte e Cultura: Beneficiar estudantes matriculados em 78 mil escolas com matrículas em tempo integral com ações de arte e cultura nas 27 unidades da Federação, em parceria com as Secretarias Estaduais de Cultura e Educação, envolvendo artistas, agentes culturais e mestres e mestras da cultura.  
+- Eventos de promoção de reflexões e debates sobre arte e cultura apoiados: Os resultados de anos anteriores estão em fase de consolidação. 
+- Eventos literários apoiados pelo MinC no Brasil e exterior: Os resultados de anos anteriores estão em fase de consolidação. 
+- Eventos realizados: Os resultados de anos anteriores estão em fase de consolidação. 
+- Execução da obra: nan 
+- Execução da obra: Construção do Centro Rui Barbosa de Preservação de Bens Culturais.
+
+Os resultados de anos anteriores estão em fase de consolidação. 
+- Exemplares de produção cultural distribuído: Os resultados de anos anteriores estão em fase de consolidação. 
+- Iniciativas culturais fomentadas: Os resultados de anos anteriores estão em fase de consolidação. 
+- Iniciativas inscritas no Prêmio Rodrigo Melo Franco: Os resultados de anos anteriores estão em fase de consolidação. 
+- Itens do patrimônio cultural digitalizados: Os resultados de anos anteriores estão em fase de consolidação. 
+- Itens do patrimônio cultural preservado disponibilizados: Disponibilização virtual de itens do patrimônio cultural preservado.
+
+Os resultados de anos anteriores estão em fase de consolidação. 
+- Itens do patrimônio cultural preservados: Os resultados de anos anteriores estão em fase de consolidação. 
+- Livro distribuído: Distribuição anual de 3 milhões de livros para 6 mil bibliotecas públicas e comunitárias cadastradas no SNBP (investimento anual médio de 50 milhões de reais), incluindo bibliotecas Minha Casa, Minha Vida, CEUs e MovCEUs  
+- Mercado criativo alcançado: Os resultados de anos anteriores estão em fase de consolidação. 
+- Museu modernizado: Entrega de 7 obras de modernização realizadas nos Museus IBRAM: MHN, MCBC, Casa Geyer, MNBA, MCHA, MAB, MIMP e MIN. 
+- Núcleos criativos apoiados: Os resultados de anos anteriores estão em fase de consolidação. 
+- Núcleos do PROLER implantados/reativados: Os resultados de anos anteriores estão em fase de consolidação. 
+- Obra concluída: Os resultados de anos anteriores estão em fase de consolidação. 
+- Obra concluída: Execução de empreendimentos que contemplem equipamentos culturais, edificações públicas, intervenções urbanas e edifícios religiosos, visando melhorias na qualidade de vida e bem-estar da população local, bem como o fomento à economia criativa.   
+- Obras dos Centros de Artes e Esportes Unificados - CEUs retomadas e concluídas: Retomada e conclusão de obras de Centros de Artes e Esportes Unificados - CEUs. 
+- Participação realizada: Os resultados de anos anteriores estão em fase de consolidação. 
+- Participação realizada: Os resultados de anos anteriores estão em fase de consolidação. 
+- Plataforma audiovisual disponibilizada: Lançamento da plataforma Tela Brasil, a fim de promover a difusão do audiovisual brasileiro em diversos meios e ser a principal ferramenta para cumprimento da Lei nº 13.006/14 (obrigatoriedade de exibição de filmes de produção nacional nas escolas de educação básica). 
+- Pontos e Pontões de Cultura certificados: Certificação de Pontos e Pontões de Cultura pelo Ministério da Cultura  
+- Profissionais e coletivos artísticos capacitados: FUNARTE: N° de Profissionais e coletivos artísticos formados e/ou capacitados capacitados.
+SEFIC: N° de Profissional capacitado nas áreas técnicas da cultura. 
+- Programa em execução: Ampliar os benefícios da Lei Rouanet por meio dos programas Pequenas Cidades, Norte, Nordeste, Juventude, Audiovisual, Preservação de acervos, Fronteiras, Festas literárias, Festivais de teatro, Cultura popular, Acessibilidade e Clima. 
+- Projeto apoiado: Apoio a projetos culturais nas áreas de artes visuais, circo, dança, música e teatro e realização de eventos, debates e capacitação de profissionais e coletivos artísticos no Brasil e no exterior, por meio dos Programas Funarte de Apoio a Ações Continuadas, de Acesso às Artes, Rede das Artes, Memória das Artes, Reflexão e Pesquisa e da Escola Nacional de Circo Luiz Olimecha. 
+- Projeto apoiado: Os resultados de anos anteriores estão em fase de consolidação. 
+- Projeto apoiado: Os resultados de anos anteriores estão em fase de consolidação. 
+- Projeto apoiado: Os resultados de anos anteriores estão em fase de consolidação. 
+- Projeto apoiado: Fomentar ações para implementação da Política Nacional das Culturas Tradicionais e Populares. 
+- Projeto apoiado: Apoio a projetos culturais nas áreas de artes visuais, circo, dança, música e teatro e realização de eventos, debates e capacitação de profissionais e coletivos artísticos no Brasil e no exterior, por meio dos Programas Funarte de Apoio a Ações Continuadas, de Acesso às Artes, Rede das Artes, Memória das Artes, Reflexão e Pesquisa e da Escola Nacional de Circo Luiz Olimecha. 
+- Projeto apoiado no setor de games: Os resultados de anos anteriores estão em fase de consolidação. 
+- Projeto cultural no exterior realizado: Projetos, eventos e/ou ações de formação, intercâmbio, produção cultural realizadas no exterior.
+
+Os resultados de anos anteriores estão em fase de consolidação. 
+- Projeto o atividade cultural fomentado: Os resultados de anos anteriores estão em fase de consolidação. 
+- Projetos audiovisuais apoiados: Projetos apoiados por meio de editais, com intuito de fomentar o desenvolvimento, produção, difusão e inovação audiovisual brasileira, com atenção às premissas de descentralização de território e diversidade de gênero e raça.
+
+Os resultados de anos anteriores estão em fase de consolidação. 
+- Projetos culturais das cadeias produtivas da economia criativa apoiados/fomentados: Apoiar e fomentar projetos culturais com vistas ao desenvolvimento, produção, difusão e inovação das cadeias produtivas da economia criativa. 
+- Projetos de ações educativas em museus promovidos: Os resultados de anos anteriores estão em fase de consolidação. 
+- Projetos de artes visuais, circo, dança, música e teatro apoiados: Os resultados de anos anteriores estão em fase de consolidação. 
+- Projetos difusão e proteção da cultura negra apoiados: Projetos de valorização da cultura negra apoiados
+
+Os resultados de anos anteriores estão em fase de consolidação. 
+- Projetos literários apoiados: Os resultados de anos anteriores estão em fase de consolidação. 
+- Território institucionalizado: Institucionalização de cinco Territórios Criativos, um por região do país. 
+- Titulação concedida: Os resultados de anos anteriores estão em fase de consolidação. 
+
+Indicadores de Objetivos Específicos:
+- Número de visitantes a museus e ao patrimônio acautelado: Visitação a museus e sítios históricos sob responsabilidade do IBRAM e IPHAN.
+Os resultados de anos anteriores estão em fase de consolidação. 
+- Projetos apoiados: Os resultados de anos anteriores estão em fase de consolidação. 
+- Projetos Apoiados: Quantidade de projetos apoiados por meio das entregas relacionadas com o objetivo específico.
+Os resultados de anos anteriores estão em fase de consolidação. 
+- Projetos Apoiados: Quantidade de projetos apoiados por meio das entregas relacionadas com o objetivo específico. Informações de anos anteriores em processo de consolidação.
+Somatório dos projetos apoiados principalmente pelas unidades FUNARTE, SAV, SCDC e SEFIC 
+- Projetos Apoiados: Quantidade de projetos apoiados por meio das entregas relacionadas com o objetivo específico.
+Os resultados de anos anteriores estão em fase de consolidação.

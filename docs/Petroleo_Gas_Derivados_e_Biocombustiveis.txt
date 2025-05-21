@@ -1,0 +1,135 @@
+passage: Programa: Petróleo, Gás, Derivados e Biocombustíveis
+
+Descrição do Problema:
+ Baixa atratividade para investimentos em exploração e produção de petróleo e gás natural em novas áreas e em campos maduros
+ Dependência externa com exposição ao comércio internacional de derivados
+ Infraestrutura insuficiente na cadeia de produção, escoamento e processamento de gás natural, refino e distribuição de petróleo, gás, derivados para dar suporte e promover o desenvolvimento nacional
+ Falta de concorrência entre produtores nacionais
+
+Causa do Problema:
+	Complexidade e incertezas relacionadas ao licenciamento ambiental
+	Falta de regras claras e previsibilidade no mercado de combustíveis
+	Falta de previsibilidade para investidores de infraestruturas e instalações em geral
+	Baixa integração das políticas de mobilidade e de descarbonização
+	Baixa atratividade para investimento em refino
+	Elevada barreira a entrada no mercado nacional de combustíveis
+	Elevados custos de transação 
+	Elevado custo de produção, abastecimento e distribuição
+	Elevada e regressiva carga fiscal
+	Complexidade do sistema tributário
+	Perda de competitividade com relação a países com situação análoga de produção de óleo e gás natural
+
+
+Evidências do Problema:
+	Elevados preços de combustíveis no mercado nacional
+	Elevada dependência de importação de derivados de petróleo
+	Redução do fator de utilização das refinarias
+	Declínio acelerado da produção dos campos maduros
+	Redução no número de poços exploratórios perfurados nos últimos anos
+	Aumento expressivo da reinjeção de gás natural 
+	Estagnação da rede de dutos de escoamento da produção de gás natural
+	Estagnação da malha de transporte e da infraestrutura de processamento de gás natural
+	Baixo crescimento do setor de biocombustíveis induzido pelas forças de mercado
+
+
+
+Justificativa para a Intervenção:
+Garantir com eficiência e sustentabilidade o abastecimento do mercado de combustíveis, gás natural e outros derivados de petróleo, bem como maximizar o aproveitamento dos recursos energéticos renováveis e não renováveis nacionais.
+
+Relação com os ODS:
+Objetivo 7. Assegurar o acesso confiável, sustentável, moderno e a preço acessível à energia para todos;
+Objetivo 8. Promover o crescimento econômico sustentado, inclusivo e sustentável, emprego pleno e produtivo e trabalho decente para todos;
+Objetivo 12. Assegurar padrões de produção e de consumo sustentáveis;
+Objetivo 14. Conservação e uso sustentável dos oceanos, dos mares e dos recursos marinhos para o desenvolvimento sustentável;
+Objetivo 15. Proteger, recuperar e promover o uso sustentável dos ecossistemas terrestres, gerir de forma sustentável as florestas, combater a desertificação, deter e reverter a degradação da terra e deter a perda de biodiversidade.
+
+Agentes Envolvidos:
+Ministério de Minas e Energia/Secretaria de Petróleo, Gás Natural e Biocombustíveis, Agência Nacional do Petróleo, Gás Natural e Biocombustíveis, Empresa de Pesquisa Energética, Petróleo Brasileiro S.A., Banco Nacional de Desenvolvimento Econômico e Social e Ministério do Meio Ambiente.
+
+Marco Legal:
+Constituição Federal, Lei 9.478/1997 (Lei do Petróleo),  Lei nº 14.134/2021 (Lei do Gás), Decreto nº  10.712/2021 e 
+Decreto nº 12.153/2024
+
+Planos Nacionais, Setoriais e Regionais:
+Plano Decenal de Energia - PDE
+Plano Nacional de Expansão de Energia.
+Plano Nacional Integrado das Infraestruturas de Gás Natural e Biometano – PNIIGB.
+Plano Indicativo de Oleodutos – PIO
+
+
+Objetivo Geral:
+- Ampliar investimentos na exploração e produção de petróleo e gás natural, na infraestrutura de escoamento e processamento de gás natural, no abastecimento de combustíveis e na redução da dependência externa de derivados, de forma a promover a segurança energética e a proteção dos interesses do consumidor, aliado a uma maior ênfase na transição energética.
+
+Objetivos Específicos:
+- Reduzir a dependência externa de derivados de petróleo
+- Melhorar o aproveitamento da produção de gás natural nacional
+- Aumentar as atividades de exploração e produção de petróleo e gás natural
+
+Indicadores de Entrega:
+- Capacidade de refino de petróleo: Apesar do Brasil ter consolidado sua posição entre os 10 maiores produtores de petróleo bruto, o País ainda importa parcela relevante dos principais derivados de petróleo consumidos. No ano de 2022, 26% do óleo diesel, 28% do gás liquefeito de petróleo e 12% da gasolina foram importados. O mercado de querosene de aviação também é deficitário, em que pese o segmento da aviação civil ter sido o último a se recuperar dos impactos da pandemia da Covid-19. 
+Um dos caminhos na direção dessa autossuficiência é aumentar a produção doméstica, seja com maior fator de utilização, seja ampliando e modernizando o parque de refino existente.
+ 
+- % de ampliação de logística dutoviária: O indicador monitora a execução de projetos relacionados à adequadação ou ampliação da logística dutoviária   
+- % de execução do projeto de desenvolvimento da produção de petróleo e gás natura: O indicador é relevante para acompanhar o aumento da produção de petróleo e gás natural no país.  
+- % de execução do projeto de desenvolvimento da produção de petróleo e gás natural: O indicador é relevante para acompanhar o aumento da produção de petróleo e gás natural no país.  
+- Execução de projeto de construção de estação de compressão de gás natural:  O indicador está relacionado a nova estação de compressão de gás natural em Itajuípe​
+ 
+- Execução de projeto de construção de estação redutora de pressão de gás natural: o indicador está com a Construção de uma Estação Redutora de Pressão de gás natural em São José dos Campos​ 
+- Execução de projetos de construção de gasodutos que fazem parte do Programa de Aceleração de Crescimento: Indicador se refere à execução dos projetos de construção de gasodutos do Corredor Pré-Sal Sul e Bragança Paulista.  
+- Execução de projetos de produção de derivados não renováveis: O indicador monitora a execução de projetos relacionados à produção de combustíveis derivados de petróleo 
+- Execução física do projeto de desenvolvimento da produção de petróleo e gás natural: O indicador é relevante para acompanhar o aumento da produção de petróleo e gás natural no país.  
+- Expandir atividades de exploração de gás natural: nan 
+- Expandir atividades de exploração de gás natural: nan 
+- Expandir atividades de exploração de gás natural: nan 
+- Expandir atividades de exploração de gás natural: nan 
+- Expandir atividades de exploração de gás natural: nan 
+- Expandir atividades de exploração de gás natural: nan 
+- Expandir atividades de exploração de gás natural: nan 
+- Expandir atividades de exploração de gás natural: nan 
+- Expandir atividades de exploração de gás natural: nan 
+- Expandir atividades de exploração e produção de petróleo e gás natural: nan 
+- Expandir atividades de exploração e produção de petróleo e gás natural: nan 
+- Expandir atividades de exploração e produção de petróleo e gás natural: nan 
+- Expandir atividades de exploração e produção de petróleo e gás natural: nan 
+- Expandir atividades de exploração e produção de petróleo e gás natural: nan 
+- Expandir atividades de exploração e produção de petróleo e gás natural: nan 
+- Investir no segmento de Descomissionamento Verde de plataformas em estaleiros brasileiros: nan 
+- Investir no segmento de fertilizantes e gasquímica: nan 
+- Investir no segmento de petroquímicos: nan 
+- Investir para converter uma refinaria tradicional em biorefinaria totalmente renovável: nan 
+- Investir para implantar biorrefino em refinaria de Mataripe: nan 
+- Investir para renovar e aumentar frota própria (Transpetro) em estaleiros nacionais: nan 
+- Número de poços exploratórios perfurados na Margem Equatorial: O indicador monitora a execução de projetos relacionados  ao número de poços perfurados na Margem Equatorial 
+- Percentual de execução de projetos de campos maduros e de economicidade marginal: O indicador monitora a execução de projetos relacionados à produção de campos maduros e de econominada de marginal  
+- Percentual de variação da Produção de Petróleo e Gás Natural nos campos maduros e de economicidade marginal: Campos maduros e de economicidade marginal são naturalmente sujeitos a uma tendência de declínio da produção ao longo do tempo. Este indicador visa monitorar a produção desses campos, cuja manutenção ou mitigação do declínio é estratégica para o país. O acompanhamento contínuo permite orientar políticas públicas voltadas à maximização da recuperação dos recursos disponíveis, conforme diretriz estabelecida pela Resolução CNPE nº 17/2017. A manutenção da produção desses campos contribui para a geração de emprego e renda, especialmente em regiões de menor Índice de Desenvolvimento Humano (IDH), e fortalece a segurança energética nacional. O valor de referência é de 1,29 milhão de barris de óleo equivalente por dia (boe/d), conforme o Plano Anual de Produção (PAP) da ANP para 2023. 
+
+ 
+- Relatório do Zoneamento Nacional dos Recursos de Óleo e Gás: O Mapa de IPA (a Importância Petrolífera de Área) Total expressa a diversidade das importâncias avaliadas no estudo do Zoneamento Nacional de Recursos de Óleo e Gás, condicionado pelas incertezas e preferências envolvidas na elaboração e na combinação dos mapas componentes, além da inerente heterogeneidade na distribuição natural de recursos petrolíferos na superfície da Terra.
+A partir da base de informações resultante do processo da perspectiva geológica, e da conjugação de mapas de argumentos estabelecidos, elabora-se a perspectiva econômica para representar a Importância Petrolífera de Área (IPA), considerando: 1) Intensidade Explotatória; 2) Atividade Exploratória; 3) Prospectividade; 4) Evidência Direta de Hidrocarbonetos; 5) Necessidade de Conhecimento e 6) Infraestrutura de Abastecimento. Além de elementos geológicos é considerada a proximidade de áreas sob contrato com empresas para atividades de Exploração e Produção (E&P) e de instalações de infraestrutura de abastecimento de petróleo e gás natural.
+Como resultado obtém-se a importância petrolífera da área sob todos os aspectos, traduzidos pela soma dos argumentos dada pelo geoprocessamento. Pela perspectiva geológica obtém-se as áreas de maior favorabilidade para as atividades de E&P. 
+ 
+- Terminal de regaseificação construído: O indicador acompanhada a execução do projeto durante o período do PPA.  
+- Volume de gás natural nacional disponível ao consumidor final (oferta nacional de gás natural): A oferta nacional de gás natural é o volume de gás natural produzido no país que é disponibilizado ao mercado.
+ 
+- Xxx: xxx 
+
+Indicadores de Objetivos Específicos:
+- Dependência Externa de Derivados de Petróleo: Apesar do Brasil ter consolidado sua posição entre os 10 maiores produtores de petróleo bruto, o País ainda importa parcela relevante dos principais derivados de petróleo consumidos. No ano de 2022, 26% do óleo diesel, 28% do gás liquefeito de petróleo e 12% da gasolina foram importados. O mercado de querosene de aviação também é deficitário, em que pese o segmento da aviação civil ter sido o último a se recuperar dos impactos da pandemia da Covid-19. 
+O conflito entre Rússia e Ucrânia e as sanções econômicas decorrentes trouxeram luz à importância da segurança energética, com a temática ganhando força nos debates sobre formulação de políticas públicas desde então. A garantia do fornecimento de derivados de petróleo em todo o território nacional é tema prioritário para o Estado brasileiro.
+ 
+- Percentual de aumento da produção de gás Natural: Percentual (%) da produção medida em relação à produção de referência de 4,49 milhões Boe/dia em dez/2023 (ano base), conforme previsão contida no PAP (Plano Anual da Produção) da ANP.
+
+Os resultados das ações governamentais para o setor de petróleo e gás natural podem ser avaliados de várias maneiras. No entanto, considerando que esses resultados se estendem além do período de planejamento estratégico (PPA), foi decidido que a avaliação do sucesso do objetivo específico será medida mediante o monitoramento do percentual de variação da produção de petróleo e gás natural no Brasil, em relação ao previsto nos Planos Anuais de Produção enviados pelas empresas à ANP.
+Tais planos contém as expectativas de produção que cada empresa estima para 5 anos correntes.
+
+PAP/ANP: Plano Anual da Produção da Agência Nacional de Petróleo, Gás Natural e Biocombustíveis
+ 
+- Percentual de aumento da Produção de Petróleo e Gás Natural: Os resultados das ações governamentais para o setor de petróleo e gás natural podem ser avaliados de várias maneiras. No entanto, considerando que esses resultados se estendem além do período de planejamento estratégico (PPA), foi decidido que a avaliação do sucesso do objetivo específico será medida mediante o monitoramento do percentual de variação da produção de petróleo e gás natural no Brasil, em relação ao previsto nos Planos Anuais de Produção enviados pelas empresas à ANP.
+Tais planos contém as expectativas de produção que cada empresa estima para 5 anos correntes.
+
+ 
+- Volume de gás natural nacional disponível ao consumidor final (oferta nacional de gás natural) em relação à média de 2022: A oferta nacional de gás natural é o volume de gás natural produzido no país que é disponibilizado ao mercado.
+É calculada pelo Departamento de Gás Natural no Boletim Mensal de Acompanhamento da Indústria do Gás Natural pela seguinte equação:
+[oferta nacional] = [produção nacional] – [consumo nas atividades de exploração e produção] – [queima e perda] – [reinjeção] – [absorção em unidades de processamento]
+A diferença da oferta nacional média entre 2020 e 2019 foi de -6,02 milhões de m³ por dia, denotando uma queda; entre 2021 e 2020 foi de +0,98 milhões de m³ por dia, significando aumento de oferta; e entre 2022 e 2021, de -3,93 milhões de m³ por dia, representando nova queda no valor absoluto da oferta nacional.
+Nesse contexto, a parcela de reinjeção de gás natural vem se tornando crescente, sendo a principal variável de redução da oferta no período, com valores relativos de 35,26% em 2019, 42,89% em 2020, 45,49% em 2021 e 49,60% em 2022, em relação à produção nacional. Com o objetivo de reverter essa tendência, medidas estão sendo implementadas no âmbito do Programa Gás para Empregar. Não obstante, deve-se ressaltar que resultados efetivos surtirão no médio prazo, devido à necessidade de investimentos em novas infraestruturas e novas plantas industriais

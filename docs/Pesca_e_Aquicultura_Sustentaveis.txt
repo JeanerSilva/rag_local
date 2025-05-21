@@ -1,0 +1,136 @@
+passage: Programa: Pesca e Aquicultura Sustentáveis
+
+Descrição do Problema:
+Insuficiência na adoção e continuidade de práticas sustentáveis nas cadeias produtivas da pesca e aquicultura.
+
+Causa do Problema:
+As principais causas do problema são a instabilidade institucional, o arcabouço normativo desatualizado, a descontinuidade de políticas públicas, a baixa participação social, informações técnico-científicas insuficientes, carência de alternativas para financiamento e fortalecimento da cadeia produtiva,  descontinuidade das políticas de registro e monitoramento dos pescadores e aquicultores.
+
+Evidências do Problema:
+O  problema e suas causas geram incertezas, dificuldades e impactos significativos nas atividades de pesca e aquicultura, como: 
+ 
+Insegurança jurídica: As mudanças frequentes na estrutura e nas políticas públicas levaram a uma falta de clareza sobre as regras em vigor, tornando difícil para os pescadores e aquicultores se adaptarem e planejarem suas atividades a longo prazo. 
+ 
+Dificuldade de acesso a recursos e apoio: A falta de continuidade das políticas públicas resultou em atrasos ou interrupções na concessão de licenças, autorizações e financiamentos destinados aos pescadores e aquicultores. Essa situação dificulta o acesso a recursos e apoio necessários para a melhoria das práticas, investimentos em equipamentos adequados e a adoção de técnicas mais sustentáveis. 
+ 
+Insegurança econômica: As mudanças repentinas nas políticas e nas condições do mercado impactam negativamente os preços do pescado, as oportunidades de comercialização e a viabilidade financeira dessas atividades. 
+ 
+Impactos ambientais: A ausência de uma abordagem consistente de conservação e manejo sustentável levou a práticas irregulares das atividades, sobrepesca e danos aos ecossistemas aquáticos. 
+
+
+Justificativa para a Intervenção:
+As evidências apontadas demonstram a necessidade de uma maior estabilidade institucional e continuidade nas políticas públicas para a pesca e a aquicultura no Brasil.
+
+Evolução Histórica:
+Ao longo dos anos, as políticas públicas voltadas para a pesca e aquicultura no Brasil passaram por diversas transformações e estiveram associadas a diferentes órgãos governamentais. Inicialmente, a pesca e a aquicultura eram tratadas em conjunto com outros setores relacionados à agricultura, e não havia uma estrutura específica para lidar com as questões pesqueiras e aquícolas. 
+ 
+Em 1962, foi criada a Superintendência do Desenvolvimento da Pesca (Sudepe), vinculada ao Ministério da Agricultura, responsável pela execução das políticas de pesca no país. A Sudepe tinha como objetivo promover o desenvolvimento da pesca e da aquicultura, além de regular a exploração dos recursos pesqueiros. 
+ 
+Em 2009, foi estabelecido o Ministério da Pesca e Aquicultura (MPA), com o intuito de concentrar esforços e recursos na gestão e no desenvolvimento dessas atividades. O MPA tinha como responsabilidade formular políticas públicas, promover a sustentabilidade da pesca e da aquicultura, além de fiscalizar e regulamentar as atividades pesqueiras e aquícolas. 
+
+Neste mesmo ano, foi publicada a Lei nº 11.959, de 29 de junho de 2009, que dispõe sobre a Política Nacional de Desenvolvimento Sustentável da Aquicultura e da Pesca. Esta Lei estabelece definições, responsabilidades e diretrizes fundamentais para a formulação de políticas relacionadas à pesca e à aquicultura.
+ 
+Posteriormente, em 2015, o MPA foi extinto e suas atribuições foram transferidas para o Ministério da Agricultura, Pecuária e Abastecimento (MAPA), com a criação da Secretaria de Aquicultura e Pesca (SAP). A pasta ainda transitou pelo Ministério do Desenvolvimento, Indústria, Comércio e Serviços (MDIC) e pela Presidência da República, estruturada na Secretaria Especial de Aquicultura e Pesca (SEAP). Em 2019, a SEAP foi extinta e as competências relacionadas à gestão da pasta foram incorporadas novamente ao MAPA, na Secretaria de Aquicultura e Pesca. 
+
+Atualmente, a reestruturação do Ministério da Pesca e Aquicultura tem evidenciado a discussão sobre a necessidade de fortalecimento institucional e sua importância na reformulação de políticas de desenvolvimento da pesca e da aquicultura no país, para garantir a sustentabilidade e a conservação dos recursos pesqueiros, bem como uma abordagem integrada e participativa envolvendo pescadores(as), aquicultores(as), cientistas, sociedade civil e demais partes interessadas. 
+
+Comparações Internacionais:
+Apesar das dimensões continentais do Brasil, da rica biodiversidade, do potencial hídrico, e a forte presença da pesca artesanal, o país apresenta produção pesqueira e aquícola (1.339 mil ton) aquém de seu potencial, quando comparados com outros países da América do Sul, como Chile (3.259 mil ton) e Peru (5.770 mil ton), com pouca representatividade no cenário internacional relacionado à pesca extrativa e com melhor posição quanto à aquicultura (SOFIA, 2022 - The State of World Fisheries and Aquaculture 2022 (fao.org)).  
+
+Alguns países têm implementado abordagens eficientes para a gestão pesqueira e aquícola, como a adoção de sistemas de cotas, o estabelecimento de áreas marinhas protegidas e a promoção da pesca e aquicultura sustentável, como por exemplo Estados Unidos e Chile. Embora a aplicação destas medidas estejam sendo implementadas no Brasil, como a delimitação de áreas marinhas protegidas, os sistemas de cotas para alguns recursos e a implementação de inovações tecnológicas para aquicultura, algumas dessas medidas precisam ser aprimoradas e aprofundadas levando em consideração as peculiaridades da pesca e aquicultura no país.
+ 
+No entanto, em muitos países, incluindo o Brasil, ainda há desafios a serem superados. Estes incluem a falta de recursos financeiros e técnicos para implementar medidas de manejo eficazes, a falta de monitoramento adequado das atividades pesqueiras e aquícolas, a pesca ilegal não regulamentada e a falta de coordenação entre os diferentes atores envolvidos na gestão pesqueira e aquícola. 
+
+Relação com os ODS:
+Objetivo 1. Acabar com a pobreza em todas as suas formas, em todos os lugares 
+ 
+Objetivo 2. Acabar com a fome, alcançar a segurança alimentar e melhoria da nutrição e promover a agricultura sustentável.
+
+Objetivo 5. Igualdade de Gênero.
+
+Objetivo 10. Redução das desigualdades.
+
+Objetivo 14. Conservação e uso sustentável dos oceanos, dos mares e dos recursos marinhos para o desenvolvimento sustentável.
+
+
+Agentes Envolvidos:
+Ministério da Agricultura e Pecuária (MAPA), o Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis (IBAMA), Ministério do Meio Ambiente e Mudança do Clima (MMA), Ministério do Desenvolvimento Agrário e da Agricultura Familiar (MDA), Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome (MDS),  Instituto Chico Mendes de Conservação da Biodiversidade (ICMBio), a Agência Nacional de Águas (ANA), Instituto Nacional do Seguro Social (INSS), Secretaria de Patrimônio da União (SPU), organizações não governamentais (ONGs), instituições estaduais de meio ambiente e de sanidade agropecuária, a Marinha do Brasil, Instituições de pesquisa e entidades de classe do setor produtivo. 
+
+Articulação Federativa:
+A coordenação e cooperação entre os diferentes níveis de governo (federal, estadual e municipal) na gestão e regulamentação da pesca e aquicultura é essencial para garantir uma abordagem integrada e eficiente na gestão dos recursos pesqueiros e aquícolas, considerando as especificidades regionais e as responsabilidades de cada ente federado. A articulação federativa é imprescindível para implementação de programas e políticas de apoio aos pescadores, como incentivos financeiros, capacitação, assistência técnica, formação de comitês e fóruns de discussão com representantes dos diferentes níveis de governo, da sociedade civil e do setor pesqueiro e aquícola para promover o diálogo e a tomada de decisões conjuntas.  
+
+Enfoque Transversal:
+A abordagem transversal na pesca e na aquicultura no Brasil envolve a cooperação entre diferentes ministérios e órgãos de todas as esferas para a gestão sustentável dos recursos pesqueiros e aquícolas. O Ministério do Meio Ambiente e Mudança do Clima (MMA) desempenha um papel fundamental na gestão compartilhada desses recursos, promovendo a conservação dos ecossistemas aquáticos e estabelecendo diretrizes para a pesca responsável. O Ministério da Agricultura e Pecuária (MAPA), por sua vez, coordena as ações relacionadas à sanidade dos animais aquáticos e inspeção sanitária da produção pesqueira. O Instituto Nacional do Seguro Social (INSS) está envolvido na concessão do seguro defeso e outros direitos previdenciários destinados aos pescadores, garantindo a proteção social desses trabalhadores. A Agência Nacional de Águas (ANA) desempenha um papel importante ao estabelecer normas e fiscalizar o uso dos recursos hídricos da União, que são essenciais para a aquicultura. Por fim, os órgãos estaduais e municipais, como, por exemplo, os órgãos executores de sanidade agropecuária nos estados (OESAS), contribuem na operacionalização das políticas públicas. Essa abordagem transversal busca integrar as diferentes esferas de atuação, promovendo a conservação ambiental, a saúde dos estoques pesqueiros, a proteção social dos pescadores e o uso responsável dos recursos hídricos, garantindo assim uma pesca e aquicultura sustentável. 
+
+Objetivo Geral:
+- Desenvolver a Pesca e Aquicultura de forma sustentável, por meio do fortalecimento das cadeias produtivas e considerando as dimensões ecológica, econômica, social e cultural dessas atividades, para gerar trabalho e renda, contribuir para a segurança alimentar e melhorar a produtividade e competitividade do setor
+
+Objetivos Específicos:
+- Promover a valorização do pescado nacional e aumento de produção da aquicultura.
+- Fortalecer o ordenamento e monitoramento da atividade pesqueira e aquícola.
+- Contemplar comunidades tradicionais e a sustentabilidade de sua cadeira produtiva para garantir segurança alimentar e sustentabilidade duradoura.
+- Difundir conhecimentos científicos oriundos da academia para garantir que a produtividade da aquicultura ocorra da forma mais maximizada e sustentável possível, garantindo também a preservação do meio ambiente.
+
+Indicadores de Entrega:
+- Número de agentes públicos e profissionais envolvidos com o setor capacitados e atualizados técnico-cientificamente: Capacitar e atualizar os agentes públicos e profissionais envolvidos com o setor criando multiplicadores que promovem o desenvolvimento do setor aquícola
+
+ 
+- Número de aquicultores capacitados incluídos no Cadastro Nacional da Agricultura Familiar (CAF): Fornecer serviços de Assistência Técnica e Extensão Rural  (ATER) para os aquicultores inscritos no Cadastro Nacional da Agricultura Familiar (CAF)
+
+ 
+- Número de boletins estatísticos da atividade pesqueira e aquícola disponibilizados para a sociedade: Publicação de boletins estatísticos da atividade pesqueira e aquícola disponibilizados para a sociedade.
+
+ 
+- Número de bolsas de residência (AgroResidência) fornecidas: Fomentar com recursos do Ministério da Pesca e Aquicultura (MPA) o Programa de Residência Profissional Agrícola (AgroResidência), destinado à qualificação de jovens estudantes e recém-egressos dos cursos de ciências agrárias de aquicultura e pesca 
+- Número de contratos celebrados anualmente: Número de contratos de cessões de uso de águas da União para fins de aquicultura, celebrados anualmente.
+
+ 
+- Número de contratos concedidos para a pesca artesanal e para a aquicultura: Número de contratos de financiamento efetivados para o pescador artesanal  e o aquicultor, no Programa Nacional da Agricultura Familiar - PRONAF e em outras linhas de concessões de crédito.
+
+ 
+- Número de contratos de cessão de uso em Águas da União para fins de aquicultura fiscalizados: Fiscalização de Contratos: Conjunto de atividades exercidas pela Administração para controle, acompanhamento e monitoramento das obrigações estabelecidas no contrato de cessão de uso de águas da União para fins de aquicultura. Além disso, acompanhar a efetividade da política pública. 
+- Número de pescadores amadores e esportivos licenciados: Somatório do número de pescadores amadores e esportivos com licença para a prática desta atividade até o momento.
+
+ 
+- Número de Pescadores atendidos com equipamentos, infraestruturas pesqueiras e inovações tecnológicas: Quantidade de pescadores e pescadoras artesanais beneficiados por equipamentos, infraestruturas pesqueiras e inovações tecnológicas
+
+ 
+- Número de pescadores atendidos por ações de assistência técnica e extensão pesqueira: Quantidade de pescadores e pescadoras artesanais atendidos por ações de 
+
+ 
+- Número de pescadores e aquicultores registrados no Registro Geral das atividades de pesca e aquicultura: Número total de pescadores e aquicultores registrados no sistema de Registro Geral das atividades de pesca e aquicultura
+
+ 
+- Número de pescadores e pescadoras matriculados em programas de educação contextualizada: Pescadores e pescadoras artesanais matriculados em cursos da educação básica, educação de jovens e adultos e educação profissional com construção curricular e metodológica adequada a realidade das comunidades pesqueiras.
+
+ 
+- Número de profissionais envolvidos com o setor atualizados técnico-cientificamente: Quantidade de profissionais envolvidos com a extensão pesqueira qualificados
+
+ 
+- Número de projetos de pesquisa executados: Número de projetos de pesquisa executados com o objetivo de promover desenvolvimento e inovação nas cadeias produtivas da pesca e da aquicultura. 
+- Número de técnicos responsáveis por embarcações de pesca em boas práticas higiênico-sanitárias qualificados: O indicador busca registrar o total de técnicos responsáveis pelas embarcações de pesca de produção primária aprovados em cursos e treinamentos sobre medidas higiênico-sanitárias oferecidos pelo Ministério da Pesca e Aquicultura (MPA), com objetivo de qualificar os profissionais que atuam na gestão dos programas de autocontrole.
+
+
+
+
+
+ 
+- Percentual de embarcações pesqueiras com certificação higiênico-sanitária: Total de embarcações de pescas com certificação higiênico-sanitária em relação ao total de embarcações registradas no Registro Geral da Atividade Pesqueira (RGP) e obrigadas a certificação. O indicador busca medir o nível de adoção das ações higiênicos-sanitárias nas embarcações de pesca de produção primária visando melhorar a qualidade da matéria prima destinada às indústrias de beneficiamento.
+
+ 
+- Percentual de embarcações pesqueiras monitoradas: Total de embarcações pesqueiras monitoradas em relação ao número total de embarcações registradas 
+- Percentual de Pescado de captura exportado com certificação de origem legal: Total anual de pescado de captura exportado com certificação de origem legal em relação ao total anual de pescado de captura exportado.  O indicador tem como objetivo medir a adoção dos procedimentos de certificação da origem do pescado de captura, em atenção aos compromissos do país para atendimento ao mercado externo e aos acordos firmados nos fóruns internacionais, visando combater a pesca ilegal, não declarada e não regulamentada.
+
+
+
+
+ 
+- Quantidade de pescado adquirido nas compras institucionais e na merenda escolar: Quantidade de pescado oriundo da pesca e da aquicultura adquirido nas compras institucionais na merenda escolar 
+- Quantidade de protocolos de certificação implementados: Protocolos de certificação de produtos da pesca artesanal elaborados e implementados, com o objetivo de ampliar os canais de comercialização da pesca artesanal.  
+- Valor exportado (valor FOB): Valor FOB do total de pescado exportado ao final do ano 
+
+ 
+
+Indicadores de Objetivos Específicos:
+- Índice de Ordenamento Pesqueiro e Aquícola: Acompanhamento e monitoramento dos níveis de exploração dos estoques pesqueiros e aumento da quantidade de aquicultores licenciados em relação aos registrados no Registro Geral da Atividade Pesqueira - RGP. 
+- Produção de Pescado: Produção de Pescado: produção anual de pescado

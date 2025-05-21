@@ -1,0 +1,76 @@
+passage: Programa: Juventude Negra Viva
+
+Descrição do Problema:
+Vulnerabilidades que afetam a população negra jovem nas dimensões do acesso à justiça e segurança pública, geração de trabalho, emprego e renda, educação, saúde, democratização do acesso à cultura e à ciência e tecnologia e direito à cidade e valorização dos Territórios, com destaque para a violência letal. Neste sentido, se pode elencar alguns problemas diretos:
+1) alta taxa de letalidade da juventude negra;
+2) alto número de jovens negros(as) institucionalizados(as) por meio do encarceramento em massa e do cumprimento de medidas socioeducativas;
+3) ausência de oportunidade para o primeiro emprego e inserção em trabalhos precários;
+4) evasão e baixo desempenho de jovens negros(as) nas escolas;
+5) desvalorização da cultura negra, com ausência de incentivo para jovens que se inserem no contexto das periferias, comunidades tradicionais e do campo;
+6) baixo acesso às tecnologias;
+7) desvalorização dos territórios periféricos, tradicionais e do campo;
+8) racismo ambiental e violências climáticas;
+9) baixo acesso à moradia para juventude negra e condições precárias das mesmas;
+10) política de guerra às drogas.
+
+Causa do Problema:
+Estado estruturado e institucionalizado a partir do racismo legitima e naturaliza as vulnerabilidades que recaem sobre a população negra jovem, silenciando acerca das mesmas e construindo permissivos legais para a violência letal contra a juventude negra.
+
+Evidências do Problema:
+1) dados da violência letal; 
+2) dados do encarceramento da juventude negra; 
+3) dados relacionados à geração de trabalho, emprego e renda com recorte para a juventude negra; 
+4) números da evasão das instituições de ensino, em todos os níveis; 
+5) dados da população jovem negra em situação de rua e/ou com condições de moradia indigna.
+
+Justificativa para a Intervenção:
+Mais de 23% da população brasileira é composta por jovens, o que alcança mais de 47 milhões de pessoas, das quais, numa perspectiva simétrica da população negra em geral, mais de 56% são negros e negras. 66% dos jovens desocupados sãos jovens negros(as). Aproximadamente 30% dos jovens não estudam nem trabalham no Brasil. 87.8% dos homicídios no Brasil são contra jovens negros(as). Estes dados demonstram a dimensão da urgência em se construir um programa sólido e robusto para a redução das vulnerabilidades que afetam a população negra jovem, pautada na igualdade racial como elemento de transversalidade central na elaboração do conjunto das políticas públicas brasileiras.
+
+Evolução Histórica:
+Segundo dados do Fórum Brasileiro de Segurança Pública (Infográfico: A violência contra Pessoas Negras no Brasil 2022), 408.605 pessoas negras foram assassinadas na década compreendida entre 2012-2022, o que representa 72% dos homicídios do país no referido período. Ainda com base nos dados do citado Infográfico, neste mesmo decênio, o homicídio de pessoas brancas caiu 26,5%, enquanto o homicídio de pessoas negras cresceu 7,5%. A publicação ainda revela que, no ano de 2021, a cada 100 pessoas assassinadas no Brasil, 78 eram negras, o que sinaliza uma crescente nos dados da violência letal contra a população negra.
+
+Comparações Internacionais:
+Brasil possui a 3ª maior população carcerária do mundo; Brasil é o 17ª país com maior índice de homicídios intencionais
+
+Relação com os ODS:
+As dimensões das vulnerabilidades que afetam a juventude negra dialogam diretamente com os ODS, principalmente quando consideradas as dimensões da erradicação da pobreza, saúde e bem-estar, educação de qualidade, igualdade de gênero, trabalho descente e crescimento econômico, redução das desigualdades, ação contra a mudança global do clima e paz, justiça e instituições eficazes.
+
+Agentes Envolvidos:
+MIR, SGP, Casa Civil, MINC, MEC, MJSP, MS, Cidades, Mulheres, MDA, MDS, Esportes, Meio Ambiente, MTE, MDHC, MPI
+
+Articulação Federativa:
+A construção do Programa Juventude Negra Viva necessita dialogar com os entes subnacionais, de modo a possibilitar a execução das políticas, ações e iniciativas para este público nos estados e municípios, vinculando o repasse de recursos ao atendimento de critérios relacionados à melhoria dos dados relacionados à juventude negra.
+
+Enfoque Transversal:
+MIR, SGP, Casa Civil, MINC, MEC, MJSP, MS, Cidades, Mulheres, MDA, MDS, Esportes, Meio Ambiente, MTE, MDHC, MPI
+
+Marco Legal:
+Lei nº 12.888/2010; Lei nº 10.639/2003; Lei nº 11.645/2008; Decreto nº 11.444/2023;
+
+Planos Nacionais, Setoriais e Regionais:
+Plano Juventude Viva; Plano Nacional de Juventude e Meio Ambiente; Plano Nacional de Desenvolvimento Sustentável de Povos e Comunidades Tradicionais.
+
+Objetivo Geral:
+- Ampliar o acesso da juventude negra a direitos fundamentais.
+
+Objetivos Específicos:
+- Promover a Saúde da Juventude Negra
+- Territorializar a atenção aos Direitos Humanos para a Juventude Negra em territórios periféricos
+- Ampliar a presença de jovens negros, em condição de vulnerabilidade econômica e social, no mercado de trabalho por meio da Economia Popular e Solidária em territórios vulneráveis, periféricos e favelas
+- Ampliar os projetos de incentivo ao esporte amador destinado à juventude negra nas periferias urbanas, periurbanas e em territórios rurais
+- Ampliar mecanismos de letramento racial para a segurança pública com cidadania, com foco na proteção da vida dos jovens negros vítimas de violação de direitos
+
+Indicadores de Entrega:
+- Distribuição de documento publicado: Documento técnico sobre a saúde da juventude negra, com dados que subsidiem a formação dos profissionais que atuam no SUS 
+- Formações oferecidas: Formações para agentes de Segurança Pública em letramento racial 
+- Número de jovens negros qualificados em Economia Popular e Solidária: Mensura a quantidade de jovens negros beneficiados com cursos de Economia Popular e Solidária  
+- Número de projetos de Economia Popular e Solidária para jovens negros apoiados: Mensura a quantidade de apoio a projetos de Economia Popular e Solidária para jovens negros   
+- Número de projetos de esporte amador, educacional e de lazer destinados à juventude negra em territórios periféricos urbanos, periurbanos ou rurais: Quantidade de projetos de áreas de periferias urbanas, periurbanas e em territórios rurais em municípios cuja soma das mortes causadas por agressão equivalham a 50% do total de mortes de jovens negros ocorrido no país, segundo os dados do DataSus(SIM) contempladas em editais. 
+- Quantidade de jovens negros e negras formados como multiplicadores territoriais: Quantidade de jovens negros e negras formados como multiplicadores(as) territoriais, considerando os 163 municípios com maiores números de mortes de jovens negros, causadas por agressão, segundo os dados do DataSUS/SIM.  
+
+Indicadores de Objetivos Específicos:
+- Número de municípios com ações de promoção da saúde da juventude negra realizadas: 163 municípios que concentram 50% das violências por agressões intencionais, segunda o Data/Sus/SIM 2021, tendo em vista o objetivo da redução das vulnerabilidades que afetam a juventude negra, em especial a violência letal.  
+- Número de projetos apoiados destinados à juventude negra nas periferias urbanas, áreas periurbanas ou rurais: Quantidade de projetos contemplados nos editais de incentivo ao esporte destinados a juventude negra nas periferias urbanas, periurbanas e em territórios rurais do conjunto de municípios cuja soma das mortes causadas por agressão equivalham a 50% do total de mortes de jovens negros, ocorrido no país, segundo os dados do DataSus(SIM). 
+- Quantidade de ações apoiadas: Quantidade de ações destinadas, considerando os estados que albergam os 163 municípios com maiores números de mortes de jovens negros, causadas por agressão, segundo os dados do DataSUS/SIM. 
+- Quantidade de municípios com ações relacionadas à promoção da Economia Popular e Solidária para jovens negros: Mensura a execução de ações relacionadas à promoção da Economia Popular e Solidária para jovens negros por municípios 
+- Quantidade de municípios que tenham aderido ao Programa Integrado e Multissetorial de Serviço de Atenção aos Direitos Humanos da Juventude Negra: 163 municípios que concentram 50% das violências por agressões intencionais, segunda o Data/Sus/SIM 2021, tendo em vista o objetivo da redução das vulnerabilidades que afetam a juventude negra, em especial a violência letal.

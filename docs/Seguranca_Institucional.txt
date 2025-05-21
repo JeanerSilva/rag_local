@@ -1,0 +1,191 @@
+passage: Programa: Segurança Institucional
+
+Descrição do Problema:
+Necessidade de aprimoramento da articulação e do assessoramento político/estratégico nas questões relacionadas à soberania, aos interesses nacionais e à segurança do Estado e da sociedade.
+
+Causa do Problema:
+Presença de ameaças que colocam em risco a soberania, os interesses nacionais e a segurança do Estado e da sociedade, tais como: ações contra a soberania nacional; ações contrárias ao estado democrático de direito; Interferência externa; ataques cibernéticos; criminalidade organizada; espionagem; terrorismo; corrupção; sabotagem; atividades ilegais envolvendo bens de uso dual e tecnologias sensíveis; armas de destruição em massa; ameaça física ou à imagem institucional do Presidente, Vice-Presidente, individual ou em grupo.
+
+Evidências do Problema:
+A insuficiente articulação da ação do Estado em eventos de grande impacto para a sociedade, tais como:
+Incidente na base de Alcântara (2003)
+Elementos identificados pela CPI da Espionagem (2014)
+Manifestações (2013)
+Desarticulação de célula terrorista - Hashtag (2016)
+Ataques cibernéticos nos sistemas governamentais (2017)
+Greve dos caminhoneiros (2018)
+Migração venezuelana em Pacaraima (2018/19)
+Intervenções federais (2018)
+Rompimento das barragens de Mariana (2015) e Brumadinho (2019)
+Possível interferência externa e do crime organizado nas Eleições (2018)
+Atentado a candidato à Presidência (2018)
+Tentativa de invasão do Palácio do Planalto (2013 e 2018)
+Pandemia Covid-19 (2020-2022)
+Invasão do Palácio do Planalto (2023)
+Falsa denúncia de bomba nas usinas nucleares de Angra dos Reis (2023)
+
+
+
+Justificativa para a Intervenção:
+Previsão Constitucional e legal para ações relacionadas à soberania, aos interesses nacionais e à segurança do Estado e da sociedade. Crescente intensidade de fenômenos como: violência, em larga medida financiada por organizações criminosas ligadas ao narcotráfico; crimes financeiros internacionais; violações dos direitos humanos; terrorismo e seu financiamento; e atividades ilegais envolvendo o comércio de bens de uso dual e de tecnologias sensíveis, que desafiam os Estados democráticos. Ameaças à segurança da sociedade e do Estado demandam ações preventivas concertadas entre os órgãos. Esse universo acentua a importância do compartilhamento de informações e do trabalho coordenado e integrado, de forma a evitar a deflagração de crises em áreas de interesse estratégico para o Estado ou, quando inevitável, a oferecer às autoridades o assessoramento capaz de permitir o seu adequado gerenciamento.
+
+Evolução Histórica:
+Extinção do GSI e criação da Casa Militar pelo Decreto nº 8.577, de 26 de novembro de 2015, gerando impactos extremamente negativos na articulação e no assessoramento nas questões relacionadas à soberania, aos interesses nacionais e à segurança do Estado e da sociedade.
+
+Comparações Internacionais:
+Todos os países têm algum tipo de estrutura que administra a sua segurança institucional, seja de maneira integrada como no Brasil ou com órgãos independentes como nos EUA.
+Especificamente, a Segurança Presidencial realiza intercâmbios junto a Espanha, Rússia, França e EUA onde todos atuam nos moldes similares ao brasileiro para administrar sua Segurança Institucional.
+Evidências Internacionais:
+11 de Setembro (2001)
+Ataques cibernéticos na Estônia (2007)
+Ataque cibernético Stuxnet no Irã (2010)
+Operação Neptune Spear - Bin-Laden (2011)
+Fukushima (2011)
+Primavera Árabe (2011)
+Wikileaks/Snowden (2013)
+Suposta Interferência Russa nas Eleições Americanas (2015)
+Ataque cibernético NotPetya (2017)
+Ataque cibernético WannaCry (2017)
+Migração Síria para Europa (2016-2018)
+Ataque cibernético Solarwinds (2020)
+Ataque cibernético Colonial Pipeline (2021)
+
+
+
+
+Relação com os ODS:
+Não aplicável.
+
+Agentes Envolvidos:
+Gabinete de Segurança Institucional da Presidência da República
+Agência Brasileira de Inteligência (ABIN)
+Casa Civil da Presidência da República
+Ministério da Agricultura e Pecuária
+Ministério da Ciência, Tecnologia e Inovação
+Ministério das Comunicações
+Ministério da Defesa
+Ministério da Fazenda
+Ministério da Integração e do Desenvolvimento Regional
+Ministério da Justiça e Segurança Pública 
+Ministério da Saúde
+Ministério das Minas e Energia
+Ministério das Relações Exteriores
+Ministério de Portos e Aeroportos
+Ministério do Meio Ambiente e Mudança do Clima 
+Ministério do Planejamento e Orçamento
+Ministério dos Povos Indígenas
+Ministério dos Transportes
+Marinha (MB)
+Exército (EB)
+Aeronáutica (FAB)
+Gabinete Pessoal do Presidente da República
+Polícia Rodoviária Federal (PRF)
+Polícia Federal (PF)
+Instituto Chico Mendes de Conservação da Biodiversidade (ICMBio)
+Instituto Nacional de Colonização e Reforma Agrária (INCRA)
+Serviço Florestal Brasileiro (SFB/MAPA)
+Advocacia Geral da União (AGU)
+Departamento Nacional de Registro Empresarial e Integração (DREI/MiDIC)
+Secretaria Especial da Receita Federal (SRF/MF)
+Secretaria de Coordenação e Governança do Patrimônio da União (SPU/MGI)
+Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq)
+Secretarias Estaduais e Municipais de Segurança Pública, de Saúde, de Agricultura, dentre outras Órgãos e Agências congêneres nos países do entorno estratégico do Brasil.
+
+
+Articulação Federativa:
+As ações previstas no Programa Segurança Institucional perpassam diversos ministérios e têm implicações nos estados e nos municípios. A interação entre os entes federais com as demais esferas do pacto federativo é fator fundamental para o alcance efetivo do efeito desejado, qual seja, a estabilidade nacional, consubstanciada na garantia da soberania, e dos interesses nacionais, da segurança do Estado e da sociedade brasileira.
+Essa interação se dá por meio da implementação das políticas, dos programas e dos planos nacionais, setoriais e regionais abrangidos, que vão muito além da segurança pública e da defesa.
+Um exemplo claro onde as instituições de todos os matizes devem articular-se e interagir é na faixa de fronteira, parcela sensível do Território Nacional, não apenas pela complexidade natural da área que caracteriza a divisa entre países com diferentes arcabouços jurídicos, mas também pela extensão territorial que representam e pelo número de vizinhos que o Brasil possui.
+
+
+Enfoque Transversal:
+Possíveis articulações com outras políticas:
+Segurança Pública e Combate ao Crime Organizado
+Gestão de Riscos e Desastres
+Defesa
+Política Nuclear
+Política Espacial
+Ciência, Tecnologia e Inovação
+Transparência e Combate à Corrupção
+Desenvolvimento Regional, Territorial e Urbano
+Melhoria do Ambiente de Negócios
+Política Externa
+Comunicações para o Crescimento do Conhecimento.
+
+
+Marco Legal:
+Art. 91 da Constituição - Conselho de Defesa Nacional;
+LEI Nº 12.731, DE 21 DE NOVEMBRO DE 2012 (Sistema de Proteção ao Programa Nuclear Brasileiro – SIPRON);
+LEI Nº 13.260, DE 16 DE MARÇO DE 2016 (Regulamenta a Constituição Federal, disciplinando o terrorismo);
+LEI Nº 13.810, DE 8 DE MARÇO DE 2019 (Cumprimento de sanções impostas por resoluções do Conselho de Segurança das Nações Unidas sobre terrorismo);
+LEI Nº 14.478, DE 21 DE DEZEMBRO DE 2022 (Diretrizes a serem observadas na prestação de serviços de ativos virtuais e sobre lavagem de dinheiro)
+LEI Nº 14.600, DE 19 DE JUNHO DE 2023 (Organização básica dos órgãos da Presidência da República e dos Ministérios);
+LEI Nº 6.634, DE 2 DE MAIO DE 1979 (Dispõe sobre a Faixa de Fronteira);
+LEI Nº 8.183, DE 11 DE ABRIL DE 1991 (Organização e o funcionamento do Conselho de Defesa Nacional);
+LEI Nº 9.613, DE 3 DE MARÇO DE 1998 (Crimes de lavagem ou ocultação de bens, direitos e valores e criação do Conselho de Controle de Atividades Financeiras – COAF);
+LEI Nº 9.883, DE 7 DE DEZEMBRO DE 1999 (Institui o Sistema Brasileiro de Inteligência e cria a Agência Brasileira de Inteligência – ABIN);
+Art. 37 da LEI Nº 12.527, DE 18 DE NOVEMBRO DE 2011 (Núcleo de Segurança e Credenciamento - NSC);
+DECRETO LEGISLATIVO Nº 267, DE 2009 (Convenção Internacional para a Supressão de Atos de Terrorismo Nuclear);
+DECRETO Nº 10.569, DE 9 DE DEZEMBRO DE 2020 (Estratégia Nacional de Segurança de Infraestruturas Críticas – ENSIC)
+DECRETO Nº 10.748, DE 16 DE JULHO DE 2021(Rede Federal de Gestão de Incidentes Cibernéticos);
+DECRETO Nº 11.200, DE 15 DE SETEMBRO DE 2022 (Plano Nacional de Segurança de Infraestruturas Críticas – PLANSIC);
+DECRETO Nº 11.331, DE 1º DE JANEIRO DE 2023 (Estrutura Gabinete de Segurança Institucional da Presidência da República)
+DECRETO Nº 2.210, DE 22 DE ABRIL DE 1997 (Sistema de Proteção ao Programa Nuclear Brasileiro - SEPRON);
+DECRETO Nº 3.018, DE 6 DE ABRIL DE 1999 (Convenção para Prevenir e Punir os Atos de Terrorismo);
+DECRETO Nº 3.897, DE 24 DE AGOSTO 2001 (Diretrizes para o emprego das Forças Armadas na garantia da lei e da ordem);
+DECRETO Nº 4.332, DE 12 DE AGOSTO DE 2002 (Normas para medidas de segurança durante as viagens presidenciais em território nacional);
+DECRETO Nº 4.376, DE 13 DE SETEMBRO DE 2002 (Organização e o funcionamento do Sistema Brasileiro de Inteligência);
+DECRETO Nº 5.639, DE 26 DE DEZEMBRO DE 2005 (Convenção Interamericana contra o Terrorismo);
+DECRETO Nº 5.640, DE 26 DE DEZEMBRO DE 2005 (Convenção Internacional para Supressão do Financiamento do Terrorismo);
+DECRETO Nº 7.724, DE 16 DE MAIO DE 2012 (Procedimentos para a garantia do acesso à informação e para a classificação de informações sob restrição de acesso);
+DECRETO Nº 7.845, DE 14 DE NOVEMBRO DE 2012 (Procedimentos para credenciamento de segurança e tratamento de informação classificada);
+DECRETO Nº 8.903, DE 16 DE NOVEMBRO DE 2016 (Programa de Proteção Integrada de Fronteiras); 
+DECRETO Nº 893, DE 12 DE AGOSTO DE 1993 (Regulamento do Conselho de Defesa Nacional);
+DECRETO Nº 9.573, DE 22 DE NOVEMBRO DE 2018 (Política Nacional de Segurança de Infraestruturas Críticas);
+DECRETO Nº 9.637, DE 26 DE DEZEMBRO DE 2018 (Política Nacional de Segurança da Informação);
+DECRETO Nº 9.663, DE 1º DE JANEIRO DE 2019 (Estatuto do Conselho de Controle de Atividades Financeiras);
+DECRETO Nº 9.819, DE 3 DE JUNHO DE 2019 (Câmara de Relações Exteriores e Defesa Nacional do Conselho de Governo);
+DECRETO Nº 9.828, DE 10 DE JUNHO DE 2019 (Comitê de Desenvolvimento do Programa Nuclear Brasileiro);
+
+
+Planos Nacionais, Setoriais e Regionais:
+DECRETO Nº 9.637, DE 26 DE DEZEMBRO DE 2018 (Política Nacional de Segurança da Informação)
+DECRETO Nº 9.573, DE 22 DE NOVEMBRO DE 2018 (Política Nacional de Segurança de Infraestruturas Críticas)
+DECRETO Nº 11.200, DE 15 DE SETEMBRO DE 2022 (Plano Nacional de Segurança de Infraestruturas Críticas – PLANSIC)
+DECRETO Nº 8.903, DE 16 DE NOVEMBRO DE 2016 (Programa de Proteção Integrada de Fronteiras); 
+DECRETO Nº 2.210, DE 22 DE ABRIL DE 1997 (Sistema de Proteção ao Programa Nuclear Brasileiro - SEPRON);
+DECRETO Nº 10.748, DE 16 DE JULHO DE 2021(Rede Federal de Gestão de Incidentes Cibernéticos);
+DECRETO Nº 10.569, DE 9 DE DEZEMBRO DE 2020 (Estratégia Nacional de Segurança de Infraestruturas Críticas – ENSIC)
+PORTARIA SCS/GSI/PR Nº 112, DE 13 DE SETEMBRO DE 2022 (Plano Nacional para Situações de Emergência Nuclear)
+PORTARIA Nº 75-GSI/PR, DE 28 DE OUTUBRO DE 2020 (Plano Nacional de Resposta Integrada a Evento de Segurança Física Nuclear)
+
+Em Elaboração:
+Comitê Gestor da Segurança da Informação
+Estratégia Nacional de Segurança da Informação - Módulo Segurança Cibernética
+Plano Nacional de Respostas a Incidentes Computacionais - PNTIR
+Política Nacional de Fronteiras - PNF
+
+
+Objetivo Geral:
+- Elevar o nível de segurança do Estado e da sociedade por meio de ações de articulação e assessoramento político e estratégico
+
+Objetivos Específicos:
+- Fortalecer a Cultura Integrada de Segurança das Instituições, do Estado e da Sociedade
+- Contribuir para a Garantia da Soberania, dos Interesses Nacionais, da Segurança do Estado e da Sociedade e da Proteção de Áreas Estratégicas
+
+Indicadores de Entrega:
+- Índice das Demandas de Serviços de Tecnologia da Informação relacionadas com Produção de Geoinformação de interesse estratégico realizadas perante as solicitadas: Desenvolver serviços de tecnologia da informação e geoprocessamento em atendimento as demandas de interesse estratégico. 
+- Índice de implantação do Sistema de Proteção das Instalações Presidenciais (ProPR): Implantação de um sistema integrado que compreende aquisição de equipamentos com hardware, software, ferramentas de apoio e toda infraestrutura necessária para garantir a interoperabilidade de seus subsistemas, necessários ao seu funcionamento ininterrupto. 
+- Índice de incidentes e vulnerabilidades cibernéticos tratados perante aos identificados: Executar ações necessárias para a segurança da informação e cibersegurança do Estado e da Sociedade 
+- Índice de Notas Técnicas de Assentimento-Anuência Produzidas perante o Número de Requerimentos: Subsidiar técnica e juridicamente as autorizações prévias do CDN no que se refere à avaliação do uso e à ocupação de áreas indispensáveis à segurança do território nacional, especialmente na faixa de fronteira e em áreas relacionadas à preservação e à exploração dos recursos naturais de qualquer tipo e ao controle dos materiais relevantes à defesa e segurança nacional 
+- Índice de qualificação e designação de Gestores de Segurança da Informação ou de Cibersegurança perante o número de órgãos da APF: Acompanhar e avaliar a gestão e governança da segurança da informação e da cibersegurança. 
+- Índice de riscos emergentes identificados e tratados: Tratar os Riscos emergentes identificados evitando que se tornem crises que afetem a segurança institucional 
+- Índice de tratamento de Incidentes de Segurança das Instalações Presidenciais: Manter em segurança os palácios e residências oficiais. 
+- Número de campanhas realizadas: Esclarecer o público alvo quanto aos objetivos da Segurança Institucional e os benefícios decorrentes para todos. 
+- Número de eventos sobre segurança institucional realizados (seminários, workshops, palestras e cursos): Realizar eventos sobre segurança institucional realizados (seminários, workshops, palestras e cursos). 
+- Percentual de eventos de emergência e proteção física nuclear realizados do Plano Geral de Atividades do Sistema de Proteção ao Programa Nuclear Brasileiro (PGA-SIPRON): Planejar e coordenar as atividades de emergência e de proteção física nuclear previstos no Plano Geral de Atividades do Sistema de Proteção ao Programa Nuclear Brasileiro (PGA-SIPRON). 
+- Porcentagem de execução das ações do Programa de Proteção Integrada de Fronteiras (PPIF): Aprimorar a atuação do Estado no combate aos delitos transfronteiriços. 
+
+Indicadores de Objetivos Específicos:
+- Indíce de contribuição para garantia da soberania e dos interesses nacionais e da segurança do estado e da proteção das áreas estratégicas: O indicador do objetivo específico é composto pela média aritmética dos resultados percentuais das entregas que compõem o objetivo específico e visa a medição da contribuição para a Garantia da Soberania, dos Interesses Nacionais, da Segurança do Estado e da Sociedade e da Proteção de Áreas Estratégicas, por meio de instrumentos que permitam tratar a segurança como premissa, desenvolvendo competências humanas, tecnológicas e processuais efetivas que contribuam para o desenvolvimento da maturidade e a excelência em Segurança Institucional; mapeando e aprimorando os mecanismos de proteção, identificando vulnerabilidades, ameaças e oportunidades à segurança do Estado Brasileiro e aos interesses nacionais; acompanhando continuamente as tendências e fatos relacionados a temas estratégicos; analisando cenários alternativos; identificando variáveis determinantes; produzindo documentos conclusivos; provendo assessoramento superior; articulando com diversos órgãos que detenham potencial e responsabilidade de ação, de maneira que as tendências indesejáveis possam ser evitadas, no que tange aos temas acompanhados. 
+- Índice de fortalecimento da cultura integrada de segurança, das instituições do estado e da sociedade: O indicador do objetivo específico é composto pela média aritmética dos resultados percentuais das entregas que compõem o objetivo específico e visa a medição do fortalecimento da Cultura Integrada de Segurança das Instituições, do Estado e da Sociedade, por meio do desenvolvimento de normas, conhecimentos e atitudes, além de mecanismos e modelos de acompanhamento, avaliação, conformidade e compliance e estimulando as práticas para que se incorporem como hábitos individuais e valores institucionais.

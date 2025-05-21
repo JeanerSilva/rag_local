@@ -1,0 +1,315 @@
+passage: Programa: Educação Superior: Qualidade, Democracia, Equidade e Sustentabilidade
+
+Descrição do Problema:
+Atendimento insatisfatório da Educação Superior e desconexão entre as necessidades da sociedade e a oferta de cursos, gerando evasão, persistência de desigualdades quanto ao acesso, permanência e conclusão dos estudantes.
+
+• Ausência de monitoramento e acompanhamento de egressos
+• Insuficiência de dados da avaliação da educação superior a distância
+• Formação inadequada
+• Carência de profissionais
+• Formação de competências desalinhadas ao mercado de trabalho
+• Menos ingressos nas licenciaturas
+• Matrizes curriculares muito rígidas e com pouca aderência ao mercado de trabalho
+• Inadequada capacitação docente
+• Baixo preenchimento de vagas em alguns cursos e localidades
+• Taxas elevadas de evasão no ensino superior
+• Falta de campo de prática para formação de profissionais na área da saúde
+• Falta de alinhamento entre as demandas e a oferta de programas de residência
+• Alta concentração de demanda por vagas em determinados cursos
+• Entrada tardia (calendário) no semestre letivo, nos processos seletivos gerenciados pelo MEC
+• Matrizes curriculares muito rígidas e com pouca aderência ao mercado de trabalho
+
+Causa do Problema:
+•	Falta de estudos de caracterização de egressos
+•	Falta de ferramentas para as IFES fazerem levantamento dos egressos
+•	Falta de marcos regulatórios, administrativos, conceituais e de qualidade
+•	Baixa capacitação de profissionais
+•	Falta de institucionalização da EaD
+•	Concentração de formação em determinados cursos 
+•	Formação inadequada
+•	Baixa aderência de conteúdo da formação nas IES com o mercado
+•	Pouca aderência das diretrizes e dos currículos às necessidades da sociedade e às demandas produtivas
+•	Articulação insuficiente das Secretaria de Educação Básica (SEB) com as IES para a melhoria da formação dos professores
+•	Desigualdades regionais e territoriais no acesso da população de 18 a 24 anos à educação superior
+•	Baixo interesse na capacitação docente
+•	Concentração de cursos em determinadas regiões do Brasil
+•	Disputa por cenários de práticas entre cursos
+•	Capacitação insuficiente de médicos preceptores
+•	Dificuldade na fixação dos egressos dos cursos de medicina
+•	Dificuldades para provimento de recursos financeiros na melhoria da infraestrutura dos cursos
+•	Falta de incentivo financeiro para os programas de residência em saúde
+•	Aumento desproporcional da quantidade de cursos de medicina frente a ampliação e melhoria dos cenários de práticas
+•	Regionalização da oferta de Programas de Residências em Saúde
+•	Falta de estímulo à produção científica
+•	Deficiência de portais/ bases científicas acessíveis aos Residentes em Saúde
+•	Falta de investimento para pesquisa e publicação de artigos e materiais de caráter científico em revistas de alto impacto
+•	Redução de fomento para a mobilidade de discentes e docentes brasileiros e estrangeiros, tanto para o outcoming quanto para o incoming
+•	Falta de investimento em infraestrutura de acolhimento para o estrangeiro
+•	Falta de investimento em políticas linguísticas
+•	Ausência de condições específicas para a construção de carreiras acadêmicas entre elas, a internacionalização institucional, a criação de programas conjuntos, a inserção das atividades acadêmicas na superação dos problemas próprios desses locais em conjunto com outros entes públicos
+•	Inadequação do processo seletivo para entrada nos cursos de mestrado e doutorado, que valoriza uma trajetória acadêmica tradicional na graduação.
+•	Problema estrutural de inclusão de segmentos sub representados nas etapas anteriores da educação, não garantindo o acesso e, sobretudo, a permanência desse conjunto de indivíduos no processo formativo;
+•	Necessidade dos alunos vulneráveis se inserirem no mercado de trabalho e não conseguirem ingressar e/ou dar continuidade em seus estudos na pós-graduação stricto sensu;
+•	Baixa atratividade da carreira científica nas Engenharias frente às oportunidades de emprego no mercado de trabalho, com retornos financeiros mais substantivos e imediatos para o recém-graduado;
+•	Incompatibilidade entre expectativas iniciais do estudante e as exigências (e/ou proposta) do curso, especialmente no mestrado acadêmico, cuja tendência é a evasão prematura do curso;
+•	Duração da bolsa de doutorado (4 anos) menor que a duração do curso (geralmente acima de 4 anos) e impossibilidade de prosseguir no curso sem o sustento da bolsa;
+•	Incompatibilidade entre as demandas crescentes do curso (publicação de artigos, qualificação, defesa de tese) e as condições pessoais de persistir no curso (família, emprego/renda), no caso do mestrado profissional e doutorado, cuja tendência é uma evasão mais tardia do curso.
+•	Falta de infraestrutura básica e de recursos humanos preparados para lidar com investimentos e políticas públicas federais de incentivo à melhoria da qualidade dos cursos nota 3 e 4;
+•	Falta de dados e informações qualitativas sobre as condições nas quais os programas de notas 3 e 4 estão abrigados que impedem a mudança de condição para notas maiores, ocasionando uma leitura equivocada acerca da realidade de tais cursos (por exemplo, homogeneizando a problemática que pode ter uma pluralidade de fatores causais) e, consequentemente, políticas de indução igualmente equivocadas;
+•	Baixa aderência dos cursos ofertados em determinada localidade, induzindo a busca por cursos em outra localidade.
+•	Ausência de política permanente de incentivo, manutenção e financiamento de programas sustentáveis visando a alfabetização e formação contínua em ciência na escola básica, como feira de ciências, eventos de iniciação cientifica estimulando o conceito de jovem pesquisador no ensino médio.  
+•	Orçamento anual de investimentos insuficiente para atendimento às necessidades apresentadas nos planos de infraestrutura;
+•	Ausência de planejamento de obras, por meio de Plano Diretor Físico Hospitalar (PDFH) e projetos de arquitetura e engenharia qualificados
+•	Aumento substancial do número de graduandos sem cenário de prática suficiente
+•	Falta de investimento para modernização/ampliação dos cenários de práticas
+•	Priorização de atividades assistenciais em detrimento da pesquisa e inovação;
+•	Carência de recursos humanos para as atividades de pesquisa e inovação;
+•	Dificuldade de conciliar carga horária e participação em projetos de pesquisa e inovação.
+•	Falta de clareza e coerência nos documentos curriculares.
+•	Ausência de articulação entre os diferentes atores educacionais.
+•	Inexistência de política e definição das bases para a construção de um sistema de avaliação da educação profissional.
+•	Falta de sistematização de bases de dados da EPT (Sistec) para o tratamento estatístico.
+•	Existência de lacunas nos registros nacionais de algumas ofertas da EPT, em especial daquelas que não possuem estrutura seriada e anual.
+•	PNADc, que coletou informações da EPT até 2019, deixou de fazê-lo
+•	Ausência de determinação legal para que o Inep realize o monitoramento dos egressos.
+•	Dados produzidos pelo Inep se restringem à trajetória educacional.
+
+
+Evidências do Problema:
+A Meta 12 do PNE prevê a expansão do acesso aos cursos de graduação, com a elevação da taxa bruta de matrículas (TBM) para 50% e da taxa líquida de escolarização (TLE) para 33% da população de 18 a 24 anos. Almeja, ainda, a garantia da qualidade da oferta, com no mínimo 40% da expansão de matrículas no segmento público. Na série histórica do monitoramento do PNE, entre 2012 e 2022, nota-se a tendência de avanço nas taxas de cobertura populacional dos cursos de graduação, porém, em ritmo aquém do necessário para atingir os alvos do Plano. A TBM aumentou de 30,0% para 38,5%, enquanto a TLE apresentou crescimento de 19,5% para 25,0%. 
+
+GRÁFICO 2 – Taxa líquida de escolarização na educação superior – Brasil – 2012-2022 (anexo)
+
+Já a participação do segmento público na expansão das matrículas oscilou com tendência de queda entre 2012 e 2020. Nesse período, o segmento público foi responsável por apenas 3,6% do aumento das matrículas nos cursos de graduação. Em 2021, o índice teve uma leve recuperação alcançando 9,3%. Contribuíram de maneira importante para essa tendência a redução das matrículas públicas na modalidade EaD, diante da rápida expansão do segmento privado nessa modalidade de ensino, e a estagnação da expansão das matrículas nas IES estaduais e municipais.
+
+GRÁFICO 3 – Participação do segmento público na expansão de matrículas em relação a 2012 – Brasil – 2012-2022 (anexo)
+
+Considerando a série histórica de 2012-2020, os três indicadores do PNE apresentaram queda no último ano, que coincidiu com o primeiro ano da pandemia de covid-19 no País. Essa queda foi mais acentuada nas regiões Norte e Nordeste e tornou os indicadores da Meta 12 mais distantes de serem cumpridos.
+A ampliação do percentual de mestres e doutores do corpo docente em efetivo exercício nesse nível para 75%, com no mínimo 35% de doutores, são os objetivos da Meta 13 do PNE, já alcançados no ano de 2015. Em 2021, o percentual de docentes com ao menos mestrado chegou a 84,3%, enquanto o percentual de docentes com doutorado foi de 50,8,9%. A despeito do sucesso no cumprimento dessa meta, a qualificação dos docentes na educação superior brasileira é marcada por desigualdades regionais, com as regiões Sul e Sudeste apresentando patamares superiores de ambos os indicadores em relação às demais regiões. Também há desigualdades, relacionadas às categorias administrativas das instituições de ensino superior (IES). Nota-se ainda uma tendência recente de diminuição no número total de docentes na educação superior, que foi agravada em 2020. Essa redução concentrou-se nas IES privadas e teve início no ano de 2016. Essa queda mais acentuada pode ter sido uma consequência da pandemia de covid-19 e merece ser investigada em pesquisas ulteriores.
+
+GRÁFICO 4 – Percentual de docentes na educação superior com mestrado ou doutorado – Brasil – 2012-2021 (anexo)
+
+GRÁFICO 5 – Percentual de docentes na educação superior doutorado – Brasil – 2012-2021 (anexo)
+
+No tocante à pós-graduação stricto sensu, a Meta 14 do PNE objetiva elevar o número de títulos em cursos de mestrado e doutorado concedidos em todo o Brasil, de modo a atingir 60 mil títulos de mestres e 25 mil títulos de doutores anualmente. Desde 2017, o País já vem atingindo a meta referente à titulação em mestrado, tendo alcançado o maior patamar em 2019, quando se titularam 70,1 mil mestres. Em 2020, no entanto, observou-se uma queda e o País voltou a titular, no ano em questão, 60,0 mil mestres. O valor observado no último ano, ainda que supere a meta estabelecida pelo PNE, encontra-se em um patamar abaixo da trajetória de crescimento que se verificava até então. Destaca-se nesse processo a queda de 10.032 títulos de mestrado observada entre 2019 e 2020, possivelmente um reflexo da pandemia de covid-19 nos programas de pós-graduação no Brasil, que fechou instituições de ensino e interrompeu as atividades acadêmicas.
+
+GRÁFICO 6 – Número de títulos de mestrado acadêmico e profissional concedidos – Brasil – 2013-2020 (anexo)
+
+Tendências similares podem ser descritas para o doutorado, isto é, o maior patamar também foi alcançado em 2019, quando se titularam 24,4 mil doutores – número recorde na série histórica, mas ainda inferior à meta estabelecida pelo PNE. Em 2020, porém, houve um recuo para 20.075 titulações de doutorado. Dessa forma, resta um crescimento de 4.925 no número de novos títulos por ano para se atingir a meta de 25.000. O decréscimo nos títulos de mestrado e doutorado no período 2018-2020 foi observado em todas as grandes áreas do conhecimento, com destaque para os títulos de mestrado na área de Engenharia (-19,7%) e de doutorado na área de Ciências Biológicas (-23,5%). A maior parte dos estados da região Nordeste e a totalidade da região Norte apresentaram uma taxa de títulos por cem mil habitantes inferior à média nacional, enquanto nas regiões Sul e Sudeste a maior parte dos estados se encontrava acima dessa média.
+
+GRÁFICO 7 – Número de títulos de doutorado concedidos – Brasil – 2013-2020 (anexo)
+
+Além dos indicadores acima citados, que são indicadores de monitoramento do PNE, também podemos citar como evidências para os problemas listados:
+
+•	26 cursos (família de cursos) concentram 89,7% dos títulos – fonte CGEE
+•	Em 2021, a matrícula na rede federal estava presente em somente 931 municípios brasileiros, por meio de campi com cursos presenciais ou de polos EaD (Censo Ed. Superior)
+•	Ingressos nas Licenciaturas é baixo em relação ao total (Censo Ed. Superior)
+•	Evasão: taxa de desistência acumulada 40,61% 
+•	Levantamento no SINAR demonstra que os estados do norte têm o menor número de programas de residência multiprofissional
+•	Somente 315 brasileiros participaram de estágios em instituições de ensino/pesquisa em países do eixo. Além disso, 400 estrangeiros vieram ao Brasil para desenvolver pesquisas/estudos nas instituições brasileiras
+•	Considerando que as IES brasileiras situadas nas regiões de fronteira da América do Sul estão fora do eixo Sul-Sudeste, a fixação de mestres e doutores é reduzida.
+•	Baixa participação feminina entre os títulos de doutorado nas Engenharias: 33%
+•	Baixa participação feminina nas Ciências Exatas e da Terra: 36%
+•	Em 6 das 9 grandes áreas do conhecimento, as mulheres representam menos de 50% do corpo docente na pós-graduação stricto sensu, sendo que na nas Ciências Exatas e da Terra e nas Engenharias não supera os 25%
+
+GRÁFICO 8 – Evolução da participação de mulheres no corpo docente de pós-graduação stricto sensu, por área – Brasil – 2013-2020 (anexo)
+
+•	Proporção de pretos e pardos que concluíram a graduação entre 2014 e 2016 (37%) supera o percentual dessa população entre os ingressantes de mestrado (30%) e doutorado (29%) em cerca de 7 a 9 pontos percentuais (p.p.), respectivamente, indicando um cenário inequidade no acesso à pós-graduação stricto sensu, no qual a etnia pode ser um critério relevante
+•	Em relação a participação de pessoas de baixa renda, a distribuição da renda familiar estimada também parece influenciar de maneira decisiva no acesso, uma vez que os novos ingressantes na pós-graduação stricto sensu (mestrado e doutorado), no período de 2014 – 2016, possuem, em geral, renda superior ao do grupo de egressos da graduação
+•	No mestrado acadêmico, da grande área das Ciências Exatas e da Terra, 19% dos estudantes ingressantes no ano de 2013 evadiram de seus cursos, em até 4 anos de observação dessa corte. Já no mestrado profissional, os evadidos representaram 38%.
+•	No doutorado, da grande área das Ciências Exatas e da Terra, 13% dos ingressantes no ano de 2013 evadiram de seus cursos, em até 5 anos de observação dessa corte. É possível que esse percentual seja maior com anos adicionais de observação do referido corte, uma vez que outros 19% permaneciam com sua matrícula ativa após 5 anos de observação.
+•	Evasão média do mestrado acadêmico de 12%, do mestrado profissional de 18% e do doutorado de 11% (em até 4 anos de observação no ME e 5 anos de observação no DO).
+•	A observação da coorte de ingressantes em 2013 indica que a evasão no mestrado acadêmico nas Engenharias tende a acontecer com mais proeminência no início do curso (27% da evasão acontece no 1º semestre), caracterizando uma evasão prematura. Já no mestrado profissional e no doutorado, a evasão acontece mais tardiamente, com picos após o 3º e 4º anos, respectivamente.
+•	Assimetrias regionais na oferta de programas de alta qualidade e baixa interiorização dos programas ofertados:
+•	Dados do Geocapes (2021) mostram o mapa da oferta de programas de pós-graduação stricto sensu. Na Figura 1, podemos observar a distribuição de programas nota 5 pelo Brasil. Como pode ser observado, temos 4 Estados da região Norte (AC, RR, RO e AM) nos quais inexistem programas (mestrado ou doutorado) nota 5. Na cor verde, temos 6 Estados que ofertam entre 1 a 5 programas nota 5, sendo que no TO a oferta restringe-se a apenas 1 programa, no PI e em AL a 2 programas, cada.
+
+GRÁFICO 9 – Distribuição de programas de pós-graduação nota 5 no Brasil – Brasil – 2021 (anexo)
+
+•	O Brasil possui uma produção cientifica expressiva, mas, gerada em sua grande maioria nas instituições de ensino superior, contudo, ainda é incipiente na inclusão dos discentes da educação básica, e, compreende-se que o desenvolvimento do jovem em formação básica, com a investigação cientifica, tal fato, poderá despertar habilidades e dar-lhe maior autonomia além de instigar-lhe a produzir conhecimento nesta etapa de formação (Ovigli,2024).
+•	Infraestrutura física hospitalar mínima insuficiente para cumprimento integral dos alvarás sanitário, ambiental e de Corpo de Bombeiros (0/41 hospitais da Rede atendem)
+
+
+
+Justificativa para a Intervenção:
+Para responder aos desafios impostos no PNE, o Governo Federal precisará atuar em ações que visem à elevação da capacidade de atendimento na educação superior. Diante disso, faz-se necessário um conjunto de ações estratégicas voltadas à consolidação do processo de interiorização das universidades e seus campus, à ampliação das taxas de acesso, permanência e conclusão da educação superior, melhora do rendimento acadêmico e da qualidade da oferta, de forma a atender com vistas à superação das desigualdades e à valorização da diversidade, na perspectiva da equidade, da inclusão e da sustentabilidade, fortalecendo, de forma participativa, a ciência, a cultura, as artes, a tecnologia e a inovação nas atividades de ensino, pesquisa e extensão e aperfeiçoando a avaliação, a supervisão e a regulação para o desenvolvimento do país.
+
+Evolução Histórica:
+Entre 2003 e 2016, o governo federal investiu fortemente na educação da população brasileira, desenvolvendo políticas públicas com base em uma visão sistêmica da educação, com iniciativas da creche à pós-graduação. Antigos programas foram ampliados e aperfeiçoados, ao passo que novos foram criados. Os programas educacionais existentes, até então fortemente centrados no ensino fundamental, foram aperfeiçoados e ampliados para todas as etapas da educação básica, como é o caso da alimentação e transporte escolar, além do livro didático. Ao mesmo tempo, novos e relevantes programas foram criados, a exemplo do Prouni e Ciências sem Fronteiras, na educação superior. 
+Um novo padrão de relacionamento entre a União e os governos estaduais, distrital e municipais foi estabelecido com o Plano de Ações Articuladas (PAR), trazendo uma lógica de apoio prioritário aos entes federados que mais precisam e mais transparência aos repasses de recursos discricionários do governo federal, materializando a cooperação federativa em educação. E um vigoroso processo de expansão da rede de educação profissional e tecnológica foi executado, com destaque para a criação dos Institutos Federais de Educação, Ciência e Tecnologia, assim como na educação superior, com a criação de novas universidades e campi em todo o país. Importante mencionar, ainda, a entrada na agenda pública de temas estratégicos como a inclusão educacional das pessoas com deficiência e a valorização da diversidade humana, com a implementação de políticas de cotas, entre outras medidas. Merece registro a ampla e democrática discussão em torno da construção do Plano Nacional de Educação 2014-2024, que trouxe 20 metas e uma série de estratégias para a educação básica em todas as suas etapas e para a educação superior, além das modalidades de ensino do país.
+Contudo, todas essas conquistas foram comprometidas. Entre 2019 e 2022, o Ministério da Educação (MEC) e suas autarquias passaram por fortes retrocessos institucionais, orçamentários e normativos. Esse período foi marcado pela falta de planejamento; descontinuidade de políticas relevantes; desarticulação com os sistemas de ensino estaduais e municipais; incapacidade de execução orçamentária; e omissões perante os desafios educacionais brasileiros. A educação foi duramente atingida por um governo que fugiu às pautas fundamentais da educação, promovendo um verdadeiro desmonte das políticas públicas em curso e colocando na pauta temas ultraconservadores. Associado a isso, veio a tragédia da pandemia da Covid-19, cujos efeitos foram ainda mais severos juntos aos estudantes e profissionais da educação brasileiros pelo descaso do governo. 
+A atenção da nova gestão do Ministério da Educação deverá voltar os olhos para o enfrentamento dos efeitos da pandemia na educação. Uma política nacional, coordenada pelo MEC em pactuação com os estados e municípios, universidades, institutos federais e demais redes, com foco no combate aos problemas já evidenciados na Educação Superior é uma das principais prioridades. 
+Nesse contexto, a expectativa é de que a retomada das ações prioritárias da nova gestão esteja refletida no PPA 2024-2027, com o aperfeiçoamento e ampliação de programas e iniciativas já consolidados anteriormente (até 2016), bem como com a criação de novas políticas públicas a serem entregues a sociedade com vistas à superação das desigualdades e melhoria nos índices de aprendizagem, de acesso, permanência e conclusão em todos os níveis, etapas e modalidades educacionais. 
+
+
+Comparações Internacionais:
+Em 2017, a taxa de conclusão do ensino superior entre jovens adultos no Brasil (entre 25 e 34 anos) aumentou de 10% para 17%. A taxa é inferior à média dos países da OCDE (43%) e está abaixo, também, de todos os outros países da América Latina com dados disponíveis: Argentina (18%), Chile (30%), Colômbia (28%), Costa Rica (28%) e México (23%).
+O aumento do nível de educação superior no Brasil reflete as tendências observadas em outros países da OCDE e dos países parceiros na última década, embora a partir de uma base inicial mais baixa e com as taxas de realização atuais permanecendo baixas segundo padrões internacionais. A expansão das matrículas no ensino superior é um objetivo explícito do atual PNE, que visa que um terço dos jovens entre 18 e 24 anos seja matriculado no ensino superior até 2024.
+Apenas 21% dos jovens brasileiros, entre 25 e 34 anos, concluíram o Ensino Superior, segundo o levantamento Education at Glance, elaborado pela Organização de Cooperação e Desenvolvimento Econômico (OCDE), publicado no final de 2021. O estudo aponta que essa é a média mais baixa entre os países analisados na América Latina: Argentina (40%), Chile (34%), Colômbia (29%) e Costa Rica (28%). A média entre os países pertencentes à OCDE é de 44%. 
+Apesar de o Brasil possuir a menor taxa, o país apresentou melhora nos últimos 10 anos. Em 2011, o número de brasileiros nessa faixa etária com diploma de graduação era de 18%. 
+O levantamento também descobriu que, ao terminar os estudos da graduação, o brasileiro não passa para as próximas etapas de estudo. No País, apenas 0,84% dos jovens entre 25 e 64 anos com Ensino Superior completo possuem mestrado, a média da OCDE é de 14,33%. 
+Já no doutorado a média brasileira é de 0,11%, uma grande diferença da média da Organização que é de 0,84%. 
+O acesso ao mercado de trabalho para os brasileiros que possuem graduação, mestrado e doutorado é, respectivamente, 86%, 73% e 83%. A média mundial aponta que quanto maior o nível de estudo, maiores são as oportunidades: 83% (graduação), 87% (mestrado) e 90% (doutorado).
+O gasto público com o Ensino Superior brasileiro é de 5,6% do Produto Interno Bruto (PIB). Essa média é maior que a dos países da OCDE (4,4%), mas ainda assim é menor do que países desenvolvidos (Suécia 5,8%; Bélgica 5,7%; Finlândia 5,8% e Noruega 7,2%).
+Entretanto, isso não reflete no valor gasto por aluno em instituições públicas, que é um dos mais baixos dos países membros da OCDE no Ensino Superior. Enquanto o Brasil gasta US$ 14.200,00, a média é de US$ 16.100,00.
+
+
+Relação com os ODS:
+Objetivo 4 dos ODS: Assegurar a educação inclusiva e equitativa e de qualidade, e promover oportunidades de aprendizagem ao longo da vida para todos. 
+
+4.3 Até 2030, assegurar a igualdade de acesso para todos os homens e mulheres à educação técnica, profissional e superior de qualidade, a preços acessíveis, incluindo universidade
+4.4 Até 2030, aumentar substancialmente o número de jovens e adultos que tenham habilidades relevantes, inclusive competências técnicas e profissionais, para emprego, trabalho decente e empreendedorismo.
+4.5 Até 2030, eliminar as disparidades de gênero na educação e garantir a igualdade de acesso a todos os níveis de educação e formação profissional para os mais vulneráveis, incluindo as pessoas com deficiência, povos indígenas e as crianças em situação de vulnerabilidade.
+4.7 Até 2030, garantir que todos os alunos adquiram conhecimentos e habilidades necessárias para promover o desenvolvimento sustentável, inclusive, entre outros, por meio da educação para o desenvolvimento sustentável e estilos de vida sustentáveis, direitos humanos, igualdade de gênero, promoção de uma cultura de paz e não violência, cidadania global e valorização da diversidade cultural e da contribuição da cultura para o desenvolvimento sustentável.
+4.b Até 2020, substancialmente ampliar globalmente o número de bolsas de estudo para os países em desenvolvimento, em particular os países menos desenvolvidos, pequenos Estados insulares em desenvolvimento e os países africanos, para o ensino superior, incluindo programas de formação profissional, de tecnologia da informação e da comunicação, técnicos, de engenharia e programas científicos em países desenvolvidos e outros países em desenvolvimento
+4.c Até 2030, substancialmente aumentar o contingente de professores qualificados, inclusive por meio da cooperação internacional para a formação de professores, nos países em desenvolvimento, especialmente os países menos desenvolvidos e pequenos Estados insulares em desenvolvimento
+
+Objetivo 3 dos ODS: Assegurar uma vida saudável e promover o bem-estar para todas e todos, em todas as idades
+
+3.c Aumentar substancialmente o financiamento da saúde e o recrutamento, desenvolvimento e formação, e retenção do pessoal de saúde nos países em desenvolvimento, especialmente nos países menos desenvolvidos e nos pequenos Estados insulares em desenvolvimento
+
+Objetivo 8 dos ODS: Promover o crescimento econômico sustentado, inclusivo e sustentável, emprego pleno e produtivo e trabalho decente para todas e todos
+
+8.6 Até 2020, reduzir substancialmente a proporção de jovens sem emprego, educação ou formação.
+
+Objetivo 13 dos ODS: Tomar medidas urgentes para combater a mudança climática e seus impactos
+13.3 Melhorar a educação, aumentar a conscientização e a capacidade humana e institucional sobre mitigação, adaptação, redução de impacto e alerta precoce da mudança do clima.
+
+
+Agentes Envolvidos:
+•	Ministério da Educação e todos os órgãos e entidades a eles vinculados;
+•	Sistema Federal de Ensino Superior;
+•	Instituições estaduais, distrital e municipais de ensino superior;
+•	Comissão Nacional de Avaliação do Ensino Superior (CONAES).
+
+
+Articulação Federativa:
+O MEC busca, em articulação e em regime de colaboração com os entes subnacionais, implementar políticas públicas que visam garantir o pleno exercício do direito à educação, compreendendo a universalização do acesso e a melhoria da qualidade da educação básica em todas as suas dimensões. As ações estratégicas do MEC são desenvolvidas por meio da prestação de apoio técnico e financeiro, em caráter suplementar, aos estados, ao Distrito Federal e aos municípios, promovendo a equidade, a qualidade das aprendizagens escolares, a valorização e a qualificação dos profissionais que atuam na educação básica.
+Portanto, é importante ressaltar que o alcance do Objetivo do Programa depende fortemente também dos esforços de estados, Distrito Federal e municípios. É, pois, um desafio que só será alcançado com o trabalho conjunto de toda a Federação, dado que a educação é competência comum (Constituição Federal de 1988, art. 23) dos entes federados e estes devem organizar, em regime de colaboração, seus sistemas de ensino, com suas respectivas prioridades de atuação constitucionalmente estabelecidas (ao município, educação infantil e ensino fundamental; ao estado, ensinos fundamental e médio; e à União, educação superior).
+
+
+Enfoque Transversal:
+•	Criança e adolescente
+•	Mulheres 
+•	Igualdade racial
+•	Povos indígenas 
+•	Agenda Verde
+
+
+Marco Legal:
+Leis e Decretos (instituição das políticas relacionadas aos objetivos e entregas do PPA):
+
+•	Constituição Federal: art. 205 a 215 e 231
+•	Lei nº 9.394/1996 – LDB
+•	Lei nº 13.005/2014 - PNE 2014-2024
+•	Lei nº 10.260, de 12 de julho de 2001 - Dispõe sobre o Fundo de Financiamento ao estudante do Ensino Superior e dá outras providências. 
+•	 Lei nº 12.711, de 29 de agosto de 2012. - Dispõe sobre o ingresso nas universidades federais e nas instituições federais de ensino técnico de nível médio e dá outras providências. 
+•	 Lei nº 11.096, de 13 de janeiro de 2005. - Institui o Programa Universidade para Todos - PROUNI, regula a atuação de entidades beneficentes de assistência social no ensino superior; altera a Lei nº 10.891, de 9 de julho de 2004, e dá outras providências. 
+•	Decreto nº 5.493, de 18 de julho de 2005. - Regulamenta o disposto na Lei nº 11.096, de 13 de janeiro de 2005. 
+•	 Decreto nº 7.824, de 11 de outubro de 2012 - Regulamenta a Lei nº 12.711, de 29 de agosto de 2012, que dispõe sobre o ingresso nas universidades federais e nas instituições federais de ensino técnico de nível médio. 
+
+
+Planos Nacionais, Setoriais e Regionais:
+• Plano Nacional de Educação - PNE (metas 12; 13 e 14)
+
+Objetivo Geral:
+- Promover a melhoria da qualidade da educação superior, ampliando o acesso, a permanência e a conclusão na graduação e na pós-graduação, com vistas à superação das desigualdades e à valorização da diversidade, na perspectiva da equidade, da inclusão e da sustentabilidade, fortalecendo, de forma participativa, a ciência, a cultura, as artes, a tecnologia e a inovação nas atividades de ensino, pesquisa e extensão e aperfeiçoando a avaliação, a supervisão e a regulação para o desenvolvimento do país, em consonância com o Plano Nacional de Educação.
+
+Objetivos Específicos:
+- Promover a consolidação e a expansão da infraestrutura física das universidades federais, considerando a acessibilidade e sustentabilidade
+- Promover o acesso de estudantes à graduação, em instituições públicas e privadas, buscando a equidade e valorizando a diversidade
+- Ampliar a taxa de conclusão dos estudantes da graduação, em instituições públicas e privadas, promovendo a permanência, a equidade e valorizando a diversidade.
+- Incentivar o aumento de vagas e a criação de novos cursos médicos nas Universidades Federais, com ênfase em regiões com maior carência de profissionais, otimizando a capacitação dos profissionais em área da saúde em nível de pós-graduação.
+- Fortalecer a produção de pesquisa e inovação nos Hospitais Universitários Federais geridos pela Ebserh.
+- Fortalecer os cenários de prática e o exercício da preceptoria para graduação, pós-graduação e residências em saúde.
+- Apoiar a formação em nível de mestrado para a melhoria e o fortalecimento da ciência, das artes, da cultura, da tecnologia e da inovação e suas estruturas, incluindo ações indutoras para o enfrentamento das desigualdades regionais e vulnerabilidades sociais para o desenvolvimento sustentável do país.
+- Apoiar a formação em nível de doutorado para a melhoria e fortalecimento da ciência, das artes, da cultura, da tecnologia e da inovação e suas estruturas, incluindo ações indutoras para o enfrentamento das desigualdades regionais e vulnerabilidades sociais para o desenvolvimento sustentável do país.
+- Promover o fortalecimento da internacionalização da educação superior por meio do desenvolvimento de ações que promovam uma perspectiva global, intercultural e de cooperação e que contribuam com a melhoria da qualidade e da relevância do ensino, da pesquisa, da extensão e da inovação desenvolvidas pelas instituições de educação superior (IES).
+- Promover a criação e o fortalecimento de ecossistemas de inovação nas Universidades, com vistas a impulsionar a capacidade de pesquisa, desenvolvimento e empreendedorismo.
+- Aprimorar as atividades de regulação e supervisão das instituições e cursos da educação superior com vistas a promover a qualidade da educação superior
+- Realizar estudos, levantamentos estatísticos, exames e avaliações para a Educação Superior, buscando ampliar a representação da diversidade, o aprimoramento contínuo dos instrumentos e a disseminação das informações de forma a oferecer subsídios que contribuam para a indução da melhoria do ensino ofertado.
+
+Indicadores de Entrega:
+- Censo da Educação Superior realizado: O Censo da Educação Superior é um levantamento estatístico realizado anualmente, mediante coleta indireta de dados descentralizada, englobando as instituições de educação superior, cursos, alunos e docentes. Os resultados constituem referências quantitativas relevantes para o Ministério da Educação (MEC), suas organizações vinculadas, outros órgãos públicos, academia, imprensa e sociedade em geral, para análises de cenário e conjuntura da educação superior no país. Tais informações subsidiam, ainda, ações de regulação e supervisão de cursos e de IES por parte do MEC, cálculo de indicadores de desempenho e de qualidade da educação superior (CPC – Conceito Preliminar de Curso e IGC – Índice Geral de Cursos), e para a formulação de políticas públicas e avaliação de programas e ações na área da educação superior. 
+- Número de acessos ao conteúdo do Portal de Periódicos: A quantidade de acessos ao conteúdo do Portal de Periódicos é o principal indicador para continuidade da contratação de conteúdos científicos 
+- Número de avaliações in loco internacionais realizadas no âmbito do Arcu-sul: O Sistema de Acreditação Regional de Cursos de Graduação do Mercosul e Estados Associados (Arcu-Sul) é um mecanismo permanente de acreditação regional do Setor Educacional do Mercosul. Seu objetivo é dar garantia pública, na região do Mercosul e dos estados associados, dos níveis de qualidade acadêmicos e científicos dos cursos. Os países participantes são Argentina, Brasil, Paraguai, Uruguai, Bolívia, Chile, Colômbia, Equador e Peru.
+A acreditação segue critérios regionais elaborados por comissões consultivas, sob a coordenação da Rede de Agências Nacionais de Acreditação (Rana). Esse mecanismo respeita as legislações nacionais, e a adesão por parte das instituições de educação superior é voluntária.
+O responsável pela operacionalização do Arcu-Sul no Brasil é o  Inep que executa o sistema de avaliação nacional de instituições de educação superior e de cursos de graduação. As ações do instituto produzem indicadores e um sistema de informações que subsidia tanto o processo de regulação, exercido pelo Ministério da Educação, quanto garante transparência dos dados sobre qualidade da educação superior a toda sociedade. 
+- Número de avaliações in loco realizadas: O processo de avaliação in loco de cursos de graduação e instituições de educação superior, conduzido pelo Inep, transcorre no contexto do fornecimento de referencial básico ao processo decisório de regulação e supervisão da educação superior, realizado pela Secretaria de Regulação e Supervisão da Educação Superior (Seres/MEC). Também atua para subsídio do conhecimento e da decisão por parte da sociedade em geral sobre a qualidade da educação superior no Brasil.
+A avaliação institucional ocorre para que as instituições possam ser credenciadas ou recredenciadas, conforme decisão da Seres/MEC, tendo como referencial básico o resultado da avaliação in loco.
+Já a avaliação de curso ocorre para que cursos de graduação possam ser autorizados, reconhecidos, ter a renovação de reconhecimento conferida ou ainda a transformação de organização acadêmica, conforme decisão da Seres/MEC, tendo como referencial básico o resultado da avaliação in loco. 
+- Número de bolsas de doutorado concedidas no país: Quantitativo de bolsas de doutorado concedidas pela CAPES, no País, com vistas a apoiar a formação em nível de doutorado como contribuição para o atingimento da meta do indicador “Número de titulados em doutorado por 100 mil habitantes”. 
+- Número de bolsas de doutorado em editais publicados: Quantitativo de bolsas de doutorado concedidas pela CAPES, no País, por meio de editais que contemplem a incorporação de políticas de ações afirmativas. 
+- Número de bolsas de mestrado concedidas no país: Quantitativo de bolsas de mestrado concedidas pela CAPES, no País, com vistas a apoiar a formação em nível de mestrado para o atingimento da meta do indicador “Número de titulados em mestrado por 100 mil habitantes”. 
+- Número de bolsas de mestrado nos editais publicados: Número de Quantitativo de bolsas de mestrado concedidas pela CAPES, no País, por meio de editais que contemplem a incorporação de políticas de ações afirmativas.bolsas de mestrado nos editais publicados (demanda específicos) 
+- Número de bolsas de pós-doutorado concedidas a programas de pós-graduação em instituições de ensino superior localizadas em municípios com até 500 mil habitantes: Quantitativo de bolsas de pós-doutorado concedidas em instituições de ensino superior localizadas em municípios com até 500 mil habitantes para promover a fixação de doutores no interior do país, bem como nas regiões de fronteiras internacional, com vistas ao desenvolvimento do país. 
+- Número de bolsas disponibilizadas no ano: Número de estudantes atendidos com bolsas (bolsas PET) 
+- Número de bolsas ofertadas: Número de estudantes PEC-G ativos na Universidades Federais que tenham sido contemplados com a bolsa PROMISAES, conforme seleção realizada pelas IFES tendo em vista a Portaria MEC nº 745/2012. 
+- Número de bolsas ofertadas: Número de bolsas destinadas a estudantes brasileiros e a estudantes estrangeiros e número de auxílios destinados a docentes/coordenadores no âmbito dos projetos aprovados no Edital do Programa de Mobilidade Acadêmica Regional em Cursos Acreditados no Arcu-Sul (Mercosul) 
+- Número de bolsas para supervisão acadêmica do Programa Mais Médicos para o Brasil: Números de bolsas disponibilizadas para tutor e supervisor para atividade de supervisão acadêmica. 
+- Número de bolsistas de doutorado em mobilidade internacional: Quantitativo de bolsas de doutorado sanduíche no exterior concedidas com vistas a promover a internacionalização das instituições de ensino superior e ciência brasileiras
+
+(Doutorado sanduiche) 
+- Número de bolsistas no âmbito do Programa Bolsa Permanência: Números de estudantes atendidos com bolsas 
+- Número de Centros de Pesquisa Clínica e Espaços de Inovação estruturados no ano: Número de Centros de Pesquisa Clínica e Espaços de Inovação estruturados no ano 
+- Número de contratos firmados: O indicador apresenta a quantidade de contratos firmados por meio do FIES 
+- Número de equipamentos médico-hospitalares de grande porte adquiridos: Indicador se relaciona ao número de equipamentos médico-hospitalares (EMH) de alta complexidade que foram adquiridos durante o ano pelos Hospitais Universitários Federais filiais da Rede Ebserh. 
+- Número de exames realizados: O Exame Nacional de Desempenho dos Estudantes (Enade) avalia o rendimento dos concluintes dos cursos de graduação em relação aos conteúdos programáticos previstos nas diretrizes curriculares dos cursos, o desenvolvimento de competências e habilidades necessárias ao aprofundamento da formação geral e profissional, e o nível de atualização dos estudantes com relação à realidade brasileira e mundial.
+
+O Revalida subsidia o processo de revalidação dos diplomas de médicos que se formaram no exterior e querem atuar no Brasil. O exame é direcionado tanto aos estrangeiros formados em medicina fora do Brasil quanto aos brasileiros que se graduaram em outro país e querem exercer a profissão em sua terra natal.
+
+O Programa Mais Professores para o Brasil, institui a Prova Nacional Docente (PND), que tem por objetivo subsidiar a União, os Estados, o Distrito Federal e os Municípios nos processos de seleção e de ingresso no magistério da educação básica pública. A PND será realizada pelo Inep, com aplicação descentralizada e fará uso do instrumento teórico do Enade Licenciaturas.
+
+O Exame Nacional de Avaliação da Formação Médica (Enamed) será realizado pelo Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep) anualmente, a partir de 2025. São objetivos do Enamed: i) avaliação da formação médica: verificar se os concluintes dos cursos de medicina adquiriram as competências e habilidades exigidas pelas Diretrizes Curriculares Nacionais (DCNs); ii) apoio à melhoria dos cursos: fornecer insumos para o aprimoramento das graduações em medicina, contribuindo para a qualidade da educação médica no Brasil; iii) aprimoramento da seleção para a residência médica: unificar a avaliação do Enade e a prova objetiva do Enare, otimizando o acesso à residência médica de acesso direto; iv) fortalecimento do Sistema Único de Saúde (SUS): garantir que os futuros médicos estejam preparados para atuar de maneira qualificada no SUS; e v) unificação e transparência: criar um modelo padronizado de avaliação, democratizando o ingresso nos programas de residência médica de acesso direto. 
+- Número de IES apoiadas: Número de instituições de educação superior que participam de programas internacionalização desenvolvidos pela Secretaria de Educação Superior 
+- Número de IES beneficiadas: Número de instituições de educação superior que participam de ações relacionadas ao desenvolvimento da inserção e da visibilidade internacional das IES brasileiras. 
+- Número de novas IES com sistemas integrados à Plataforma Sucupira: O indicador mede a quantidade de instituições com seus respectivos sistemas integrados à Plataforma Sucupira, permitindo, assim, dimensionar o alcance do Programa de Governança de Informações da Pós-Graduação (GoPG). 
+Cada Instituição deverá assinar um Acordo de Cooperação com a CAPES, para depois concretizar o processo de integração de sistemas. 
+- Número de novos campi implantados: Número de novos campi implantados 
+- Número de obras em hospitais atendidos pelo PAC III: Indicador se refere ao número de obras em unidades hospitalares da Rede Ebserh, presentes no Plano de Aceleração do Crescimento (PAC) III do Governo Federal, contempladas como obras de reforma e ampliação física para os ambientes de atenção à saúde, ensino, pesquisa e inovação.
+
+•	Hospital Universitário Professor Edgard Santos da Universidade Federal da Bahia
+•	Hospital das Clínicas da Universidade Federal de Pernambuco
+•	Hospital Universitário Professor Alberto Antunes (UFAL)
+•	Hospital Universitário de Lagarto da Universidade Federal de Sergipe
+•	Hospital Universitário de Santa Maria (UFSM)
+•	Hospital de Clínicas da UFTM 
+•	Hospital Universitário Maria Aparecida Pedrossian (UFMS)
+•	Complexo Hospitalar Universitário da UFPA
+•	Hospital Universitário Alcides Carneiro da Universidade Federal de Campina Grande. 
+- Número de PPGs apoiados: Quantitativo de programas de pós-graduação (PPG) que recebem apoio da CAPES por meio da concessão de recursos de custeio e capital para as atividades de formação, pesquisa e extensão, que possuem curso de doutorado
+O indicador considera o número de PPGs apoiados que possuem curso de doutorado. 
+- Número de PPGs apoiados: Quantitativo de programas de pós-graduação (PPG) que recebem apoio da CAPES por meio da concessão de recursos de custeio e capital para as atividades de formação, pesquisa e extensão, que possuem apenas curso de mestrado. 
+- Número de processos de supervisão instaurados até 31/12/2022 no âmbito do MEC, em estoque, tratados: Foi apurado em 31/12/2022 um estoque de 1.171 processos instaurados que demandam diversos atos decisórios para a sua conclusão, a saber: portarias, notas técnicas, notas informativas e despachos ordinatórios, que deverão ser diligenciados no curso da vigência do PPA 
+- Número de processos tramitados para reconhecimento e revalidação de diplomas: Número de processos de revalidação e de reconhecimento de diplomas estrangeiros finalizados e registrados na Plataforma Carolina Bori 
+- Número de projetos apoiados: Unidades de projetos implantados de sistemas de fontes renováveis visando a autossuficiência de eletricidade e os recursos economizados serem investidos em pesquisa e inovação nas IFES 
+- Número de projetos apoiados: Número de Termos de Execução Descentralizada (TED) pactuados para apoio a projetos para infraestrutura de museus, casas da ciência e espaços culturais vinculados às universidades federais por exercício 
+- Número de projetos apoiados no ano: Número de Termos de Execução Descentralizada (TED) pactuados para apoio a obras e equipamentos por exercício 
+- Número de projetos de pesquisa e inovação aprovados para execução na Rede Ebserh: Número de projetos de pesquisa e inovação aprovados para execução na Rede Ebserh 
+- Número de publicações disponibilizadas: O indicador apresenta o número de publicações produzidas e disponibilizadas pela Diretoria de Estudos Educacionais no ano de referência 
+- Número de tutores capacitados: Número de tutores capacitados para apoiar implantar fábrica de ideias e consolidar a transformação de resultados de pesquisa em ativos de inovação com consequente instalação de start up, incubadoras. 
+- Número de unidades hospitalares da rede Ebserh atendidas com adequações físicas dos ambientes de atenção à saúde, ensino, pesquisa e inovação: Indicador se refere ao número de unidades hospitalares da Rede Ebserh contempladas com obras de adequações físicas para os ambientes de atenção à saúde, ensino, pesquisa e inovação, no ano. 
+- Número de vagas de residência médica disponibilizadas no Enare: O indicador mede o número de vagas de programas de residência médica ofertadas por instituições públicas e privadas sem fins lucrativos que aderem ao Enare.
+É um indicador que demonstra com precisão a capilaridade do Enare para oferta de vagas de residências médica no cenário nacional 
+- Número de vagas de residência multiprofissional e em área profissional da saúde disponibilizadas no Enare: O indicador mede o número de vagas de programas de residência multiprofissional e em área profissional da saúde ofertadas por instituições públicas e privadas sem fins lucrativos que aderem ao Enare.
+É um indicador que demonstra com precisão a capilaridade do Enare para oferta de vagas de residências multiprofissional e em área profissional da saúde no cenário nacional 
+- Número de vagas ofertadas: Os dados referentes ao quantitativo de vagas ofertadas nos Programas de Residências Multiprofissional e em Áreas Profissionais da Saúde está atrelado ao objetivo de fortalecimento das residências em saúde em regiões prioritárias para o SUS, tendo como proposta de ampliação das vagas ofertadas pelo MEC, dessa maneira, a melhor forma de se apurar a entrega estabelecida será pela quantitativo de vagas autorizadas. 
+- Número total de candidatos por vaga ofertadas em ambos os Programas de Iniciação Científica (PIC) e de Iniciação Tecnológica (PIT) da Ebserh: Este indicador reflete a quantidade de estudantes de graduação que se inscreveram na seleção dos Programas, após a publicação dos editais. 
+- Percentual de tratamento do estoque de processos de regulação em fase de parecer final: São 4.569 processos regulatórios em análise na fase de parecer final. Trata-se de medida adequada para a finalidade de redução da quantidade de processos regulatórios em tramitação, com vistas à maior eficiência administrativa 
+- Taxa de ocupação das bolsas: Acompanhar ocupação das bolsas ofertadas pelo Prouni. 
+- Taxa de ocupação das vagas: Acompanhar ocupação das vagas ofertadas pelo Sisu em instituições públicas de ensino superior. 
+- Taxa de ocupação das vagas ofertadas: Taxa de ocupação das vagas ofertadas. 
+- Taxa de participação do público-alvo no número total de contratos do FIES de cursos de medicina: Razão entre o número de contratos de medicina do público-alvo firmados no ano de referência e o número total de contratos de medicina firmados no ano de referência. 
+
+Indicadores de Objetivos Específicos:
+- Número de graduandos participantes dos Programas de Iniciação Científica (PIC) e Tecnológica (PIT) da Ebserh: Este indicador reflete a quantidade de estudantes de graduação contemplados com bolsas de iniciação científica e tecnológica, conforme quantidade disponibilizada em editais próprios, que participam do desenvolvimento de projetos de pesquisa e inovação nos Hospitais Universitários Federais da Rede Ebserh. 
+- Número de IES apoiadas: Instituições de educação superior, preferencialmente públicas, que participem de iniciativas relacionadas à internacionalização. 
+- Número de normativos vigentes em 31/12/2022 reexaminados e revisados: A revisão de normativos vigentes relativos à atividade de regulação e supervisão das instituições e cursos da educação superior é o mecanismo mais adequado para a promoção da qualidade da educação superior, pois é com base nessa regulação que se estruturam os atos de autorização e de acompanhamento da execução da oferta da educação superior no país. Portanto, revisar as bases normativas possibilita a adoção pelo Estado de novos critérios e procedimentos que habilite o Poder Público a melhor zelar pela qualidade da educação superior. 
+- Número de obras financiadas: O indicador visa acompanhar os empreendimentos de infraestruturas para as quais foram aportados recursos no período 
+- Número de projetos apoiados: Projetos implantados 
+- Número de titulados em doutorado por 100 mil habitantes: Cálculo do número de titulados em nível de doutorado em relação a população estimada pelo IBGE para acompanhamento da evolução da formação na pós-graduação stricto sensu. 
+- Número de titulados em mestrado por 100 mil habitantes: Cálculo do número de titulados em nível de mestrado em relação a população estimada pelo IBGE para acompanhamento da evolução da formação na pós-graduação stricto sensu. 
+- Número de vagas de graduação em medicina ofertadas nas instituições de educação superior: Os dados referentes ao número de vagas de graduação em medicina disponibilizados pelo Censo considera as “novas vagas”. Não considera as vagas remanescentes. 
+- Número de vagas ofertadas pelo MEC em curso de formação para preceptoria: Número de profissionais que atuam nas atividades de preceptoria nos cenários de prática de saúde, que estejam matriculados em cursos de formação ofertados pelo Ministério da Educação (MEC). 
+- Percentual de realização dos estudos, levantamentos estatísticos, exames e avaliações da educação superior, conforme planejamento anual: Percentual de realização dos estudos, levantamentos estatísticos, exames e avaliações da educação superior, conforme planejamento anual. 
+- Taxa Bruta de matrículas na graduação: Taxa Bruta de matrículas na graduação  (ind. 12A PNE) 
+- Taxa de conclusão acumulada na graduação: Taxa de conclusão na graduação (Inep).

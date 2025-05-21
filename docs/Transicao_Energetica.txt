@@ -1,0 +1,175 @@
+passage: Programa: Transição Energética
+
+Descrição do Problema:
+O Governo da República Federativa do Brasil comunicou ao Secretariado da Convenção-Quadro das Nações Unidas sobre Mudança do Clima (UNFCCC) sua Contribuição Nacionalmente Determinada (Nationally Determined Contribution - NDC) atualizada, à luz do
+conteúdo acordado entre as Partes da UNFCCC e de seu Acordo de Paris sob o Pacto Climático
+de Glasgow.
+Por meio desta comunicação, o Brasil confirmou o compromisso apresentado em sua NDC
+revisada, submetida ao Secretariado da UNFCCC em 9 de dezembro de 2020, de reduzir as
+emissões de gases de efeito estufa em 37% abaixo dos níveis de referência de 2005, em 2025.
+Adicionalmente, o país assumiu o compromisso de reduzir as emissões de gases de efeito estufa em 50% abaixo dos níveis de 2005, em 2030. A NDC revisada do Brasil antecipa para 2050, ainda, objetivo indicativo de longo prazo de alcançar a neutralidade climática. O escopo da NDC brasileira é amplo, prevendo-se a implementação de ações de mitigação e adaptação à mudança do clima ao conjunto da economia brasileira, assim como considerações sobre meios de implementação.
+Em 2020, o Brasil emitiu 2,16 bilhões de toneladas de CO2 equivalente (tCO2eq), figurando entre os principais emissores globais anuais. Contudo, em termos per capita, o Brasil é considerado um país de baixa intensidade de emissões com cada brasileiro emitindo, em média, 1,9 tCO2eq. Isso representa cerca de 1/7 das emissões de um norte-americano e 1/3 de um cidadão europeu ou de um chinês.
+Dada a relevante participação de energia renovável na matriz energética brasileira (47% em 2022), em relação ao mundo, as emissões de Gases de Efeito Estufa (GEE) no setor energético são baixas em relação à energia demandada, no entanto, as emissões de GEE tem aumentado no setor de energia, crescendo mais de 40% em vinte anos. Dessa maneira, o setor energético deve procurar contribuir para os compromissos assumidos do país para a redução dos GEE. O setor energético brasileiro ainda é muito dependente de combustíveis fósseis. É essencial ampliar a diversificação de fontes energéticas para a matriz, focando em fontes de baixo carbono. Além disso, ainda há muito espaço para avanços no aumento da eficiência na transmissão, distribuição, logística e uso de energia, tanto por meio de redução de consumo, quanto por meio da adoção de novas tecnologias para uso mais eficiente e gestão energética aprimorada.
+Ademais, a questão da Transição Energética se insere em um contexto global onde se busca soluções para ao menos estes quatro problemas:
+1) Mudança Climática: As mudanças climáticas provocadas, em parte, pela atividade humana, decorrentes inclusive pela maior geração de gases de efeito estufa, podem causar eventos extremos e perigosos. Uma matriz energética mais limpa e renovável é necessária para a sustentabilidade ambiental.
+2) Diversificação de Recursos: Os recursos não renováveis, como o petróleo e o gás natural, são finitos e limitados, no entanto somos muito dependentes deles. A transição para fontes de energia limpas e sustentáveis é necessária para garantir a segurança energética.
+3) Saúde Pública: A queima de combustíveis fósseis também causa a poluição do ar, que é um grande problema de saúde pública em muitas partes do mundo. A transição para fontes de energia limpa e renovável pode melhorar a qualidade do ar e reduzir os impactos negativos na saúde das pessoas.
+4) Custos: A energia renovável está se tornando cada vez mais acessível e competitiva em relação aos combustíveis fósseis. A transição para fontes de energia renováveis pode reduzir os custos de energia e oferecer oportunidades para investimentos em tecnologias e infraestrutura relacionadas às energias renováveis.
+O programa visa contribuir ao desafio de fazer da energia um elemento propulsor do desenvolvimento sustentável do país e de posicionamento estratégico nacional, levando em consideração o trilema energético: Segurança Energética; Sustentabilidade; e Equidade Energética.
+
+Causa do Problema:
+Tais problemas estão associados principalmente a:
+Reduzir a dependência de combustíveis fósseis mais poluentes, como uma maneira de aumentar a diversificação da matriz energética, com segurança energética, e contribuir para que o Brasil cumpra seus compromissos internacionais de desenvolvimento sustentável, como o de reduzir as emissões de gases de efeito estufa em 50% abaixo dos níveis de 2005, em 2030, e o Acordo de Paris em que se busca medidas para limitar o avanço da temperatura média global a 1,5 ºC acima dos níveis pré-industriais.
+Ademais, com a evolução tecnológica e limitação de recursos, se faz necessária a modernização do setor energético, com descentralização e digitalização.
+
+Evidências do Problema:
+O país assumiu o compromisso de reduzir as emissões de gases de efeito estufa em 50% abaixo dos níveis de 2005, em 2030. A NDC revisada do Brasil antecipa para 2050, ainda, objetivo indicativo de longo prazo de alcançar a neutralidade climática.
+De acordo com o Plano Decenal de Energia 2031, é previsto um crescimento na demanda por energia de 2,5% ao ano, sendo que há uma tendência de maior eletrificação da matriz energética. Também é previsto um aumento na emissão de GEE no setor energético, pois, apesar do crescimento de fontes renováveis, as fontes não-renováveis e mais poluentes também crescem ao longo dos anos.
+
+Justificativa para a Intervenção:
+O setor energético está em transformação, para uma tendência de eletrificação e descentralização, onde além de novas fontes de energia serem necessárias, é preciso avançar na eficiência energética, digitalização e modernização.
+
+Evolução Histórica:
+Consumo final de energia aumentou em mais de 50% em vinte anos, segundo dados do Balanço Energético Nacional. Em 2002 foi de 177.681 mil tep. Em 2022 foi de 271.317 mil tep. No entanto, no mesmo período, a OIEE aumentou mais de 80%, demonstrando a tendência de maior eletrificação da matriz. Em 2002 foi de 382 TWh e em 2022 foi de 690 TWh.
+Essa tendência de eletrificação implica em modernização do setor energético e se insere no contexto da transição energética.
+Apesar da matriz energética do Brasil ter sido cerca de 47% renovável em 2022, índice superior a três vezes o do mundo, as emissões de GEE tem aumentado no setor de energia, crescendo mais de 40% em vinte anos, o que também deve ser tratado no âmbito da transição energética.
+
+Comparações Internacionais:
+O Brasil é um país que está avançado em sua transição energética. Com uma matriz energética com aproximadamente metade da sua energia primária oriunda de fontes renováveis (47% em 2022), se caracteriza como uma das matrizes mais convergentes com uma economia de baixo carbono, com uma renovabilidade três vezes acima da média mundial (14% em 2019). Não obstante, as trajetórias de descarbonização para os próximos 30 anos apresentadas nos cenários mostram dinâmicas para a matriz energética distintas das observadas dos últimos 30 anos, desdobrando-se na necessidade de novas políticas públicas, instrumentos e vetores energéticos a fim de alcançar a ambição climática de neutralidade em carbono.
+
+Relação com os ODS:
+O Programa é alinhado aos ODS
+7- Energia limpa e acessível,
+9 – Indústria, inovação e infraestrutura,
+11- Cidades e comunidades sustentáveis,
+12 – Consumo e produção conscientes e
+13 – Ação global contra a mudança do clima.
+
+Agentes Envolvidos:
+Ministério de Minas e Energia; Ministério do Meio Ambiente e Mudança do Clima; Ministério da Ciência, Tecnologia e Inovação; Ministério da Fazenda; Órgãos vinculados aos Ministérios citados; Presidência da República; Consumidores de energia de todos os portes e setores econômicos; agentes dos setores elétrico, de petróleo, gás natural e mineração.
+
+Articulação Federativa:
+Ministério de Minas e Energia; Ministério do Meio Ambiente e Mudança do Clima; Ministério da Ciência, Tecnologia e Inovação; Ministério da Fazenda; Órgãos vinculados aos Ministérios citados e Presidência da República.
+
+Enfoque Transversal:
+Ministério de Minas e Energia; Ministério do Meio Ambiente e Mudança do Clima; Ministério da Ciência, Tecnologia e Inovação; Ministério da Fazenda; Órgãos vinculados aos Ministérios citados e Presidência da República.
+
+Marco Legal:
+Lei nº 14.993, DE 8 DE OUTUBRO DE 2024; Lei No 10.295, DE 17 DE OUTUBRO DE 2001. LEI Nº 14.990, DE 27 DE SETEMBRO DE 2024; LEI Nº 15.097, DE 10 DE JANEIRO DE 2025; LEI Nº 15.042, DE 11 DE DEZEMBRO DE 2024.
+
+
+Planos Nacionais, Setoriais e Regionais:
+Política Nacional de Transição energética, Plano Decenal de Energia 2031;  Plano Nacional de energia 2050 ; e Mercado de Carbono.
+
+Objetivo Geral:
+- Coordenar, planejar e promover a redução do conteúdo de carbono da matriz energética brasileira, promovendo a manutenção da alta participação da oferta de energia limpas e renováveis e o aumento da eficiência energética, tanto na oferta quanto na logística de distribuição e no uso final de energia.
+
+Objetivos Específicos:
+- Descarbonizar a matriz de transportes, via biocombustíveis
+- Ampliar o suprimento de minerais estratégicos para a transição energética
+- Promover a eficiência energética no uso final de energia.
+- Aumentar a participação das fontes de energia limpa na matriz energética brasileira
+- Viabilizar a expansão da rede básica de transmissão de energia, com ênfase em Transição Energética
+- Reduzir a participação da geração de energia a diesel nos sistemas isolados
+- Assegurar o atendimento de energia e potência do sistema interligado nacional
+- Interligar sistemas isolados
+
+Indicadores de Entrega:
+- Descarbonizar a matriz de transportes: nan 
+- Descarbonizar a matriz de transportes: nan 
+- Descarbonizar a matriz de transportes: nan 
+- Descarbonizar a matriz de transportes: nan 
+- Descarbonizar a matriz de transportes: nan 
+- Descarbonizar a matriz de transportes: nan 
+- Descarbonizar a matriz de transportes: nan 
+- Descarbonizar a matriz de transportes: nan 
+- Descarbonizar a matriz de transportes: nan 
+- Descarbonizar a matriz de transportes: nan 
+- Economia de energia elétrica por meio de ações do PROCEL: Economia de energia elétrica potencial obtida por meio de medidas implementadas (estudos, projetos, contratos, programas, dentre outras) através do Programa Nacional de Conservação de Energia Elétrica – PROCEL e do impacto do selo PROCEL. 
+- Energia contratada no Sistema Interligado Nacional, com base nos critérios de suprimento: Para atender às necessidades da demanda no Sistema Interligado Nacional, um dos instrumentos mais importantes utilizados é a contratação de energia por meio de leilões. 
+Assim, a mensuração de quanto percentualmente está sendo contratado é importante para saber a contribuição desse instrumento para o atendimento aos requisitos de Energia do Sistema Elétrico.
+ 
+- Execução de projetos de produção de combustível coprocessado: O indicador monitora a execução de projetos relacionados à produção de combustível coprocessado 
+- Expandir a participação das fontes de energia limpa na matriz energética brasileira: nan 
+- Expandir a participação das fontes de energia limpa na matriz energética brasileira: nan 
+- Expandir a participação das fontes de energia limpa na matriz energética brasileira: nan 
+- Expandir a participação das fontes de energia limpa na matriz energética brasileira: nan 
+- Expandir a participação das fontes de energia limpa na matriz energética brasileira: nan 
+- Índice de Sucesso nos Leilões de Transmissão - contratação: O Poder Concedente, representado pelo Ministério de Minas e Energia - MME, é o responsável pelo planejamento da expansão do setor elétrico. Dessa forma, o MME elabora o planejamento e o consolida em relatórios e estudos que integram o “Plano de Outorgas de Transmissão de Energia Elétrica – POTEE” e determinam quais as obras e os empreendimentos de transmissão devem ser licitados ou autorizados.
+
+Assim, por delegação e conforme as diretrizes do MME, a ANEEL organiza os leilões para contratar novas concessões para a prestação do serviço público de transmissão de energia elétrica.
+O indicador mede o índice de sucesso dos investimentos ofertados. A efetiva contratação dos empreendimentos de transmissão é essencial para viabilizar a  expansão da malha elétrica nacional, garantindo o escoamento da geração renovável e a integração regional, elementos-chave para o avanço da Transição Energética.
+ 
+- Investir em biorefinarias: nan 
+- Investir em captura de gás carbônico: nan 
+- Investir em Fundo para ações para a transição energética na Petrobrás: nan 
+- Investir no segmento de combustíveis de baixo carbono: nan 
+- Municípios contemplados pelo RELUZ: O indicador reflete a quantidade e municípios beneficiados pelas 3ª e 4ª Chamadas do RELUZ (projetos de Eficientização de Iluminação Pública) 
+- Municípios contemplados pelo RELUZ: O indicador reflete a quantidade e municípios beneficiados pelas 3ª e 4ª Chamadas do RELUZ (projetos de Eficientização de Iluminação Pública) 
+- Número de Estudos para interligação de Sistemas Interligados: A Conta de Consumo de Combustíveis – CCC reembolsa a diferença entre o custo de geração nos Sistemas Isolados e o custo médio da energia no Ambiente de Contratação Regulada (ACR médio) do Sistema Interligado Nacional (SIN).
+
+A indicação dos sistemas isolados que possuem viabilidade econômica para receberem investimentos em infraestrutura de interligação mostra-se relevante e benéfica à sociedade, trazendo confiabilidade no suprimento de energia às populações beneficiadas e reduzindo os custos com a CCC.
+ 
+- Participação energética do etanol carburante no mercado de combustíveis do ciclo otto – no ano: O volume total de etanol carburante comercializado, em comparação com o volume total de combustíveis do ciclo Otto (etanol total + gasolina A) comercializado permite calcular a participação desse biocombustível e a intensidade média de carbono no ciclo Otto. A meta é sempre reduzir essa intensidade média de carbono, por meio do aumento da participação do etanol, tendo como referência o ano base. Esse aumento pode ocorrer com a elevação do percentual de mistura do anidro à gasolina A, ou com o aumento do consumo do etanol hidratado. substituição da gasolina C. Como o conteúdo energético do etanol equivale a aproximadamente 70% do conteúdo energético da gasolina C, multiplica-se o volume de etanol por 0,7 para converter em gasolina equivalente 
+- Pequenas Centrais Hidrelétricas construídas: Este indicador refere-se à capacidade de geração das Pequenas Centrais Hidrelétricas (PCHs) incluídas no Novo Programa de Aceleração do Crescimento (PAC), com previsão de construção até 2027
+ 
+- Percentual de evolução na capacidade instalada para produção de energia elétrica limpa: Expressa a variação anual da capacidade instalada total de vetores energéticos limpos (fontes renováveis e nuclear) disponíveis para geração de eletricidade no país. Na prática, indica o ritmo com que a potência instalada limpa está se expandindo, um reflexo direto dos investimentos, da atividade econômica e dos avanços em termos de políticas públicas e regulação para o setor elétrico.  
+- Percentual de Sistemas Isolados com participação de fontes renováveis de geração de energia: Identificação, em base anual, da elevação de participação de fontes renováveis na geração de energia elétrica nos sistemas isolados. O Portal de Acompanhamento dos Portal de Acompanhamento e Informações dos Sistemas Isolados (PASI), apresenta as principais informações e dados dos sistemas isolados identificados anualmente pela EPE, com uma compilação das informações da geração anual (MWh), das usinas em operação, alimentados pela Câmara de Comercialização de Energia Elétrica (CCEE) e parceria com os dados do Operador Nacional do Sistema Interligado – ONS apresentados no planejamento anual do orçamento da CCC.
+
+ 
+- Percentual obrigatório médio de biodiesel comercializado no diesel B: A participação média obrigatória de biodiesel no diesel B vigente no ano permite acompanhar se as metas de percentuais de adição obrigatória de biodiesel no diesel, definidas pela Lei do Combustível do Futuro (Lei nº 14.993, de 2024), estão sendo efetivadas em território nacional em prol da descarbonização do setor de transportes.
+ 
+- Potência contratada no Sistema Interligado Nacional, com base nos critérios de suprimento:  Para atender às necessidades da demanda, no Sistema Interligado Nacional, um dos instrumentos mais importantes utilizados é a contratação de potência por meio de leilões. Desta forma, anualmente é realizado todo o levantamento da necessidade de expansão, podendo ou não ter como resultado a realização de um leilão. A mensuração de quanto percentualmente está sendo contratado é importante para saber a contribuição desse instrumento para o atendimento aos requisitos de potência do Sistema Elétrico. 
+- Produção anual de concentrado de urânio: Mede a Capacidade de Produção do Concentrado de Urânio (U308) anual em toneladas, a partir da produção na Unidade de Concentração de Urânio – URA, realizada pela INB no município de Caetité – BA 
+- Produção beneficiada em metal contido para transição energética: O Brasil é um dos principais países com expressiva participação na produção beneficiada em metal contido para transição energética mundial. Com a emergência da transição energética, é fundamental que o País aumente a produção desses minerais.
+
+São considerados minerais para transição energética:
+I – Lítio;
+II – Elementos Terras Raras;
+III – Níquel;
+IV – Cobre;
+V – Nióbio;
+VI – Alumínio;
+VII – Grafita;
+VIII – Manganês;
+IX – Vanádio; 
+X – Silício; e
+XI – Cobalto. 
+
+ 
+- Taxa de execução de projetos de produção de derivados renováveis: O indicador monitora a execução de projetos relacionados à produção de derivados renováveis (biorrefino) 
+- Unidade de captura e estocagem de gás carbono Implantada: Este indicador monitora s execução de projetos dedicados à captura e armazenamento de dióxido de carbono (CO₂), com o objetivo de mitigar emissões de gases de efeito estufa e combater as mudanças climáticas. Reflete iniciativas que utilizam tecnologias como: Captura direta em fontes industriais, BECCS (Bioenergia com Captura e Armazenamento de Carbono) e Armazenamento geológico subterrâneo.  
+- Usinas de Etanol de 2a. Geração construídas: O indicador monitora a execução de projetos relacionados  às Usinas de etanol previstas para serem construídas até 2027.
+ 
+- Usinas de Etanol de 2a. Geração construídas: O indicador monitora a execução de projetos relacionados  às Usinas de etanol presvistas para serem construídas até 2027. 
+- Usinas Eólicas construídas: O indicador acompanha a capacidade instalada das usinas eólicas integradas ao Novo Programa de Aceleração do Crescimento (PAC), com previsão de conclusão da construção até 2027. Representa o avanço na expansão de fontes renováveis não hidráulicas na matriz elétrica nacional, fortalecendo a diversificação energética e a sustentabilidade do sistema 
+- Usinas fotovoltaicas construídas: O indicador monitora a capacidade de geração das usinas fotovoltaicas integrantes do Novo Programa de Aceleração do Crescimento (PAC), com previsão de constução até 2027. 
+
+Indicadores de Objetivos Específicos:
+- Contratação da demanda projetada no Sistema Interligado Nacional, com base nos critérios de suprimento: Para atender às necessidades da demanda no Sistema Interligado Nacional, um dos instrumentos mais importantes utilizados é a contratação de energia e potência por meio de leilões. . Desta forma, anualmente é realizado todo o levantamento da necessidade de expansão, podendo ou não ter como resultado a realização de um leilão. 
+Assim, a mensuração de quanto percentualmente está sendo contratado é importante para saber a contribuição desse instrumento para o atendimento aos requisitos de energia e potência do Sistema Elétrico. 
+- Índice de Sucesso nos Leilões de Transmissão: O Índice de Sucesso nos Leilões de Transmissão exprime o seguinte racional:
+(i) no numerador, o valor de investimento dos lotes arrematados; e
+(ii) no denominador, o valor total de investimento dos lotes disponibilizados nos Leilões;
+Em palavras, o indicador avalia o quanto de investimento foi arrematado em relação à quantidade total de investimentos ofertados nos leilões de um determinado ano-calendário. Na ausência de leilões no período, o indicador é nulo, refletindo a inexistência de necessidade adicional por oferta de energia. 
+ 
+- Número de localidades interligadas ao SIN: O indicador expressa a quantidade de sistemas isolados que foram interligados ao Sistema Interligado Nacional - SIN em um determinado ano. 
+- Número em milhões de CBIOS emitidos no país no ano: O Crédito de Descarbonização por Biocombustíveis (CBIO) tem como unidade padrão uma tonelada de CO₂ equivalente (tCO₂e), correspondendo a 1 tCO₂ evitada em comparação à emissão que ocorreria com o uso de combustíveis fósseis, com base na análise de ciclo de vida dos biocombustíveis certificados no âmbito do RenovaBio 
+- ODEX BRASIL: Índice de evolução da eficiência energética no país. O ODEX é um indicador que apura o progresso da eficiência energética.
+Pode ser agregado por setor (industrial, residencial e transportes) ou para a economia como um todo. O ODEX é utilizado pela União Europeia, no programa ODYSSEE database para monitoramento dos ganhos de eficiência. O ODEX por setor (por exemplo: indústria) é baseado nos índices de consumo unitário por subsetor (cimento, cerâmica, têxtil etc.), ponderado pela participação no consumo total de energia do setor. O consumo unitário por subsetor pode ser expresso em diferentes unidades com objetivo de fornecer a melhor “proxy” de avaliação da eficiência energética, seja o consumo por domicílio, por produção física, número de veículos, por exemplo. Para o Atlas da EPE, considerou‐se 2005 como ano base (valor = 100), em função essencialmente da disponibilidade de dados para a maior parcela dos setores a partir desse ano. O decréscimo no índice de consumo unitário do valor 100 em 2005 para 80, por exemplo, representa um ganho de eficiência energética de 20% ao longo do período analisado. Em contrapartida, caso o ODEX aumente de 100 para 120, terá havido uma piora na eficiência energética ao longo dos anos em questão. No caso do ODEX global, o mesmo método é aplicado com fatores ponderados, baseados nas participações do consumo total de energia final de cada setor. 
+- Oferta de Energia Limpa: O indicador expressa o percentual  de energia limpa (renovável) mais a energia nuclear demandada pelo Brasil em um determinado ano, em relação ao total de energia demandada. 
+- Percentual da Geração à diesel nos sistemas isolados: Identificação, em base anual, da participação do óleo diesel como fonte energética para a geração (MWh) de energia elétrica das localidades identificadas como sistemas isolados. O Portal de Acompanhamento dos Portal de Acompanhamento e Informações dos Sistemas Isolados (PASI) apresenta as principais informações e dados dos sistemas isolados identificados anualmente pela EPE, com uma compilação das informações da geração anual (MWh), alimentados pela Câmara de Comercialização de Energia Elétrica (CCEE) e dados do Operador Nacional do Sistema Interligado – ONS no planejamento anual para orçamento da CCC. 
+- Taxa de crescimento da produção de minerais para a transição energética: O Brasil é um dos principais países mineradores com expressiva participação na produção mineral mundial. Com a emergência da transição energética, é fundamental que o País aumente a produção dos minerais para a transição energética.
+
+São considerados minerais para transição energética:
+I – Lítio;
+II – Elementos Terras Raras;
+III – Níquel;
+IV – Cobre;
+V – Nióbio;
+VI – Alumínio;
+VII – Grafita;
+VIII – Manganês;
+IX – Vanádio; 
+X – Silício; e
+XI - Cobalto

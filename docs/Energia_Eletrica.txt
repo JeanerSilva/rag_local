@@ -1,0 +1,110 @@
+passage: Programa: Energia Elétrica
+
+Descrição do Problema:
+Desafio em viabilizar o acesso universal e o uso da energia elétrica em quantidade e qualidade adequadas ao consumidor final, dentro de um contexto de modicidade tarifária e sustentabilidade econômica e socioambiental
+
+Causa do Problema:
+Desafios relativos ao planejamento e à operação de matriz de geração de energia elétrica predominantemente renovável, com a participação cada vez maior de recursos inflexíveis e não despacháveis centralizadamente e de eventos climáticos extremos, bem como os desafios associados aos usos múltiplos da água e ao desequilíbrio de tratamento entre consumidores de energia elétrica.
+
+Evidências do Problema:
+Situações de reduzida confiabilidade de atendimento de energia elétrica e elevação expressiva das tarifas de energia elétrica nos últimos anos.
+
+Justificativa para a Intervenção:
+Energia elétrica é um insumo essencial para a qualidade de vida da população e para o crescimento econômico.
+
+Relação com os ODS:
+ODS 7
+
+Agentes Envolvidos:
+Agentes Envolvidos: Ministério de Minas e Energia, ENBPar(Empresa Brasileira de Participações em Energia Nuclear e Binacional), ANEEL (Agência Nacional de Energia Elétrica), ONS (Operador Nacional do Sistema Elétrico), EPE (Empresa de Pesquisa Energética), CCEE (Câmara de Comercialização de Energia Elétrica),agentes setoriais, órgãos do governo.
+
+
+Marco Legal:
+CF/88, art. 174; Lei nº 10.438, de 26.4.2002; Lei n° 14.300, de 6.1.2022; Decreto n° 7.583, de 13.10.2011;  Decreto n° 11.628, de 4.8.2023; Portarias MME nº 150, de 10 de maio de 1999; nº 485, de 16 de dezembro
+de 1999; nº 323, de 30 de agosto de 2000 e nº 651, de 30 de dezembro de 2002; Resolução Normativa ANEEL nº 1.000, de 7.12.2021  .
+
+
+Planos Nacionais, Setoriais e Regionais:
+Plano Decenal de Expansão de Energia, Plano Nacional de Energia Elétrica e Plano de Recuperação dos Reservatórios de Regularização de Usinas Hidrelétricas do País (PRR). 
+
+Objetivo Geral:
+- Assegurar o suprimento de energia elétrica ao mercado brasileiro com justiça social e sustentabilidade econômica e ambiental.
+
+Objetivos Específicos:
+- Viabilizar acesso à geração distribuída pela população de baixa renda
+- Universalizar o acesso à energia elétrica - Programa Luz para Todos
+- Expandir a capacidade instalada de geração de energia elétrica
+- Expandir o sistema de transmissão de energia elétrica
+- Reduzir a pobreza energética
+
+Indicadores de Entrega:
+- Atender unidades do Programa Luz para Todos: nan 
+- Atender unidades do Programa Luz para Todos: nan 
+- % de execução do projeto: O indicador é relevante para acompanhar a execução do Projeto LTO de Angra 1 
+- Expandir a capacidade instalada após conclusão da obra: nan 
+- Expandir a capacidade instalada após conclusão da obra: nan 
+- Expandir a capacidade instalada após conclusão da obra: nan 
+- Expandir a capacidade instalada após conclusão da obra: nan 
+- Expandir a capacidade instalada após conclusão da obra: nan 
+- Expandir a capacidade instalada após conclusão da obra: nan 
+- Expandir a capacidade instalada após conclusão da obra: nan 
+- Expandir o sistema de transmissão após conclusão da obra: nan 
+- Expandir o sistema de transmissão após conclusão da obra: nan 
+- Expandir o sistema de transmissão após conclusão da obra: nan 
+- Expandir o sistema de transmissão após conclusão da obra: nan 
+- Expandir o sistema de transmissão após conclusão da obra: nan 
+- Expandir o sistema de transmissão após conclusão da obra: nan 
+- Expandir o sistema de transmissão após conclusão da obra: nan 
+- Expandir o sistema de transmissão após conclusão da obra: nan 
+- Expandir o sistema de transmissão após conclusão da obra: nan 
+- Expandir o sistema de transmissão após conclusão da obra: nan 
+- Expandir o sistema de transmissão após conclusão da obra: nan 
+- Expandir o sistema de transmissão após conclusão da obra: nan 
+- Expandir o sistema de transmissão após conclusão da obra: nan 
+- Expandir o sistema de transmissão após conclusão da obra: nan 
+- Expandir o sistema de transmissão após conclusão da obra: nan 
+- Expandir o sistema de transmissão após conclusão da obra: nan 
+- Expandir o sistema de transmissão após conclusão da obra: nan 
+- Expandir o sistema de transmissão após conclusão da obra: nan 
+- Expandir o sistema de transmissão após conclusão da obra: nan 
+- Expandir o sistema de transmissão após conclusão da obra: nan 
+- Expandir o sistema de transmissão após conclusão da obra: nan 
+- Expandir o sistema de transmissão após conclusão da obra: nan 
+- Expandir o sistema de transmissão após conclusão da obra: nan 
+- Expandir o sistema de transmissão após conclusão da obra: nan 
+- Expandir o sistema de transmissão após conclusão da obra: nan 
+- Expandir o sistema de transmissão após conclusão da obra: nan 
+- Expandir o sistema de transmissão após conclusão da obra: nan 
+- Expandir o sistema de transmissão após conclusão da obra: nan 
+- Expandir o sistema de transmissão após conclusão da obra: nan 
+- Expandir o sistema de transmissão após conclusão da obra: nan 
+- Expandir o sistema de transmissão após conclusão da obra: nan 
+- Expandir o sistema de transmissão após conclusão da obra: nan 
+- Expandir o sistema de transmissão após conclusão da obra: nan 
+- Expandir o sistema de transmissão após conclusão da obra: nan 
+- Expandir o sistema de transmissão após conclusão da obra: nan 
+- Expandir o sistema de transmissão após conclusão da obra: nan 
+- Expandir o sistema de transmissão após conclusão da obra: nan 
+- Expandir o sistema de transmissão após conclusão da obra: nan 
+- Expandir o sistema de transmissão após conclusão da obra: nan 
+- Expandir o sistema de transmissão após conclusão da obra: nan 
+- Expansão da capacidade instalada de geração de energia elétrica no sistema elétrico brasileiro: A expansão da capacidade instalada centralizada de geração de energia elétrica refere-se ao aumento da oferta total disponível das usinas geradoras que compõem o Sistema Interligado Nacional (SIN) ou os Sistemas Isolados. Esse crescimento é realizado por meio da entrada em operação de novos empreendimentos de usinas hidrelétricas, termelétricas, eólicas, solares, entre outras. 
+- Expansão do sistema de transmissão de energia elétrica no sistema elétrico brasileiro: As linhas de transmissão permitem a integração e a otimização energética dos recursos localizados em diferentes áreas geográficas. O seu mapeamento reflete o grau de integração do sistema elétrico brasileiro e a expansão da malha, em benefício da segurança do atendimento energético. Especificação da unidade de medida: km de linha instalada (em operação) 
+- Linhas de transmissão de energia elétrica Construídas: Este indicador acompanha as linhas de transmissão previstas no PAC (Programa de Aceleração do Crescimento) para construção até 2027. Essas obras são essenciais para integrar fontes de energia distribuídas pelo território nacional, melhorar a interconexão do sistema elétrico e garantir o suprimento energético com confiabilidade em todo o país 
+- Novas unidades consumidoras atendidas pelo Programa Luz Para Todos: Quantidade de famílias em situação de vulnerabilidade, residentes nas áreas rurais e regiões remotas do país, que passaram a ter acesso pleno e contínuo ao serviço de distribuição de energia elétrica. Corresponde ao quantitativo absoluto de ligações realizadas no último período, adicionada ao acumulado no período anterior. 
+- Número de novas unidades consumidoras da Subclasse Residencial Baixa Renda com acesso à Micro e Mini Geração Distribuída: A Lei nº 14.300/2022 prevê o Programa de Energia Renovável Social (PERS), destinado a investimentos na instalação de sistemas fotovoltaicos e de outras fontes renováveis, na modalidade local ou remota compartilhada, aos consumidores da Subclasse Residencial Baixa Renda
+ 
+- Número de restrições operativas saneadas nos reservatórios do sistema elétrico brasileiro: No Plano de Recuperação de Reservatórios de Regularização de Usinas Hidrelétricas do País, instituído pela Lei 14.182/2021, constam ações voltadas à identificação e estudo de restrições operativas que mereçam ser tratadas para ampliar a flexibilidade operativa e o aproveitamento da energia armazenada no Sistema, sendo essencial a redução do número de restrições cadastradas no Sistema de Gestão da Atualização de Restrições Hidráulicas do ONS. A apuração do indicador se dará com a contabilização acumulada do número de restrições operativas sanadas a partir de 30/06/2023, considerando as registradas no Sistema de Gestão da Atualização de Restrições Hidráulicas, mantido pelo Operador Nacional do Sistema Elétrico (ONS). O O objetivo deste indicador é monitorar e garantir a melhoria das condições operacionais dos reservatórios, minimizando restrições que possam afetar a geração de energia, a navegabilidade e outros usos múltiplos dos recursos hídricos 
+- Número de unidades consumidoras incluídas no Programa: Número de unidades consumidoras incluídas no Programa Tarifa Social de Energia Elétrica 
+- Usina Termelétrica construída: Este indicador refere-se às usinas termelétricas construídas integrantes do Novo Programa de Aceleração do Crescimento (PAC), com previsão de entrada em construção  até 2027.  
+- XXX: nan 
+
+Indicadores de Objetivos Específicos:
+- Capacidade instalada de geração de energia elétrica no sistema elétrico brasileiro: A geração de energia elétrica permite explorar diferentes recursos energéticos com a finalidade de prover o suprimento aos consumidores. O objetivo do indicador é auxiliar na avaliação se tal suprimento (com foco na capacidade instalada de geração) está ocorrendo de forma segura e contínua.
+ 
+- Linhas de transmissão de energia elétrica instaladas no sistema elétrico brasileiro: As linhas de transmissão permitem a integração e a otimização energética dos recursos localizados em diferentes áreas geográficas. O seu mapeamento reflete o grau de integração do sistema elétrico brasileiro e a expansão da malha, em benefício da segurança do atendimento energético 
+- Número de unidades consumidoras da Subclasse Residencial Baixa Renda com acesso à Micro e Mini Geração Distribuída: A Lei nº 14.300/2022 prevê o Programa de Energia Renovável Social (PERS), destinado a investimentos na instalação de sistemas fotovoltaicos e de outras fontes renováveis, na modalidade local ou remota compartilhada, aos consumidores da Subclasse Residencial Baixa Renda
+ 
+- Percentual de atendimento à demanda de universalização: A Lei nº 10.438/2002 prevê a universalização do serviço público de energia elétrica e o Programa Luz para Todos foi criado com esse objetivo
+ 
+- Público total atendido pela Tarifa Social de Energia Elétrica: A Lei nº 12.212/2010 prevê o público alvo da Tarifa Social de Energia Elétrica (TSEE) e, por meio do indicador, busca-se avaliar a taxa de cobertura da política em relação a esse público alvo.

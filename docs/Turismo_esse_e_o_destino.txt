@@ -1,0 +1,97 @@
+passage: Programa: Turismo, esse é o destino
+
+Descrição do Problema:
+- Potencial turístico subaproveitado; e
+- Ameaças aos destinos turísticos decorrentes das mudanças climáticas.
+
+Causa do Problema:
+- Falta de base de dados para gestão, monitoramento e implementação de políticas públicas do turismo;
+- Insuficiente qualificação e alta informalidade dos prestadores de serviços turísticos;
+- Deficiências e baixos investimentos em infraestrutura turística;
+- Limitações de acessibilidade, mobilidade e conectividade nos modais de transporte disponíveis
+- Imagem negativa do Brasil no exterior;
+- Dificuldade de gestão e definições de uso e visitação das Unidades de Conservação e Patrimônios Culturais pelo Poder Público;
+- Influências das ações climáticas nos destinos turísticos.
+
+Evidências do Problema:
+- Participação do Turismo no PIB aquém do apresentado em outros países
+- Participação dos empregos da economia do turismo no total de ocupações formais e informais na economia
+- Baixa demanda internacional dos destinos turísticos brasileiros
+- Participação na balança de serviços
+- Avaliação positiva dos atrativos naturais e culturais.
+
+Justificativa para a Intervenção:
+O turismo é uma atividade econômica intensiva em mão de obra, reconhecida pelo potencial gerador de emprego e renda, em especial para uma parcela da população com maiores dificuldades de inserção socioeconômica.
+Adicionalmente, trata-se de uma atividade econômica com potencial gerador de divisas e de relativamente baixo impacto ambiental.
+
+Evolução Histórica:
+Subiu da 13ª para 11ª posição como maior mercado do setor de Turismo do mundo de 2019 para 2021
+Caiu do 7º lugar em 2008 para 20º em 2019 e em 2023 figura em 25º como destino de turismo de negócios.
+Caiu da 28ª posição em 2015 para 49ª posição em 2021 no ranking global de competitividade em viagens e turismo.
+
+Comparações Internacionais:
+11ª posição como maior mercado do setor de Turismo do mundo em 2021 no ranking do World Travel & Tourism Council (WTTC)
+25ª posição no ranking de destinos de turismo de negócios do International Congress and Convention Association (ICCA)
+49º lugar no ranking global de competitividade em viagens e turismo do Fórum Econômico Mundial de 2021
+
+Relação com os ODS:
+ODS 8 – Promover o crescimento econômico sustentado, inclusivo e sustentável, emprego pleno e produtivo e trabalho decente para todos
+ODS 12 – Assegurar padrões de produção e de consumo sustentáveis
+ODS 13 – Ação contra a mudança global do clima
+ODS 14 – Conservação e uso sustentável dos oceanos, dos mares e dos recursos marinhos para o desenvolvimento sustentável
+ODS 15 - Proteger, recuperar e promover o uso sustentável dos ecossistemas terrestres, gerir de forma sustentável as florestas, combater a desertificação, deter e reverter a degradação da terra e deter a perda de biodiversidade
+
+Agentes Envolvidos:
+Ministério do Turismo
+Embratur
+Órgãos Federais e Entidades representativas do setor de turismo que compõem o Conselho Nacional do Turismo
+Órgãos Estaduais e Municipais gestores de turismo
+
+Articulação Federativa:
+A Lei nº 11.771, de 17 de setembro de 2008 (Lei do Turismo), principal marco legal do setor no País, definiu como um dos objetivos da Política Nacional de Turismo "promover, descentralizar e regionalizar o turismo, estimulando estados, Distrito Federal e municípios a planejar, em seus territórios, as atividades turísticas de forma sustentável e segura, inclusive entre si, com o envolvimento e a efetiva participação das comunidades receptoras dos benefícios advindos da atividade econômica."
+
+A mesma lei definiu como um dos objetivos do Sistema Nacional de Turismo desenvolver as atividades turísticas, de forma sustentável, pela coordenação e a integração das iniciativas oficiais com as do setor produtivo, de modo a promover a regionalização do turismo, mediante o incentivo à criação de organismos autônomos e de leis facilitadoras do desenvolvimento do setor, descentralizando a sua gestão.
+
+Enfoque Transversal:
+O segmento do turismo é impactado por diversos fatores por envolver mais de 50 atividades econômicas, sendo que o seu desenvolvimento é impacto pela transversalidade existente tanto no âmbito dos entes públicos e agentes privados de estados e municípios quanto também diversas políticas públicas implementadas pelos parceiros federais. A complexidade do segmento se mostra na própria diversidade da composição do Conselho Nacional de Turismo, órgão colegiado consultivo de assessoramento da Pasta. 
+
+Sob a perspectiva da intervenção pública, destaca-se a necessidade de aspectos estruturais desenvolvidos por outras pastas, tais como: Infraestrutura (transporte, saneamento), Educação (qualificação profissional), Justiça (segurança pública e defesa do consumidor), Economia (trabalho, geração de divisas, uso de patrimônio da União), Relações Exrteriores (política de vistos); Meio Ambiente (parques e unidades de conservação), entre outros.
+
+Marco Legal:
+Lei 11.771, de 17 de setembro de 2008, que dispõe sobre Lei geral do Turismo
+Lei 11.600, de 19 de junho de 2023, que estabelece a organização básica dos órgãos da Presidência da República e dos Ministérios
+Decreto 11.416, de 16 de fevereiro de 2023, que estabelece a estrutura do Ministério do Turismo
+
+Planos Nacionais, Setoriais e Regionais:
+Plano Nacional de Turismo
+
+Objetivo Geral:
+- Posicionar o turismo como vetor de desenvolvimento sustentável e aumentar a competitividade dos destinos e produtos turísticos brasileiros, democratizando o acesso e os benefícios da atividade turística para os cidadãos brasileiros.
+
+Objetivos Específicos:
+- Promover a estruturação e a qualidade dos destinos turísticos, fomentando a cadeia produtiva do turismo.
+- Promover as atividades turísticas nos destinos brasileiros de forma sustentável, inclusiva e com acessibilidade.
+- Aumentar a chegada de turistas estrangeiros e a receita gerada por esses turistas no Brasil.
+
+Indicadores de Entrega:
+- Número de ações realizadas: Serão contabilizados os eventos (independente se patrocínio, convênio ou participação institucional) que receberam aporte financeiro do Ministério, bem como ações previstas em cada campanha publicitária. 
+- Número de ações realizadas: Como ações realizadas, serão contabilizadas as ações de sensibilização, cursos e demais atividades de capacitação/qualificação, publicações e demais ações realizadas em âmbito da promoção da inclusão. 
+- Número de campanhas de publicitárias realizadas: O indicador se refere à quantidade de campanhas publicitárias realizadas pela Embratur. 
+- Número de destinos reconhecidos por ano: As cidades, selecionadas pelo Ministério do Turismo seja por escolha direta ou por meio de edital de seleção, que se dispõem a implantar as diretrizes para tornar os seus destinos mais atrativos por meio do plano de transformação em DTI, passam por um diagnóstico que objetiva apontar uma estratégia para o desenvolvimento do turismo local, além da capacitação de gestores locais. A partir da seleção, as cidades adquirem o certificado de DTI em transformação. 
+- Número de Famtours realizados: O indicador é referente à quantidade de famtours realizadas pela Embratur para profissionais de turismo estrangeiros (operadores e/ou agentes de viagens). 
+- Número de feiras internacionais de turismo com participação do Brasil: O indicador é referente à quantidade de feiras internacionais de turismo que contam com a participação do Brasil, por meio da Embratur. 
+- Número de pessoas qualificadas: Gestão de banco de dados de alunos que concluíram os cursos ofertados pelo MTur e seus parceiros, para transparência ativa, comprovação da entrega do serviço público e gerenciamento dos contatos de alunos para contratações. 
+- Número de Press trips realizadas: O indicador se refere à quantidade de presstrips que a Embratur realiza com jornalistas, influenciadores e/ou formadores de opinião de mercados (países) estratégicos para o turismo do Brasil. 
+- Número de produtos turísticos formatados: Demonstrar quantos produtos turísticos estão sendo formatados nos destinos turísticos brasileiros como forma de melhorar a oferta de produtos e experiências aos visitantes e para diversificação da oferta de destinos turísticos competitivos a serem promovidos em âmbito nacional e internacional. 
+- Número de Roadshows realizados: O indicador é a soma absoluta da quantidade de roadshows que a Embratur realiza no mercado internacional. 
+- Percentual de conclusão de obras no ano: São consideradas obras concluídas aquelas com 100% de execução ou qualquer percentual considerado suficiente pela mandatária da União para conclusão do objeto no período. 
+- Volume de recursos disponíveis disponibilizados aos empreendedores do turismo: Medição do volume total de recursos em financiamentos celebrados por ano feitos pelos agentes financeiros aos empreendedores do setor turístico. 
+
+Indicadores de Objetivos Específicos:
+- Entrada anual de turistas estrangeiros no Brasil: Refere-se ao registro de entrada de turistas internacionais no Brasil. 
+- Número de empregos formais no setor de turismo: O Turismo é um setor com um grande potencial de geração de emprego e renda, possibilitando o ingresso de pessoas no mercado de trabalho em um amplo espectro de qualificação, que muitas vezes teriam dificuldade de se inserir em outros mercados. Pode-se afirmar que gerar empregos e distribuir melhor a renda no setor turístico são objetivos do Ministério do Turismo.
+
+O Sistema de Informações sobre o Mercado de Trabalho no Setor Turismo - SIMT é um projeto desenvolvido pelo IPEA em parceria com o Ministério do Turismo - MTur e a Companhia de Planejamento do Distrito Federal – Codeplan/DF, que tem como objetivo oferecer para o governo e a sociedade informações que subsidiem a formulação e avaliação das políticas públicas de turismo e orientem os dirigentes do setor, trabalhadores, pesquisadores e instituições de fomento ao desenvolvimento.
+
+Essas informações possibilitam avaliar a importância socioeconômica do turismo no conjunto da economia, acompanhar a geração de postos de trabalho formais e informais além de mostrar o perfil da mão de obra, contribuindo com diagnósticos sobre o desempenho das chamadas Atividades Características do Turismo (ACTs), um conjunto de atividades no qual se concentra a maior parte dos gastos dos turistas. 
+- Número de Viagens de Brasileiros pelo Brasil: Estimativa do quantitativo de viagens domésticas realizadas pelos moradores dos domicílios brasileiros no período de referência da pesquisa de demanda turística doméstica.

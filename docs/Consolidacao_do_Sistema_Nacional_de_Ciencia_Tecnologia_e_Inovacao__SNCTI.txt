@@ -1,0 +1,373 @@
+passage: Programa: Consolidação do Sistema Nacional de Ciência, Tecnologia e Inovação – SNCTI
+
+Descrição do Problema:
+A capacidade científica nacional nas suas dimensões de capital humano, infraestrutura e recursos financeiros continuam insuficientes para enfrentar os desafios sociais e econômicos contemporâneos brasileiros
+
+Causa do Problema:
+A insuficiência da capacidade científica nacional é um problema complexo e multicausal e, tendo com base a dimensão humana, financeira e de infraestrutura, são sinalizados os pontos principais:
+1) Investimento insuficiente em pesquisa: O financiamento insuficiente para instituições de pesquisa e projetos científicos limita o desenvolvimento de pesquisas avançadas e a capacidade de atrair e reter talentos científicos.
+2) Escassez de recursos humanos qualificados: A falta de capacidade e estímulo  para a formação de cientistas, pesquisadores e professores altamente qualificados.
+3) Fuga de cérebros: A falta de oportunidades e reconhecimento na carreira científica evar a uma "fuga de cérebros", quando os pesquisadores talentosos buscam oportunidades no exterior.
+4) Condições de trabalho e salários inadequados: Salários pouco competitivos e condições de trabalho desfavoráveis podem desmotivar os profissionais e tornar a carreira científica menos atraente.
+5) Distribuição regional desigual  da infraestrutura, que reforça a reprodução das desigualdades e afeta os serviços prestados à sociedade.
+6) Desigualdade de gênero reproduzida nas estruturas científicas: as mulheres perdem espaço nas progressões da carreira científica em razão do seu papel social; também são minorias em certas áreas do saber, que historicamente, são ocupadas por homens.
+7) Falta de alinhamento das prioridades de desenvolvimento do país com as capacidades já existentes e exploração dos potenciais locais.
+
+Evidências do Problema:
+1) Investimento insuficiente em pesquisa: Segundo dados de 2020, os dispêndios nacionais em pesquisa e desenvolvimento (P&D) (Em bilhões de US$ correntes de PPC) é de 36,8 bi (muito longe dos 144,4 da Alemanha, 720,9 dos EUA); o percentual desse dispêndio em relação ao PIB é de 1,14% (sendo 0,62% oriundo do governo) (longe dos percentuiais da Alemanha de 3,13% e 3,45% dos EUA); No período entre 2013 e 2019, os países membros da OCDE investiram, em média, 2,4% do PIB em P&D. No mesmo período, o Brasil destinou para P&D uma média de 1,2% do PIB. Embora o crescimento do dispêndio nacional tenha mostrado evolução nas últimas décadas, ele não foi suficiente para reduzir a defasagem em relação aos países centrais e propiciar as ações exigida por um país nas dimensões do Brasil. Nesse período, enquanto outras economias emergentes, como China e Coreia do Sul, mudaram sua estrutura de C&T, o Brasil manteve sua posição relativa em termos de participação na matriz mundial. Na comparação de dispêndios em P&D per capta entre países selecionados, o Brasil só supera a África do Sul e a Índia, ficando atrás de Rússia e China e mais distante ainda da Alemanha, Coreia e Estados Unidos. Em 2015, em termos de dispêndios nacionais em C&T, em valores correntes, o Brasil chegou a 103,7 bilhões de reais, equivalente a 1,7% do PIB. Com o advento da crise fiscal, os investimentos vêm decaindo sucessivamente, passando a pouco mais de 97 bi em 2016 e, conforme dados preliminares, 90,6 bi em 2017, 99,1 bi em 2018, 106,6 bi em 2019 e 102,1 bi em 2020.
+2) Escassez e má distribuição regional e por setor de recursos humanos qualificados: necessidade de investimento no capital humano e na sua qualificação para promover descobertas científicas e gerar respostas aos desafios sócio-econômicos.Segundo dados de 2014, o Brasil apresentava 180 mil  pesquisadores envolvidos em P&D em tempo integral (longe dos 1.340,3 mil dos EUA, 1.524,3 mil da China, 345,5 mil da Coreia, 351,9 mil da Alemanha). O sistema também deve ser capaz de atrair e capacitar jovens para atuar nas carreiras científicas. Em 2014, tanto o CNPq quanto a CAPES ultrapassaram o patamar de 100.000 bolsas concedidas no ano, no país e no exterior, sendo este último correspondente a 10% do total. Em função da redução nos investimentos, houve redução no número de bolsas concedidas pelo CNPq em mais de 20% até 2017. As bolsas concedidas pelo CNPq saltaram de 43.564 em 2000 para 102.022 em 2014, reduzindo-se para 79.703 em 2017; sendo que os valores das bolsas ficaram congeladas por quase dez anos (2013 a 2022). A distribuição do capital humano deve atender as demadas na busca pelo equilíbro regional. Conforme dados do Diretório dos Grupos de Pesquisa do CNPq por unidade da federação, em 2010, 66,4% dos pesquisadores estavam concentrados na região Sul (21,2%) e Sudeste (45,2%), enquanto Nordeste seguia com 19,5%, Centro-Oeste com 8,2% e Norte com 5,9%. Ademais, há diferenças da distribuição do percentual dos pesquisadores envolvidos em P&D em tempo integral por setor. Dados de 2014 apontam que 26,1% estão em empresas (na Alemanha são 56,3%, na China são 62,1%, na Coreia, 79,5%), 3,3% no governo (na Alemanha 15%, na China 19,4%, na Coreia 7,2%), 69,9% no ensino superior (18,5% na China,  28,7% na Alemanha, 12,1% na Coreia) e 0,7% em entidades privadas sem fins lucrativos (1,2% da Coreia, 1,3% do Japão). 
+3) Fuga de cérebros: o Brasil é um dos países com a maior taxa de imigrantes altamente qualificados vivendo na região da OCDE (28,9% dos imigrantes brasileiros).
+4) Inequidade de gênero: Estudo da Uerj, entre 2004 e 2020, apontou um aumento discreto na participação feminina nos cursos de mestrado e doutorado, bem como na docência, mas que apenas cerca de 42% das mulheres alcançam equidade ou são maioria entre docentes da pós-graduação. Há também desigualdade nas áreas historicamente ocupadas por homens, como Física, Matemática e Engenharias, em comparação com aquelas áreas do conhecimento rotuladas pela sociedade como femininas, tais como Nutrição, Enfermagem e Serviço Social. A compreensão do fenômeno da desigualdade de gênero perpassa pelo papel social que as mulheres desempenham na sociedade, a partir da maternidade e a sua compatibilização com a carreira acadêmica.
+5) Desigualdade de oportunidades nas carreiras científicas para a poulação preta. De acordo com levantamento realizado pela Liga de Ciência Preta Brasileira, em 2020, dentre os alunos de pós-graduação, 2,7% são pretos, 12,7% são pardos, 2% são amarelos, menos de 0,5% é indígena e 82,7% são brancos. 
+6) Distribuição regional desigual  da infraestrutura: regiões menos desenvolvidas têm uma base científica menor e contam com mecanismos precários de C&T.  Segundo De Negri e Squeff (2016), a localização das instalações e a área física revela a concentração expressiva nas regiões Sudeste (57%) e Sul (23%).
+7) Falta de alinhamento das prioridades de desenvolvimento do país com as capacidades já existentes e exploração dos potenciais locais.Nascimento (2016) constata que o país é relevante player global em quatro das cinco áreas de maior especialização: medicina tropical, parasitologia, odontologia, cirurgia e saúde oral, e agricultura. Porém, para novos saltos, fa-se necessária mudança nos padrões de organização e de gestão da produção científica e tecnológica, perpassando pela implementação de políticas de otimização da infraestrutura científica instalada, fomentando redes de visibilidade internacional e incentivando o desenvolvimento de novos produtos, processos e tecnologias. Além do aproveitamento dos potenciais, seja em infraestrutura existente, como em recursos naturais a serem explorados, como a biodiversidade, há que se investir no desenvolvimento de tecnologias disruptivas e portadoras de futuro em distintas áreas, como a biotecnologia, nanotecnologia e inteligência artificial pelo potencial transformador social.
+8) Posição do Brasil em 54ª IGG (Global Innovation Index), sendo que o Brasil ocupa posição intermediária em termos de capital humano (50ª posição), estando à frente da África do Sul (81ª posição) e atrás da Índia (43ª posição), Rússia (27ª posição) e China (20ª posição). Por outro lado, ocupa a 55ª posição em termos de produtos de conhecimento e tecnologia, muito próximo de Rússia (51ª posição) e África do Sul (56ª posição), porém bastante atrás de Índia (34ª posição) e China (6ª posição). 
+9) Baixa evolução de números de artigos publicados em periódicos indexados pela Scopus: Daodos de 2020, apontam 89.263 artigos, contra 123.440 da Rússia, 751.978 da China, 175.034 da Alemanha e 91.546 da Coreia.
+
+Justificativa para a Intervenção:
+ Apesar de alguns avanços nas últimas décadas para a consolidação do Sistema Nacional de Ciência, Tecnologia e Inovação (SNCTI), a capacidade da ciência e tecnologia brasileira em gerar conhecimento e trazer soluções para a sociedade ainda está muito aquém de seu potencial. Ademais, o crescimento populacional e as demandas socioeconômicas impõem desafios adicionais. No cenário internacional, o Brasil ainda busca fortalecer sua posição e reconhecimento. A falta de políticas públicas nesta área tem contribuído para  o descrédito da sociedade na ciência e tecnologia, a vulnerabilidade em questões de soberania do país, a dependência tecnológica externa, as dificuldades na formação de novos cientistas e pesquisadores, o baixo nível de desenvolvimento social e econômico do país, a fuga de cérebros, a manutenção do modelo econômico atual centrado na indústria primária e na exportação de commodities, bem como a baixa oportunidade competitiva em setores estratégicos. É fundamental que sejam implementadas políticas e investimentos mais robustos na ciência, tecnologia e inovação, visando potencializar a capacidade científica do Brasil e promover o desenvolvimento sustentável, a diversificação econômica e a melhoria da qualidade de vida da população brasileira.   	.   
+
+Evolução Histórica:
+O sistema nacional de ciência, tecnologia e inovação (SNCTI) passou por uma série de transformações ao longo das últimas décadas. Segundo o historiador Paulinyi (1986), a evolução do Sistema Nacional de Ciência, Tecnologia e Inovação (SNCTI) pode ser classificada em quatro fases:1)“nucleação aleatória de competências” (até 1950) - caracterizada pela ausência de políticas e estratégias governamentais em C&; as instituições foram criadas sem uma visão sistêmica, mas para atender peculiaridades nacionais e emergências conjunturais e são poucos os pesquisadores formados no país e no exterior e, geralmente, ocorre por iniciativa própria dos indivíduos; 2)“nucleação programada” (1951 – 1980) - criação de uma base de apoio estatal a C&T, em especial pela criação do Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq), da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES), da Financiadora de Estudos e Projetos (FINEP) que passou a atuar como Secretaria Executiva do Fundo Nacional de Desenvolvimento Científico e Tecnológico (FNDCT); 3)“crescimento e interação mútua” (anos 80 até a virada do século) - maior interação entre os diversos atores do cenário científico e tecnológico brasileiro, marcada pela criação, em 1985, do Ministério da Ciência e Tecnologia (MCT), que absorveu em sua estrutura a FINEP, o CNPq e suas unidades de pesquisa; contou com a inserção de dois artigos referentes à C&T na Constituição Federal (inciso IX do art. 5º e art. 218 da CF); também houve a aprovação da  Lei n.9.478/1977 que destinou um percentual dos royalties sobre a produção de petróleo para o MCT, originando os Fundos Setoriais que incrementariam os recursos do FNDCT; pela Lei da Inovação (Lei 10.973/2004); e, pela  “Lei do Bem ” (Lei 11.196/2005), que fundamentaram uma nova modalidade de subvenção econômica, prevendo o financiamento não reembolsável às empresas; e, 4) a atual fase de “amadurecimento” (Século XXI) - arcabouço institucional e regulatório robusto e completo na área de CT&I, permitindo que estratégias sejam formuladas para o aperfeiçoamento contínuo do sistema, tendo como foco a produção científica que avança a fronteira do conhecimento e a geração de inovações de produtos, processos e serviços, intensificando-se o relacionamento internacional. Estas estratégias são expressas nos Plano de Ação para a Ciência, Tecnologia e Inovação 2007-2010 (PACTI 2007-2010) e nas duas edições da Estratégia Nacional de Ciência, Tecnologia e Inovação (2012-2015 e 2016-2022). Mais recentemente, o Marco Legal de CT&I (Decreto nº 9.283/2018) foi sancionado para atender dispositivos da Lei nº 13.243/2016 que necessitavam de regulamentação, alterando nove leis para criar um ambiente mais favorável à pesquisa, desenvolvimento e inovação nas universidades, nos institutos públicos e nas empresas: Lei de Inovação, Lei das Fundações de Apoio, Lei de Licitações, Regime Diferenciado de Contratações Públicas, Lei do Magistério Federal, Lei do Estrangeiro, Lei de Importações de Bens para Pesquisa, Lei de Isenções de Importações e Lei das Contratações Temporárias. 
+
+Comparações Internacionais:
+ No ranking do Índice de Inovação Global, o Brasil se situa na 54ª posição na edição de 2022. Apenas como comparação os dez países mais bem colocados em 2022 são: Suíça, Estados Unidos, Suécia, Reino Unido, Holanda, Coreia do Sul, Singapura, Alemanha, Finlândia e Dinamarca. Importa notar que a China já se aproxima deste seleto grupo, estando atualmente na 11ª posição. Com relação ao percentual do dispêndio nacional em P&D, em valores correntes, em relação ao PIB, o Brasil, em 2020, investe 1,14%, pouco se comparado aos 2,40% da China; 3,13% da Alemanha e 4,81% da Coreia do Sul. No período entre 2013 e 2019, os países membros da OCDE investiram, em média, 2,4% do PIB em P&D. No mesmo período, o Brasil destinou para P&D uma média de 1,2% do PIB, sendo que a diferença aumenta quando comparado a países que investem acima dessa média, como é o caso de Alemanha, Coreia e  Suécia (MCTI, 2022). O Brasil ainda está distante dos países mais avançados, tanto no dispêndio em P&D como nos recursos humanos envolvidos, sendo imprescindíveis investimentos crescentes para que esse quadro seja alterado nos próximos anos.
+
+Relação com os ODS:
+ Os Objetivos de Desenvolvimento Sustentável (ODS), estabelecidos pela Organização das Nações Unidas (ONU) em 2015, são um conjunto de metas globais para alcançar um futuro sustentável até 2030. A ciência, tecnologia e inovação desempenham um papel fundamental no atingimento dos ODS, pois são instrumentos essenciais para impulsionar o progresso em direção a essas metas.
+A Ciência, tecnologia e inovação podem contribui para os ODS de várias maneiras; a pesquisa científica e a inovação tecnológica são fundamentais para o avanço do conhecimento e para o desenvolvimento de soluções inovadoras para os desafios sociais, econômicos e ambientais enfrentados pelo mundo. A ciência fornece evidências e dados sólidos para a formulação de políticas públicas e para os tomadores de decisão.
+Além disso, a tecnologia e a inovação são cruciais para o desenvolvimento de soluções que poderão colaborar para a implementação dos ODS, como por exempo tecnologias limpas e sustentáveis, energias renováveis, tecnologias da informação e comunicação, soluções ambientais, agricultura de baixo carbono, avanços na saúde, dentre outros.
+A Ciência e tecnologia também desempenha um papel importante na capacitação da população, fornecendo oportunidades de educação, formação e emprego qualificado. Ademais, a colaboração internacional em C,T&I é fundamental para enfrentar os desafios globais e promover a transferência de conhecimento e tecnologias entre países que se encontram em diferentes níveis de desenvolvimento.
+Em resumo, a ciência, tecnologia e inovação são  essenciais para a implementação exitosa dos ODS fornecendo as ferramentas e os meios para impulsionar o desenvolvimento sustentável e inclusivo alinhados à Agenda da ONU para 2030.
+
+Agentes Envolvidos:
+ Secretarias e Instituições vinculadas ao MCTIC / Universidades / ICTs / Fundações Estaduais de Amparo à Pesquisa (FAPs) / Conselho Nacional das Fundações Estaduais de Amparo à Pesquisa (CONFAP) / Secretarias Estaduais de Ciência, Tecnologia e Inovação / Conselho Nacional de Secretários para Assuntos de Ciência Tecnologia e Inovação / Associações Cientificas.
+
+Enfoque Transversal:
+1) Mulheres;
+2) Crianças e adolescentes; 
+3) Igualdade racial; 
+4) Povos indígenas; 
+5) Povos e Comunidades Tradicionais; 
+6) Verde.
+
+
+Marco Legal:
+Constituição Federal: O termo "ciência", enquanto atividade individual, faz parte do catálogo dos direitos fundamentais da pessoa humana (inciso IX do art. 5º da CF). Além de um autonomizado capítulo que prestigia a Ciência (Cap. IV, Título VIII), Art. 218: O Estado promoverá e incentivará o desenvolvimento científico, a pesquisa, a capacitação científica e tecnológica e a inovação.
+Decreto nº 9.283/2018: Este Decreto foi sancionado para atender dispositivos da Lei nº 13.243 que necessitavam de regulamentação. O Marco Legal altera 9 Leis para criar um ambiente mais favorável à pesquisa, desenvolvimento e inovação nas universidades, nos institutos públicos e nas empresas: Lei de Inovação, Lei das Fundações de Apoio, Lei de Licitações, Regime Diferenciado de Contratações Públicas, Lei do Magistério Federal, Lei do Estrangeiro, Lei de Importações de Bens para Pesquisa, Lei de Isenções de Importações e Lei das Contratações Temporárias.
+
+Planos Nacionais, Setoriais e Regionais:
+Estratégia Nacional de CT&I 2016-2022 (ENCTI) e Planos de Ação em CT&I derivados da ENCTI
+
+Objetivo Geral:
+- Recuperar, expandir, modernizar, consolidar e integrar o Sistema Nacional de Ciência, Tecnologia e Inovação, promovendo a articulação com a sociedade civil e os governos estaduais e municipais, a difusão de capacidades e a redução de assimetrias
+
+Objetivos Específicos:
+- Recuperar, expandir e modernizar a infraestrutura nacional de Pesquisa & Desenvolvimento (P&D)
+- Ampliar o impacto da Ciência & Tecnologia (C&T) nacional, fomentando a geração de conhecimento através do apoio a projetos
+- Promover a formação, capacitação, atração, fixação e ampliação de recursos humanos em projetos de CT&I com atenção à correção de assimetrias
+- Expandir as parcerias estratégicas de cooperação nacional e internacional em CT&I
+- Ampliar a capacidade de pesquisa, desenvolvimento e inovação do ecossistema de segurança cibernética nacional
+- Contribuir com fomento à Infraestrutura Nacional da Qualidade
+
+Indicadores de Entrega:
+- Apoio a projetos não-reembolsável a ICts contratados, voltados à manutenção, recuperação e modernização das infraestruturas de Pesquisa & Desenvolvimento (P&D): Quantidade de convênios  firmados pela Finep, voltados para apoio à infraestrutura de pesquisa e desenvolvimento de ICTs em todo o país
+ 
+- Avanço na Ampliação e implantação dos Enlaces: Porcentagem total de execução da Infovia Nacional baseada na implantação dos enlaces.   
+- Avanço na implantação das Infovias Estaduais: Extensão de km implantados para as infovias estaduais. 30.000 km implantados até 2026. 
+- % de beneficiários/ano de bolsas de Produtividade em Pesquisa (PQ) e de Desenvolvimento Tecnológico (DT) para mulheres, negros e indígenas em relação ao total de beneficiários/ano de bolsas PQ e DT: Percentual de beneficiários/ano de bolsas de Produtividade em Pesquisa (PQ) e de Desenvolvimento Tecnológico (DT) para mulheres, negros e indígenas em relação ao total de beneficiários/ano de bolsas PQ e DT 
+- Índice de Orientação de Teses e Diessertações no ano: Número de Teses, Dissertações e Monografias defendidas no ano pelo número de pesquisadores habilitados a orientar, ou seja, somente os doutores. 
+- Número de beneficiários/ano de bolsas de Desenvolvimento Científico Regional (DCR): Número de beneficiários/ano de bolsas de Desenvolvimento Científico Regional (DCR) 
+- Número de beneficiários/ano de bolsas de fixação: Número de beneficiários/ano de bolsas de fixação. 
+- Número de beneficiários/ano de bolsas de formação (iniciação, mestrado e doutorado): Número de beneficiários/ano de bolsas de formação (iniciação, mestrado e doutorado). 
+- Número de bolsas concedidas em projetos de desenvolvimento da Infraestrutura Brasileira da Qualidade: Número de bolsas concedidas em projetos de desenvolvimento da Infraestrutura Brasileira da Qualidade 
+- Número de empresas e órgãos com capacidades industriais ou institucionais apoiadas: Ciberinfraestrutura nacional para educação, pesquisa e inovação: comunicação, computação e armazenamento de alta disponibilidade, segurança e desempenho.
+ 
+- Número de eventos promovidos na área de segurança cibernética: Promoção de seminários, workshop, hackathon ou eventos.
+ 
+- Número de infraestruturas de Pesquisa & Desenvolvimento aptas ao compartilhamento: Ao monitorar o número de infraestruturas de Pesquisa & Desenvolvimento aptas ao compartilhamento é possível verificar o tamanho deste universo em relação ao total de infraestrutura cadastrada na PNIPE. Ações de aprimoramento da PNIPE são necessárias a fim de acompanhar a quantidade de infraestrutura que, de fato, foi compartilhada entre instituições.
+ 
+- Número de Infraestruturas de Pesquisa & Desenvolvimento (P&D) disponibilizadas pelas Unidades de Pesquisa do MCTI: Total de infraestruturas de pesquisa e desenvolvimento disponibilizadas pelas Unidades de Pesquisa, incluindo laboratórios, equipamentos multiusuários (supercomputadores e outros), centrais analíticas, usinas, biofábricas, coleções científicas, entre outras. 
+- Número de instrumentos de Cooperação Internacional firmados: Entende-se por instrumentos de cooperação: (i) Preparação e/ou negociação de Atos Internacionais (Acordos, Memorandos de  Entendimento, Declarações de Intenções, Planos de Ação, Programas de Trabalho e Projetos de Cooperação); (ii) Preparação e/ou negociação de Atos Internacionais (Acordos, Memorandos de Entendimento, Declarações de Intenções, Planos de Ação, Programas de Trabalho e Projetos de Cooperação).
+ 
+- Número de instrumentos de cooperação nacional firmados pelas Unidades de Pesquisa do MCTI: Número de programas e projetos em CT&I vigentes em parceria formal com instituições nacionais no ano. 
+- Número de laboratórios recuperados e modernizados: Número de projetos apoiados para a recuperação e modernização de equipamentos. 
+ 
+- Número de novos laboratórios: Número de novos laboratórios apoiados para o atendimento de lacunas ou gargalos no Sistema Brasileiro de Avaliação da Conformidade - SBAC.
+ 
+- Número de participações do Brasil em grandes colaborações científicas internacionais: Participação ativa do Brasil em iniciativas globais de pesquisa, tais como grandes projetos científicos, consórcios e redes internacionais. Participação de pesquisadores brasileiros em grandes colaborações científicas e infraestruturas de pesquisa internacionais como o LHC (Large Hadron Collider), ALICE (A Large Ion Collider Experiment), ATLAS (A Toroidal LHC ApparatuS), LSST (Large Synoptic Survey Telescope), Auger (Pierre Auger Observatory), Fermilab (ermi National Accelerator Laboratory), entre outros. 
+- Número de profissionais qualificados em tecnologias críticas para o setor de segurança cibernética:  O projeto do Programa Hackers do Bem no Domínio Cibernético tem como objeto a criação de um programa multi-institucional para formação de recursos humanos qualificados com foco em segurança cibernética e privacidade.
+ 
+- Número de programas e atividades de cooperação internacional em Ciência, Tecnologia & Inovação (CT&I) apoiados: Entende-se por programas e atividades de cooperação: Apoio financeiro à atividades de cooperação internacional e contribuição voluntária a instituições internacionais.
+ 
+- Número de programas e projetos vigentes em parceria formal com instituições internacionais: Número de programas e projetos em CT&I vigentes em parceria formal com instituições estrangeiras no ano. 
+- Número de projetos contratados: Número de projetos contratados 
+- Número de provedores de ensaios de proficiência capacitados em áreas estratégicas: Provedores de Ensaios de Proficiência acreditados pela Cgcre/Inmetro .
+ 
+- Número de publicações das Unidades de Pesquisa / TNSE: Relação entre o número de artigos científicos indexados no período, considerando artigos publicados em revista de divulgação científica nacional ou internacional, artigos completos publicados em evento técnico-cientifico nacional ou internacional, livros ou capítulos de livros (NGPB), pelo número de técnicos de nível superior vinculados diretamente à pesquisa científica e ao desenvolvimento tecnológico (Pesquisadores, Tecnologistas e Bolsistas) TNSE, com no mínimo doze meses de atuação completos ou a completar na vigência do TCG. 
+- Número de startups fomentadas: Programa de apoio à startups de base tecnológica no desenvolvimento de soluções relacionadas à cibersegurança. Chamada Pública realizada pela Softex para seleção de 50 startups.
+ 
+- Percentual da elaboração de estudos prospectivos sobre potencialidades à serem implementadas nos laboratórios existentes: O indicador visa averiguar o nível da elaboração de estudos prospectivos sobre potencialidades à serem implementadas nos laboratórios existentes. 
+- Percentual de avanço do projeto: Construção de infovia estadual com 1.000 km, no Estado de Alagoas
+
+
+"Extensão total das infovias implantadas no período
+
+Ao final do período (2026) planeja-se ter 18 infovias estaduais, sendo 8 completadas (AC, AL, AP, MA, MT, PB,RN e RO, totalizando 20.000 km) e 10 infovias estaduais em implantação (BA, GO, PA, PE, PI, PR, RR, RS, SC e TO, totalizando mais 20.000 km) em um total de 40.000 km de extensão de fibra óptica interligando polos do interior com as capitais.
+
+Este investimento complementa investimentos já feitos anteriormente pelo MCTI e MCOM de R$70M, ampliando as infovias de PE, RO, RR, e RS.
+"
+ 
+- Percentual de avanço do projeto: Dois enlaces implementados nos Estados do Amazonas e Roraima
+
+Ampliação e construção de novos enlaces para o backbone acadêmico em todas as unidades da federação, interiorizando a alta velocidade aos campi (n x 100Gb/s) de organizações usuárias do Sistema RNP 
+- Percentual de avanço do projeto: Um enlace implementado - Distrito Federal/São Paulo
+
+Ampliação e construção de novos enlaces para o backbone acadêmico em todas as unidades da federação, interiorizando a alta velocidade aos campi (n x 100Gb/s) de organizações usuárias do Sistema RNP 
+- Percentual de avanço do projeto: Um enlace implementado Goiás/Mato Grosso
+
+Ampliação e construção de novos enlaces para o backbone acadêmico em todas as unidades da federação, interiorizando a alta velocidade aos campi (n x 100Gb/s) de organizações usuárias do Sistema RNP 
+- Percentual de avanço do projeto: Um enlace implementado Goiás/São Paulo
+
+Ampliação e construção de novos enlaces para o backbone acadêmico em todas as unidades da federação, interiorizando a alta velocidade aos campi (n x 100Gb/s) de organizações usuárias do Sistema RNP 
+- Percentual de avanço do projeto: Um enlace implementado Maranhão/Tocantins
+
+Ampliação e construção de novos enlaces para o backbone acadêmico em todas as unidades da federação, interiorizando a alta velocidade aos campi (n x 100Gb/s) de organizações usuárias do Sistema RNP 
+- Percentual de avanço do projeto: Um enlace implementado no estado da Paraíba
+
+Ampliação e construção de novos enlaces para o backbone acadêmico em todas as unidades da federação, interiorizando a alta velocidade aos campi (n x 100Gb/s) de organizações usuárias do Sistema RNP 
+- Percentual de avanço do projeto: Um enlace implementado no Paraná/Mato Grosso do Sul
+
+Ampliação e construção de novos enlaces para o backbone acadêmico em todas as unidades da federação, interiorizando a alta velocidade aos campi (n x 100Gb/s) de organizações usuárias do Sistema RNP 
+- Percentual de avanço do projeto: Construção de infovia estadual com 3.266 km, no Estado do Paraná
+
+"Extensão total das infovias implantadas no período
+
+Ao final do período (2026) planeja-se ter 18 infovias estaduais, sendo 8 completadas (AC, AL, AP, MA, MT, PB,RN e RO, totalizando 20.000 km) e 10 infovias estaduais em implantação (BA, GO, PA, PE, PI, PR, RR, RS, SC e TO, totalizando mais 20.000 km) em um total de 40.000 km de extensão de fibra óptica interligando polos do interior com as capitais.
+
+Este investimento complementa investimentos já feitos anteriormente pelo MCTI e MCOM de R$70M, ampliando as infovias de PE, RO, RR, e RS."
+ 
+- Percentual de avanço do projeto: Dois enlaces implementados nos Estados do Amazonas e do Acre
+
+Ampliação e construção de novos enlaces para o backbone acadêmico em todas as unidades da federação, interiorizando a alta velocidade aos campi (n x 100Gb/s) de organizações usuárias do Sistema RNP 
+- Percentual de avanço do projeto: Um enlace implementado Bahia/Tocantins
+
+Ampliação e construção de novos enlaces para o backbone acadêmico em todas as unidades da federação, interiorizando a alta velocidade aos campi (n x 100Gb/s) de organizações usuárias do Sistema RNP 
+- Percentual de avanço do projeto: Construção de infovia estadual com 1.000 km, no Estado do Amapá
+
+
+"Extensão total das infovias implantadas no período
+
+Ao final do período (2026) planeja-se ter 18 infovias estaduais, sendo 8 completadas (AC, AL, AP, MA, MT, PB,RN e RO, totalizando 20.000 km) e 10 infovias estaduais em implantação (BA, GO, PA, PE, PI, PR, RR, RS, SC e TO, totalizando mais 20.000 km) em um total de 40.000 km de extensão de fibra óptica interligando polos do interior com as capitais.
+
+Este investimento complementa investimentos já feitos anteriormente pelo MCTI e MCOM de R$70M, ampliando as infovias de PE, RO, RR, e RS.
+" 
+- Percentual de avanço do projeto: Construção de infovia estadual com 2.500 km, no Estado da Bahia
+
+
+"Extensão total das infovias implantadas no período
+
+Ao final do período (2026) planeja-se ter 18 infovias estaduais, sendo 8 completadas (AC, AL, AP, MA, MT, PB,RN e RO, totalizando 20.000 km) e 10 infovias estaduais em implantação (BA, GO, PA, PE, PI, PR, RR, RS, SC e TO, totalizando mais 20.000 km) em um total de 40.000 km de extensão de fibra óptica interligando polos do interior com as capitais.
+
+Este investimento complementa investimentos já feitos anteriormente pelo MCTI e MCOM de R$70M, ampliando as infovias de PE, RO, RR, e RS." 
+- Percentual de avanço do projeto: Construção de infovia estadual com 1.500 km, no Estado de Goiás
+
+
+"Extensão total das infovias implantadas no período
+
+Ao final do período (2026) planeja-se ter 18 infovias estaduais, sendo 8 completadas (AC, AL, AP, MA, MT, PB,RN e RO, totalizando 20.000 km) e 10 infovias estaduais em implantação (BA, GO, PA, PE, PI, PR, RR, RS, SC e TO, totalizando mais 20.000 km) em um total de 40.000 km de extensão de fibra óptica interligando polos do interior com as capitais.
+
+Este investimento complementa investimentos já feitos anteriormente pelo MCTI e MCOM de R$70M, ampliando as infovias de PE, RO, RR, e RS." 
+- Percentual de avanço do projeto: Construção de infovia estadual com 6.000 km, no Estado do Maranhão
+
+
+"Extensão total das infovias implantadas no período
+
+Ao final do período (2026) planeja-se ter 18 infovias estaduais, sendo 8 completadas (AC, AL, AP, MA, MT, PB,RN e RO, totalizando 20.000 km) e 10 infovias estaduais em implantação (BA, GO, PA, PE, PI, PR, RR, RS, SC e TO, totalizando mais 20.000 km) em um total de 40.000 km de extensão de fibra óptica interligando polos do interior com as capitais.
+
+Este investimento complementa investimentos já feitos anteriormente pelo MCTI e MCOM de R$70M, ampliando as infovias de PE, RO, RR, e RS." 
+- Percentual de avanço do projeto: Dois enlaces implementados Amazonas/Pará/Amapá
+
+Ampliação e construção de novos enlaces para o backbone acadêmico em todas as unidades da federação, interiorizando a alta velocidade aos campi (n x 100Gb/s) de organizações usuárias do Sistema RNP 
+- Percentual de avanço do projeto: Construção de infovia estadual com 900 km, no Estado do Rio Grande do Norte
+
+"Extensão total das infovias implantadas no período
+
+Ao final do período (2026) planeja-se ter 18 infovias estaduais, sendo 8 completadas (AC, AL, AP, MA, MT, PB,RN e RO, totalizando 20.000 km) e 10 infovias estaduais em implantação (BA, GO, PA, PE, PI, PR, RR, RS, SC e TO, totalizando mais 20.000 km) em um total de 40.000 km de extensão de fibra óptica interligando polos do interior com as capitais.
+
+Este investimento complementa investimentos já feitos anteriormente pelo MCTI e MCOM de R$70M, ampliando as infovias de PE, RO, RR, e RS."
+ 
+- Percentual de avanço do projeto: Construção de infovia estadual com 1.100 km, no Estado de Rondônia
+
+"Extensão total das infovias implantadas no período
+
+Ao final do período (2026) planeja-se ter 18 infovias estaduais, sendo 8 completadas (AC, AL, AP, MA, MT, PB,RN e RO, totalizando 20.000 km) e 10 infovias estaduais em implantação (BA, GO, PA, PE, PI, PR, RR, RS, SC e TO, totalizando mais 20.000 km) em um total de 40.000 km de extensão de fibra óptica interligando polos do interior com as capitais.
+
+Este investimento complementa investimentos já feitos anteriormente pelo MCTI e MCOM de R$70M, ampliando as infovias de PE, RO, RR, e RS."
+ 
+- Percentual de avanço do projeto: Um enlace implementado Alagoas/Sergipe 
+
+Ampliação e construção de novos enlaces para o backbone acadêmico em todas as unidades da federação, interiorizando a alta velocidade aos campi (n x 100Gb/s) de organizações usuárias do Sistema RNP 
+- Percentual de avanço do projeto: Um enlace implementado Amapá/Pará
+
+Ampliação e construção de novos enlaces para o backbone acadêmico em todas as unidades da federação, interiorizando a alta velocidade aos campi (n x 100Gb/s) de organizações usuárias do Sistema RNP 
+- Percentual de avanço do projeto: Um enlace implementado Bahia/Sergipe
+
+Ampliação e construção de novos enlaces para o backbone acadêmico em todas as unidades da federação, interiorizando a alta velocidade aos campi (n x 100Gb/s) de organizações usuárias do Sistema RNP 
+- Percentual de avanço do projeto: Um enlace implementado Ceará/Pernambuco
+
+Ampliação e construção de novos enlaces para o backbone acadêmico em todas as unidades da federação, interiorizando a alta velocidade aos campi (n x 100Gb/s) de organizações usuárias do Sistema RNP 
+- Percentual de avanço do projeto: Um enlace implementado Distrito Federal/Piauí
+
+Ampliação e construção de novos enlaces para o backbone acadêmico em todas as unidades da federação, interiorizando a alta velocidade aos campi (n x 100Gb/s) de organizações usuárias do Sistema RNP 
+- Percentual de avanço do projeto: Um enlace implementado Espirito Santo/Bahia
+
+Ampliação e construção de novos enlaces para o backbone acadêmico em todas as unidades da federação, interiorizando a alta velocidade aos campi (n x 100Gb/s) de organizações usuárias do Sistema RNP 
+- Percentual de avanço do projeto: Um enlace implementado Mato Grosso do Sul/São Paulo
+
+Ampliação e construção de novos enlaces para o backbone acadêmico em todas as unidades da federação, interiorizando a alta velocidade aos campi (n x 100Gb/s) de organizações usuárias do Sistema RNP 
+- Percentual de avanço do projeto: Um enlace implementado no Estado do Pará
+
+Ampliação e construção de novos enlaces para o backbone acadêmico em todas as unidades da federação, interiorizando a alta velocidade aos campi (n x 100Gb/s) de organizações usuárias do Sistema RNP 
+- Percentual de avanço do projeto: Um enlace implementado Rio Grande do Sul/Santa Catarina
+
+Ampliação e construção de novos enlaces para o backbone acadêmico em todas as unidades da federação, interiorizando a alta velocidade aos campi (n x 100Gb/s) de organizações usuárias do Sistema RNP 
+- Percentual de avanço do projeto: Um enlace implementado Santa Catarina/São Paulo
+
+Ampliação e construção de novos enlaces para o backbone acadêmico em todas as unidades da federação, interiorizando a alta velocidade aos campi (n x 100Gb/s) de organizações usuárias do Sistema RNP 
+- Percentual de avanço do projeto: Mede o avanço físico do projeto 
+- Percentual de avanço do projeto: Mede o avanço físico do projeto 
+- Percentual de avanço do projeto: Mede o avanço físico do projeto 
+- Percentual de avanço do projeto: Percentual de avanço do projeto 
+- Percentual de avanço do projeto: Percentual de avanço do projeto 
+- Percentual de avanço do projeto: Número de centros de pesquisas conectados à Rede de e-Ciência
+ 
+- Percentual de avanço do projeto: O indicador PAP se refere à porcentagem de execucao da ampliação da rede de monitoramento ambiental por sensores instalados in situ e da infraestrutura de tecnologia da informação e de comunicação de dados. 
+- Percentual de avanço do projeto: Infovia Estadual do Acre
+
+
+"Extensão total das infovias implantadas no período
+
+Ao final do período (2026) planeja-se ter 18 infovias estaduais, sendo 8 completadas (AC, AL, AP, MA, MT, PB,RN e RO, totalizando 20.000 km) e 10 infovias estaduais em implantação (BA, GO, PA, PE, PI, PR, RR, RS, SC e TO, totalizando mais 20.000 km) em um total de 40.000 km de extensão de fibra óptica interligando polos do interior com as capitais.
+
+Este investimento complementa investimentos já feitos anteriormente pelo MCTI e MCOM de R$70M, ampliando as infovias de PE, RO, RR, e RS.
+"
+ 
+- Percentual de avanço do projeto: Construção de infovia estadual com 5.000 km, no Estado do Mato Grosso
+
+
+"Extensão total das infovias implantadas no período
+
+Ao final do período (2026) planeja-se ter 18 infovias estaduais, sendo 8 completadas (AC, AL, AP, MA, MT, PB,RN e RO, totalizando 20.000 km) e 10 infovias estaduais em implantação (BA, GO, PA, PE, PI, PR, RR, RS, SC e TO, totalizando mais 20.000 km) em um total de 40.000 km de extensão de fibra óptica interligando polos do interior com as capitais.
+
+Este investimento complementa investimentos já feitos anteriormente pelo MCTI e MCOM de R$70M, ampliando as infovias de PE, RO, RR, e RS." 
+- Percentual de avanço do projeto: Construção de infovia estadual com 3.700 km, no Estado do Pará
+
+
+"Extensão total das infovias implantadas no período
+
+Ao final do período (2026) planeja-se ter 18 infovias estaduais, sendo 8 completadas (AC, AL, AP, MA, MT, PB,RN e RO, totalizando 20.000 km) e 10 infovias estaduais em implantação (BA, GO, PA, PE, PI, PR, RR, RS, SC e TO, totalizando mais 20.000 km) em um total de 40.000 km de extensão de fibra óptica interligando polos do interior com as capitais.
+
+Este investimento complementa investimentos já feitos anteriormente pelo MCTI e MCOM de R$70M, ampliando as infovias de PE, RO, RR, e RS." 
+- Percentual de avanço do projeto: Construção de infovia estadual com 2.000 km, no Estado da Paraíba
+
+
+"Extensão total das infovias implantadas no período
+
+Ao final do período (2026) planeja-se ter 18 infovias estaduais, sendo 8 completadas (AC, AL, AP, MA, MT, PB,RN e RO, totalizando 20.000 km) e 10 infovias estaduais em implantação (BA, GO, PA, PE, PI, PR, RR, RS, SC e TO, totalizando mais 20.000 km) em um total de 40.000 km de extensão de fibra óptica interligando polos do interior com as capitais.
+
+Este investimento complementa investimentos já feitos anteriormente pelo MCTI e MCOM de R$70M, ampliando as infovias de PE, RO, RR, e RS." 
+- Percentual de avanço do projeto: Construção de infovia estadual com 800 km, no Estado do Pernambuco
+
+
+"Extensão total das infovias implantadas no período
+
+Ao final do período (2026) planeja-se ter 18 infovias estaduais, sendo 8 completadas (AC, AL, AP, MA, MT, PB,RN e RO, totalizando 20.000 km) e 10 infovias estaduais em implantação (BA, GO, PA, PE, PI, PR, RR, RS, SC e TO, totalizando mais 20.000 km) em um total de 40.000 km de extensão de fibra óptica interligando polos do interior com as capitais.
+
+Este investimento complementa investimentos já feitos anteriormente pelo MCTI e MCOM de R$70M, ampliando as infovias de PE, RO, RR, e RS." 
+- Percentual de avanço do projeto: Construção de infovia estadual com 1.300 km, no Estado do Piauí
+
+"Extensão total das infovias implantadas no período
+
+Ao final do período (2026) planeja-se ter 18 infovias estaduais, sendo 8 completadas (AC, AL, AP, MA, MT, PB,RN e RO, totalizando 20.000 km) e 10 infovias estaduais em implantação (BA, GO, PA, PE, PI, PR, RR, RS, SC e TO, totalizando mais 20.000 km) em um total de 40.000 km de extensão de fibra óptica interligando polos do interior com as capitais.
+
+Este investimento complementa investimentos já feitos anteriormente pelo MCTI e MCOM de R$70M, ampliando as infovias de PE, RO, RR, e RS." 
+- Percentual de avanço do projeto: Construção de infovia estadual com 1.500 km, no Estado de Roraima
+
+"Extensão total das infovias implantadas no período
+
+Ao final do período (2026) planeja-se ter 18 infovias estaduais, sendo 8 completadas (AC, AL, AP, MA, MT, PB,RN e RO, totalizando 20.000 km) e 10 infovias estaduais em implantação (BA, GO, PA, PE, PI, PR, RR, RS, SC e TO, totalizando mais 20.000 km) em um total de 40.000 km de extensão de fibra óptica interligando polos do interior com as capitais.
+
+Este investimento complementa investimentos já feitos anteriormente pelo MCTI e MCOM de R$70M, ampliando as infovias de PE, RO, RR, e RS." 
+- Percentual de avanço do projeto: Construção de infovia estadual com 4.000 km, no Estado do Rio Grande do Sul
+
+"Extensão total das infovias implantadas no período
+
+Ao final do período (2026) planeja-se ter 18 infovias estaduais, sendo 8 completadas (AC, AL, AP, MA, MT, PB,RN e RO, totalizando 20.000 km) e 10 infovias estaduais em implantação (BA, GO, PA, PE, PI, PR, RR, RS, SC e TO, totalizando mais 20.000 km) em um total de 40.000 km de extensão de fibra óptica interligando polos do interior com as capitais.
+
+Este investimento complementa investimentos já feitos anteriormente pelo MCTI e MCOM de R$70M, ampliando as infovias de PE, RO, RR, e RS." 
+- Percentual de avanço do projeto: Construção de infovia estadual com 3.000 km, no Estado de Santa Catarina
+
+"Extensão total das infovias implantadas no período
+
+Ao final do período (2026) planeja-se ter 18 infovias estaduais, sendo 8 completadas (AC, AL, AP, MA, MT, PB,RN e RO, totalizando 20.000 km) e 10 infovias estaduais em implantação (BA, GO, PA, PE, PI, PR, RR, RS, SC e TO, totalizando mais 20.000 km) em um total de 40.000 km de extensão de fibra óptica interligando polos do interior com as capitais.
+
+Este investimento complementa investimentos já feitos anteriormente pelo MCTI e MCOM de R$70M, ampliando as infovias de PE, RO, RR, e RS." 
+- Percentual de avanço do projeto: Construção de infovia estadual com 950 km, no Estado de Tocantins
+
+"Extensão total das infovias implantadas no período
+
+Ao final do período (2026) planeja-se ter 18 infovias estaduais, sendo 8 completadas (AC, AL, AP, MA, MT, PB,RN e RO, totalizando 20.000 km) e 10 infovias estaduais em implantação (BA, GO, PA, PE, PI, PR, RR, RS, SC e TO, totalizando mais 20.000 km) em um total de 40.000 km de extensão de fibra óptica interligando polos do interior com as capitais.
+
+Este investimento complementa investimentos já feitos anteriormente pelo MCTI e MCOM de R$70M, ampliando as infovias de PE, RO, RR, e RS." 
+- Percentual de avanço do projeto: Um enlace implementado no Estado do Acre
+
+Ampliação e construção de novos enlaces para o backbone acadêmico em todas as unidades da federação, interiorizando a alta velocidade aos campi (n x 100Gb/s) de organizações usuárias do Sistema RNP 
+- Percentual de avanço do projeto: Dois enlaces implementados nos Estados do Amazonas e Rondônia 
+
+Ampliação e construção de novos enlaces para o backbone acadêmico em todas as unidades da federação, interiorizando a alta velocidade aos campi (n x 100Gb/s) de organizações usuárias do Sistema RNP 
+- Percentual de avanço do projeto: Dois enlaces implementados nos Estados do Acre e de Rondônia
+
+Ampliação e construção de novos enlaces para o backbone acadêmico em todas as unidades da federação, interiorizando a alta velocidade aos campi (n x 100Gb/s) de organizações usuárias do Sistema RNP 
+- Percentual de avanço do projeto: Um enlace implementado Bahia/Pernambuco
+
+Ampliação e construção de novos enlaces para o backbone acadêmico em todas as unidades da federação, interiorizando a alta velocidade aos campi (n x 100Gb/s) de organizações usuárias do Sistema RNP 
+- Percentual de avanço do projeto: Um enlace implementado Distrito Federal/Rio de Janeiro 
+
+Ampliação e construção de novos enlaces para o backbone acadêmico em todas as unidades da federação, interiorizando a alta velocidade aos campi (n x 100Gb/s) de organizações usuárias do Sistema RNP 
+- Percentual de avanço do projeto: Um enlace implementado São Paulo/Paraná
+
+Ampliação e construção de novos enlaces para o backbone acadêmico em todas as unidades da federação, interiorizando a alta velocidade aos campi (n x 100Gb/s) de organizações usuárias do Sistema RNP 
+- Percentual de avanço do projeto: Um enlace implementado Mato Grosso/Pará
+
+Ampliação e construção de novos enlaces para o backbone acadêmico em todas as unidades da federação, interiorizando a alta velocidade aos campi (n x 100Gb/s) de organizações usuárias do Sistema RNP 
+- Percentual de Crescimento do número de projetos apoiados: Crescimento do número de projetos vigentes no ambito de acordos de cooperação, acordos de parcerias, termos de fomento e TED's para a cooperação nacional e internacional, considerando taxas anuais de 5%, 7,5%, 10% e 12,5%, respectivamente, em relação à linha de base. 
+- Percentual de equipamentos novos, recuperados e/ou modernizados nas regiões N, NE e CO: Percentual de equipamentos novos, recuperados e/ou modernizados nas regiões N, NE e CO 
+- Percentual de implementação do GraNioTer-MCTI: O Laboratório de Materiais Avançados e Minerais Estratégicos (GraNioTer) em implantação no CDTN/CNEN tem como missão contribuir para a pesquisa e o desenvolvimento tecnológico do País, atuando em conjunto com as ICTs nacionais visando o adensamento tecnológico das cadeias produtivas baseadas em materiais avançados e minerais estratégicos com grande demanda global para as próximas décadas, a exemplo do Grafeno, Nióbio e Terras Raras. 
+- Percentual de publicações brasileiras na base Scopus com colaboração internacional: Participação da produção científica nacional em colaboração com parceiros estrangeiros. Acessível em:  https://www.scimagojr.com/countryrank.php 
+- Percentual de recursos de apoio não-reembolsável destinado às regiões Norte, Nordeste e Centro-oeste , voltados à manutenção, recuperação e modernização das infraestruturas de Pesquisa & Desenvolvimento (P&D): Percentual de recursos de apoio não-reembolsável destinado  às regiões Norte, Nordeste e Centro-oeste , voltados à manutenção, recuperação e modernização das infraestruturas de Pesquisa & Desenvolvimento (P&D) 
+- Profissionais capacitados no Curso de Conscientização em Segurança Cibernética: Avaliar quantos alunos matriculados efetivamente concluíram o Curso com aproveitamento. 
+- Publicações técnico-científicas com patrocínio do CNPq: Número total de publicações técnicas e científicas financiadas pelo CNPq e registradas na Base Scopus
+
+
+
+
+ 
+- Valor de investimento para o estabelecimento do centro de excelência em tecnologias críticas para o setor de segurança cibernética nacional: Tem como objeto principal a realização de uma Chamada Pública para seleção de projetos de pesquisa, desenvolvimento e inovação a serem executados nas áreas 5G e 6G, Open RAN, Tecnologias Quânticas, Segurança Cibernética eTecnologias imersivas aplicadas a Mundos virtuais.
+ 
+- Valor do dispêndio orçamentário em programas de PD&I relacionados a tecnologias críticas e emergentes para o setor de segurança cibernética: Valor investido nos projetos de pesquisa, desenvolvimento e inovação com foco em segurança e defesa cibernética.
+ 
+
+Indicadores de Objetivos Específicos:
+- Evolução anual da disponibilização de infraestrutura de P&D: Número de laboratórios ativos cadastrados na Plataforma Nacional de Infraestrutura de Pesquisa - PNIPE 
+- Número de beneficiários atendidos com bolsas do CNPq por 100 mil habitantes: Número de beneficiários atendidos com bolsas do CNPq por 100 mil habitantes
+
+A unidade de medida considera o número de beneficiários atendidos e não a quantidade de bolsas concedidas. A razão para essa escolha está no fato de que uma bolsa pode atender mais que um beneficiário, no caso de substituição de bolsista por motivos previstos em norma. Entende-se que esta medida é mais realista em termos de impacto da ação na formação de recursos humanos. Linha de base = LOA 2022 (janeiro a dezembro).
+
+ 
+- Número de laboratórios voltados à padronização, metrologia, acreditação e avaliação da conformidade fomentados: Somatório da quantidade de laboratórios fomentados. 
+- Número de programas, atividades, instrumentos e projetos resultantes de parcerias formais com instituições nacionais e internacionais: Entende-se por programas e instrumentos: (i) Preparação e/ou negociação de Atos Nacionais e Internacionais (Acordos, Memorandos de Entendimento, Declarações de Intenções, Planos de Ação, Programas de Trabalho e Projetos de Cooperação); ; ii) acordos de cooperação, acordos de parceria, convênios, termos de fomento, TEDs; (iii) Apoio financeiro a atividades de cooperação nacional e internacional e contribuição voluntária a instituições nacionais e internacionais.
+ 
+- Proporção entre as citações das publicações brasileiras e o total mundial de citações: Computo de citações médias dos artigos indexados do Brasil em relação ao observado no mundo
+ 
+- Volume de Recursos Aplicados em Projetos de Pesquisa, Desenvolvimento, Inovação e Capacitação em Segurança Cibernética: Recursos alocados em projetos de pesquisa, desenvolvimento, inovação e capacitação em segurança cibernética no âmbito do Programa e Projeto Prioritário de Interesse Nacional (PPI) da Lei de TICs

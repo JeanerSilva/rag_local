@@ -1,0 +1,95 @@
+passage: Programa: Programa Espacial Brasileiro
+
+Descrição do Problema:
+Indisponibilidade de soluções espaciais autônomas para atendimento sustentado a demandas da sociedade.
+
+Causa do Problema:
+Falta de cadência de projetos;
+Capital humano do setor espacial insuficiente;
+Perda de capital humano do setor espacial por falta de reposição; 
+Infraestrutura insuficiente e baixa manutenção das existentes;
+Atraso tecnológico; 
+Instabilidade do fluxo orçamentário para consecução dos projetos e fluxo mínimo insuficiente; 
+Fluxo mínimo orçamentário insuficiente; 
+Baixo poder de compra do Estado junto ao setor espacial nacional; 
+Capacidade indutora do Estado limitada; 
+Ambiente de negócios desfavorável; 
+Indústria nacional espacial incipiente; 
+Pouca visibilidade da agenda CTI; 
+Sociedade não conhece/valoriza os benefícios do programa espacial brasileiro e sua relação com outras políticas públicas (pouca compreensão do caráter transversal do PEB); 
+Ações pulverizadas e baixa coordenação; 
+Baixa articulação com outros programas de governo;
+Legislação específica inadequada.
+Baixa articulação com outros programas de governo;
+Falta de decisão política na priorização de investimentos no setor espacial;
+Exercício limitado da capacidade indutora do Estado na agenda espacial;
+Embargos de tecnologias espaciais e consequente dependência externa;
+
+Evidências do Problema:
+Em 2018 a AEB conduziu uma ampla pesquisa de identificação e análise de demandas nacionais ao setor espacial, coletando informações junto a especialistas usuários de sistemas espaciais no país. O estudo indicou a importância estratégica de dados, que são em sua maioria fornecidos por satélites estrangeiros. A pesquisa sondou ainda sobre demandas que não são plenamente atendidas por falta de infraestrutura espacial. Em 2021, foi instituído um Grupo Técnico do Comitê de Desenvolvimento do Programa Espacial Brasileiro (CDPEB), por meio da Resolução nº 15, de 25 de março de 2021, do Gabinete de Segurança Institucional da Presidência da República, com a finalidade de identificar demandas do Executivo Federal por serviços espaciais e realizar estudos sobre o equacionamento do orçamento da União para atendimento a essas necessidades. O mencionado Grupo Técnico, comumente referido como GT-15, avançou a análise de demandas federais por produtos e serviços espaciais. Foram identificadas mais de mil demandas por produtos e serviços espaciais por diferentes Ministérios, os quais informaram ainda um gasto anual de cerca de 860 milhões de reais para a aquisição de produtos e serviços espaciais. Dentre as demandas negativamente impactadas pela falta de infraestrutura espacial foram citadas: Identificação de alvos operacionais em ações de inteligência; Acompanhamento de estruturas críticas e/ou obras de infraestrutura; Gestão espacial de sítios arqueológicos; Geração das declividades em áreas de perigo e risco de movimentos de massa e inundações; Atendimento a emergências e catástrofes; Monitoramento local de extração mineral; Conservação e uso sustentável da biodiversidade; Estudos de inventário hidrelétrico de Bacias Hidrográficas e estudos de viabilidade de usinas hidrelétricas; entre outros.
+
+Justificativa para a Intervenção:
+Os produtos e serviços espaciais são indispensáveis à sociedade moderna, com impacto no dia-a-dia da população e no desenvolvimento do país. Embora nem sempre perceptível ao cidadão, a utilização de sistemas espaciais é imprescindível para áreas como previsão de tempo, telecomunicações, navegação, entre outras que concorrem para o desenvolvimento nacional. Em suma, a infraestrutura espacial habilita e amplia a efetividade de políticas públicas estratégicas ao Estado brasileiro. Numa perspectiva internacional, as características geoeconômicas do Brasil, como a extensão territorial, as fronteiras e costa marítima, regiões de florestas e o significativo volume de recursos naturais, fazem com que a aplicação da tecnologia espacial seja muito relevante. Assim, a política espacial nacional aponta a necessidade de desenvolver no país a capacidade para, segundo conveniência e critérios próprios, utilizar recursos e técnicas espaciais em benefício da sociedade brasileira.  
+
+Evolução Histórica:
+O Brasil busca a consolidação de seu Programa Espacial por meio de um amplo espectro de ações. As políticas públicas voltadas ao desenvolvimento das atividades espaciais permitiram ao Brasil possuir atualmente seis satélites operando em órbita: SCD-1, SCD-2, CBERS-4, CBERS-4A, AMZ-1 e o SGDC.  Estes satélites estão longe de abarcar as demandas colocadas pela sociedade, fazendo com que a maior parte dos serviços espaciais necessários ao país sejam atendidos por satélites desenvolvidos e lançados no exterior. Todos os satélites brasileiros foram levados à órbita a partir de centros de lançamento no exterior e com veículos lançadores estrangeiros. Embora o país possua dois centros de lançamento, o Brasil ainda não tem  capacidade de lançamento de satélites. Atualmente, na vertente de acesso ao espaço, o Veículo Lançador de Microssatélites – VLM, em fase de desenvolvimento, por ser passo tecnológico fundamental para o ganho da autonomia espacial, figura como estratégico no futuro do desenvolvimento das atividades espaciais nacionais. Na vertente de satélites, a recente entrada em operação do satélite Amazonia 1 (em 2021), baseado na Plataforma Multimissão - PMM, com projeto, desenvolvimento, engenharia de sistemas, integração, testes e operação  totalmente realizado pelo Brasil, representou um marco histórico nas atividades espaciais nacionais. A validação da PMM faz parte de um processo contínuo de ganho de maturidade no país para o desenvolvimento de missões espaciais de interesse, como missões de observação da Terra, missões científicas, entre outras. Dessa forma, espera-se que as  novas missões baseadas na PMM em andamento ou em planejamento se utilizem do conceito do reuso, o que se traduz em  redução de custos, prazos e riscos de desenvolvimento. Na mesma linha, novas plataformas multimissão, aproveitando os conhecimentos adquiridos a partir do desenvolvimento da PMM, estão em desenvolvimento.
+
+
+Comparações Internacionais:
+O Programa Espacial visa consolidar no país a capacidade para desenvolver e fabricar sistemas espaciais em prol da sociedade. Isto seria alcançado mediante um ganho de maturidade e estabelecimento da indústria nacional, o que depende da cadência de projetos, mobilizando o setor com o poder de compra do Estado. Com investimentos decrescentes, enfrentam-se dificuldades que prejudicam a maturação do setor espacial no Brasil. Ao se considerar os dois anos iniciais do Programa Nacional de Atividades Espaciais vigente (PNAE 2022-2031), de 2022 a 2023, a soma do orçamento destinado ao Programa Espacial foi de aproximadamente US$ 51 milhões, R$ 78 milhões em 2022 e R$ 167 milhões em 2023. A título de comparação,a Argentina, país vizinho com economia menor que a brasileira, investiu cerca de US$ 200 milhões no seu programa espacial em 2016. No cenário internacional mais amplo, apenas em 2022, o gasto estatal civil foi de US$ 24,04 bilhões para a Agência Espacial Americana (Nasa); US$ 11,9 bilhões para a Agência Espacial Chinesa (CNSA); US$ 7,15 bilhões para a Agência Espacial Europeia (ESA); US$ 4,14 bilhões para a Agência Espacial Japonesa (JAXA); US$ 3,9 bilhões para a Agência Espacial Russa; US$ 2,8 bilhões para a Agência Alemã (DLR); US$ 2,79 bilhões para a Agência Espacial Francesa (CNES); US$ 3,9 bilhões para a Agência Espacial Russa;  e US$ 1,67 bilhão para a Agência Espacial Indiana (ISRO).
+
+Relação com os ODS:
+Objetivo 9: Construir infraestruturas resilientes, promover a industrialização inclusiva e sustentável e fomentar a inovação;
+Objetivo 13. Adotar medidas urgentes para combater as alterações climáticas e os seus impactos
+
+Agentes Envolvidos:
+Órgãos do Sistema Nacional de Desenvolvimento das Atividades Espaciais - SINDAE (DECRETO Nº 1.953, DE 10 DE JULHO DE 1996): AEB/MCTI, INPE/MCTI e DCTA/FAB; Órgãos apontados no Conselho Nacional do Espaço e no Comitê de Desenvolvimento do Programa Espacial Brasileiro (DECRETO Nº 11.224, DE 5 DE OUTUBRO DE 2022 e DECRETO Nº 9.839, DE 14 DE JUNHO DE 2019): Casa Civil/Presidência da República, Gabinete de Segurança Institucional/Presidência da República, Ministério das Relações Exteriores, Ministério de Ciência Tecnologia e Inovações, Ministério das Comunicações, Ministério da Defesa, Ministério do Planejamento e Orçamento, Advocacia Geral da União;
+
+Enfoque Transversal:
+Por natureza, o Programa Espacial não é um fim em si mesmo, mas uma infraestrutura nacional capaz de atender às mais diferentes políticas públicas. Ao se selecionar e adotar uma missão espacial para execução pelo Programa Espacial, é definido o público alvo e objetivo específico de cada missão. Apesar do amplo alcance (o setor espacial pode entregar missões espaciais capazes de beneficiar a todos os setores), o PNAE 2022-2031 apontou alguns setores chave, com maior potencial de ampliar a efetividade do emprego de infraestruturas espaciais. São eles: Infraestrutura, em especial na vertente de transporte, de energia e de comunicação; Agropecuária; Mineração; Meio Ambiente; Educação; Defesa Civil; Segurança Pública; e Defesa Nacional.
+Além dos transbordamentos do Programa Espacial Brasileiro para outros setores, identificam-se também outras políticas que corroboram com o setor espacial. É o caso da política industrial, que, como exemplo, durante a primeira reunião do comitê executivo do Conselho Nacional de Desenvolvimento Industrial (CNDI) apontou uma missão para "Tecnologias críticas para a soberania e a defesa nacionais", que tratará de desenvolver, fabricar e lançar satélites (https://www.gov.br/mdic/pt-br/assuntos/noticias/2023/maio/comite-executivo-do-cndi-define-missoes-para-construcao-da-politica-industrial).
+
+Agendas Transversais:
+1) Mulheres;
+2) Crianças e Adolescentes. 
+
+
+Marco Legal:
+Art. 218 da Constituição Federal – Conforme previsto no artigo, cabe ao Estado promover e incentivar o desenvolvimento científico, a pesquisa, a capacitação científica e tecnológica e a inovação. Na área espacial, a Agência Espacial Brasileira - AEB, criada pela Lei nº 8.854/94, tem o papel de zelar pelo cumprimento da Política Nacional de Atividades Espaciais, formalizada pelo Decreto nº 1.332/94, sendo a AEB o órgão central do Sistema Nacional de Atividades Espaciais, criado pelo Decreto nº 1.953/96. As competências da AEB e sua estrutura regimental estão definidas no Decreto nº 11.192, de 8 de setembro de 2022. Como instâncias relacionadas à governança das atividades espaciais, citam-se ainda o Conselho Nacional do Espaço, instituído pelo Decreto nº 11.224, de 5 de outubro de 2022, e o Comitê de Desenvolvimento do Programa Espacial Brasileiro, conforme Decreto nº 9.839, de 14 de junho de 2019.
+
+Planos Nacionais, Setoriais e Regionais:
+Programa Nacional de Atividades Espaciais (PNAE 2022-2031 - https://www.gov.br/aeb/pt-br/programa-espacial-brasileiro/politica-organizacoes-programa-e-projetos/programa-nacional-de-atividades-espaciais); Estratégia Nacional de Ciência, Tecnologia e Inovação (Diretrizes para a elaboração da ENCTI 2023-2030 na PORTARIA MCTI Nº 6.998, DE 10 DE MAIO DE 2023 - https://www.in.gov.br/web/dou/-/portaria-mcti-n-6.998-de-10-de-maio-de-2023-482405343).
+
+Objetivo Geral:
+- Ampliar a disponibilidade e competitividade de soluções espaciais na forma de produtos, serviços, infraestrutura e aplicações para atendimento às demandas da sociedade de forma autônoma e sustentada.
+
+Objetivos Específicos:
+- Ampliar a entrega de produtos, serviços e aplicações espaciais para atender a demandas prioritárias da sociedade
+- Buscar autonomia científica, tecnológica e operacional na área espacial
+
+Indicadores de Entrega:
+- Ambiente de gestão de imagens e dados espaciais implantado: O indicador representa o avanço percentual da atualização e expansão do ambiente de gestão de imagens e dados espaciais.  
+- Elevar o número de chamadas lançadas para missões científicas: O indicador mensura o número de chamadas lançadas pelo CNPq para apoio a missões científicas no período do PPA. 
+- Elevar o percentual de avanço da tecnologia de motor foguete a propelente líquido no período do PPA: O indicador mensura o avanço percentual do desenvolvimento de Motor Foguete a Propelente Líquido (MFPL) no período do PPA.O MFPL é um desenvolvimento necessário para que se atinja a capacidade de lançamento prevista no Programa Nacional de Atividades Espaciais 2022-2031 (PNAE 2022-2031). 
+- Número de aplicações espaciais desenvolvidas ou atualizadas e entregues: O indicador mensura o número de aplicações espaciais desenvolvidas ou atualizadas e entregues no período do PPA. 
+- Número de Autorizações de Lançamento emitidas no período do PPA: O indicador mensura o número de autorizações de lançamento emitidas no período do PPA, para que operadores nacionais e internacionais realizem lançamentos a partir de Centros de Lançamento Nacionais.  
+- Número de Campanhas de Lançamento de Balões Estratosféricos: O indicador mensura o número de campanhas de lançamento de balões estratosféricos realizadas no período do PPA.  
+- Número de chamadas lançadas para desenvolvimento tecnológico: O indicador mensura número de chamadas lançadas pelo CNPq para desenvolvimento tecnológico no setor espacial no período do PPA. 
+- Número de empresas, ICTs e órgãos capacitados: O indicador mensura o número de entidades capacitadas para o desenvolvimento de aplicações espaciais no período do PPA. 
+- Número de empresas, ICTs e órgãos fomentados: O indicador mensura o número de entidades fomentadas para o desenvolvimento de aplicações espaciais no período do PPA. 
+- Número de estudos estratégicos para o setor espacial realizados no período do PPA:  O indicador mensura o número estudos estratégicos realizados no período do PPA que colaborem para o aprimoramento do planejamento e da governança do setor espacial e para o desenvolvimento das atividades espaciais nacionais. 
+- Número de iniciativas de capacitação implementadas: O indicador mensura o número de iniciativas de capacitação de recursos humanos implementadas no período do PPA.  
+- Número de iniciativas de promoção da utilização de produtos e serviços espaciais para atendimento a demandas nacionais: O indicador mensura o número de iniciativas de promoção da utilização de produtos e serviços espaciais para atendimento a demandas nacionais, durante o período do PPA. 
+- Número de missões espaciais acadêmicas ou tecnológicas desenvolvidas no período do PPA: O indicador mensura o número de missões espaciais acadêmicas ou tecnológicas desenvolvidas no período do PPA. 
+- Número de produtos e processos voltados a tecnologias espaciais testados e documentados ao menos em laboratório no período do PPA: O indicador mensura o número de produtos e processos voltados a tecnologias espaciais testados e documentados ao menos em laboratório, no período do PPA. 
+- Percentual de avanço do desenvolvimento da tecnologia de subsistema para plataformas de satélites: O indicador mensura o avanço percentual do desenvolvimento de subsistema para plataformas de satélites 
+- Percentual de avanço do projeto de implantação do centro de lançamento: O indicador mensura o percentual de avanço do projeto de implantação do Centro Espacial de Alcântara.
+ 
+- Percentual de avanço no desenvolvimento da missão espacial do tipo SAR: O indicador mensura o percentual de avanço do desenvolvimento do satélite CBERS 6, satélite do tipo Radar de Abertura Sintética para atendimento a demandas nacionais, desenvolvido em parceria com a China no âmbito do Programa CBERS. O indicador parte de 0, pois o texto do Protocolo Complementar sobre o Desenvolvimento Conjunto do CBERS-6 entre o Governo da República Federativa do Brasil e o Governo da República Popular da China ao "Acordo-Quadro sobre Cooperação em Aplicações Pacíficas de Ciência e Tecnologia do Espaço Exterior entre o Governo da República Federativa do Brasil e o Governo da República Popular da China", assinado em Pequim, em 14 de abril de 2023, foi aprovado pelo Congresso Nacional por meio do Decreto Legislativo Nº 274, em 23 de dezembro de 2024.  
+- Percentual de avanço no desenvolvimento de missão científica: O indicador mensura o percentual de avanço de missão científica Nanomirax. 
+- Percentual de avanço no desenvolvimento de missão de sensoriamento remoto: O indicador mensura o percentual de avanço do desenvolvimento do satélite Amazonia 1B, que irá compor o primeiro satélite da Missão AQUAE de média resolução e o satélite brasileiro da Missão Sabia-Mar. O indicador parte de 20%, pois a missão utilizará a Plataforma Multimissão (PMM) como módulo de serviço, a qual já se encontrava em desenvolvimento em período anterior ao do PPA.  
+- Percentual do avanço do projeto do veículo lançador nacional: O indicador mensura o percentual do avanço do projeto do veículo lançador nacional 
+
+Indicadores de Objetivos Específicos:
+- Incremento do número de produtos, serviços e aplicações nacionais entregues: O indicador mensura o incremento de soluções espaciais nacionais implementadas no período do PPA para atendimento de demandas da sociedade e em contribuição a outras políticas públicas. 
+- Percentual de avanço em rotas tecnológicas: O indicador mensura o avanço percentual obtido em rotas tecnológicas para o domínio de plataformas multimissão em satélite e para o desenvolvimento de veículo lançador nacional com motor foguete a propelente líquido. Esse avanço será obtido em duas rotas tecnológicas, uma para a área de veículos lançadores e uma para a área de satélites. No caso de veículos lançadores, a meta corresponde ao desenvolvimento da tecnologia de motor a propelente líquido: desenvolvimento necessário para que se atinja a capacidade de lançamento prevista no Programa Nacional de Atividades Espaciais 2022-2031 (PNAE 2022-2031). No caso de satélites, a meta corresponde ao desenvolvimento da tecnologia do subsistema de controle de atitude e tratamento de dados da Plataforma Multimissão (PMM), utilizada em diversos satélites propostos no âmbito do PNAE 2022-2031.

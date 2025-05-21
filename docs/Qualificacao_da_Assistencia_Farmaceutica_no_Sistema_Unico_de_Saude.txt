@@ -1,0 +1,138 @@
+passage: Programa: Qualificação da Assistência Farmacêutica no Sistema Único de Saúde
+
+Descrição do Problema:
+Baixa qualificação dos serviços farmacêuticos e dificuldades no acesso dos usuários aos medicamentos e insumos estratégicos, no âmbito da assistência farmacêutica, do Sistema Único de Saúde.
+
+Causa do Problema:
+- Aumento crescente da demanda de medicamentos e insumos estratégicos em virtude dos aspectos epidemiológicos e sociodemográficos da população brasileira. 
+- Cobertura inadequada dos serviços de assistência farmacêutica.   
+- Percepção reducionista da Assistência Farmacêutica, focada no abastecimento, aquisição e distribuição de medicamentos, ante ao papel protagonista do cuidado farmacêutico (prescrição, dispensação e do uso racional de medicamentos) na assistência à saúde nas redes de atenção à saúde. 
+- Ausência de diretrizes nacionais para o desenvolvimento dos serviços e do cuidado farmacêutico no SUS.  
+- Deficiência na elaboração, atualização, disseminação e utilização de diretrizes clínicas para o desenvolvimento do cuidado farmacêutico no SUS.   
+- Subutilização de recursos terapêuticos de práticas integrativas e complementares, a exemplo de plantas medicinais e fitoterápicos. 
+- Dificuldade de acesso aos medicamentos, insumos estratégicos e serviços farmacêuticos pela população brasileira.  
+- Baixa qualificação das ações e dos serviços da assistência farmacêutica, impactando negativamente na atenção à saúde e no uso racional de medicamentos. 
+- Descontinuidade na ampliação de programas e projetos estratégicos para a assistência farmacêutica no SUS como Qualifar-SUS e Farmácia Popular.  
+- Desalinhamento das prescrições de medicamentos frente aos elencos estabelecidos na Relação Nacional de Medicamentos (RENAME) e pactuações de protocolos clínicos nos diferentes níveis de atenção.  
+- Concentração da oferta do Programa Farmácia Popular do Brasil nos grandes centros urbanos.   
+- Desigualdade regional na distribuição de farmácias credenciadas ao Programa Farmácia Popular do Brasil.  
+- Monitoramento insatisfatório das farmácias cadastradas no programa Farmácia Popular do Brasil. 
+- Processo de credenciamento de farmácias do Programa Farmácia Popular do Brasil suspenso desde 2014. 
+- Desigualdade na presença de estabelecimentos privados entre as regiões geográficas. 
+- Baixo poder de compra por parte dos entes em aquisições isoladas em virtude da perda de escala e fatores regionais. 
+- Ausência de ações para o fortalecimento de consórcios e compras públicas compartilhadas na assistência farmacêutica. 
+- Dificuldades na aplicação dos recursos para ações de qualificação da assistência farmacêutica nos três níveis de gestão no SUS. 
+- Deficiência de política de educação permanente da Assistência aos profissionais e gestores de saúde. 
+- Falhas na operabilidade dos sistemas e da Base Nacional de Dados e Serviços da Assistência Farmacêutica, impossibilitando o monitoramento da gestão e da elaboração de indicadores nacionais, regionais e locais. 
+- Recursos insuficientes para ampliação de programas e projetos estruturantes da assistência farmacêutica nas três esferas de gestão do SUS. 
+- Falhas nos processos após incorporação de medicamentos que dificultam a previsões orçamentárias dos entes. 
+- Falhas na gestão da assistência farmacêutica nos três níveis de gestão do SUS. 
+- Fragmentação de ações e serviços da assistência farmacêutica e fragilidade na capacidade de gestão articulada dos entes nas redes de atenção à saúde. 
+- Dificuldades regulatórias nacionais e internacionais diante das práticas abusivas de preços do mercado farmacêutico. 
+- Dependência internacional de insumos para produção nacional de medicamentos e produtos para saúde. 
+- Dificuldades na aplicação dos recursos para a ações de qualificação da assistência farmacêutica nos três níveis de gestão no SUS.  
+- Necessidade de revisão dos modelos de financiamento ou de sub-financiamento das ações de qualificação da assistência farmacêutica, no que se refere a estruturação, informação, educação, serviço e acesso.    
+- Baixa qualidade nas informações sobre o planejamento e gestão da assistência farmacêutica no SUS.  
+- Dificuldade no desenvolvimento de sistemas de informação e descontinuidade e/ou suporte tecnológico inadequado aos sistemas existentes.
+- Precariedade no suporte e no desenvolvimento de soluções tecnológicas para a gestão da informação e comunicação no âmbito da assistência farmacêutica.  
+- Baixa qualidade da informação prestada pelos entes. 
+- Falhas no processo de programação, aquisição e distribuição de medicamentos e insumos estratégicos (vacinas e kits laboratoriais). 
+- Falhas de logística nos serviços de assistência farmacêutica especializada, dificultando o atendimento dos usuários. 
+- Vazios assistenciais. 
+
+Evidências do Problema:
+-
+
+Justificativa para a Intervenção:
+Diante do cenário recente, agravado pela pandemia da covid-19 e seus impactos na situação epidemiológica do Brasil, dos problemas alusivos à assistência farmacêutica no SUS e suas causas, , é plausível garantir o acesso ampliado da população a serviços farmacêuticos qualificados e aos medicamentos e insumos estratégicos no âmbito do SUS com abastecimento tempestivo e resolutivo, por meio de diferentes estratégias e parcerias, a fim de que haja maior eficiência na assistência à saúde, com eficácia e efetividade, observando o uso racional de medicamentos e as especificidades regionais.
+
+Evolução Histórica:
+No intuito de garantir as prioridades estabelecidas nas Política Nacional de Medicamentos (PNM), na Política Nacional de Assistência Farmacêutica (PNAF) e na Política e Programa Nacional de Plantas Medicinais e Fitoterápicos (PNPMF), percebe-se que houve uma evolução dos gastos com a assistência farmacêutica no país, e especialmente, no âmbito do Ministério da Saúde, no intuito de apoiar, com diferentes estratégias, o acesso aos medicamentos, insumos e serviços farmacêuticos, complementarmente às aquisições e serviços dos demais entes. Essa evolução da aplicação de recursos na assistência farmacêutica sai, em 2014, de 8,64 bilhões de reais para um orçamento programado em 2023 de cerca de 16,02 bilhões de reais, em valores nominais. 
+De acordo com o Sistema de Informação sobre Orçamento Público na Saúde (SIOPS), as despesas empenhadas em 2021, por exemplo, o percentual da despesa pública com medicamentos frente ao total de despesas com ações e serviços de Saúde entre entes federados, chegou a 19,43%. Mesmo com esse grau de aplicação de recursos, é fundamental qualificar cada vez mais essa aplicação de recursos públicos, especialmente no âmbito da União, porém, nos últimos 4 anos, principalmente pelos impactos ocasionados pela Pandemia da covid-19, ficou evidente a dependência internacional do país para insumos e matérias primas básicas para a produção nacional, o que impactou significativamente nos orçamentos dos entes em virtude dos preços praticados no mercado nacional e internacional, muito acima do normal quando comparado com os anos anteriores à pandemia.  A partir de 2010 o Ministério da Saúde, articulado com o CONASS e CONASEMS, passaram a pactuar diferentes estratégias em apoio a qualificação dos serviços farmacêuticos no SUS, no entanto, algumas estratégias e programas estagnaram nos últimos anos a exemplo do Farmácia Popular do Brasil que reduziu a meta de ampliação do credenciamento de farmácias privadas de 90% para 81% em virtude de problemas na gestão e monitoramento do Programa. Da mesma forma, o QUALIFAR-SUS - Programa Nacional de Qualificação da Assistência Farmacêutica  - desde 2019 não habilita novos municípios e os sistemas de informação, como o Hórus, e o próprio Farmácia Popular sofreram descontinuidades nas suas evoluções tecnológicas, impactando diretamente no processo de monitoramento e avaliação da área.  Outro aspecto relevante que demonstrou a importância destes programas e estratégias governamentais para garantia do acesso foi a Pesquisa Nacional sobre o Acesso, Utilização e Promoção do Uso Racional de Medicamentos no Brasil (PNAUM), que apontou como o cidadão ampliou as possibilidades de acesso aos medicamentos no SUS, seja no setor público e/ou de forma complementar no setor privado, por meio do Programa Farmácia Popular do Brasil, especialmente aqueles medicamentos de gratuidade para tratamento de doenças como asma, hipertensão e diabetes. 
+
+Comparações Internacionais:
+-
+
+Relação com os ODS:
+Objetivos: 
+ 3.8 Assegurar, por meio do Sistema Único de Saúde (SUS), a cobertura universal de saúde, o acesso a serviços essenciais de saúde de qualidade em todos os níveis de atenção e o acesso a medicamentos e vacinas essenciais seguros, eficazes e de qualidade que estejam incorporados ao rol de produtos oferecidos pelo SUS. 
+3.b Apoiar a pesquisa e o desenvolvimento de tecnologias e inovações em saúde para as doenças transmissíveis e não transmissíveis, proporcionar o acesso a essas tecnologias e inovações incorporadas ao SUS, incluindo medicamentos e vacinas, a toda a população.  
+
+Indicadores:
+.8.1 - Cobertura da Atenção Primária à Saúde (definida como a cobertura média dos cuidados de saúde primários aferida por indicadores relativos a saúde reprodutiva, materna, neonatal e infantil, doenças infecciosas, doenças não transmissíveis, e sobre o acesso e capacidade dos serviços, junto da população geral e das populações mais desfavorecidas). 
+3.b.3 - Proporção de estabelecimentos de saúde que dispõem de um conjunto básico de medicamentos essenciais e relevantes disponíveis e a custo acessível numa base sustentável. 
+
+Agentes Envolvidos:
+União, Estados e DF, Municípios;
+Entidades públicas e privadas;
+Conselhos de saúde, CONASS, CONASEMS; 
+Organismos Internacionais;
+Instituições de ensino e pesquisa;
+Laboratórios farmacêuticos oficiais;
+Anvisa,;
+Ministério da Saúde. 
+
+Articulação Federativa:
+-
+
+Enfoque Transversal:
+Políticas e programas do complexo econômico produtivo e industrial da saúde; de pesquisa, desenvolvimento e inovação; de Gestão de Tecnologias em Saúde; de Saúde Digital; do Sistema Prisional; da Saúde da Mulher; da Saúde Indígena; das Práticas Integrativas e Complementares no SUS; de Controle da Tuberculose; de Hanseníase; de HIV/AIDS; de Tabagismo; de Diabetes; de Calamidade Pública.   
+
+Marco Legal:
+Constituição Federal de 1988 (art. 196 a 200).   
+Lei nº 8.080, de 19 de setembro de 1990, que dispõe sobre os princípios a serem obedecidos na execução de ações e serviços públicos de saúde no âmbito do Sistema Único de Saúde (SUS), especialmente a universalidade, a integralidade e a igualdade da assistência à saúde, sem preconceitos ou privilégios de qualquer espécie.   
+Resolução do Conselho Nacional de Saúde nº 338, de 26 de maio de 2004, que aprova a Política Nacional de Assistência Farmacêutica. 
+Lei nº 12.401, de 28 de abril 2011, que dispõe sobre a assistência terapêutica e a incorporação de tecnologia em saúde no âmbito do SUS.   
+Portaria de Consolidação GM/MS nº 2, de 28 de setembro de 2017, em seu Anexo 1 do Anexo XXVII, que institui a Política Nacional de Medicamentos e outras disposições sobre os componentes da assistência farmacêutica.   
+Portaria de Consolidação GM/MS nº 6, de 28 de setembro de 2017.   
+Decreto N° 5.813, de 22 de junho de 2006, que aprova a Política Nacional de Plantas Medicinais e Fitoterápicos.  
+Portaria interministerial N° 2.960, de 9 de dezembro de 2008, que aprova o Programa Nacional de Plantas Medicinais e Fitoterápicos.   
+Portaria GM/MS nº 3.677, de 29 de setembro de 2022, que Altera a Portaria de Consolidação GM/MS nº 5, de 28 de setembro de 2017, e amplia a cobertura do Programa Farmácia Popular do Brasil - PFPB.  
+
+Planos Nacionais, Setoriais e Regionais:
+-
+
+Objetivo Geral:
+- Ampliar o acesso da população aos medicamentos, insumos estratégicos e serviços farmacêuticos, qualificando a assistência farmacêutica, articulada à pesquisa, à inovação e à produção nacional, regulação, com qualidade e uso adequado no Sistema Único de Saúde, reduzindo as iniquidades.
+
+Objetivos Específicos:
+- Ampliar o acesso da população a medicamentos e insumos estratégicos do elenco do Programa Farmácia Popular do Brasil.
+- Proporcionar o acesso a medicamentos e insumos estratégicos de aquisição centralizada no âmbito dos componentes Básico, Estratégico e Especializado da Assistência Farmacêutica do SUS.
+- Ampliar o acesso aos serviços de cuidado farmacêutico no âmbito do SUS.
+- Fortalecer os serviços gerenciais e assistenciais nos estados e municípios habilitados no Programa Nacional de Qualificação da Assistência Farmacêutica como estratégia de qualificação do acesso aos medicamentos e atenção à saúde.
+- Promover o acesso, a inovação e a produção de medicamentos de qualidade por meio do reconhecimento do Brasil como autoridade referência para a Organização Mundial da Saúde.
+
+Indicadores de Entrega:
+- Número de Centros de Referência de Plantio e Beneficiamento de Plantas Medicinais e Fitoterápicos com implantação apoiada: Os Centros de Referência em Plantas Medicinais e Fitoterápicos (CRPFM) tem o objetivo de servir de apoio à estruturação e funcionamento das farmácias vivas da sua região, como o fornecimento de plantas medicinais identificadas botanicamente, capacitação da equipe técnicas das unidades, promoção no uso seguro, dentre outras. Nesse sentido, este indicador procura medir o quantitativo de implantação destes centros nas cinco regiões do país. 
+- Número de condições clínicas atendidas por serviços de cuidado farmacêutico no âmbito dos Componentes da Assistência Farmacêutica: Mede o número de condições clínicas atendidas por serviços de cuidado farmacêutico no âmbito dos Componentes da Assistência Farmacêutica.
+
+O IR informado pelo Departamento de fato é Zero (jun/2023) - não está faltando 
+- Número de Estados, Distrito Federal e municípios com o serviço de cuidado farmacêutico estruturado em farmácias das Redes de Atenção à Saúde do SUS: Este indicador busca medir o serviço de cuidado farmacêutico estruturado em estabelecimentos de saúde com farmácias na Redes de Atenção à Saúde do SUS em, no mínimo, uma farmácia do componente especializado por estado e uma farmácia de estabelecimento da Atenção Primária em Saúde - APS por município. 
+- Número de fármacos e insumos estratégicos do Componente Básico da Assistência Farmacêutica adquiridos: Número de fármacos e insumos estratégicos listados na Relação Nacional de Medicamentos - Rename, dos componentes Básico, cuja aquisição de medicamentos é de responsabilidade do Ministério da Saúde. A lista é atualizada de acordo com as novas inclusões aprovadas na Conitec e pactuadas na Comissão Intergestores Tripartite. A atualização da Rename é frequente no Portal da Saúde e sua publicação é a cada dois anos. 
+- Número de fármacos e insumos estratégicos do Componente Especializado da Assistência Farmacêutica adquiridos: Número de fármacos e insumos estratégicos listados na Relação Nacional de Medicamentos - Rename, do componente especializado, cuja aquisição de medicamentos é de responsabilidade do Ministério da Saúde. A lista é atualizada de acordo com as novas inclusões aprovadas na Conitec e pactuadas na Comissão Intergestores Tripartite. A atualização da Rename é frequente no Portal da Saúde e sua publicação é a cada dois anos. 
+- Número de fármacos e insumos estratégicos do Componente Estratégico da Assistência Farmacêutica adquiridos: Número de fármacos e insumos estratégicos listados na Relação Nacional de Medicamentos - Rename, do componente estratégico, cuja aquisição de medicamentos é de responsabilidade do Ministério da Saúde. A lista é atualizada de acordo com as novas inclusões aprovadas na Conitec e pactuadas na Comissão Intergestores Tripartite. A atualização da Rename é frequente no Portal da Saúde e sua publicação é a cada dois anos.			
+ 
+- Número de medicamentos e correlatos incluídos no sistema de gratuidade do Programa Farmácia Popular do Brasil: O indicador mede a quantidade de medicamentos e correlatos do elenco do Programa Farmácia Popular do Brasil disponibilizados de forma gratuita nas farmácias credenciadas pelo Programa. Podem ser incluídos os medicamentos existentes no sistema de co-pagamento do Programa ou novos medicamentos. 
+- Número de municípios e/ou estados com assistência farmacêutica qualificada em fitoterápicos: Este indicador pretende medir o quantitativo de municípios e/ou estados com assistência farmacêutica em plantas medicinais e fitoterápicos qualificada, com ênfase especial nas Farmácias Vivas. 
+- Número de novas indicações incluídas no Programa Farmácia Popular do Brasil: Este indicador tem como propósito medir as novas indicações incluídas no elenco do Programa Farmácia Popular do Brasil. Na atualidade, o programa possui 11 patologias, sendo 5 na modalidade gratuidade (asma, diabetes, hipertensão, anticoncepção e osteoporose) e 6 na modalidade gratuidade (dislipidemia, doença de Parkinson, glaucoma, incontinência, rinite e diabetes melitus + doença cardiovascular (>65 anos)).  
+- Número de novos municípios habilitados no eixo estrutura do Programa Qualifar-SUS, conforme pactuação tripartite: Calcula o número de novos municípios habilitados no eixo estrutura do Programa de Qualificação da Assistência Farmacêutica do SUS. A habilitação neste eixo é a porta de entrada para a qualificação dos serviços de cuidado farmacêutico da assistência farmacêutica nas Redes de Atenção à Saúde do SUS. As novas habilitações são pactuadas na Comissão Intergestores Tripartite. 
+- Número de secretarias estaduais e municipais de saúde apoiadas para implantação de Farmácias Vivas: As farmácias vivas realizam localmente todas as etapas para a produção de fitoterápicos, desde o cultivo das plantas medicinais, até o produto acabado aos usuários do SUS. Os fitoterápicos preparados nas farmácias vivas atendem as demandas e interesses locais, articulando saberes e práticas nos territórios. Assim, este indicador busca medir o número de novas farmácias vivas implantadas pelas Secretarias Municipais e Estaduais apoiadas pelo Ministério da Saúde. 
+- Número de usuários atendidos a partir dos serviços de cuidado farmacêutico incluídos no programa farmácia popular: Mede o número de usuários atendidos pelos serviços de cuidado farmacêutico nas farmácias privadas credenciadas no Programa Farmácia Popular do Brasil.
+Número de usuários atendidos a partir dos serviços de cuidado farmacêutico incluídos no programa farmácia popular do Brasil.
+O IR informado pelo Departamento de fato é Zero (jun/2023) - não está faltando 
+- Percentual de fabricantes de medicamentos nacionais inspecionados com frequência condizente com o risco associado ao estabelecimento e seus produtos: Compete ao Sistema Nacional de Vigilância Sanitária- SNVS, conforme disposto no § 1º do art. 6º, da Lei 8.080/1980, eliminar, diminuir ou prevenir riscos à saúde da população e intervir nos problemas sanitários decorrentes da produção de bens e prestação de serviços.  O monitoramento da fabricação de medicamentos é parte desta competência legalmente instituída. 
+À Anvisa cabe a realização do monitoramento de fabricantes de medicamentos localizados nos estados do Norte, Nordeste e no Centro-Oeste, com exceção do estado de Goiás. Este monitoramento deve ser realizado na frequência previamente definida conforme o risco associado de cada um desses estabelecimentos.
+O objetivo deste monitoramento a termo infere a garantia ao acesso da população à medicamentos que possuam qualidade. "			
+ 
+- Percentual de farmácias credenciadas por Unidade da Federação no Programa Farmácia Popular: O indicador mede o percentual de farmácias privadas credenciadas no Programa Farmácia Popular do Brasil. O Brasil possui hoje cerca de 90 mil farmácias privadas. Pretende-se credenciar 50% das farmácias privadas ao programa por região. 
+- Percentual de processos de trabalho finalísticos com o Sistema de Gestão da Qualidade implementado para entregar produtos e serviços de excelência à sociedade: A implantação do Sistema de Gestão da Qualidade(SGQ) na Anvisa é requisito crítico para o reconhecimento do Brasil como autoridade de referência pela OMS. A implantação de um SGQ, com base na ISO 9001:2015, utiliza a lógica de processos. A Anvisa possui uma cadeia de valor que descreve os processos finalísticos, de suporte e gerenciais que executa. Para atendimento dos requisitos do SGQ, estes processos devem ser mapeados, devem ter indicadores estabelecidos e riscos controlados, devem existir procedimentos para execução das atividades e devem ser submetidos a avaliação e melhoria contínua. 
+- Percentual dos serviços de Cuidado Farmacêutico nos estados, DF e municípios avaliados: Mede o percentual de Serviços de Cuidado Farmacêutico nos estados, DF e municípios avaliados. 
+
+Indicadores de Objetivos Específicos:
+- Número de estados, DF e municípios habilitados nos eixos do Programa de Qualificação Nacional da Assistência Farmacêutica no SUS​: Calcula o número de estados, DF e municípios habilitados no eixo estrutura do Programa de Qualificação da Assistência Farmacêutica do SUS. A habilitação neste eixo é a porta de entrada para a qualificação dos serviços de cuidado farmacêutico e serviços gerenciais da assistência farmacêutica nas Redes de Atenção à Saúde do SUS. 
+- Número de fármacos e insumos estratégicos adquiridos no âmbito dos componentes básico, estratégico e especializado da Assistência Farmacêutica do SUS sob responsabilidade do Ministério da Saúde.​: Número de fármacos listados na Relação Nacional de Medicamentos - Rename, dos componentes Básico, Estratégico e Especializados da Assistência Farmacêutica, cuja aquisição de medicamentos é de responsabilidade do Ministério da Saúde. A lista é atualizada de acordo com as novas inclusões aprovadas na Conitec e pactuadas na Comissão Intergestores Tripartite. A atualização da Rename é frequente no Portal da Saúde e sua publicação é a cada dois anos. 
+- Número de serviços de cuidado farmacêutico realizados nos estabelecimentos de saúde ofertados aos usuários do SUS: Permite medir a quantidade de serviços de cuidado farmacêutico realizados nos estabelecimentos de saúde das Redes de Atenção à Saúde aos usuários do SUS. 
+Os serviços de cuidado farmacêutico incluem uma relação padrão de procedimentos realizados pelo profissional farmacêutico no atendimento ao usuário do SUS.
+O monitoramento deste indicador se dará mês a mês a partir das informações apresentadas por municípios e estados no Sistema de Informação Ambulatorial do SUS - (SIA/SUS), Sistema de Informações Hospitalares do SUS -(SIH/SUS) e Sistema de Informação em Saúde para a Atenção Básica (SISAB)  e prioritariamente utilizará os procedimentos relacionados as Consultas/ atendimentos/ Acompanhamentos, conforme Tabela de Procedimentos do SUS (SIGTAP) pelos profissionais no CBO Farmacêutico ofertados aos usuários do SUS nos estabelecimentos de saúde  nos três níveis de atenção à saúde, incluindo as farmácias do componentes especializados da assistência farmacêutica. 
+- Número de usuários atendidos pelo Programa Farmácia Popular do Brasil​ ao ano: Mede o quantitativo de usuários do SUS que receberam medicamentos e insumos constantes do elenco do Programa Farmácia Popular do Brasil - PFPB, em determinado período. 
+- Percentual de cumprimento dos requisitos da OMS relacionados à Anvisa para medicamentos e vacinas: O indicador mede o percentual de atendimento aos critérios de auditoria utilizados pela Organização Mundial da Saúde para auditar as autoridades sanitárias nacionais. Esta medida é realizada por meio de uma autoavaliação periódica para identificar eventuais problemas ou dificuldades no atendimento aos critérios e para elaboração de planos de ação de melhoria, para que a Anvisa esteja preparada para receber a auditoria da OMS.

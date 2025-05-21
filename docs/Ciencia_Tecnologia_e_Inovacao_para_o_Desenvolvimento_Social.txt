@@ -1,0 +1,180 @@
+passage: Programa: Ciência, Tecnologia e Inovação para o Desenvolvimento Social
+
+Descrição do Problema:
+A desigualdade social brasileira é estrutural, condicionada pelas bases do sistema econômico e seus ciclos ao longo dos séculos. Embora tenha havido algumas melhorias ao longo das últimas décadas, nos últimos anos houve o retorno do Brasil ao mapa da fome, revelando o aumento das desigualdades sociais e a fragilidade estrutural das políticas públicas voltadas para Educação, Saúde, Trabalho e Renda.
+A desigualdade gera uma série de efeitos negativos na sociedade como a falta de acesso a serviços básicos por parte da população, redução da expectativa de vida, menor mobilidade social, disparidades educacionais, entre outros. No campo da ciência, tecnologia e inovação, a desigualdade é refletida na falta de acesso/exclusão de parte da população aos resultados do desenvolvimento científico e tecnológico.
+Partindo-se da premissa que há forte correlação entre o grau de desenvolvimento de um país e seu esforço em CT&I, é preciso ir além de ampliar os investimentos em pesquisa e desenvolvimento (P&D), criando mecanismos para envolver a comunidade científica e outros atores sociais e econômicos no esforço de proporcionar soluções economicamente viáveis para os problemas da exclusão social.
+
+Causa do Problema:
+Trata-se de um o wicked problem, ou seja, uma questão complexa e multicausal, com interpretações ambíguas e até discordantes, além de difícil resolução. A falta de acesso aos resultados da C&T e a consequente incapacidade da C&T em atingir melhores níveis de bem-estar para a sociedade ocorrem por, entre outros,: 1) o acesso limitado à educação, que pode gerar a falta de envolvimento e compreensão dos conceitos científicos e tecnológicos complexos e em desenvolver habilidades necessárias para atuar nesses campos; 2) a falta de recursos financeiros para participar de atividades de C&T e acessar recursos e equipamentos especializados; 3) acesso limitado à infraestrutura, seja em função da  distribuição desigual em termos territoriais, seja pela desigualdade de oportunidades quando da inserção de jovens no mercado de trabalho; 4) pela insuficiência de estímulos para as linhas de pesquisa envolver resolução de problemas sociais, com a escuta ativa de comunidades; 5) pelas barreiras culturais e até linguísticas, que tornam o acesso à C&T mais difícil em determinadas comunidades. 
+  
+
+Evidências do Problema:
+O maior efeito deletério da desigualdade social é a exclusão de parte da população ao acesso a bens (materiais, educacionais, culturais etc.) e serviços.   
+Conforme a pesquisa sobre percepção pública da ciência, tecnologia e inovação de 2019, o acesso à informação científica e tecnológica, especialmente nas camadas sociais de menor escolaridade e renda, é bastante limitado. A visitação a locais de C&T diminuiu entre 2015 e 2019. Em particular, a porcentagem de brasileiros que declarou ter visitado, no último ano, um museu de ciência e tecnologia, que vinha crescendo ao longo dos anos, caiu pela metade em 2019. Entre as razões para não ter visitado um museu, 39% não consideram prioritárias atividades em espaços de C&T (20% “não têm tempo”, 19% “não têm interesse”), mas a maioria relata problemas de acesso (“não existe em sua região”, 34%; “não sabe onde tem museus deste tipo em sua região”, 11%; “fica muito longe”, 8%). Assim, a falta de acesso demonstra ser um obstáculo, especialmente para a população que vive em regiões afastadas dos grandes centros urbanos. Conforme levantamento, em 2015, da Associação Brasileira de Centros e Museus de Ciência - ABCMC, há 268 instituições, incluindo zoológicos, jardins botânicos, parques e jardins zoobotânicos, aquários, planetários e observatórios no Guia Centros e Museus de Ciência do Brasil de 2015. Há uma desigualdade de distribuição territorial desses espaços, que são concentrados nas regiões Sul e Sudeste, 155 no Sudeste e 44 no Sul; 43 no Nordeste; 15 no Centro-Oeste; e 11 no Norte. 
+Outra evidência da exclusão social é a evasão escolar confirmada pela PNAD 2019, que aponta 7% da população entre 15 e 17 anos fora da escola; portanto, políticas públicas de combate a evasão e estímulo a permanência na educação (bolsa família, bolsas de estudo, assistência estudantil) faz-se necessária. A evasão, aliada a má qualidade do ensino, reforça o problema do desconhecimento sobre o sistema de C&T no país. A pesquisa da percepção da Ciência de 2019 apontou que poucos entrevistados souberam citar o nome de um cientista ou instituição de ciências; 90% dos brasileiros não se lembram ou não sabem apontar um cientista do país; e 88% não se lembram ou não sabem indicar instituição do setor. Nem mesmo as universidades foram muito citadas, mesmo sendo os principais centros de produção de conhecimento científico. A pesquia também apontou que 1% da população acredita que a ciência só traz benefícios, 42% acredita que traz mais benefícios que malefícios, 19% acredita que traz tanto benefícios quanto malefícios, 3% mais malefícios que benefícios, 1% só malefícios e 5% não sabem responder. Quanto a fonte confiáveis de informação, a população brasileira atribui ao cientista o quarto lugar, após jornalistas, médicos e religiosos. 
+A exclusão também ocorre no acesso, uso e qualidade do uso das tecnologias digitais. Nesse contexto, parte da população é privada de recursos essenciais para se desenvolver e gerar riqueza. A pesquisa TIC Domicílios 2022 aponta que 36 milhões de brasileiros estão fora do mundo digital.
+Há também exclusão de pessoas com deficiência. Segundo dados do Censo Demográfico 2010, havia em torno de 45,6 milhões de brasileiros com algum tipo de deficiência, sendo, desse total, mais de 17,7 milhões (6,7%) com deficiência (PcDs) “severas”. A Pesquisa Nacional de Saúde (PNS) 2019 estima que o número de PcD no país seja de 17,3 milhões, com idade de 2 anos ou mais. A taxa de participação dessa população no mercado  de trabalho era de 28,3% (menor do que a taxa de pessoas sem deficiências, de 66,3%). Essa desigualdade também é refletida do nível de renda pela diferença salarial.
+A desigualdade social também é refletida nos padrões alimentares (e suas consequências na saúde humana), perpassando problemas como a subnutrição até a obesidade. A PNS de 2020 aponta que mais da metade dos adultos apresenta excesso de peso (60,3%, o que representa 96 milhões de pessoas), sendo que a condição de obesidade atinge 25,9% da população, ou seja, 41,2 milhões de adultos. Considerando todas as crianças brasileiras menores de 10 anos, estima-se que cerca de 6,4 milhões tenham excesso de peso e 3,1 milhões tenham obesidade. Considerando todos os adolescentes brasileiros, estima-se que cerca de 11,0 milhões tenham excesso de peso e 4,1 milhões tenham obesidade. Quanto à desnutrição, ainda persistem altas prevalências de desnutrição crônica em grupos vulneráveis da população, como entre as crianças indígenas, quilombolas, residentes na região norte do País e aquelas pertencentes às famílias beneficiárias dos programas de transferência de renda, afetando principalmente crianças e mulheres que vivem em bolsões de pobreza. O ENANI-2019 mostra que a prevalência de anemia em crianças brasileiras de até 5 anos foi reduzida à metade nos últimos 13 anos: de 20,9%, em 2006, para 10,1%, em 2019. O cenário foi registrado em todas as regiões brasileiras, à exceção do Norte, que apresentou aumento de 6,6% neste período, subindo de 10,4% em 2006 para 17% em 2019. 
+Também há exclusão econômica e social de pequenos agricultores. Conforme dados da Produção Agropecuária Municipal do IBGE, em 2021, os 50 Municípios com os maiores valores da produção agrícola geraram juntos R$ 181,6 bilhões, concentrando 24,4% do valor obtido no País com a produção agrícola. Desses, 26 pertenciam a Mato Grosso, e seis Municípios em Goiás. A concentração de monoculturas, em razão dos commodities, gera impacto ambiental e define a dinâmica econômica e social, sobretudo na região Centro-Oeste. Além do impacto em termos ambientais e de concentração de renda, é possível identificar a desigualdade racial neste sistema. O IBGE, em 2022, identificou que nos estabelecimentos onde o produtor era proprietário, a distribuição dos produtores por cor ou raça se mostra bastante relacionada ao tamanho das propriedades. Entre os proprietários de estabelecimentos agropecuários com menos de 1 hectare, os pretos (13,7%) e pardos (58,0%) constituíam, em conjunto, ampla maioria (71,7%). No extremo oposto, entre os proprietários de estabelecimentos agropecuários com mais de 10 mil hectares, os proprietários de cor ou raça branca representavam 79,1%, enquanto os pardos eram 17,4% e os pretos, apenas 1,6%. Além dos elementos da concentração da estrutura produtiva da agricultura, apesar dos ganhos de produtividade, algumas culturas sofreram redução entre 2011 e 2021: queda de 13% no caso do arroz (de 13,5 para 11,6 milhões de ton.), queda de 16% no caso do feijão (de 3,4 para 2,9 milhões de ton.) e queda de 28% no caso da mandioca (de 25,3 para 18,1 milhões de ton.). 
+
+Justificativa para a Intervenção:
+A população brasileira enfrenta diversas dificuldades relacionadas à ciência, tecnologia e inovação. Algumas das principais questões incluem:
+
+1) Acesso à educação de qualidade: o sistema educacional brasileiro ainda apresenta deficiências na formação de profissionais nas áreas de ciência, tecnologia, engenharia e matemática (STEM). A falta de uma base sólida nessas disciplinas dificulta o desenvolvimento de habilidades necessárias para a inovação e o avanço tecnológico.  A falta de reconhecimento e recompensas adequadas desmotiva muitas pessoas a seguir carreiras nesses campos;
+
+2) Infraestrutura limitada: muitas regiões do Brasil ainda enfrentam falta de infraestrutura adequada, como acesso à internet de alta velocidade, eletricidade confiável, laboratórios técnicos-científicos de apoio às atividades de ensino, pesquisa e extensão. Esses recursos são fundamentais para a disseminação e o acesso às tecnologias contemporâneas, principalmente as que se voltam para a transformação digital, limitando o acesso e a apropriação da população aos avanços científicos e tecnológicos;
+
+3) Baixo investimento em pesquisa e desenvolvimento (P&D) na área social: o investimento em P&D no Brasil é historicamente baixo em comparação com outros países. A falta de recursos financeiros dificulta a criação de ambientes propícios à inovação, como laboratórios bem equipados e centros de pesquisa avançados;
+
+4) Dificuldade no acesso a financiamento: para aqueles que desejam empreender na área de ciência, tecnologia e inovação para o desenvolvimento social, o acesso a financiamento é frequentemente um desafio. As opções de financiamento são limitadas e burocráticas, tornando difícil o desenvolvimento de startups e projetos inovadores;
+
+5) Falta de incentivos e reconhecimento à C&T para o desenvolvimento social: a cultura de Inovação Social/Tecnologia Social no Brasil ainda é incipiente, com poucos incentivos para organizações da sociedade civil organizada, cooperativas populares/solidárias e ICTs que buscam criar soluções científicas e tecnológicas para soluções inclusivas inovadoras que contribuam efetivamente para a emancipação sócioprodutiva dos diferentes grupos identitários e para o enfrentamento das desigualdades sociais, econômicas e regionais.
+
+Para enfrentar essas dificuldades, é necessário um esforço conjunto entre o governo, as instituições de ensino, as empresas e a sociedade como um todo. É fundamental aumentar o investimento em educação STEM desde os níveis básicos até a educação superior. Além disso, políticas públicas voltadas para o fomento da pesquisa, a extensão tecnológica, estímulo ao empreendedorismo social de base científica e solidária e a simplificação dos processos de financiamento são importantes para impulsionar a ciência, a tecnologia e a inovação no país. O reconhecimento e a valorização dos professores, pesquisadores e profissionais de CT&I que se destacam nessas áreas também são essenciais para criar uma cultura de inovação sólida e inspirar a próxima geração de cientistas e empreendedores.
+
+Evolução Histórica:
+Atualmente é consenso atribuir-se papel central à Ciência e a Tecnologia no desenvolvimento de países e regiões. Existe uma associação direta, inferida por diversos modelos quantitativos, entre investimentos em pesquisa e desenvolvimento e crescimento do produto e da renda. É comum, também, relacionar-se o gasto em educação e a construção de um sistema de apropriação/criação/difusão de conhecimento com desenvolvimento econômico.
+
+De tal modo, é assim que o tema está presente em diversas teorias e perspectivas com a força do que é incontestável. O desenvolvimento científico de um país exibe estreita relação com sua prosperidade, impulsionando o seu desenvolvimento sustentável (social, ambiental e econômico). Sob esse entendimento, o MCTI desde a sua constituição, vem empreendendo ações pautadas em planejamentos de médio prazo, mediante audições públicas como as Conferencias Nacionais de C&T e as Estratégias Nacionais em C&T. A Estratégia  Nacional de Ciência, Tecnologia e Inovação – ENCTI orienta a implementação de políticas públicas na área de CT&I. A ENCTI (2016-2023) reconhece que o Brasil possui deficiências socioeconômicas históricas a serem superadas, especialmente no que diz respeito às desigualdades sociais e assimetrias regionais, incluindo acesso à ciência, tecnologia e inovação. Entre os doze temas estratégicos em CT&I, a última ENCTI trouxe o tema Ciências e Tecnologias Sociais, volta-se para  o desenvolvimento e a difusão conhecimentos e soluções criativas para a inclusão produtiva e social, a melhoria da qualidade de vida e o exercício da cidadania. 
+
+Num contexto evolutivo e com expectativa de futuro, registra-se a recente Portaria MCTI nº 6.998, de 10 de maio de 2023, a qual estabelece as diretrizes para a elaboração da Estratégia Nacional de Ciência, Tecnologia e Inovação para o período de 2023 a 2030, e que deverão orientar a atuação institucional dos órgãos e unidades que integram a estrutura do Ministério da Ciência, Tecnologia e Inovação, e será organizada em torno dos seguintes eixos estruturantes:
+
+I - recuperação, expansão e consolidação do Sistema Nacional de Ciência, Tecnologia e Inovação;
+II - reindustrialização em novas bases e apoio à inovação nas empresas;
+III - ciência, tecnologia e inovação para programas e projetos estratégicos nacionais; e
+IV - ciência, tecnologia e inovação para o desenvolvimento social.                                                                                                                                                                                                                                                                                                                                                                                                       
+
+O eixo de Ciência, Tecnologia e Inovação para o Desenvolvimento Social tem como objetivo promover a defesa e a popularização da ciência, a universalização do acesso aos bens gerados pelo desenvolvimento científico e tecnológico, e a difusão de tecnologias para a melhoria das condições de vida da população e a resolução de problemas sociais, de forma a promover o 
+
+(a)	defesa e difusão da ciência, a fim de superar preconceitos que neguem os seus métodos e valores;
+(b)	ampliação do apoio da ciência para formulação, execução, monitoramento e avaliação de políticas públicas;
+(c)	difusão massiva da conectividade e capacitação digital para a população brasileira;
+(d)	desenvolvimento de tecnologias sociais e assistivas;
+(e)	apoio a arranjos produtivos locais articulados com institutos e centros vocacionais tecnológicos;
+(f)	valorização e apoio a populações historicamente sub-representadas no Sistema Nacional de Ciência, Tecnologia e Inovação; e
+(g)	geração de soluções inovadoras para ampliar a segurança alimentar e erradicar a fome no Brasil.
+
+
+Comparações Internacionais:
+Dentre as nações que apostam no investimento em pesquisa e desenvolvimento com impactos positivos no crescimento econômico, costumam ser lembrados Estados Unidos, Reino Unido, Alemanha, Japão, China e Coreia do Sul. Muitos estudos sugerem uma forte ligação entre investimentos em C&T, crescimento econômico e aumento de produtividade em países avançados industrializados. Mais ainda, isto é reforçado quando são trazidos os casos exitosos do Japão e, mais recentemente, da Coreia, que são tomados como exemplos definitivos da equação: ciência + tecnologia = desenvolvimento. Para os países em desenvolvimento, a evidência desta ligação é mais limitada e menos conclusiva, mas casos específicos que indicam uma correlação positiva incluem Japão, Coreia do Sul, Índia e Brasil.
+
+Relação com os ODS:
+O Programa tem aderência aos seguintes ODS:
+
+1) Erradicação da pobreza;
+2) Fome zero e agricultura sustentável; 
+3) Saúde e bem-estar;
+4) Educação de qualidade; 
+5) Igualdade de gênero; 
+6) Água potável e saneamento;  
+7) Energia limpa e acessível; 
+8) Trabalho decente e crescimento econômico; 
+9) Indústria, inovação e infraestrutura; 
+10) Redução das desigualdades; 
+11) Cidades e Comunidades Sustentáveis; 
+12) Consumo e produção responsáveis; 
+13) Ação contra a mudança global do clima; 
+14) Vida na água; 
+17) Parcerias e meios de implementação. Departamento de Popularização da Ciência, Tecnologia e Educação Científica								
+
+Agentes Envolvidos:
+Agências de Fomento como CNPq, FINEP e Fundações de apoio Estaduais no caso de ações/iniciativas conjuntas, organizações da sociedade civil, Estados e suas autarquias e empresas públicas, Municípios suas autarquias, fundações e empresas públicas e as Instituições de Ciência e Tecnologia (ICTs - Universidades públicas e privadas, faculdades, unidades de pesquisas, empresas de pesquisas - Embrapii e demais órgãos/instituições governamentais que atuam na C&T), Organizações Internacionais e demais instituições e órgãos internacionais que atuam em C&T.
+
+Articulação Federativa:
+Ministérios e órgãos vinculados atuantes na área CT&I para o desenvolvimento social.
+
+Enfoque Transversal:
+1) Mulheres;
+2) Crianças e adolescentes; 
+3) Igualdade racial; 
+4) Povos indígenas; 
+5) Povos e Comunidades Tradicionais; 
+6) Verde; 
+7) Combate à fome
+
+Marco Legal:
+Capítulo IV da Constituição da República Federativa do Brasil de 1988, que trata da Ciência, Tecnologia e Inovação; Portaria MCTI nº 6.998, de 10.05.2023 que estabelece as diretrizes para a elaboração da Estratégia Nacional de Ciência, Tecnologia e Inovação para o período de 2023 a 2030; Lei Orgânica de Segurança Alimentar e Nutricional – Lei nº 11.346, de 15 de setembro de 2006, Decreto Nº 7.794, de 20 de agosto e 2012, que institui a Política Nacional de Agroecologia e Produção Orgânica, Lei nº 11.326, de 24 de julho de 2006, que estabelece as diretrizes para formulação da Política Nacional da Agricultura Familiar e Empreendimentos Familiares Rurais; Decreto nº 6.040 de 07.02.2007; Lei nº 12.188 de 11 de janeiro de 2010, Decreto nº 5.296/2004; Decreto nº 7.272, de 25 de agosto de 2010. Lei nº 13.146/2015 que institui a Lei Brasileira de Inclusão da Pessoa com Deficiência (Estatuto da Pessoa com Deficiência); Portaria Interministerial nº 362/2012. Dispõe sobre o limite de renda mensal dos tomadores de recursos nas operações de crédito para aquisição de bens e serviços de Tecnologia Assistiva destinados às pessoas com deficiência e sobre o rol de bens e serviços;  Decreto nº  10.645/2021. Dispõe sobre as diretrizes, os objetivos e os eixos do Plano Nacional de Tecnologia Assistiva; Portaria MCTI nº 5.366/2021. Torna público  o Plano Nacional de Tecnologia Assistiva aprovado pelo Comitê Interministerial de Tecnologia Assistiva; Decreto nº 10.094/2019. Dispõe sobre o Comitê Interministerial de Tecnologia Assistiva. Lei nº 12.205/10 – Institui a Política Nacional de Resíduos Sólidos; Lei nº 11.445/07 – Dispensa de licitação na contratação da coleta, processamento e comercialização de resíduos sólidos urbanos recicláveis ou reutilizáveis efetuados por associações e cooperativas formadas exclusivamente por pessoas físicas de baixa renda reconhecidas pelo poder público como catadores de materiais recicláveis; Decreto nº 11.414, de 13/02/2023 - Institui o Programa Diogo de Sant’Ana Pró-Catadoras e Pró-Catadores para a Reciclagem Popular e o Comitê Interministerial para Inclusão Socioeconômica de Catadoras e Catadores de Materiais Reutilizáveis e Recicláveis; Decreto nº 5.811, de 21/06/2006 – Dispões sobre a composição, estruturação e funcionamento do Conselho Nacional de Economia Solidária; Plano Nacional de Economia Solidária; Câmara Interministerial de Segurança Alimentar e Nutricional (CAISAN - Decreto № 6.273 de 23 de novembro de 2007) e Conselho Nacional de Segurança Alimentar e Nutricional (CONSEA - Lei № 11.346 de 15 de setembro de 2006). Emenda Constitucional nº 85, de 26 de fevereiro de 2015, e pelos preceitos de Direito Público inseridos no Marco Legal de  CT&I, Lei nº 10.973, de 02 de dezembro de 2004, Lei nº 13.243, de 11 de janeiro de 2016, Decreto nº 9.283, de 07 de fevereiro de 2018, e demais normas internas do MCTI.
+
+Planos Nacionais, Setoriais e Regionais:
+Plano Regional de Desenvolvimento do Nordeste (PRDNE); Plano Regional de Desenvolvimento da Amazônia (PRDA); Plano Regional de Desenvolvimento do Centro-Oeste (PRDCO), Plano Nacional de Tecnologia Social; Plano Interministerial de Segurança Alimentar e Nutricional (PNSAN); Plano Nacional de Economia Solidária (PNES); Plano Nacional de Tecnologia Assistiva (PNTA - Decreto  Nº  10.094 de 06 de novembro de 2019); Programa FNDCT de Ciência, Tecnologia e Inovação para Segurança Alimentar e erradicação da fome; Programa mais Alimentos, Programa Brasil sem Fome (PBSF); Plano Nacional de Agroecologia e Produção Orgânica (PLANAPO); Programa Diogo de Sant’Ana Pró-Catadoras e Pró-Catadores para a Reciclagem Popular.
+
+Objetivo Geral:
+- Democratizar o acesso aos resultados do desenvolvimento científico e tecnológico, promovendo a difusão de tecnologias e a popularização da ciência, para contribuir para a resolução de problemas sociais e melhoria de vida da população.
+
+Objetivos Específicos:
+- Ampliar o fomento a projetos de Pesquisa & Desenvolvimento (P&D) construídos a partir do diálogo e em colaboração com atores não acadêmicos, e cujos conhecimentos coproduzidos sejam voltados à solução de problemas socialmente relevantes
+- Ampliar o desenvolvimento, o acesso, a reaplicação e a apropriação de tecnologias sociais
+- Promover as iniciativas de Popularização da Ciência & Tecnologia e Educação Científica no país
+- Promover o desenvolvimento, a produção nacional e a certificação de tecnologias assistivas
+- Fomentar a pesquisa, a extensão e o desenvolvimento científico e tecnológico na área de Soberania e Segurança Alimentar e Nutricional (SSAN), gerando soluções inclusivas inovadoras para erradicação da fome e mitigação de desigualdades.
+
+Indicadores de Entrega:
+- Acervos históricos e culturais nacionais constituídos e digitalizados: Acervos históricos e culturais nacionais constituídos e digitalizados
+ 
+- Número de alunos participantes nas olimpíadas científicas: Participação de alunos em Olimpíadas Científicas, Tecnológicas e Inovadoras de âmbito nacional ou internacional. 
+- Número de Arranjos Produtivos Locais e/ou Cadeias Produtivas apoiados: Número de Arranjos Produtivos Locais e/ou Cadeias Produtivas apoiados 
+- Número de atividades (seminários, cursos, oficinas, etc.) apoiadas: Número de atividades de pesquisa, seminários, cursos, oficinas, etc voltadas à integração e cooperação científica pan-amazônica apoiadas
+
+ 
+- Número de chamadas apoiadas: Número de chamadas com iniciativas de Ciência Cidadã apoiadas 
+- Número de chamadas públicas no ano voltadas ao fomento à pesquisa inter e transdisciplinar, focadas na solução de problemas socialmente relevantes: Número de chamadas (CNPq e FINEP) no ano voltadas ao fomento à pesquisa inter e transdisciplinar destinadas à  solução de problemas socialmente relevantes
+ 
+- Número de encomendas/chamadas científicas em cooperação com estados e municipios: Número de encomendas/chamadas científicas em cooperação com estados e municÍpios 
+- Número de encomendas/chamadas científicas em cooperação com outros órgãos públicos da esfera federal: Número de encomendas/chamadas científicas em cooperação com outros órgãos públicos da esfera federal
+ 
+- Número de espaços científicos de Popularização da Ciência & Tecnologia e Educação Científica desenvolvidos: Ampliar o desenvolvimento de espaços científicos de popularização da C&T e Educação Científica
+ 
+- Número de feiras e/ou mostras científicas realizadas: Número de Feiras e/ou Mostras científicas realizadas 
+- Número de grupos e redes de ensino, pesquisa e extensão apoiados: Número de  redes apoiados 
+- Número de incubadoras tecnológicas das cooperativas populares apoiadas: Número de incubadoras apoiadas 
+- Número de laboratórios apoiados: Número de Laboratórios de certificação em tecnologia assistiva apoiados  
+- Número de municípios participantes da Semana Nacional de Ciência & Tecnologia (SNCT): Número de municípios cadastrados na Semana Nacional de Ciência e Tecnologia (SNCT)
+ 
+- Número de NEAs beneficiados e CVTs implantados: Número de NEAs beneficiados e CVTs implantados 
+ 
+- Número de patentes de tecnologias assistivas transferidas: Número de patentes de tecnologias assistivas transferidas 
+- Número de Programa de Capacitação e Formação em C&T: Total de recursos em projetos de apoio e formação para coletivos situados em áreas urbanas para geração de renda 
+- Número de programas e projetos desenvolvidos pelas Unidades de Pesquisa em parceria com os Arranjos Produtivos Locais com foco na Soberania, Segurança Alimentar e Nutricional: Número de programas e projetos desenvolvidos pelas Unidades de Pesquisa em parceria com os Arranjos Produtivos Locais com foco na Soberania, Segurança Alimentar e Nutricional 
+- Número de redes apoiadas: Número de redes de apoio a práticas de internacionalização da SSAN fomentados
+ 
+- Número de redes cooperativas de pesquisa e de apoio a infraestruturas críticas apoiadas: O aumento do número de redes colaborativas criadas e apoiadas pode indicar uma maior mobilização de atores e instituições em torno da abordagem colaborativa para a formulação, execução, monitoramento e avaliação de políticas públicas. 
+- Número de redes e centros de P&D apoiados: Número de redes de P&D e Centros de Acesso e Apoio fomentados
+
+ 
+- Número de soluções inclusivas inovadoras em SSAN desenvolvidas: Número de soluções inclusivas inovadoras em SSAN desenvolvidas
+
+ 
+- Número de soluções sustentáveis desenvolvidas: Número de soluções sustentáveis desenvolvidas 
+- Número de tecnologias assistivas desenvolvidas: Número de tecnologias assistivas desenvolvidas 
+- Número de Tecnologias e adaptação de máquinas, equipamentos e implementos agrícolas e agroindustriais apoiados: Número de Tecnologias e adaptação de máquinas, equipamentos e implementos agrícolas e agroindustriais apoiadas 
+- Número de tecnologias sociais desenvolvidas: Número de tecnologias sociais que agreguem valor aos processos e aos produtos da agricultura familiar e de redução de perdas e desperdício de alimentos em toda cadeia produtiva e de consumo
+ 
+- Número de tecnologias sociais desenvolvidas e apropriadas pela população: Fomentar a Tecnologia Social por meio de estratégia interativa/colaborativa que permitam mobilizar comunidades, para a implantação e
+desenvolvimento de arranjos produtivos locais cooperativos, por meio de empreendimentos solidários, como forma de contribuir com a
+retomada da atividade produtiva e a geração de trabalho e renda em todas as regiões de nosso país, principalmente em comunidades de
+baixa renda 
+- Número de tecnologias sociais desenvolvidas entre povos indígenas: Número de tecnologias sociais desenvolvidas entre povos indígenas 
+- Número de tecnologias sociais desenvolvidas ou apoiadas pelas Unidades de Pesquisa do MCTI: Serão consideradas somente aquelas desenvolvidas (pela própria Unidade) ou apoiadas (por meio de consultorias, certificações, treinamentos, atividades de extensão e outras) pelas UPs 
+
+Indicadores de Objetivos Específicos:
+- Número de iniciativas de Popularização da Ciência & Tecnologia e Educação Científica disponibilizadas à população: Promoção e apoio a eventos, encontros, reuniões, fóruns, palestras, seminários, debates, exposições fixas e itinerantes, pesquisas, cursos, capacitação e oficinas sobre temas que visem à popularização/divulgação/educação científica e tecnológica; reuniões nacionais e internacionais sobre a popularização/divulgação/educação científica; concursos científicos; clubes de ciência, festivais e teatro científico; atividades integradas unindo ciência, cultura e arte; mídias digitais para divulgação científica; produtos contemporâneos de comunicação pública em ciência; implantação, aprimoramento ou expansão de espaços científico-culturais; projetos museológicos e museográficos para museus e centros de CT&I, implantados ou em fase de implantação; materiais educativos para museus e centros de CT&I; materiais didáticos e pedagógicos; implantação de planetários móveis digitais; e acervos, bibliotecas e demais conteúdos educativos de museus e centros de CT&I.
+
+ 
+- Número de pesquisas desenvolvidas e soluções disponibilizadas para a erradicação da fome: Número de pesquisas desenvolvidas e soluções disponibilizadas para a erradicação da fome 
+- Número de produtos resultantes da coprodução de conhecimento nos projetos de P&D colaborativa apoiados: Número de produtos resultantes da coprodução de conhecimento nos projetos de P&D colaborativa apoiados
+ 
+- Número de Tecnologias Assitivas desenvolvidas: Número de Tecnologias Assitivas desenvolvidas no Brasil. Voltadas a:
+Auxílio para a vida diária
+Comunicação aumentativa e alternativa
+ Recursos de acessibilidade ao computador
+ Sistemas de controle de ambiente
+Projetos arquitetônicos para acessibilidade
+ Órteses e próteses
+ Adequação postural e Reabilitação
+ Auxílios de mobilidade
+Auxílios para cegos ou com visão subnormal
+Auxílios para surdos ou com déficit auditivo
+ Auxílios para o desenvolvimento socioemocianal para pessoas com TEA.
+ 
+- Número de tecnologias sociais desenvolvidas e apropriadas pela população: Fomentar a Tecnologia Social por meio de estratégia interativa/colaborativa que permitam mobilizar comunidades, para a implantação e desenvolvimento de arranjos produtivos locais cooperativos, por meio de empreendimentos solidários, como forma de contribuir com a retomada da atividade produtiva e a geração de trabalho e renda em todas as regiões de nosso país, principalmente em comunidades de baixa renda.

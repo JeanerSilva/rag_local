@@ -1,0 +1,133 @@
+passage: Programa: Transporte Ferroviário
+
+Descrição do Problema:
+Incompatibilidade da malha ferroviária à demanda de cargas e passageiros.
+
+Causa do Problema:
+Baixa qualidade da infraestrutura de transporte ferroviário; Falta de padronização da métrica das ferrovias; Excesso de obrigações administrativas para transportar cargas; Pouca adoção de inovações tecnológicas no setor; Baixo orçamento para investimento em transporte ferroviário; Baixa integração entre os transportes rodoviário e ferroviário; Obras paralisadas ou atrasadas; Baixa oferta de transporte ferroviário de passageiros; Oferta insuficiente de transporte ferroviário de cargas.
+
+Evidências do Problema:
+Degradação da malha ferroviária (operacional e não operacional); Deficiência na gestão territorial e patrimonial; Manutenção do alto índice de emissão de gases do efeito estufa pelo setor de transportes; Saturação da infraestrutura rodoviária; Perda de competitividade internacional; Aumento do Custo Brasil; Piora na relação cidade/bens ferroviários.
+
+Justificativa para a Intervenção:
+Necessidade de buscar maior equilíbrio da matriz de transportes no País por meio de priorização de projetos sustentáveis; reduzir os custos logísticos; incrementar a competitividade; reduzir burocracia; estimular a participação de novos players; encontrar soluções para conflitos territoriais e patrimoniais que envolvem o desenvolvimento do setor ferroviário.
+
+Evolução Histórica:
+Embora com uma história centenária no Brasil, o modal ferroviário é responsável atualmente por apenas aproximadamente 20% do transporte de cargas realizado no país, segundo a Confederação Nacional do Transporte (CNT). Conta hoje com uma extensão de 29.165 km, distribuídos entre 13 linhas, de acordo com a Agência Nacional de Transportes Terrestres (ANTT). Tradicionalmente, o Brasil priorizou o transporte rodoviário.
+Em PPAs anteriores foram abordados temas relativos ao setor ferroviário alinhados ao Plano Nacional de Logística e Transporte (PNLT), ao Programa de Investimentos em Logística (PIL) e ao Programa de Aceleração do Crescimento (PAC), que buscaram o desenvolvimento da infraestrutura de transportes terrestres, inclusive a ferroviária.
+Temos dificuldades intrínsecas ao setor ferroviário, por conta das questões peculiares. Entretanto, há necessidade de perseguirmos a ampliação da malha e da capacidade de transporte ferroviário de passageiros e de carga geral, principalmente no sentido litoral-interior, a fim de aumentar eficiência dos transportes terrestres, otimizar a logística e a competitividade do país, tentar atrair investimentos privados para o setor de infraestrutura de transportes, inclusive ferroviária, para contribuirmos para o crescimento sustentável da nossa Economia.
+
+Comparações Internacionais:
+O Brasil apresenta baixa densidade da malha ferroviária, se comparado a países de dimensões continentais, como o Canadá, a Índia e a China, e mesmo diante de seus pares na América Latina, como o México e a Argentina. É o que revelam os dados da ANTF (Associação Nacional dos Transportadores Ferroviários) sobre o estado atual das ferrovias no País. Em comparação a matrizes de transporte de carga de outros países, o transporte ferroviário no Brasil corresponde a aproximadamente 20%, bem menor que o percentual em relação a outros países como a Rússia (81%), o Canadá (46%), a Austrália, os EUA (ambos com 43%) e a China (37%). Segundo a mesma fonte, o transporte rodoviário corresponde a aproximadamente 65%, sendo a matriz predominante no País.
+Países que compões o grupo dos BRICS, do qual o Brasil faz parte, com similaridades como tamanho, população e estágio de desenvolvimento, têm enfrentado um desafio maior na busca de políticas para promover o crescimento econômico, a sustentabilidade e a competitividade com investimentos em infraestrutura, avanços em tecnologia, promoção de energias renováveis e estímulo à inovação, se comparados a países com economias avançadas, com níveis mais elevados de desenvolvimento e recursos para um crescimento sustentável.
+O Brasil ainda tem um caminho a percorrer para alcançar níveis semelhantes a países mais desenvolvidos em termos de emprego de energia e transporte sustentáveis, e nessa trajetória, o aperfeiçoamento do transporte ferroviário pode assumir um papel relevante para o País.
+
+Relação com os ODS:
+As Diretrizes de Sustentabilidade do Ministério dos Transportes foram construídas à luz dos Objetivos do Desenvolvimento Sustentável. A elaboração do PNL observou, prioritariamente, o interesse público, e sua execução demonstra grande compatibilidade com os ODS, atendendo à maioria deles, direta ou indiretamente.  De forma indireta, o planejamento da circulação de pessoas e cargas promove o desenvolvimento econômico sustentável, o que contribui para a redução da pobreza, para a promoção da agricultura sustentável, para o aumento de bem-estar da população, dentre outros.
+Diretamente impactados com o setor, destacam-se quatro os ODS prioritários, quais sejam: (i) 7 - Energias Renováveis e Acessíveis; (ii) 9 - Indústria, Inovação e Infraestrutura; (iii) 11 - Cidades e Comunidades Sustentáveis e (iv)  13 - Ação Climática.
+7 – Energias Renováveis e Acessíveis: garantir acesso à energia barata, confiável, sustentável e renovável para todos. 
+No caso específico de transportes, trata-se de energia de propulsão, mais propriamente de combustíveis.  Como a matriz energética, no Brasil, denota contribuição de energia limpa e sustentável bem significativa, inclusive em relação a muitos países desenvolvidos, a utilização de fontes de combustíveis mais sustentáveis produz impacto positivo direto no atingimento do objetivo. Por exemplo, a substituição de combustíveis fósseis por energia elétrica ou biocombustíveis, atende ao propósito deste ODS, pois na geração de energia elétrica nacional fontes renováveis e sustentáveis são empregadas, o mesmo ocorrendo com biocombustíveis. 
+Há de se observar, ainda, a sustentabilidade energética nos projetos construtivos de infraestruturas de transporte, específica para cada modal ou sistema.
+Para este objetivo, tem-se duas metas pré-definidas, quais sejam: 
+7.2 – Até 2030, aumentar substancialmente a participação de energias renováveis na matriz energética global.
+O atendimento deste objetivo, com relação à contribuição do setor de transportes, é uma extensão do anterior, pois, na medida em que as tecnologias de veículos e equipamentos evoluem para a utilização de energia propulsora renovável e mais limpa, a demanda por estas cresce, contribuindo para o aumento da sustentabilidade na geração e, consequentemente, na matriz energética nacional.
+7.3 – Até 2030, duplicar a taxa global de melhoria da eficiência energética.
+O conceito de eficiência energética nos transportes relaciona a capacidade de transportar, pessoas ou cargas, em relação ao consumo energético implicado no percurso. Os modos ou sistemas mais energeticamente eficientes são aqueles que otimizam distâncias, equacionam o carregamento de forma equilibrada e lançam mão da intermodalidade, ações que demonstram como o planejamento atua diretamente no aumento da eficiência energética.
+Para uma mensuração mais precisa da eficiência energética, deve-se considerar os impactos ambientais das viagens, ao longo do trajeto, levando em conta emissões de poluentes, impactos socioambientais, etc.
+7.4 – Até 2030, reforçar a cooperação internacional para facilitar o acesso à investigação e tecnologias de energia limpa, incluindo energias renováveis, eficiência energética e tecnologias de combustíveis fósseis avançadas e mais limpas, e promover o investimento em infraestrutura de energia e em tecnologias de energia limpa.
+O impacto ambiental dos transportes causa preocupação global, pois é perceptível em todo o planeta. As seguidas crises causadas pela produção de combustíveis fósseis é fator de alerta no mundo todo, desde a década de 1970. Países mais desenvolvidos e não produtores de petróleo, em particular alguns europeus, saíram na frente promovendo pesquisas tecnológicas e alterando cultura de deslocamentos para mitigar a dependência dos combustíveis fósseis na matriz de transporte. Igualmente fizeram países asiáticos, inclusive por ter altos índices de poluição atmosférica. No Brasil, foi instituído o Programa Proálcool, em 1975.
+Fomentar as cooperações internacionais já demonstrou para o Brasil ser de grande valia, pois ao tempo em que o país pode usufruir de inovações já consolidadas em outros lugares do mundo, pode oferecer aos parceiros oportunidades de pesquisas e negócios, devido à sua diversidade regional e mercado propício à expansão de tecnologias e serviços.
+9- Indústria, Inovação e Infraestrutura: construir infraestrutura resiliente, promover a industrialização inclusiva e sustentável, e fomentar a inovação.
+A infraestrutura é, comprovadamente, fator de crescimento para o país, gerando emprego, favorecendo o acesso da população e o desenvolvimento econômico da nação. Promover e executar infraestrutura resiliente e sustentável demonstra ser fator de otimização de recursos, na medida em que se oferece atributos de confiabilidade e segurança para a sociedade. O PNL, ao estabelecer critérios e orientações ao planejamento da circulação de cargas, considerando a intersecção com os demais deslocamentos envolvidos, atende ao objetivo de promover a industrialização, pois visa melhorar a logística dos produtos, na busca pela evolução de veículos, equipamentos e infraestruturas, favorecendo, consequentemente, a inovação da indústria nacional.
+Tem-se duas metas vinculadas ao objetivo que as orientações indicadas pelo PNL convergem diretamente: 
+9.1 – Desenvolver infraestruturas de qualidade, e confiança, sustentáveis e resilientes, incluindo infraestruturas regionais e transfronteiriças, para apoiar o desenvolvimento econômico e o bem-estar humano, focando-se no acesso equitativo e a preços acessíveis para todos.
+Dois indicadores de referência: 
+• 9.1.1 - Proporção de população residente em áreas rurais que vive num raio de 2 km de acesso a uma estrada transitável em todas as estações do ano
+• 9.1.2 - Passageiros e cargas transportados por modalidade de transporte
+9.4 - Até 2030, modernizar a infraestrutura e reabilitar as indústrias para torná-las sustentáveis, com eficiência aumentada no uso de recursos e maior adoção de tecnologias e processos industriais limpos e ambientalmente adequados; com todos os países atuando de acordo com suas respectivas capacidades.
+Especificamente em relação à infraestrutura de transportes, o planejamento prévio pode garantir que, uma vez exposto a eventos de grande impacto negativo, o sistema retorne o mais rapidamente quanto possível ao seu funcionamento usual, em termos de infraestrutura e, consequentemente de segurança, de serviço e de oferta.
+A sustentabilidade da infraestrutura de transportes é avaliada por uma série de enfoques. Tanto o projeto quanto o processo construtivo devem ser pautados pela utilização de materiais e métodos que promovam o menor impacto ambiental, a menor agressão ao meio ambiente quanto possível e, quanto mais se conhecer a cadeia de geração de produtos a serem utilizados, tanto melhor, sendo preferenciais os mais sustentáveis. Os impactos aos ecossistemas também devem ser cuidadosamente evitados e mitigados. É necessário que planejamento e projetos garantam a sustentabilidade de todo o sistema, buscando a excelência na aplicação de recursos financeiros, humanos e energéticos, consequentemente reduzindo os custos na ponta.
+11 - Cidades e Comunidades Sustentáveis: objetivo que visa tornar as cidades e os assentamentos humanos inclusivos, seguros, resilientes e sustentáveis. Isto porque ao promover a boa gestão da faixa de domínio evitar-se-á ocupações irregulares que, por proximidade à operação ferroviária, criam riscos à vida, em especial em contextos urbanos.
+13- Ação Climática: tomar medidas urgentes para combater a mudança do clima e seus impactos.
+O impacto negativo de sistemas de transportes na poluição atmosférica é considerado um dos fatores mais significativos para a qualidade do ar, em particular em áreas urbanas e em regiões cuja geografia impede a dissipação do ar. A construção de grandes infraestruturas em ecossistemas também pode atuar de forma perniciosa na mudança do clima.
+Da mesma forma do que foi mencionado, no que tange aos ODS, o PNL propõe planejamento sistêmico que pode evitar, reduzir ou mitigar tais efeitos, minimizando os impactos negativos da circulação de transportes e contribuindo para a adoção de medidas no combate à mudança do clima no país, e, consequentemente, em colaboração com o resultado global. 
+13.1 – Reforçar a resiliência e a capacidade de adaptação a riscos relacionados com o clima e a catástrofes naturais em todos os países.
+Além das medidas propostas para o planejamento, projeto e execução de infraestruturas resilientes (ODS 9), medidas de adaptação, gestão de risco e contingência devem estar previstas para a operação de cada um dos modais, de forma específica e ações para o sistema como um todo.
+Ressalta-se que os projetos de infraestrutura, tradicionalmente, consideravam série histórica de eventos naturais para prever possibilidades de ações rápidas para a operação ou até mesmo de projetos construtivos, para absorver tais impactos. No entanto em duas ou três décadas tal medida, de avaliar apenas o histórico, tornou-se obsoleta. Há registro de diversos acidentes, frutos de aumento de maré, de ventos ou tempestades atípicas em uma região, dentre outros, o que fez com que rapidamente se observasse que analisar o passado já não era suficientemente eficaz para dar contar dos eventos adversos contemporâneos. Hoje o conhecimento e o reconhecimento dos impactos da mudança do clima geram novos aspectos fundamentais a serem considerados em todo o planejamento dos sistemas de transportes.
+
+Agentes Envolvidos:
+• Ministério dos Transportes, que orienta e acompanha o desenvolvimento da infraestrutura de transporte ferroviário no País;
+• ANTT – Agência Nacional de Transporte Terrestres, que fiscaliza a prestação de serviços e a exploração de infraestrutura de transporte ferroviário de cargas e passageiros, assegurando o cumprimento das normas e dos contratos de concessão;
+• As empresas concessionárias, que atuarão na execução de ações, cumprindo os cronogramas acordados;
+• INFRA S.A., responsável por obras ferroviárias, planejamento e estruturação de projetos para o setor de infraestrutura de transportes; e
+• DNIT, responsável por obras na malha ferroviária sob sua responsabilidade, obras que podem ser realizadas por contratação direta ou por meio de convênios com estados e municípios.
+• SPU, responsável por definir critérios para regularização da titularidade dos imóveis públicos da União.
+
+Articulação Federativa:
+Para o Programa Transporte Ferroviário deve haver articulação federativa (Federal, Estadual e Municipal) com os órgãos ambientais, órgãos de Trânsito e Transporte e com as entidades privadas, concessionárias do setor.
+
+Enfoque Transversal:
+O programa Transporte Ferroviário deve desenvolver a integração do modal ferroviário com outros modais de transportes, principalmente o Rodoviário e o Aquaviário, e com setores com os quais possui relação, tais como agronegócio, meio ambiente, turismo, regularização fundiária (gestão do patrimônio).
+
+Marco Legal:
+• Lei nº 10.233, de 05 de junho de 2001, que dispõe sobre a reestruturação dos transportes aquaviário e terrestre, cria o Conselho Nacional de Integração de Políticas de Transporte, a Agência Nacional de Transportes Terrestres, a Agência Nacional de Transportes Aquaviários e o Departamento Nacional de Infraestrutura de Transportes, e dá outras providências;
+• Lei nº 14.273, de 23 de dezembro de 2021, que dispõe sobre a organização do transporte ferroviário, o uso da infraestrutura ferroviária, os tipos de outorga para a exploração indireta de ferrovias em território nacional, as operações urbanísticas a elas associadas e dá outras providências;
+• Lei nº 14.600, de 19 de junho de 2023, estabelece a organização básica dos órgãos da Presidência da República e dos Ministérios.
+
+Planos Nacionais, Setoriais e Regionais:
+Plano Nacional de Logística (PNL); Planejamento Integrado de Transporte (PIT), Portaria nº 123/2020.
+
+Objetivo Geral:
+- Promover estrutura e serviços de transporte ferroviário modernos, sustentáveis, integrados, seguros, eficazes, eficientes e adequados à demanda e necessidade atual e futura de cargas e passageiros.
+
+Objetivos Específicos:
+- Realizar a regularização fundiária da malha ferroviária
+- Ampliar a capacidade potencial do transporte ferroviário pela construção de ferrovias
+- Aumentar a eficiência da malha ferroviária de maneira sustentável
+
+Indicadores de Entrega:
+- Estudos Realizados: Total de estudos realizados no período 
+- Estudos Realizados: Total de estudos realizados no período 
+- Estudos Realizados: Total de estudos realizados no período 
+- Estudos Realizados: Total de estudos realizados no período 
+- Estudos Realizados: Total de estudos realizados no período 
+- Estudos Realizados: Total de estudos realizados no período 
+- Estudos Realizados: Total de estudos realizados no período 
+- Estudos Realizados: Total de estudos realizados no período 
+- Estudos Realizados: Total de estudos realizados no período 
+- Estudos Realizados: Total de estudos realizados no período 
+- Estudos Realizados: Total de estudos realizados no período 
+- Estudos Realizados: Total de estudos realizados no período 
+- Estudos Realizados: Total de estudos realizados no período 
+- Estudos Realizados: Total de estudos realizados no período 
+- Estudos Realizados: Total de estudos realizados no período 
+- Investimentos da concessão: Total investido da concessão no período 
+- Investimentos da concessão: Total investido da concessão no período 
+- Investimentos da concessão: Total investido da concessão no período 
+- Investimentos da concessão: Total investido da concessão no período 
+- Investimentos da concessão: Total investido da concessão no período 
+- Investimentos da concessão: Total investido da concessão no período 
+- Investimentos da concessão: Total investido da concessão no período 
+- Investimentos da concessão: Total investido da concessão no período 
+- Investimentos da concessão: Total investido da concessão no período 
+- Investimentos da concessão: Total investido da concessão no período 
+- Investimentos da concessão: Total investido da concessão no período 
+- Investimentos da concessão: Total investido da concessão no período 
+- Percentual da frota de locomotivas com idade inferior a 40 anos: Verifica o percentual de locomotivas com menos de 40 anos de uso em relação ao total de locomotivas usadas no transporte ferroviário de cargas. 
+- Percentual de adesão de concessionárias das ferrovias ao IDA: O objetivo é aumentar as adesões das empresas concessionárias ao IDA, pois se trata de adesão voluntária. A cada nova adesão, maior o compromisso do setor com o desenvolvimento de inciativas sustentáveis. 
+- Percentual de carga transportada com DT-e no modal ferroviário: Verifica a quantidade de transporte de carga que circula com DT-e, em relação à quantidade total de transporte de carga. 
+- Quantidade de imóveis transferidos a SPU: Total de imóveis não operacionais (não necessários à operação e expansão da malha ferroviária) transferidos à SPU no período de análise. 
+- Quilômetros de ferrovias construídas: Total de quilômetros ferrovias construídas no período, considera-se trecho ferroviário construído quando há o assentamento dos trilhos. 
+- Quilômetros de ferrovias construídas: Somatório dos kms de ferrovias construídas na FICO - 1
+ 
+- Quilômetros de ferrovias construídas: Somatório da quilometragem de ferrovia construída. 
+- Quilômetros de ferrovias construídas: Total de quilômetros de ferrovia construídos no período 
+- Quilômetros de ferrovias construídas: Somatória da quilometragem de ferrovias construídas provenientes de concessões. 
+- Quilômetros de malha ferroviária georreferenciada: Quantidade de quilômetros de malha ferroviária georreferenciados no período de análise.
+ 
+- Trechos com capacidade de transporte saturada: Indicador do número de trechos com saturação da capacidade de transporte superior a 90%. Quanto maior o número de trechos nessa situação, menor será a possibilidade de disponibilização de capacidade para outros operadores. O indicador toma maior relevância no cenário atual, considerando a possibilidade de atuação do Agente Transportador Ferroviário – ATF e, sobretudo, das operadoras ferroviárias que operarão em regime privado (outorga por autorização). 
+
+Indicadores de Objetivos Específicos:
+- Carga transportada por km útil (TKU): Total da produção de transporte anual no Subsistema Ferroviário Federal - SFF. O indicador é medido a partir da multiplicação do volume de carga transportado (em toneladas) pela distância percorrida em cada fluxo de transporte. 
+- Índice de Regularização Fundiária Ferroviária: Percentual da malha ferroviária regularizada em relação ao total da malha ferroviária federal. 
+- Quilômetros de ferrovias construídas: Somatório da quilometragem de ferrovia construída.

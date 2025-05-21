@@ -1,0 +1,236 @@
+passage: Programa: Recursos Hídricos: Água em Quantidade e Qualidade para sempre
+
+Descrição do Problema:
+Insegurança hídrica: situação em que não há disponibilidade de água em quantidade e qualidade suficientes para o atendimento às necessidades humanas, à prática das atividades econômicas e à conservação dos ecossistemas aquáticos, acompanhada de um nível aceitável de risco relacionado a secas e cheias.
+
+Causa do Problema:
+Mudanças demográficas e arranjos urbanos e rurais - uso e ocupação desordenada do solo.
+Distribuição espacial e temporal não uniforme dos recursos hídricos.
+Falta de proteção e recuperação dos mananciais naturais.
+Degradação ambiental e sobre exploração dos Recursos Hídricos.
+Manutenção deficiente das infraestruturas existentes.
+Aumento da demanda pelo uso da água.
+Crescente déficit de infraestrutura hídrica (inadequação da infraestrutura).
+Insuficiência de conhecimento da vulnerabilidade e disponibilidade dos RHs superficiais e subterrâneos.
+Baixa qualidade dos projetos.
+Desarticulação entre Planos e Políticas com impacto nos Recursos Hídricos.
+Desarticulação institucional.
+Dissociação na gestão dos Recursos Hídricos superficiais e subterrâneos (dominialidade).
+Modelo de negócio inadequado.
+
+Evidências do Problema:
+Eventos hidrológicos extremos (impactados) – inundações e secas.
+Aumento dos conflitos pelo uso da água.
+Aumento da percepção do risco econômico associado aos recursos hídricos.
+Diminuição da oferta hídrica localizada.
+Aumento do déficit nos balanços hídricos
+Percentual significativo da população sem acesso a água de qualidade.
+Aumento da demanda gastos públicos para resposta a desastres.
+
+Justificativa para a Intervenção:
+Viabilizar a oferta de água para os múltiplos usuários, promovendo um adequado ambiente de desenvolvimento econômico e social com qualidade ecossistêmica, por meio de ações de gestão dos recursos hídricos e de intervenções físicas.
+
+Evolução Histórica:
+As intervenções físicas para o aproveitamento dos recursos hídricos tiveram o início do seu desenvolvimento no final do século XIX, após a grande seca no nordeste brasileiro. O início do século XX, marcado pelo êxodo rural e pela industrialização, pressionou a demanda por recursos hídricos e impulsionou a construção de muitas estruturas de condução e armazenamento de água, além da construção de usinas hidrelétricas.
+Para organizar esse desenvolvimento e a gestão das águas, o Brasil publicou o Decreto nº 24.643, de 10 de julho de 1934, conhecido como o Código das Águas.
+A política pública de gestão dos recursos hídricos evoluiu significativamente no período, resultando na publicação da Lei nº 9.433, de 8 de janeiro de 1997, passando a ter como pilar a gestão participativa. Também evoluiu o planejamento dos empreendimentos de infraestrutura hídrica, passando a ter prioridade as intervenções de caráter estruturante e regional. Nesse sentido, foi publicado o Plano Nacional de Segurança Hídrica, com o olhar sobre as intervenções de infraestrutura prioritárias na resolução das condições mais críticas de déficit hídrico.
+Novo passo deve ser dado, no período deste novo PPA, para o avanço na direção da sustentabilidade econômica dos empreendimentos e maior foco no seu retorno social e na sua segurança e rumo ao estabelecimento de uma política de infraestrutura hídrica.
+
+Relação com os ODS:
+Afinidades com Objetivos de Desenvolvimento Sustentável - ODS nº  2, 6, 11 e 13 da ONU 
+Agenda 2030.
+
+Agentes Envolvidos:
+Instituições Federais: MIDR, MMA, MME, ANA, CODEVASF, DNOCS, IBAMA, CPRM
+Decisores e Gestores Públicos da União, dos Estados e dos Municípios
+
+Articulação Federativa:
+União, Estados e Municípios
+Comitês de Bacias Hidrográficas e Agências de Água
+
+Enfoque Transversal:
+Política Ambiental
+Saneamento Básico
+Desenvolvimento Urbano e Regional
+Prevenção de Riscos de Desastres
+Agricultura
+
+Marco Legal:
+Lei 9.433/1997
+Lei 12.334/2010
+
+Planos Nacionais, Setoriais e Regionais:
+Plano Nacional de Segurança Hídrica
+Plano Nacional de Recursos Hídricos
+
+Objetivo Geral:
+- Assegurar a disponibilidade de água em padrões de qualidade e quantidade adequados aos usos múltiplos, por meio de infraestrutura adequada, da conservação, da recuperação e do uso racional dos recursos naturais, promovendo a proteção dos mananciais e revitalização de bacias hidrográficas
+
+Objetivos Específicos:
+- Preservar, conservar e recuperar bacias hidrográficas, especialmente aquelas em situação de vulnerabilidade
+- Ampliar a área e a produtividade da agricultura irrigada para o desenvolvimento regional, observando o uso racional dos recursos naturais
+- Ampliar a segurança hídrica e a resiliência à mudança do clima por meio da implantação, recuperação e manutenção da infraestrutura hídrica, em bases sustentáveis, especialmente nas regiões em situação crítica.
+- Aprimorar os usos múltiplos da água e os serviços hídricos, observando a eficiência e a sustentabilidade, ampliando o conhecimento sobre recursos hídricos, minimizando os riscos e ocorrências de conflitos.
+
+Indicadores de Entrega:
+- Área beneficiada: O indicador reflete o total da área beneficiada pelas diferentes práticas de conservação de água e solo 
+- Área hidroambientalmente recuperada: Área hidroambientalmente recuperada	
+ 
+- Área total beneficiada por ações de revitalização de bacias hidrográficas: Área total beneficiada por ações de revitalização de bacias hidrográficas realizadas pelo DNOCS 
+- Área total beneficiada por iniciativas de revitalização de bacias hidrográficas: Área em hectares beneficiada por iniciativas de revitalização de bacias hidrográficas. 
+- Bacias interestaduais com a cobrança implementada: Unidades de Gestão de Recursos Hídricos (CBHs) com a cobrança implementada 
+- Certificados emitidos: Número de certificados emitidos em ações de capacitação realizadas pelo Serviço Geológico do Brasil (SGB-CPRM), em cada ano do PPA
+ 
+- Estados da federação com a cobrança implementada: Unidades de Gestão de Recursos Hídricos (Estados) com a cobrança implementada 
+- Implantar 100% da Adutora do Seridó Eixo Sul: Percentual de execução física da obra 
+- Número de barragens com planos de segurança de barragem e planos de ação emergencial elaborados: PSB/PAE elaborados, com a entrega de todos os volumes previstos, segundo o exigível de cada barragem, conforme normativos dos órgãos fiscalizadores 
+- Número de barragens com relatórios/diagnósticos elaborados: O Relatório de Segurança de Barragens - RSB apresenta à sociedade um panorama da evolução da segurança das barragens brasileiras e da implementação da PNSB, incluindo a melhoria da gestão da segurança.
+ 
+- Número de barragens recuperadas: Barragens e demais infraestruturas hídricas devidamente recuperadas dentro de parâmetros técnicos de segurança e uso, incluindo a regularização jurídica relativa a meio-ambiente, recursos hídricos e segurança de barragens, com os projetos, planos e estudos necessários às reabilitações. 
+- Número de famílias beneficiadas com acesso à água, em quantidade e qualidade, para consumo e/ou produção: O indicador "Número de famílias beneficiadas com acesso à água, em quantidade e qualidade, para consumo e/ou produção" é uma métrica essencial para avaliar o progresso na ampliação do acesso à água em comunidades rurais, compreendendo populações em situação de escassez hídrica, povos e comunidades tradicionais, populações ribeirinhas, comunidades periféricas, comunidades rurais dispersas. Ele mede quantas famílias estão sendo beneficiadas com a disponibilidade de água de produção e/ou potável em locais produtivos ou suas moradias. É relevante porque as famílias são os pilares que sustentam a estrutura social, cultural e econômica dessas localidades.
+Outrossim, permite acompanhar o progresso ao longo do tempo e comparar diferentes regiões, a partir de dados oficializados, como, por exemplo, IBGE, proporcionando uma visão abrangente do alcance das ações implementadas.
+O número de famílias atendidas é uma medida concreta e mensurável, que fornece um valor numérico que pode ser comparado ao longo do tempo e em diferentes áreas geográficas, permitindo uma avaliação clara do progresso e resultados alcançados, que poderão auxiliar no monitoramento do desempenho e na identificação de lacunas a serem preenchidas. Posteriormente, os gestores públicos, bem como os formuladores de políticas poderão fazer uso dessas informações para identificar as áreas com maior necessidade e realizar priorizações para ampliar a cobertura em locais onde mais precisam. Por fim, permitirá identificar disparidades e desigualdades existentes, direcionando esforços para as comunidades rurais que estão mais marginalizadas e com menor acesso à água de produção e/ou potável. 
+- Número de municípios com poços monitorados (RIMAS): Sintese de todas as atividades relacionadas com coleta, medição, validação, consolidação interpretação de dados e informações, bem como administração de base de dados, elaboração de relatórios técnicos e mapas temáticos em hidrogeologia.
+ 
+- Número de novas estações piezométricas telemétricas instaladas ou estações piezométricas convencionais, já instaladas, convertidas em telemétricas com disponibilização regular de dados na plataforma hidrotelemetria: Número de novas estações instaladas ou número de estações convencionais convertidas 
+- Número de participantes de eventos e capacitações: O indicador "número de participantes" refere-se à métrica que mede a quantidade de pessoas envolvidas em uma determinada atividade, projeto, campanha ou evento. Esse indicador é utilizado para avaliar o alcance e o impacto das ações, bem como a eficiência na mobilização e conscientização social. O número de participantes pode indicar o grau de envolvimento das comunidades, o alcance das atividades e o potencial de influenciar mudanças positivas. Um aumento no número de participantes ao longo do tempo pode indicar uma maior conscientização e adesão às ações propostas. 
+- Número de pequenas propriedades beneficiadas com os programas estaduais de fomento apoiados: Indicador mede o apoio dado pelo governo federal para programas estaduais de agricultura irrigada em pequenas propriedades
+ 
+- Número de pessoas capacitadas: Número de pessoas capacitadas por meio de cursos, oficinas, eventos  e webinários 
+- Número de pessoas capacitadas: Número de pessoas capacitadas por meio de cursos, oficinas, eventos  e webinários 
+- Número de poços cadastrados (SIAGAS): Sistema de Informações de Águas Subterrâneas atualizado, aonde o alcance é medido a partir do seguinte Indicador das Entrega: N° de poços cadastrados
+ 
+- Número de PPIs reabilitados: Intervenções realizadas nos projetos públicos de irrigação que contribuirão para melhorar a eficiênca na utilização da infraestrutura de uso comum.
+ 
+- Número de programas estaduais publicados: Quantidade de Programas de Revitalização criados nas unidades da federação. 
+- Número de Projetos Públicos de Irrigação Emancipados: Indicador contabiliza o total de projetos públicos de irrigação emancipados em cada ano
+ 
+- Número de publicações relacionadas à avaliação da disponibilidade hídrica: Mapas, Estudos e Pesquisas
+ 
+- Número de sistemas de abastecimento implantados: O indicador contabiliza o número de sistemas de abastecimento implantados 
+- Número de unidades da federação com contrato do Programa de Consolidação do Pacto Nacional pela Gestão das Águas assinado com a ANA: Órgão Gestor Estadual de Recursos Hídricos com contrato assinado do 3ª ciclo do Programa de Consolidação do Pacto Nacional pela Gestão das Águas - Progestão 
+- Número de usos de recursos hídricos monitorados em Bacias Hidrográficas prioritárias: Este indicador permitirá o conhecimento do real uso de água nas bacias hidrográficas prioritárias para a gestão de recursos hídricos, bem como o acompanhamento e a identificação do uso irregular de recursos hídricos. 
+- Percentual de execução: Percentual de execução física da obra 
+- Percentual de execução: O indicador mede o percentual de execução física da obra. 
+- Percentual de Execução: O indicador mede a evolução da atualização dos estudos e dos projetos 
+- Percentual de execução da iniciativa: O Indicador mede o percentual de execução física da obra. 
+- Percentual de execução do contrato: nan 
+- Percentual de Execução dos Produtos: Percentual de execução  dos produtos. 
+- Percentual de Execução Física: O indicador mede o percentual de execução física da obra. 
+- Percentual de execução física da Adutora Curimatá: Percentual de execução física da obra 
+- Percentual de execução física da Barragem Bico da Pedra: Percentual de Execução física da obra 
+- Percentual de execução física da Barragem Boacica: Percentual de Execução física da obra 
+- Percentual de execução física da obra: O indicador mede o avanço na execução física da obra. 
+- Percentual de execução física da obra: Mede a execução física do total da implantação de infraestruturas em Vilas Produtivas Rurais ao longo do PISF. 
+- Percentual de execução física da obra: O indicador mede o avanço na execução física da obra. 
+- Percentual de execução física da obra: O indicador mede o avanço na execução física da obra. 
+- Percentual de execução física da obra: O indicador mede o avanço na execução física da obra. 
+- Percentual de execução física da obra: O indicador mede o avanço na execução física da obra. 
+- Percentual de execução física da obra: O indicador mede o avanço na execução física da obra. 
+- Percentual de execução física da obra: O indicador mede o avanço na execução física da obra. 
+- Percentual de execução física da obra: O indicador mede o avanço na execução física da obra. 
+- Percentual de execução física da obra: O indicador mede o avanço na execução física da obra 
+- Percentual de execução física da obra: O indicador mede o avanço na execução física da obra 
+- Percentual de execução física da obra: O indicador mede o avanço na execução física da obra. 
+- Percentual de execução física da obra: Percentual de execução física da obra 
+- Percentual de execução física da obra: Percentual de execução física da obra 
+- Percentual de execução física da obra: Percentual de execução física da obra 
+- Percentual de execução física da obra: Percentual de execução física da obra 
+- Percentual de execução física da obra: Percentual de execução física da obra 
+- Percentual de execução física da obra: Percentual de execução física da obra 
+- Percentual de execução física da obra: Percentual de execução física da obra 
+- Percentual de execução física da obra: O indicador mede o avanço na execução física da obra. 
+- Percentual de execução física da obra: O indicador mede o avanço na execução física da obra. 
+- Percentual de execução física da obra: O indicador mede o avanço na execução física da obra. 
+- Percentual de execução física da obra: O indicador mede o avanço na execução física da obra. 
+- Percentual de execução física da obra: O indicador mede o avanço na execução física da obra. 
+- Percentual de execução física da obra: O indicador mede o avanço na execução física da obra. 
+- Percentual de execução física da obra: O indicador mede o avanço na execução física da obra. 
+- Percentual de execução física da obra: O indicador mede o avanço na execução física da obra. 
+- Percentual de execução física da obra: O indicador mede o avanço na execução física da obra. 
+- Percentual de execução física da obra: O indicador mede o avanço na execução física da obra. 
+- Percentual de execução física da obra: O indicador mede o avanço na execução física da obra. 
+- Percentual de execução física da obra: O indicador mede o avanço na execução física da obra. 
+- Percentual de execução física da obra: O indicador mede o avanço na execução física da obra. 
+- Percentual de execução física da obra: O indicador mede o avanço na execução física da obra. 
+- Percentual de execução física da obra: O indicador mede o avanço na execução física da obra. 
+- Percentual de execução física da obra: O indicador mede o avanço na execução física da obra. 
+- Percentual de execução física da obra: O indicador mede o avanço na execução física da obra. 
+- Percentual de execução física da obra: O indicador mede a evolução do percentual de execução física da obra. 
+- Percentual de execução física da obra: O indicador mede o avanço do percentual de execução física 
+- Percentual de execução física da obra: O indicador mede o percentual de execução física da obra. 
+- Percentual de execução física da obra: O indicador mede o avanço na execução física da obra. 
+- Percentual de execução física da obra: O indicador mede o avanço na execução física da obra. 
+- Percentual de execução física da obra: O indicador mede o avanço na execução física da obra. 
+- Percentual de execução física da obra: O indicador mede o avanço na execução física da obra. 
+- Percentual de execução física da obra: O indicador mede o avanço na execução física da obra. 
+- Percentual de execução física da obra: O indicador mede o avanço na execução física da obra. 
+- Percentual de execução física da obra: O indicador mede o avanço na execução física da obra. 
+- Percentual de execução física da obra: O indicador mede o avanço na execução física da obra. 
+- Percentual de execução física da obra: O indicador mede o avanço na execução física da obra. 
+- Percentual de execução física da obra: O indicador mede o percentual de execução física da obra 
+- Percentual de execução física da obra: O indicador mede o avanço na execução física da obra. 
+- Percentual de execução física da obra: nan 
+- Percentual de execução física da obra: O indicador mede o avanço na execução física da obra. 
+- Percentual de execução física da obra: O indicador mede o avanço na execução física da obra. 
+- Percentual de execução física da obra: O indicador mede o avanço na execução física da obra. 
+- Percentual de execução física da obra: O indicador mede o avanço na execução física da obra. 
+- Percentual de execução física da obra: O indicador mede o avanço na execução física da obra. 
+- Percentual de execução física da obra: O indicador mede o avanço na execução física da obra. 
+- Percentual de Execução física da obra: O indicador mede a evolução do percentual de execução física da obra. 
+- Percentual de Execução Física da Obra: O indicador mede a evolução do percentual de execução física da obra. 
+- Percentual de execução física da obra Jequitaí/MG: Percentual de execução física da obra 
+- Percentual de execução física do Canal do Sertão Baiano: Representa o desenvolvimento do empreendimento, considerando a elaboração dos projetos e da obra 
+- Percentual de execução física do empreendimento: O indicador mede o avanço na execução física da obra. 
+- Percentual de execução física do empreendimento: Percentual de execução física da obra 
+- Percentual de Implantação do Projeto Público de Irrigação: Percentual de implantação do PPI 
+- Percentual de Implantação do Projeto Público de Irrigação: Percentual de implantação do PPI 
+- Percentual de Implantação do Projeto Público de Irrigação: Percentual de Implantação do Projeto Público de Irrigação 
+- Percentual de Implantação do Projeto Público de Irrigação: Percentual de implantação do PPI 
+- Percentual de Implantação do Projeto Público de Irrigação: Percentual de implantação do PPI 
+- Percentual de Implantação do Projeto Público de Irrigação: Percentual de implantação do PPI 
+- Percentual de Implantação do Projeto Público de Irrigação Salitre: Percentual de Implantação do Projeto Público de Irrigação Salitre no estado da Bahia. 
+- Percentual de pedidos de outorga com atos emitidos no ano: O indicador reflete a proporção de pedidos de outorga que têm sua análise concluída, resultando em um ato de outorga, com efetivação do direito de uso, ou um indeferimento do pedido, quando se verifica a impossibilidade de efetivação desse direito em virtude da disponibilidade hídrica. Os indeferimentos exercem papel importante no controle qualiquantitativo do uso, garantindo, assim, que um direito de uso efetivado possa realmente ser praticado.   
+				
+					
+					
+					
+ 
+- Percentual de Planos Estaduais de Recursos Hídricos revisados e implementados: Esse indicador reflete o progresso na integração dos planos estaduais ao planejamento nacional, demonstrando o nível de engajamento e colaboração entre os estados e o governo central na gestão dos recursos hídricos. A meta seria atingir uma alta taxa de revisão e implementação dos planos, indicando uma abordagem abrangente e integrada na gestão dos recursos hídricos em todo o país. 
+- Percentual de projetos e estudos realizados: O indicador representa a proporção de projetos e estudos que foram concluídos ou implementados. 
+- Percentual de trechos de rio com informação de disponibilidade hídrica: Cada trecho da base hidrográfica onde a disponibilidade deve ser estimada é denominada ottobacia 
+- Projetos público de irrigação sociais reabilitados: Serão considerados reabilitados os projetos em condição de produzir. 
+- Proporção de Estações da Rede Hidrometeorológica Nacional de responsabilidade da ANA com disponibilização regular de dados: O indicador reflete a regularidade da disponibilização de dados diários coletados nas estações da RHN-ANA em operação, referentes à precipitação pluviométrica e ao nível dos rios.  
+- Proporção de Estações da Rede Nacional de Qualidade da Água pactuada com os Estados implantadas com disponibilização regular de dados: O indicador reflete a regularidade da disponibilização de dados de qualidade da água, provenientes das estações da RNQA constantes de Contratos Qualiágua em vigor (Programa de Estímulo à Divulgação de Dados de Qualidade das Águas). 
+- Quantidadade de Estudos e projetos concluídos: O indicador mede a quantidade de estudos e projetos concluídos. 
+- Quantidade de alevinos produzidos de espécies nativas visando à recomposição da ictiofauna para a revitalização de bacias hidrográficas pela Codevasf: Quantidade de alevinos produzidos de espécies nativas visando à recomposição da ictiofauna para a revitalização de bacias hidrográficas pela Codevasf 
+- Quantidade de barragens fiscalizadas pela ANA com PSB elaborado: Esse indicador permite avaliar se os empreendedores das barragens estão cumprindo a PNSB (12.334, de 20 de setembro de 2010) quanto a elaboração dos Planos de Segurança de Barragens - PSB, importante instrumento que permite ao orgão fiscalizador acompanhar a situação da barragem, visando previdir acidentes. 
+- Quantidade de barragens reguladas pela ANA verificadas quanto ao enquadramento na PNSB: O indicador reflete o quantitativo de barragens reguladas e fiscalizadas pela ANA cadastradas no Sistema Nacional de Informações sobre Segurança de Barragens - SNISB e classificadas quanto ao seu enquadramento na Política Nacional de Segurança de Barragens - PNSB, conforme critérios estabelecidos na Lei nº 12.334, de 20 de setembro de 2010. A classificação de barragens quanto ao enquadramento na PNSB é etapa essencial para um efetivo cumprimento da Política, uma vez que permite um acompanhamento direto dos barramentos junto aos empreendedores. 
+- Quantidade de estudos e projeto concluídos: O indicador mede a quantidade de estudos e projetos concluídos. 
+- Quantidade de estudos e projeto concluídos: O indicador mede a quantidade de estudos e projetos concluídos. 
+- Quantidade de estudos e projeto concluídos: O indicador mede a quantidade de estudos e projetos concluídos. 
+- Quantidade de estudos e projetos concluídos: O indicador mede a evolução dos estudos e projetos. 
+- Quantidade de estudos e projetos concluídos: O indicador mede a quantidade de estudos e projetos concluídos. 
+- Quantidade de estudos e projetos concluídos: O indicador mede a evolução dos estudos e projetos. 
+- Quantidade de estudos e projetos concluídos: O indicador mede a quantidade de estudos e projetos concluídos. 
+- Quantidade de estudos e projetos concluídos: O indicador mede a evolução dos estudos e projetos. 
+- Quantidade de estudos e projetos concluídos: nan 
+- Quantidade de estudos e projetos concluídos: O indicador mede a quantidade de estudos e projetos concluídos. 
+- Quantidade de estudos e projetos concluídos: O indicador mede a quantidade de estudos e projetos concluídos 
+- Quantidade de Estudos e projetos concluídos: O indicador mede a quantidade de estudos e projetos conluídos. 
+- Quantidade de Polos e Projetos de Irrigação beneficiados: Indicador contabiliza o total de polos e projetos de Irrigação beneficiados em cada ano.
+ 
+- Quantidade de sistemas de reuso das águas residuárias para irrigação implantados: Indicador mede o avanço na implantação de sistemas de reuso das águas residuárias para irrigação
+ 
+- Quantidade de sistemas implantados de dessalinização de águas salobras e salinas: O indicador mede o avanço na implantação de sistemas de dessalinização de águas salobras e salinas 
+- Sistemas de Abastecimento de Água Implantados: Indica a quantidade de sistemas de abastecimento de água implantados.
+ 
+- Sistemas hídricos locais com regramento especial estabelecido/revisado: O indicador reflete a quantidade de sistemas hídricos locais em situação de comprometimento hídrico que passaram a ter regramento especial ou que tiveram seu regramento especial revisado    
+- Somatório dos valores dos projetos: O indicador mede o somatório dos valores dos projetos aprovados em editais. 
+
+Indicadores de Objetivos Específicos:
+- Área total beneficiada por ações de revitalização de bacias hidrográficas: Área em hectares beneficiada por ações de recuperação, conservação e preservação dos recursos hídricos, considerando os limites das microbacias diretamente atendidas pela ANA, CODEVASF e SNSH/MIDR. 
+- Estimativa de incremento anual de área irrigada com base nas autorizações de uso das águas de domínio da União: Trata-se do somatório da área total irrigada estimada com base nas informações das outorgas de direito de uso dos recursos hídricos emitidas pela Agência Nacional de Águas e Saneamento Básico (ANA) em rios de domínio da União para os usuários com finalidade de irrigação, considerando o ano de referência 
+- Nível de stress hídrico: proporção das retiradas de água doce em relação ao total dos recursos de água doce disponíveis: Este indicador fornece uma estimativa da pressão pelos recursos de água doce renováveis exercida pelo total de demandas do país, para todas as finalidades de usos; considera também a inserção da variável ambiental, essencial à conservação dos ecossistemas aquáticos. Trata-se, em síntese, de um balanço hídrico global entre ofertas e demandas de recursos hídricos em um país. O indicador é calculado mediante a relação entre o total de demandas de retirada de água doce para abastecimento da população e suprimento hídrico a todas as atividades econômicas, e o total de recursos de água doce renováveis disponíveis no país. Desconta-se do total de recursos de água doce renováveis disponíveis uma vazão ecológica, ou seja, uma parcela dos recursos hídricos superficiais que deve ser reservada para manter a função ambiental dos ecossistemas aquáticos. Utilizou-se o percentual de 50% da vazão média do longo termo para cada Região Hidrográfica (Qmlt) como indicativo de vazão ecológica.			
+ 
+- Quantidade de municípios com Índice de Segurança Hídrica (ISH) baixo ou crítico na dimensão humana beneficiados com ampliação da oferta hídrica: Visa mensurar a quantidade de municípios com Índice de Segurança Hídrica (ISH), na dimensão humana, mínimo ou baixo que são beneficiados com a ampliação da oferta hídrica com ações do MIDR, de forma a melhorar suas condições de segurança hídrica. De acordo com o PNSH, o total de municípios com ISH, na dimensão humana, mínimo ou baixo é de 717. Assim, o indicador busca representar a atuação da União na melhoria da segurança hídrica.

@@ -1,0 +1,505 @@
+passage: Programa: Transporte Rodoviário
+
+Descrição do Problema:
+Incompatibilidade das rodovias à demanda de carga e passageiros.
+
+Causa do Problema:
+Baixa evolução da malha rodoviária nacional; Aumento das obras paralisadas e atrasadas; Inexecução de projetos prioritários e estratégicos; Alto custo/baixa disponibilidade de recursos orçamentários federais para a manutenção das rodovias; Baixa resiliência a desastres naturais. 
+
+Evidências do Problema:
+Insatisfação do usuário com o transporte de passageiros; Perda de competitividade internacional; Redução do nível de serviço; Aumento do tempo de viagem para o usuário; Aumento do custo operacional; Manutenção do alto índice de emissão de gases do efeito estufa pelo setor de transporte rodoviário; Redução do investimento privado.
+
+Justificativa para a Intervenção:
+O governo federal é responsável pela administração e manutenção da malha rodoviária federal, que desempenha um papel crucial no transporte de carga e passageiros em todo o país. É dever do governo federal garantir que essa infraestrutura esteja adequada às necessidades de mobilidade, segurança e desenvolvimento econômico.
+O transporte rodoviário é fundamental para a economia brasileira, sendo o principal modal utilizado para o escoamento da produção e o transporte de mercadorias. Rodovias incompatíveis com a demanda geram custos logísticos mais altos, aumento do tempo de viagem e menor competitividade das empresas brasileiras. Portanto, é de interesse do governo federal intervir para promover a eficiência do sistema de transporte rodoviário, reduzir os custos logísticos e aumentar a competitividade do país.
+A incompatibilidade das rodovias à demanda pode comprometer a segurança dos usuários e a qualidade de vida da população. Estradas congestionadas, em más condições ou com deficiências de segurança representam riscos para os motoristas, aumentando a ocorrência de acidentes e impactando negativamente a vida das pessoas. O governo federal deve intervir para garantir a segurança viária e melhorar a qualidade de vida dos cidadãos.
+O desafio do programa que requer uma abordagem coordenada e estratégica em nível federal para garantir uma solução abrangente e eficaz. A escala e a complexidade do problema exigem a intervenção do governo federal para coordenar os esforços, mobilizar recursos e implementar políticas que possam resolver ou mitigar as deficiências do sistema de transporte rodoviário.
+Considerando a multiplicidade de problemas relacionados à incompatibilidade das rodovias à demanda de carga e passageiros, a escassez de recursos para enfrentá-los é uma realidade. No entanto, a criação de um programa específico se justifica pela importância estratégica do sistema de transporte rodoviário para o país, pelos impactos econômicos e sociais decorrentes de sua ineficiência e pela responsabilidade do governo federal em garantir uma infraestrutura de transporte adequada. O programa permitirá uma alocação mais eficiente de recursos, o estabelecimento de metas e diretrizes claras, a articulação de parcerias e a implementação de medidas prioritárias para resolver ou mitigar os problemas existentes, buscando maximizar os benefícios para a sociedade como um todo.
+
+
+Evolução Histórica:
+Existem várias experiências de políticas públicas do governo federal voltadas para combater problemas relacionados à incompatibilidade das rodovias à demanda de carga e passageiros. A seguir, são apresentadas algumas delas, destacando também o tratamento dado em PPAs anteriores:
+Programa de Aceleração do Crescimento (PAC): O PAC, lançado em 2007 e com continuidade em PPAs subsequentes, contemplou investimentos em diversas áreas, incluindo infraestrutura de transporte. Por meio do PAC, foram realizadas obras de construção e recuperação de rodovias, visando melhorar a qualidade e a capacidade das vias.
+Programa de Investimentos em Logística (PIL): O PIL foi lançado em 2012 com o objetivo de promover investimentos na infraestrutura de transporte, incluindo rodovias. O programa buscou atrair investimentos privados por meio de concessões e parcerias público-privadas (PPPs) para a construção, ampliação e manutenção de rodovias. No PPA 2012-2015, o PIL recebeu destaque como uma das principais iniciativas para melhorar a infraestrutura rodoviária do país.
+Programa de Parcerias de Investimentos (PPI): iniciativa do governo federal lançada em 2016 que busca promover a participação do setor privado em projetos de infraestrutura. O PPI tem como objetivo atrair investimentos privados para setores estratégicos, incluindo infraestrutura de transporte, como rodovias, aeroportos, portos e ferrovias. O programa busca fomentar a modernização, expansão e melhoria da infraestrutura do país por meio de parcerias público-privadas (PPPs) e concessões, visando impulsionar o desenvolvimento econômico e a geração de empregos.
+Programa Nacional de Manutenção Rodoviária (PNMR): O Plano Nacional de Manutenção Rodoviária – PNMR é um instrumento utilizado pelo DNIT para a gestão da manutenção das rodovias federais. Embasa a elaboração do Projeto de Lei Orçamentária Anual (PLOA) referente às ações de manutenção dos trechos rodoviários federais  e orienta a tomada de decisão quanto ao nível adequado de manutenção do modo rodoviário. Visa garantir a cobertura contratual da malha rodoviária federal com as intervenções necessárias e busca otimizar os investimentos e programar as intervenções a serem executadas.
+É importante ressaltar que a continuidade e a evolução dessas políticas podem variar em diferentes PPAs, pois cada período estabelece suas prioridades e diretrizes específicas. No entanto, essas experiências destacam ações empreendidas pelo governo federal para combater problemas de infraestrutura e incompatibilidade das rodovias à demanda de carga e passageiros, demonstrando a importância atribuída a essas questões em políticas públicas anteriores.
+
+
+Comparações Internacionais:
+Ao analisar o problema da incompatibilidade das rodovias à demanda de carga e passageiros no Brasil em comparação com outros países, é possível observar diferenças significativas no nível de desenvolvimento e nas políticas públicas adotadas. A seguir, apresento uma análise comparativa considerando recortes por grupos de países e exemplos de políticas públicas de sucesso:
+
+América Latina:
+O Brasil enfrenta desafios semelhantes a outros países da região em relação à infraestrutura rodoviária. Muitos países latino-americanos têm uma extensa malha rodoviária e enfrentam problemas de manutenção, congestionamentos e falta de investimentos.
+Alguns países da América Latina têm adotado políticas públicas para melhorar a infraestrutura rodoviária, como investimentos em expansão e modernização de vias, concessões de rodovias a empresas privadas e melhorias na gestão e manutenção das estradas. O Chile, por exemplo, implementou um programa de concessões bem-sucedido que resultou em melhorias significativas na qualidade das rodovias.
+
+BRICS (Brasil, Rússia, Índia, China e África do Sul):
+Os países do BRICS têm desafios semelhantes em relação à demanda de transporte rodoviário, devido ao crescimento econômico e populacional. O aumento do comércio e da urbanização resulta em uma maior necessidade de infraestrutura rodoviária.
+A China tem se destacado na melhoria de sua infraestrutura rodoviária, investindo maciçamente em construção e manutenção de rodovias. O país tem implementado políticas de investimento em larga escala e tecnologias avançadas para melhorar a eficiência e a segurança das estradas.
+
+OCDE (Organização para a Cooperação e Desenvolvimento Econômico):
+Os países da OCDE geralmente apresentam infraestrutura rodoviária mais desenvolvida e políticas públicas avançadas nesse sentido. Muitos desses países possuem sistemas de transporte rodoviário eficientes, com alto nível de segurança e qualidade.
+Alguns exemplos de políticas públicas bem-sucedidas incluem investimentos contínuos na modernização da infraestrutura, implementação de pedágios eletrônicos para agilizar a cobrança de tarifas, uso de tecnologias avançadas para monitoramento e gestão do tráfego, além de investimentos em transporte público como alternativa ao uso excessivo de veículos particulares.
+É importante destacar que cada país possui características e desafios específicos, e as políticas públicas adotadas variam de acordo com suas necessidades e capacidades. A análise comparativa sugere que o Brasil pode se inspirar em casos de sucesso, como as concessões de rodovias no Chile ou os investimentos em infraestrutura da China, para desenvolver políticas públicas mais eficazes na solução do problema da incompatibilidade das rodovias à demanda de carga e passageiros. No entanto, é fundamental adaptar essas experiências às particularidades do país e considerar as limitações financeiras e de capacidade do setor público.
+
+
+Relação com os ODS:
+As Diretrizes de Sustentabilidade do Ministério dos Transportes foram construídas à luz dos Objetivos do Desenvolvimento Sustentável. A elaboração do PNL observou, prioritariamente, o interesse público, e sua execução demonstra grande compatibilidade com os ODS, atendendo à maioria deles, direta ou indiretamente.  De forma indireta, podemos citar, por exemplo, que o planejamento da circulação de pessoas e cargas promove o desenvolvimento econômico sustentável, o que contribui para a redução da pobreza, para a promoção da agricultura sustentável, para o aumento de bem-estar da população, dentre outros.
+Diretamente impactados com o setor, destacam-se três os ODS prioritários, quais sejam: (i) 7 - Energias Renováveis e Acessíveis; (ii) 9 - Indústria, Inovação e Infraestrutura; e (iii)  13 - Ação Climática.
+7 – Energias Renováveis e Acessíveis: garantir acesso à energia barata, confiável, sustentável e renovável para todos. 
+No caso específico de transportes, trata-se de energia de propulsão, mais propriamente de combustíveis.  Como a matriz energética, no Brasil, denota contribuição de energia limpa e sustentável bem significativa, inclusive em relação a muitos países desenvolvidos, a utilização de fontes de combustíveis mais sustentáveis produz impacto positivo direto no atingimento do objetivo. Por exemplo, a substituição de combustíveis fósseis por energia elétrica ou biocombustíveis, atende ao propósito deste ODS, pois na geração de energia elétrica nacional fontes renováveis e sustentáveis são empregadas, o mesmo ocorrendo com biocombustíveis. 
+Há de se observar, ainda, a sustentabilidade energética nos projetos construtivos de infraestruturas de transporte, específica para cada modal ou sistema.
+Para este objetivo, tem-se duas metas pré-definidas, quais sejam: 
+7.2 – Até 2030, aumentar substancialmente a participação de energias renováveis na matriz energética global.
+O atendimento deste objetivo, com relação à contribuição do setor de transportes, é uma extensão do anterior, pois, na medida em que as tecnologias de veículos e equipamentos evoluem para a utilização de energia propulsora renovável e mais limpa, a demanda por estas cresce, contribuindo para o aumento da sustentabilidade na geração e, consequentemente, na matriz energética nacional.
+7.3 – Até 2030, duplicar a taxa global de melhoria da eficiência energética.
+O conceito de eficiência energética nos transportes relaciona a capacidade de transportar, pessoas ou cargas, em relação ao consumo energético implicado no percurso. Os modos ou sistemas mais energeticamente eficientes são aqueles que otimizam distâncias, equacionam o carregamento de forma equilibrada e lançam mão da intermodalidade, ações que demonstram como o planejamento atua diretamente no aumento da eficiência energética.
+Para uma mensuração mais precisa da eficiência energética, deve-se considerar os impactos ambientais das viagens, ao longo do trajeto, levando em conta emissões de poluentes, impactos socioambientais etc.
+7.4 – Até 2030, reforçar cooperação internacional para facilitar o acesso à investigação e tecnologias de energia limpa, incluindo energias renováveis, eficiência energética e tecnologias de combustíveis fósseis avançadas e mais limpas, e promover o investimento em infraestrutura de energia e em tecnologias de energia limpa.
+O impacto ambiental dos transportes causa preocupação global, pois é perceptível em todo o planeta. As seguidas crises causadas pela produção de combustíveis fósseis é fator de alerta no mundo todo, desde a década de 1970. Países mais desenvolvidos e não produtores de petróleo, em particular alguns europeus, saíram na frente promovendo pesquisas tecnológicas e alterando cultura de deslocamentos para mitigar a dependência dos combustíveis fósseis na matriz de transporte. Igualmente fizeram países asiáticos, inclusive por ter altos índices de poluição atmosférica. No Brasil, foi instituído o Programa Proálcool, em 1975.
+Fomentar as cooperações internacionais já demonstrou para o Brasil ser de grande valia, pois ao tempo em que o país pode usufruir de inovações já consolidadas em outros lugares do mundo, pode oferecer aos parceiros oportunidades de pesquisas e negócios, devido à sua diversidade regional e mercado propício à expansão de tecnologias e serviços.
+9- Indústria, Inovação e Infraestrutura: construir infraestrutura resiliente, promover a industrialização inclusiva e sustentável, e fomentar a inovação.
+A infraestrutura é, comprovadamente, fator de crescimento para o país, gerando emprego, favorecendo o acesso da população e o desenvolvimento econômico da nação. Promover e executar infraestrutura resiliente e sustentável demonstra ser fator de otimização de recursos, na medida em que se oferece atributos de confiabilidade e segurança para a sociedade. O PNL, ao estabelecer critérios e orientações ao planejamento da circulação de cargas, considerando a intersecção com os demais deslocamentos envolvidos, atende ao objetivo de promover a industrialização, pois visa melhorar a logística dos produtos, na busca pela evolução de veículos, equipamentos e infraestruturas, favorecendo, consequentemente, a inovação da indústria nacional.
+Tem-se duas metas vinculadas ao objetivo que as orientações indicadas pelo PNL convergem diretamente: 
+9.1 – Desenvolver infraestruturas de qualidade, e confiança, sustentáveis e resilientes, incluindo infraestruturas regionais e transfronteiriças, para apoiar o desenvolvimento econômico e o bem-estar humano, focando-se no acesso equitativo e a preços acessíveis para todos.
+Dois indicadores de referência: 
+• 9.1.1 - Proporção de população residente em áreas rurais que vive num raio de 2 km de acesso a uma estrada transitável em todas as estações do ano
+• 9.1.2 - Passageiros e cargas transportados por modalidade de transporte
+9.4 - Até 2030, modernizar a infraestrutura e reabilitar as indústrias para torná-las sustentáveis, com eficiência aumentada no uso de recursos e maior adoção de tecnologias e processos industriais limpos e ambientalmente adequados; com todos os países atuando de acordo com suas respectivas capacidades
+Especificamente em relação à infraestrutura de transportes, o planejamento prévio pode garantir que, uma vez exposto a eventos de grande impacto negativo, o sistema retorne o mais rapidamente quanto possível ao seu funcionamento usual, em termos de infraestrutura e, consequentemente de segurança, de serviço e de oferta.
+A sustentabilidade da infraestrutura de transportes é avaliada por uma série de enfoques. Tanto o projeto quanto o processo construtivo devem ser pautados pela utilização de materiais e métodos que promovam o menor impacto ambiental, a menor agressão ao meio ambiente quanto possível e, quanto mais se conhecer a cadeia de geração de produtos a serem utilizados, tanto melhor, sendo preferenciais os mais sustentáveis. Os impactos aos ecossistemas também devem ser cuidadosamente evitados e mitigados. É necessário que planejamento e projetos garantam a sustentabilidade ambiental, social e econômica de todo o sistema, buscando a excelência na aplicação de recursos financeiros, humanos e energéticos, consequentemente reduzindo os custos na ponta.
+13- Ação Climática: tomar medidas urgentes para combater a mudança climática e seus impactos.
+O impacto negativo de sistemas de transportes na poluição atmosférica é considerado um dos fatores mais significativos para a qualidade do ar, em particular em áreas urbanas e em regiões cuja geografia impede a dissipação do ar. A construção de grandes infraestruturas em ecossistemas também pode atuar de forma perniciosa na mudança climática.
+Da mesma forma do que foi mencionado, no que tange aos ODS, o PNL propõe planejamento sistêmico que pode evitar, reduzir ou mitigar tais efeitos, minimizando os impactos negativos da circulação de transportes e contribuindo para a adoção de medidas no combate à mudança do clima no país, e, consequentemente, em colaboração com o resultado global. 
+13.1 – Reforçar a resiliência e a capacidade de adaptação a riscos relacionados com o clima e a catástrofes naturais em todos os países.
+Além das medidas propostas para o planejamento, projeto e execução de infraestruturas resilientes (ODS 9), medidas de adaptação, gestão de risco e contingência devem estar previstas para a operação de cada um dos modais, de forma específica e ações para o sistema como um todo.
+Ressalta-se que os projetos de infraestrutura, tradicionalmente, consideravam série histórica de eventos naturais para prever possibilidades de ações rápidas para a operação ou até mesmo de projetos construtivos, para absorver tais impactos. No entanto em duas ou três décadas tal medida, de avaliar apenas o histórico, tornou-se obsoleta. Há registro de diversos acidentes, frutos de aumento de maré, de ventos ou tempestades atípicas em uma região, dentre outros, o que fez com que rapidamente se observasse que analisar o passado já não era suficientemente eficaz para dar contar dos eventos adversos contemporâneos. Hoje o conhecimento e o reconhecimento dos impactos da mudança climática geram novos aspectos fundamentais a serem considerados em todo o planejamento dos sistemas de transportes.
+
+
+Agentes Envolvidos:
+Ministério dos Transportes e suas vinculadas na execução das políticas públicas, bem como a iniciativa privada com a execução de obras por meio dos contratos ou em concessões. 
+
+
+Articulação Federativa:
+No campo das políticas públicas retratadas no programa de transportes terrestres, o relacionamento entre os entes federativos é fundamental para o enfrentamento do problema da incompatibilidade das rodovias à demanda de carga e passageiros. No Brasil, a Constituição Federal estabelece a repartição de competências entre os entes federativos (União, Estados, Distrito Federal e municípios), definindo as responsabilidades de cada um na área de transporte.
+A União possui competência para estabelecer diretrizes gerais e normas técnicas para o setor de transportes, além de ser responsável pela administração das rodovias federais. Através do Ministério dos Transportes e de suas autarquias, como o Departamento Nacional de Infraestrutura de Transportes (DNIT), a União tem a incumbência de planejar, construir, manter e fiscalizar as rodovias federais.
+Por sua vez, os Estados e o Distrito Federal possuem competência para gerir e fiscalizar as rodovias estaduais e regionais, sendo responsáveis pela elaboração de políticas e programas de transporte rodoviário em seus territórios. 
+Os municípios têm atribuições relacionadas ao planejamento e gestão do transporte urbano, incluindo a implantação de sistemas de transporte coletivo e a gestão do tráfego local.
+O relacionamento entre os entes federativos no campo das políticas públicas de transporte rodoviário pode ser desafiador, especialmente quando se trata de integrar ações e recursos para o enfrentamento do problema. A complexidade aumenta devido à necessidade de alinhamento de objetivos, prioridades e investimentos entre diferentes esferas governamentais.
+No entanto, a cooperação entre os entes federativos é essencial para superar esses desafios. A articulação entre União, Estados, Distrito Federal e municípios é fundamental para promover a integração das rodovias, a realização de investimentos adequados, a padronização de normas e procedimentos, além da troca de experiências e melhores práticas.
+A repartição de competências e responsabilidades constitucionais e legais pode impactar o enfrentamento do problema da incompatibilidade das rodovias. É necessário um esforço conjunto dos entes federativos para garantir a harmonização das ações, a busca de recursos financeiros e a adoção de estratégias eficientes para a melhoria da infraestrutura, a segurança viária, a gestão do tráfego e a oferta de um sistema de transporte rodoviário de qualidade e sustentável em todo o país.
+
+
+Enfoque Transversal:
+As políticas públicas retratadas no programa de transporte rodoviário podem ser articuladas com diversas outras políticas em curso, levando em consideração aspectos multissetoriais e transversais. Essas articulações são importantes para promover uma abordagem integrada e abrangente, maximizando os benefícios e sinergias entre os programas do PPA. Abaixo, são apresentados alguns exemplos de possíveis articulações:
+Política de Desenvolvimento Regional: O programa de transporte rodoviário pode articular-se com políticas de desenvolvimento regional, promovendo a integração entre regiões e reduzindo desigualdades territoriais. A melhoria das rodovias e o aumento da acessibilidade contribuem para a ampliação do acesso a serviços e oportunidades econômicas em áreas mais remotas.
+Política de Meio Ambiente e Sustentabilidade: O programa de transporte rodoviário pode integrar-se à política de meio ambiente e sustentabilidade, adotando práticas de transporte mais sustentáveis e com menor impacto ambiental. Isso inclui a promoção de rodovias sustentáveis e a implantação de infraestruturas que priorizem a mobilidade ativa e o transporte público, e a adoção de medidas de mitigação e compensação ambiental nas obras de infraestrutura.
+Política de Ciência, Tecnologia e Inovação: O programa de transporte rodoviário pode articular-se com políticas de ciência, tecnologia e inovação, buscando soluções inovadoras para a melhoria da infraestrutura rodoviária, como o desenvolvimento de tecnologias inteligentes para gestão do tráfego, sistemas de monitoramento e controle de condições das rodovias, e a aplicação de novas técnicas construtivas e materiais mais sustentáveis.
+Essas são apenas algumas possíveis articulações das políticas públicas retratadas no programa de transporte rodoviário com outras políticas em curso. É importante destacar que a integração e articulação entre os programas do PPA permitem uma atuação mais efetiva e abrangente do governo, buscando soluções integradas e potencializando os resultados alcançados.
+
+
+Marco Legal:
+As políticas públicas retratadas no programa de transporte rodoviário estão sujeitas a uma série de normas constitucionais, legais e infralegais que estabelecem as bases para sua implementação e regulação. A seguir, são mencionadas algumas das principais normas aplicáveis:
+Constituição Federal: A Constituição Federal estabelece as competências e atribuições dos entes federativos (União, Estados, Distrito Federal e municípios) no que diz respeito ao transporte rodoviário. Ela define a competência da União para estabelecer diretrizes gerais para o setor e atribui aos Estados e municípios a responsabilidade pela gestão das rodovias estaduais e municipais, respectivamente.
+
+Código de Trânsito Brasileiro (CTB): O CTB é a principal legislação que trata das normas de trânsito no Brasil. Ele estabelece as regras de conduta dos condutores, as normas de circulação e estacionamento, as penalidades aplicáveis às infrações de trânsito, entre outros aspectos relevantes para a segurança viária.
+
+Lei de Licitações e Contratos Administrativos (Lei nº 14.133/2021): Essa lei estabelece as normas gerais sobre licitações e contratos administrativos, aplicáveis às contratações de obras, serviços, compras e alienações realizadas pela administração pública. Ela estabelece os procedimentos a serem seguidos para a contratação de obras de infraestrutura rodoviária, por exemplo.
+
+Além das normas constitucionais e legais, também existem instrumentos infralegais que regulamentam as políticas públicas de transporte rodoviário, tais como:
+
+Resoluções e normativas do Conselho Nacional de Trânsito (Contran): O Contran é responsável por regulamentar o CTB e emitir resoluções que estabelecem as normas e padrões técnicos a serem seguidos para garantir a segurança e a eficiência do trânsito.
+
+Portarias e instruções normativas dos órgãos responsáveis pelo transporte rodoviário: O Ministério dos Transportes, o Departamento Nacional de Infraestrutura de Transportes (DNIT) e outros órgãos competentes em nível federal, estadual e municipal emitem portarias e instruções normativas que estabelecem diretrizes e procedimentos específicos para a implementação das políticas públicas no âmbito do transporte rodoviário.
+
+Essas são apenas algumas das principais normas aplicáveis às políticas públicas retratadas no programa de transporte rodoviário. É importante ressaltar que a conformidade com a normatividade constitucional, legal e infralegal é fundamental para a efetividade e legitimidade das ações governamentais nessa área.
+
+
+Planos Nacionais, Setoriais e Regionais:
+Além do programa de transporte rodoviário, existem diversos outros instrumentos de planejamento que orientam as políticas públicas relacionadas ao tema. Esses instrumentos são estabelecidos em níveis nacional, setorial e regional, visando promover a integração e a efetividade das ações governamentais. A seguir, são mencionados alguns exemplos desses instrumentos:
+
+O Plano Nacional de Logística (PNL) é um dos principais instrumentos que o Poder Público dispõe para planejar, no longo prazo, a infraestrutura de transportes brasileira. O PNL identifica e propõe, com base no diagnóstico atual, soluções que contribuam para o desenvolvimento brasileiro. O objetivo é indicar empreendimentos que propiciem a redução dos custos, melhorar o nível de serviço para os usuários, buscar o equilíbrio da matriz, aumentar a eficiência dos modos utilizados para a movimentação das cargas e diminuir a emissão de poluentes.
+O PNL é desenvolvido pela Empresa de Planejamento e Logística (EPL) de acordo com as atribuições legais da empresa. Neste papel, a EPL busca integrar os planejamentos setoriais brasileiros, de forma a promover o desenvolvimento regional e nacional, além de garantir a infraestrutura necessária
+
+Política Nacional de Desenvolvimento Regional (PNDR): Atualizada pelo Decreto nº 9.810, de 2019, representa instrumento legal que baliza a ação em busca da redução das desigualdades econômicas e sociais, intra e inter-regionais, por meio da criação de oportunidades de desenvolvimento que resultem em crescimento econômico, geração de renda e melhoria da qualidade de vida da população.
+O Desenvolvimento Regional não pode ser compreendido de forma unidimensional. É preciso reconhecer as desigualdades regionais em múltiplas escalas de intervenção, e orientar políticas e programas que promovam o desenvolvimento territorial por meio de instrumentos adequados ao trabalho multiescalar, de modo a facilitar a cooperação federativa e a coordenação horizontal do governo federal para sua efetiva implementação.
+A estratégia de implementação da Política deve, portanto, tratar o Desenvolvimento Regional como um projeto de âmbito nacional, no qual o potencial e a diversidade das regiões sejam aproveitados e dinamizados, promovendo-se, simultaneamente, a integração nacional e uma gradual convergência de renda entre regiões.
+
+Esses são apenas alguns exemplos de instrumentos de planejamento que orientam as políticas públicas relacionadas ao transporte rodoviário. A existência desses instrumentos permite uma abordagem mais abrangente e estratégica, promovendo a integração e a eficiência das ações governamentais no setor.
+
+
+Objetivo Geral:
+- Ofertar um sistema de transporte rodoviário sustentável, integrado, de qualidade, fluido, eficiente, moderno, seguro e acessível, com vistas ao aperfeiçoamento da mobilidade de pessoas e bens, à redução dos custos logísticos e ao aumento da competitividade
+
+Objetivos Específicos:
+- Manter a malha rodoviária federal com condições de trafegabilidade e segurança
+- Adequar e ampliar a malha pavimentada rodoviária federal com recursos públicos
+- Conceder rodovias utilizando mecanismos aprimorados, modernos e sustentáveis
+- Ampliar, com recursos privados, a capacidade da malha rodoviária federal concedida
+- Desburocratizar o transporte rodoviário de carga
+
+Indicadores de Entrega:
+- Aportes públicos em novas concessões: Total do aporte público nas novas concessões 
+- % de PMIs implantados, conforme demanda: Verifica a quantidade de PMIs implantados, em relação à quantidade de PMIs previstos e conforme a demanda 
+- Dispositivos entregues: Quantidade de dispositivos construídos e entregues (travessia de pedestres, alças, acessos, pontes e similares, retornos, OAC, terraplenos e estruturas de contenção e túneis). 
+- Estudos realizados: Total de estudos realizados no período. 
+- Estudos realizados: Total de estudos realizados no período. 
+- Estudos realizados: Estudos realizados 
+- Estudos realizados: Total de estudos realizados.
+ 
+- Estudos realizados: Total de estudos realizados no período 
+- Estudos realizados:  Total de estudos realizados no período 
+- Estudos Realizados: Total de estudos realizados no período 
+- Estudos Realizados: Total de estudos realizados no período 
+- Estudos Realizados: Total de estudos realizados no período 
+- Estudos Realizados: Total de estudos realizados no período 
+- Estudos Realizados: Total de estudos realizados no período 
+- Estudos Realizados: Total de estudos realizados no período 
+- Estudos Realizados: Total de estudos realizados no período 
+- Estudos Realizados: Total de estudos realizados no período 
+- Estudos Realizados: Total de estudos realizados no período 
+- Estudos Realizados: Total de estudos realizados no período 
+- Estudos Realizados: Total de estudos realizados no período 
+- Estudos Realizados: Total de estudos realizados no período 
+- Estudos Realizados: Total de estudos realizados no período 
+- Estudos Realizados: Total de estudos realizados no período
+ 
+- Estudos Realizados: Total de estudos realizados no período 
+- Estudos Realizados: Total de estudos realizados no período
+ 
+- Estudos Realizados: Total de estudos realizados no período 
+- Estudos Realizados: Total de estudos realizados no período 
+- Estudos Realizados: Total de estudos realizados no período 
+- Estudos Realizados: Total de estudos realizados no período 
+- Estudos Realizados: Total de estudos realizados no período 
+- Estudos Realizados: Total de estudos realizados no período 
+- Estudos Realizados: Total de estudos realizados no período 
+- Estudos Realizados: Total de estudos realizados no período 
+- Estudos Realizados: Total de estudos realizados no período 
+- Estudos Realizados: Total de estudos realizados no período 
+- Estudos Realizados: Total de estudos realizados no período 
+- Estudos Realizados: Total de estudos realizados no período 
+- Estudos Realizados: Total de estudos realizados no período 
+- Execução de investimentos obrigatórios: Total de quilômetros de rodovias com execução de investimentos obrigatórios
+ 
+- Execução de investimentos obrigatórios: Total de quilômetros de rodovias com execução de investimentos obrigatórios
+ 
+- Execução de investimentos obrigatórios: Total de quilômetros de rodovias com execução de investimentos obrigatórios
+ 
+- Execução de investimentos obrigatórios: Total de quilômetros de rodovias com execução de investimentos obrigatórios
+ 
+- Execução de investimentos obrigatórios: Total de quilômetros de rodovias com execução de investimentos obrigatórios
+ 
+- Execução de investimentos obrigatórios: Total de quilômetros de rodovias com execução de investimentos obrigatórios 
+- Execução de investimentos obrigatórios: Total de quilômetros de rodovias com execução de investimentos obrigatórios
+ 
+- Execução de investimentos obrigatórios: Total de quilômetros de rodovias com execução de investimentos obrigatórios
+ 
+- Execução de investimentos obrigatórios: Total de quilômetros de rodovias com execução de investimentos obrigatórios
+ 
+- Execução de investimentos obrigatórios: Total de quilômetros de rodovias com execução de investimentos obrigatórios
+ 
+- Execução de investimentos obrigatórios: Total de quilômetros de rodovias com execução de investimentos obrigatórios
+ 
+- Execução de investimentos obrigatórios: Total de quilômetros de rodovias com execução de investimentos obrigatórios
+ 
+- Execução de investimentos obrigatórios: Total de quilômetros de rodovias com execução de investimentos obrigatórios
+ 
+- Execução de investimentos obrigatórios: Total de quilômetros de rodovias com execução de investimentos obrigatórios
+ 
+- Execução de investimentos obrigatórios: Total de quilômetros de rodovias com execução de investimentos obrigatórios
+ 
+- Execução de investimentos obrigatórios: Total de quilômetros de rodovias com execução de investimentos obrigatórios
+ 
+- Investimentos da concessão: Total investido da concessão no período 
+- Investimentos da concessão: Total investido da concessão no período 
+- Investimentos da concessão: Total investido da concessão no período 
+- Investimentos da concessão: Total investido da concessão no período 
+- Investimentos da concessão: Total investido da concessão no período 
+- Investimentos da concessão: Total investido da concessão no período 
+- Investimentos da concessão: Total investido da concessão no período 
+- Investimentos da concessão: Total investido da concessão no período 
+- Investimentos da concessão: Total investido da concessão no período 
+- Investimentos da concessão: Total investido da concessão no período 
+- Investimentos da concessão: Total investido da concessão no período 
+- Investimentos da concessão: Total investido da concessão no período 
+- Investimentos da concessão: Total investido da concessão no período 
+- Investimentos da concessão: Total investido da concessão no período 
+- Investimentos da concessão: Total investido da concessão no período 
+- Investimentos da concessão: Total investido da concessão no período 
+- Investimentos da concessão: Total investido da concessão no período 
+- Investimentos da concessão: Total investido da concessão no período 
+- Investimentos da concessão: Total investido da concessão no período 
+- Investimentos da concessão: Total investido da concessão no período 
+- Investimentos da concessão: Total investido da concessão no período 
+- Número de equipamentos de pesagem em operação: Contabiliza a quantidade de equipamentos ativos para pesagem de veículos, sendo um indicador relevante para o controle de carga, garantindo a segurança nas estradas e o cumprimento das normas de trânsito.
+ 
+- Percentual de adesão das concessionárias de rodovias federais ao IDA: O objetivo é aumentar as adesões das empresas concessionárias ao IDA no transporte rodoviário, pois se trata de adesão voluntária. A cada nova adesão, maior o compromisso do setor com o desenvolvimento de inciativas sustentáveis. 
+- Percentual de carga transportada com DTE no modal rodoviário: Verifica a quantidade de transporte de carga rodoviária que circula com DT-e, em relação à quantidade total de transporte de carga rodoviária. 
+- Quantidade de OAEs com ações de manutenção ou reabilitação realizadas: Indica o número de OAEs (Obras de Arte Especiais) do PROARTE, como pontes e viadutos, com ações de manutenção ou reabilitação realizadas.
+ 
+- Quantidade de OAEs com ações de manutenção ou reabilitação realizadas: Indica o número de OAEs (Obras de Arte Especiais) do PROARTE, como pontes e viadutos, com ações de manutenção ou reabilitação realizadas. 
+- Quantidade de OAEs com ações de manutenção ou reabilitação realizadas: Indica o número de OAEs (Obras de Arte Especiais) do PROARTE, como pontes e viadutos, com ações de manutenção ou reabilitação realizadas. 
+- Quantidade de OAEs com ações de manutenção ou reabilitação realizadas: Indica o número de OAEs (Obras de Arte Especiais) do PROARTE, como pontes e viadutos, com ações de manutenção ou reabilitação realizadas. 
+- Quantidade de OAEs com ações de manutenção ou reabilitação realizadas: Indica o número de OAEs (Obras de Arte Especiais) do PROARTE, como pontes e viadutos, com ações de manutenção ou reabilitação realizadas. 
+- Quantidade de OAEs com ações de manutenção ou reabilitação realizadas: Indica o número de OAEs (Obras de Arte Especiais) do PROARTE, como pontes e viadutos, com ações de manutenção ou reabilitação realizadas. 
+- Quantidade de OAEs com ações de manutenção ou reabilitação realizadas: Indica o número de OAEs (Obras de Arte Especiais) do PROARTE, como pontes e viadutos, com ações de manutenção ou reabilitação realizadas. 
+- Quantidade de OAEs Construídas: Indica o número de OAEs (Obras de Arte Especiais), como pontes e viadutos, construídos. 
+- Quantidade de OAEs Construídas: Indica o número de OAEs (Obras de Arte Especiais), como pontes e viadutos, construídos. 
+- Quantidade de OAEs Construídas: Indica o número de OAEs (Obras de Arte Especiais), como pontes e viadutos, construídos. 
+- Quantidade de OAEs Construídas: Indica o número de OAEs (Obras de Arte Especiais), como pontes e viadutos, construídos. 
+- Quantidade de pontes de madeira substituídas por pontes de concreto/aço: Mostra o número de de pontes de madeira substituídas por pontes de concreto/aço, sendo um indicador relevante para avaliar os investimentos em modernização e segurança das infraestruturas, resultando em uma rede viária mais atualizada e resiliente.
+ 
+- Quilômetros de rodovia duplicados: Total de quilômetros de rodovias duplicadas no período 
+- Quilômetros de rodovia duplicados: Total de quilômetros de rodovias duplicadas no período 
+- Quilômetros de rodovia duplicados: Total de quilômetros de rodovias duplicadas no período 
+- Quilômetros de rodovia duplicados: Total de quilômetros de rodovias duplicadas no período 
+- Quilômetros de rodovia duplicados: Total de quilômetros de rodovias duplicadas no período 
+- Quilômetros de rodovias adequadas: Mede a extensão total, em quilômetros, de rodovias que foram adequadas no ano em análise. Esse indicador é relevante porque evidencia os esforços para melhorar a capacidade e a qualidade das estradas, permitindo um fluxo de tráfego mais eficiente e seguro. Rodovias adequadas contribuem para reduzir congestionamentos, melhorar o tempo de viagem e minimizar riscos de acidentes. Além disso, a adequação de rodovias existentes pode ser uma opção mais sustentável em comparação com a construção de novas vias.
+ 
+- Quilômetros de rodovias adequados: Total de quilômetros de rodovias adequados 
+ 
+- Quilômetros de rodovias adequados: Total de quilômetros de rodovias adequados 
+- Quilômetros de rodovias adequados: Total de quilômetros de rodovias adequados 
+- Quilômetros de rodovias adequados: Total de quilômetros de rodovias adequados 
+ 
+- Quilômetros de rodovias adequados: Total de quilômetros de rodovias adequados 
+ 
+- Quilômetros de rodovias adequados: Total de quilômetros de rodovias adequados 
+ 
+- Quilômetros de rodovias adequados: Total de quilômetros de rodovias adequados 
+ 
+- Quilômetros de rodovias adequados: Total de quilômetros de rodovias adequados 
+ 
+- Quilômetros de rodovias adequados: Total de quilômetros de rodovias adequados 
+- Quilômetros de rodovias adequados: Total de quilômetros de rodovias adequados 
+- Quilômetros de rodovias adequados:  Total de quilômetros de rodovias adequados 
+ 
+- Quilômetros de rodovias adequados: Total de quilômetros de rodovias adequados 
+ 
+- Quilômetros de rodovias adequados: Total de quilômetros de rodovias adequados 
+- Quilômetros de rodovias adequados: Total de quilômetros de rodovias adequados 
+ 
+- Quilômetros de rodovias adequados: Total de quilômetros de rodovias adequados 
+- Quilômetros de rodovias adequados: Total de quilômetros de rodovias adequados 
+ 
+- Quilômetros de rodovias adequados: Total de quilômetros de rodovias adequados 
+ 
+- Quilômetros de rodovias adequados: Total de quilômetros de rodovias adequados 
+ 
+- Quilômetros de rodovias adequados: total de quilômetros de rodovias adequados 
+- Quilômetros de rodovias adequados: Total de quilômetros de rodovias adequados 
+- Quilômetros de rodovias adequados: Total de quilômetros de rodovias adequados 
+ 
+- Quilômetros de rodovias adequados: Total de quilômetros de rodovias adequados 
+ 
+- Quilômetros de rodovias adequados: Total de quilômetros de rodovias adequadas 
+- Quilômetros de rodovias adequados: Total de quilômetros de rodovias adequados 
+ 
+- Quilômetros de rodovias adequados: Total de quilômetros de rodovias adequados 
+ 
+- Quilômetros de rodovias adequados: Total de quilômetros de rodovias adequados 
+- Quilômetros de rodovias adequados: Total de quilômetros de rodovias adequados 
+ 
+- Quilômetros de rodovias adequados: Total de quilômetros de rodovias adequados 
+- Quilômetros de rodovias adequados: Total de quilômetros de rodovias adequados 
+ 
+- Quilômetros de rodovias adequados: Total de quilômetros de rodovias adequados 
+ 
+- Quilômetros de rodovias adequados: Total de quilômetros de rodovia adequados 
+- Quilômetros de rodovias adequados: Total de quilômetros de rodovias adequados 
+- Quilômetros de rodovias adequados: Total de quilômetros de rodovias adequados 
+ 
+- Quilômetros de rodovias adequados: Total de quilômetros de rodovias adequados 
+ 
+- Quilômetros de rodovias adequados: Total de quilômetros de rodovias adequados 
+ 
+- Quilômetros de rodovias adequados: Total de quilômetros de rodovias adequados 
+ 
+- Quilômetros de rodovias adequados: Total de quilômetros de rodovias adequados 
+- Quilômetros de rodovias adequados: Total de quilômetros de rodovias adequados 
+- Quilômetros de rodovias adequados: Total de quilômetros de rodovias adequados 
+ 
+- Quilômetros de rodovias adequados: Total de quilômetros de rodovias adequados 
+ 
+- Quilômetros de rodovias adequados: Total de quilômetros de rodovias adequados 
+- Quilômetros de rodovias adequados: Total de quilômetros de rodovias adequados 
+ 
+- Quilômetros de rodovias adequados: Total de quilômetros de rodovias adequados no período
+ 
+- Quilômetros de rodovias adequados: Total de quilômetros de rodovia adequados 
+- Quilômetros de rodovias adequados:  Total de quilômetros de rodovias adequados 
+ 
+- Quilômetros de rodovias com implantação do mecanismo free flow ou HSWIN: Concessões Rodoviárias Federais que tenham implementado inovações tecnológicas de Free Flow (fluxo livre) ou HSWIM (Pesagem em movimento em alta velocidade) 
+- Quilômetros de rodovias com manutenções estruturadas realizadas: Apresenta a extensão das rodovias em quilômetros em que houve realização de ações de manutenção estruturada (CREMA e Restauração), indicando uma intervenção adequada para a conservação da infraestrutura viária, resultando em rodovias mais duradouras e com menor necessidade de manutenção.
+ 
+- Quilômetros de rodovias com manutenções realizadas: Somatório dos quilômetros em que houve ações de intervenção de manutenção (Conserva)
+
+ 
+- Quilômetros de rodovias construídos: Total de quilômetros de rodovias construídas no período 
+- Quilômetros de rodovias construídos: Total de quilômetros de rodovias construídas no período 
+- Quilômetros de rodovias construídos: Total de quilômetros de rodovias construídas no período 
+- Quilômetros de rodovias construídos: Total de quilômetros de rodovias construídas no período 
+- Quilômetros de rodovias construídos: Total de quilômetros de rodovias construídas no período 
+- Quilômetros de rodovias duplicadas ou com terceira faixa: Km de vias duplicadas ou terceiras faixas entregues 
+- Quilômetros de rodovias duplicados:  Total de quilômetros de rodovias duplicados 
+ 
+- Quilômetros de rodovias duplicados:  Total de quilômetros de rodovias duplicados 
+ 
+- Quilômetros de rodovias duplicados: Total de quilômetros de rodovias duplicadas no período
+ 
+- Quilômetros de rodovias duplicados:  Total de quilômetros de rodovias duplicados 
+ 
+- Quilômetros de rodovias duplicados:  Total de quilômetros de rodovias duplicados  
+- Quilômetros de rodovias duplicados:  Total de quilômetros de rodovias duplicados 
+ 
+- Quilômetros de rodovias duplicados:  Total de quilômetros de rodovias duplicados 
+ 
+- Quilômetros de rodovias duplicados: Total de quilômetros de rodovias duplicadas no período 
+- Quilômetros de rodovias duplicados:  Total de quilômetros de rodovias duplicados  
+- Quilômetros de rodovias duplicados:  Total de quilômetros de rodovias duplicados 
+ 
+- Quilômetros de rodovias duplicados:  Total de quilômetros de rodovias duplicados 
+ 
+- Quilômetros de rodovias duplicados:  Total de quilômetros de rodovias duplicados  
+- Quilômetros de rodovias duplicados:  Total de quilômetros de rodovias duplicados 
+ 
+- Quilômetros de rodovias duplicados:  Total de quilômetros de rodovias duplicados 
+ 
+- Quilômetros de rodovias duplicados:  Total de quilômetros de rodovias duplicados  
+- Quilômetros de rodovias duplicados:  Total de quilômetros de rodovias duplicados 
+ 
+- Quilômetros de rodovias duplicados:  Total de quilômetros de rodovias duplicados 
+ 
+- Quilômetros de rodovias duplicados: Total de quilômetros de rodovias duplicados 
+ 
+- Quilômetros de rodovias duplicados:  Total de quilômetros de rodovias duplicados 
+ 
+- Quilômetros de rodovias duplicados:  Total de quilômetros de rodovias duplicados 
+ 
+- Quilômetros de rodovias duplicados:  Total de quilômetros de rodovias duplicados 
+ 
+- Quilômetros de rodovias duplicados:  Total de quilômetros de rodovias duplicados  
+- Quilômetros de rodovias duplicados:  Total de quilômetros de rodovias duplicados 
+ 
+- Quilômetros de rodovias duplicados:  Total de quilômetros de rodovias duplicados 
+ 
+- Quilômetros de rodovias duplicados:  Total de quilômetros de rodovias duplicados 
+ 
+- Quilômetros de rodovias duplicados:  Total de quilômetros de rodovias duplicados 
+ 
+- Quilômetros de rodovias duplicados:  Total de quilômetros de rodovias duplicados 
+ 
+- Quilômetros de rodovias duplicados:  Total de quilômetros de rodovias duplicados 
+ 
+- Quilômetros de rodovias duplicados:  Total de quilômetros de rodovias duplicados 
+ 
+- Quilômetros de rodovias leiloados: Extensão total de rodovias leiloados no período. 
+- Quilômetros de rodovias pavimentadas: Total de quilômetros de rodovias pavimentadas 
+- Quilômetros de rodovias pavimentadas: Total de quilômetros de rodovias pavimentadas 
+- Quilômetros de rodovias pavimentadas:  Total de quilômetros de rodovias pavimentadas 
+ 
+- Quilômetros de rodovias pavimentadas: Total de quilômetros de rodovias pavimentadas 
+- Quilômetros de rodovias pavimentadas: Total de quilômetros de rodovias pavimentadas 
+- Quilômetros de rodovias pavimentadas: Total de quilômetros de rodovias pavimentadas 
+- Quilômetros de rodovias pavimentadas: Total de quilômetros de rodovias pavimentadas 
+- Quilômetros de rodovias pavimentadas: Total de quilômetros de rodovias pavimentadas 
+- Quilômetros de rodovias pavimentadas: Total de quilômetros de rodovias pavimentadas 
+- Quilômetros de rodovias pavimentadas: Total de quilômetros de rodovias pavimentadas 
+- Quilômetros de rodovias pavimentadas: Tota de quilômetros de rodovias pavimentadas 
+- Quilômetros de rodovias pavimentadas: Total de quilômetros de rodovias pavimentadas 
+- Quilômetros de rodovias pavimentadas: Total de quilômetros de rodovias pavimentadas 
+- Quilômetros de rodovias pavimentadas: Total de quilômetros de rodovias pavimentadas 
+- Quilômetros de rodovias pavimentadas: Total de quilômetros de rodovias pavimentadas 
+- Quilômetros de rodovias pavimentadas: Total de quilômetros de rodovias pavimentadas 
+- Quilômetros de rodovias pavimentadas: Total de quilômetros de rodovias pavimentadas 
+- Quilômetros de rodovias pavimentadas: Total de quilômetros de rodovias pavimentadas 
+- Quilômetros de rodovias pavimentadas: Total de quilômetros de rodovias pavimentadas 
+- Quilômetros de rodovias pavimentadas: Total de quilômetros de rodovias pavimentadas 
+- Quilômetros de rodovias pavimentadas: Total de quilômetros de rodovias pavimentadas 
+- Quilômetros de rodovias pavimentadas: Total de quilômetros de rodovias pavimentadas 
+- Quilômetros de rodovias pavimentadas: Total de quilômetros de rodovias pavimentadas 
+- Quilômetros de rodovias pavimentadas: nan 
+- Quilômetros de rodovias pavimentadas: Total de quilômetros de rodovias pavimentadas 
+- Quilômetros de rodovias pavimentadas: Total de quilômetros de rodovias pavimentadas 
+- Quilômetros de rodovias pavimentadas: Total de quilômetros de rodovias pavimentadas 
+- Quilômetros de rodovias pavimentadas: Indica a extensão total, em quilômetros, de rodovias que receberam pavimentação. Esse indicador é importante porque reflete os esforços e investimentos na expansão e melhoria da infraestrutura viária, proporcionando estradas com melhores condições de tráfego, conforto e segurança para os usuários. Rodovias pavimentadas também contribuem para o desenvolvimento econômico das regiões atendidas, facilitando o transporte de pessoas e mercadorias.
+ 
+- Quilômetros de rodovias pavimentadas: Total de quilômetros de rodovias pavimentadas 
+- Quilômetros de rodovias pavimentadas: Total de quilômetros de rodovias pavimentadas 
+- Quilômetros de rodovias pavimentadas: Total de quilômetros de rodovias pavimentadas 
+- Quilômetros de rodovias pavimentadas: Total de quilômetros de rodovias pavimentadas 
+- Quilômetros de rodovias pavimentadas: Total de quilômetros de rodovias pavimentadas 
+- Quilômetros de rodovias pavimentadas:  Total de quilômetros de rodovias pavimentadas 
+ 
+- Quilômetros de rodovias pavimentadas: Total de quilômetros de rodovias pavimentadas 
+- Quilômetros de rodovias pavimentadas: Total de quilômetros de rodovias pavimentadas 
+- Quilômetros de rodovias pavimentadas: Total de quilômetros de rodovias pavimentadas 
+- Quilômetros de rodovias pavimentadas: Total de quilômetros de rodovias pavimentadas 
+- Quilômetros de rodovias pavimentadas: Total de quilômetros de rodovias pavimentadas 
+- Quilômetros de rodovias pavimentadas:  Total de quilômetros de rodovias pavimentadas 
+ 
+- Quilômetros de rodovias pavimentadas: Total de quilômetros de rodovias pavimentadas 
+- Quilômetros de rodovias pavimentadas: Total de quilômetros de rodovias pavimentadas 
+- Quilômetros de rodovias pavimentadas: Total de quilômetros de rodovias pavimentadas 
+- Quilômetros de rodovias pavimentadas: Total de quilômetros de rodovias pavimentadas 
+- Quilômetros de rodovias pavimentadas: Total de quilômetros de rodovias pavimentadas 
+- Quilômetros de rodovias pavimentadas: Total de quilômetros de rodovias pavimentadas 
+- Quilômetros de rodovias pavimentadas: Total de quilômetros de rodovias pavimentadas 
+- Quilômetros de rodovias pavimentadas: Total de quilômetros de rodovias pavimentadas 
+- Quilômetros de rodovias pavimentadas: Total de quilômetros de rodovias pavimentadas 
+- Quilômetros de rodovias pavimentadas: Total de quilômetros de rodovias pavimentadas 
+- Quilômetros de rodovias pavimentadas: Total de quilômetros de rodovias pavimentadas 
+- Quilômetros de rodovias pavimentadas: Total de quilômetros de rodovias pavimentadas 
+- Quilômetros de rodovias pavimentadas: Total de quilômetros de rodovias pavimentadas 
+- Quilômetros de rodovias pavimentadas: Total de quilômetros de rodovias pavimentadas 
+- Quilômetros de rodovias pavimentadas: Total de quilômetros de rodovias pavimentadas 
+- Quilômetros de rodovias pavimentadas: Total de quilômetros de rodovias pavimentadas 
+- Quilômetros de rodovias pavimentadas: Total de quilômetros de rodovias pavimentadas 
+- Quilômetros de rodovias pavimentadas: Total de quilômetros de rodovias pavimentadas 
+- Quilômetros de rodovias pavimentadas: Total de quilômetros de rodovias pavimentadas 
+- Quilômetros de rodovias pavimentadas: Total de quilômetros de rodovias pavimentadas 
+- Quilômetros de rodovias pavimentadas:  Total de quilômetros de rodovias pavimentadas 
+ 
+- Quilômetros de rodovias pavimentadas: Total de quilômetros de rodovias pavimentadas 
+- Quilômetros de rodovias pavimentadas: Total de quilômetros de rodovias pavimentadas 
+- Quilômetros de rodovias pavimentadas: Total de quilômetros de rodovias pavimentadas 
+- Quilômetros de rodovias pavimentadas: Total de quilômetros de rodovias pavimentadas 
+ 
+- Quilômetros de rodovias pavimentadas: Total de quilômetros de rodovias pavimentadas 
+- Quilômetros de rodovias pavimentadas: nan 
+- Quilômetros de rodovias pavimentadas: Total de quilômetros de rodovias pavimentadas 
+- Quilômetros de rodovias pavimentadas: Total de quilômetros de rodovias pavimentadas 
+- Quilômetros de rodovias restaurados: Total de quilômetros de rodovias restaurados 
+- Quilômetros de rodovias restaurados: Total de quilômetros de rodovias restaurados 
+- Quilômetros de rodovias restaurados: Total de quilômetros de rodovias restaurados 
+- Quilômetros de rodovias restaurados: Total de quilômetros de rodovias restaurados 
+- Quilômetros de rodovias restaurados: Total de quilômetros de rodovias restaurados 
+- Quilômetros de rodovias restaurados: Total de quilômetros de rodovias restaurados 
+- Quilômetros de rodovias restaurados: Total de quilômetros de rodovias restaurados 
+- Quilômetros de rodovias restaurados: Total de quilômetros de rodovias restaurados 
+- Quilômetros de rodovias restaurados: Total de quilômetros de rodovias restaurados 
+- Quilômetros de rodovias restaurados: Total de quilômetros de rodovias restaurados 
+- Total de pontes de grande vulto construídas: Indica o número total de pontes de grande vulto (custo total maior que 50 milhões) que foram construídas no período, evidenciando os esforços de expansão e desenvolvimento da infraestrutura rodoviária, permitindo a melhoria da conectividade entre regiões e a superação de obstáculos geográficos. 
+- Total de pontes de grande vulto construídas: Indica o número total de pontes de grande vulto (custo total maior que 50 milhões) que foram construídas no período, evidenciando os esforços de expansão e desenvolvimento da infraestrutura rodoviária, permitindo a melhoria da conectividade entre regiões e a superação de obstáculos geográficos. 
+- Total de pontes de grande vulto construídas: Indica o número total de pontes de grande vulto (custo total maior que 50 milhões) que foram construídas no período, evidenciando os esforços de expansão e desenvolvimento da infraestrutura rodoviária, permitindo a melhoria da conectividade entre regiões e a superação de obstáculos geográficos. 
+- Total de pontes de grande vulto construídas: Indica o número total de pontes de grande vulto (custo total maior que 50 milhões) que foram construídas no período, evidenciando os esforços de expansão e desenvolvimento da infraestrutura rodoviária, permitindo a melhoria da conectividade entre regiões e a superação de obstáculos geográficos. 
+- Total de pontes de grande vulto construídas: Indica o número total de pontes de grande vulto (custo total maior que 50 milhões) que foram construídas no período, evidenciando os esforços de expansão e desenvolvimento da infraestrutura rodoviária, permitindo a melhoria da conectividade entre regiões e a superação de obstáculos geográficos. 
+- Total de pontes de grande vulto construídas: Indica o número total de pontes de grande vulto (custo total maior que 50 milhões) que foram construídas no período, evidenciando os esforços de expansão e desenvolvimento da infraestrutura rodoviária, permitindo a melhoria da conectividade entre regiões e a superação de obstáculos geográficos. 
+- Total de pontes de grande vulto construídas: Indica o número total de pontes de grande vulto (custo total maior que 50 milhões) que foram construídas no período, evidenciando os esforços de expansão e desenvolvimento da infraestrutura rodoviária, permitindo a melhoria da conectividade entre regiões e a superação de obstáculos geográficos. 
+- Total de pontes de grande vulto construídas: Indica o número total de pontes de grande vulto (custo total maior que 50 milhões) que foram construídas no período, evidenciando os esforços de expansão e desenvolvimento da infraestrutura rodoviária, permitindo a melhoria da conectividade entre regiões e a superação de obstáculos geográficos. 
+- Total de pontes de grande vulto construídas: Indica o número total de pontes de grande vulto (custo total maior que 50 milhões) que foram construídas no período, evidenciando os esforços de expansão e desenvolvimento da infraestrutura rodoviária, permitindo a melhoria da conectividade entre regiões e a superação de obstáculos geográficos. 
+- Total de pontes de grande vulto construídas: Indica o número total de pontes de grande vulto (custo total maior que 50 milhões) que foram construídas no período, evidenciando os esforços de expansão e desenvolvimento da infraestrutura rodoviária, permitindo a melhoria da conectividade entre regiões e a superação de obstáculos geográficos. 
+- Total de pontes de grande vulto construídas: Indica o número total de pontes de grande vulto (custo total maior que 50 milhões) que foram construídas no período, evidenciando os esforços de expansão e desenvolvimento da infraestrutura rodoviária, permitindo a melhoria da conectividade entre regiões e a superação de obstáculos geográficos. 
+- Total de pontes de grande vulto construídas: Indica o número total de pontes de grande vulto (custo total maior que 50 milhões) que foram construídas no período, evidenciando os esforços de expansão e desenvolvimento da infraestrutura rodoviária, permitindo a melhoria da conectividade entre regiões e a superação de obstáculos geográficos.
+ 
+- Total de pontes de grande vulto construídas: Indica o número total de pontes de grande vulto (custo total maior que 50 milhões) que foram construídas no período, evidenciando os esforços de expansão e desenvolvimento da infraestrutura rodoviária, permitindo a melhoria da conectividade entre regiões e a superação de obstáculos geográficos. 
+- Total de quilômetros de rodovias pavimentadas: nan 
+- Total de recurso atraídos: Somatório dos valores de investimento a serem aplicados em serviços e obras para a execução de trabalhos iniciais, de recuperação das rodovias, de manutenção periódica, de obras de ampliação de capacidade, melhorias de edificações e equipamentos e sistemas ao longo do período de concessão. 
+
+Indicadores de Objetivos Específicos:
+- Índice de Condição da Manutenção: O ICM – Índice de Condição da Manutenção, que é calculado a partir de levantamento de campo, buscando classificar cada segmento em quatro categorias: péssimo, ruim, regular ou bom. O cálculo do ICM é composto pelo Índice de Pavimentação – IP (panelas, remendos e trincas), que representa 70% do valor final, e pelo Índice de Conservação – IC (roçada, drenagem sinalização horizontal e vertical), que representa os 30% restantes. 
+- Índice de implantação do Documento de Transporte Eletrônico: Verifica o total de implantação da plataforma do DTE, em relação ao total da plataforma a ser implantada. 
+- Quilômetros de rodovias ampliados: Quantidade de vias duplicadas ou terceiras faixas e dispositivo entregues 
+- Quilômetros de rodovias concedidos: Somatório dos trechos rodoviários concedidos, baseados na assinatura do contrato de concessão com a empresa vencedora da licitação, constando o trecho e o km referenciado no contrato. 
+- Quilômetros de rodovias pavimentados e adequados: Este indicador mede a extensão total, em quilômetros, das rodovias que foram pavimentadas e passaram por intervenções de adequação no período de um ano. Ele reflete os esforços e investimentos em infraestrutura viária, mostrando a quantidade de estradas que receberam revestimento asfáltico ou de concreto, bem como melhorias em adequação. Esse indicador é crucial para avaliar o progresso na construção de vias seguras, duradouras e de qualidade, proporcionando uma rede viária eficiente, confortável e adequada às necessidades do tráfego atual.

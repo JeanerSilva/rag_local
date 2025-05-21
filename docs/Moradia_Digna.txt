@@ -1,0 +1,53 @@
+passage: Programa: Moradia Digna
+
+Descrição do Problema:
+Dificuldade de acesso à moradia e condições inadequadas de moradia.
+
+Causa do Problema:
+•	Baixa Capacidade de Planejamento e Articulação Institucional na Área de Habitação;
+•	Informalidade do Parcelamento do Solo Urbano;
+•	Oferta Imobiliária Incompatível com as Necessidades Habitacionais;
+•	Dificuldade de acesso à assistência técnica e a materiais de construção;
+•	Inadequação de infraestrutura urbana em assentamentos precários.
+
+Evidências do Problema:
+•	Déficit Habitacional de absoluto = 5,96 milhões de domicílios (Fundação João Pinheiro, 2019);
+•	Demanda futura por moradias = 1,07 milhões de moradias por ano, de 2020 a 2040 (Universidade Federal Fluminense, 2022, dados preliminares).
+
+Justificativa para a Intervenção:
+•	Crescimento da informalidade e precariedade habitacional;
+•	População sem acesso a moradia digna;
+•	Moradias mal inseridas na malha urbana.
+
+Evolução Histórica:
+Considerando o ano de 2009 como início da série histórica, houve uma tendência de queda do déficit habitacional absoluto, especialmente da participação do componente de coabitação familiar. A partir de 2012 essa tendência de queda é alterada e o déficit habitacional passa a crescer novamente, com a ampliação da participação do ônus excessivo com aluguel.
+
+Relação com os ODS:
+11.1 - Até 2030, garantir o acesso de todos à habitação segura, adequada e a preço acessível, e aos serviços básicos e urbanizar as favelas
+
+Objetivo Geral:
+- Promover moradia digna às famílias residentes em áreas urbanas e rurais com a garantia do direito à cidade, associado ao desenvolvimento urbano e econômico, à geração de trabalho e de renda e à elevação dos padrões de habitabilidade e de qualidade de vida da população.
+
+Objetivos Específicos:
+- Ampliar o atendimento habitacional, sobretudo à população de baixa renda, em áreas urbanas e rurais
+- Consolidar o Sistema Nacional de Habitação, com foco no Sistema Nacional de Habitação de Interesse Social (SNHIS), articulando as ações dos entes públicos e fomentando a participação da sociedade civil e da iniciativa privada
+- Elevar os patamares da qualidade da construção civil, por meio da criação e implementação de mecanismos de modernização tecnológica e gerencial, incluindo conceitos e metas de sustentabilidade, visando ampliar o acesso à moradia digna para a população de menor renda
+- Desenvolver e fomentar inovações institucionais na provisão habitacional, privilegiando populações vulneráveis
+- Ampliar o volume de crédito habitacional a fim de contribuir para o desenvolvimento econômico e social
+
+Indicadores de Entrega:
+- Moradias entregues por meio de arranjos institucionais e financeiros inovadores: Os projetos-piloto testarão novos formatos e institucionalidades e terão como alvo públicos prioritários no âmbito do Programa 
+- Moradias entregues por meio de parcerias com estados e municípios (SNHIS): As ações de desenvolvimento institucional incluem capacitação, eventos, cooperação técnica e outras modalidadades de apoio ao fortalecimento das capacidades de gestão da política habitacional pelos entes subnacionais. 
+- Novo PAC: Financiamento Habitacional (eixo Cidades Sustentáveis e Resilientes, subeixo Financiamento Habitacional SBPE): nan 
+- Novo PAC: moradias contratadas no Novo Minha Casa Minha Vida (eixo Cidades Sustentáveis e Resilientes, subeixo Minha Casa Minha Vida, segmento Novo MCMV): Indicador a ser aferido por registros próprios do órgão, a partir do gerenciamento da carteira de investimentos em habitação. 
+- Novo PAC: retomada e conclusão de empreendimentos contratados anteriormente à 2023 (OGU): Novo PAC: retomada e conclusão de empreendimentos contratados anteriormente à 2023 com recursos do Orçamento Geral da União - OGU 
+- Número de moradias entregues com recursos do FGTS em financiamento imobiliário habitacional: O indicador reflete o impacto do Programa Moradia Digna, especialmente o Programa Minha Casa, Minha Vida (PMCMV), no aumento da produção e na geração de empregos no âmbito da construção civil e mercado imobiliário. 
+- Percentual de certificações de Sistemas de Gestão da Qualidade (SGQ) de Empresas de Serviços/Obras da Construção Civill: O monitoramento do percentual de conformidade permite assegurar a boa gestão do Programa Brasileiro da Qualidade e Produtividade do Habitat (PBQP-H) 
+- Percentual de qualificação de empresas de Materiais, Componentes e Sistemas Construtivos (SiMaC): O monitoramento do percentual de conformidade permite assegurar a boa gestão do Programa Brasileiro da Qualidade e Produtividade do Habitat (PBQP-H) 
+
+Indicadores de Objetivos Específicos:
+- Conformidade dos materiais, componentes e sistemas construtivos das empresas de serviços e obras com certificação do Sistema de Gestão da Qualidade, no âmbito do Programa PBQPH: O indicador será apurado pela média da conformidade de Certificações de Sistemas de Gestão da Qualidade de Empresas de Serviços e Obras da Construção Civil (SiAC) e da Qualificação de Empresas de Materiais, Componentes de Sistemas Construtivos (SiMaC) 
+- Déficit habitacional quantitativo: Indicador tradicional no setor e consagrado na literatura internacional. 
+- Operações contratadas, em parceria com estados e municípios, nas linhas do MCMV: Contabiliza a inovação representada pela maior participação dos entes na modalidade de contratação 
+- Participação do Produto Interno Bruto da Construção Civil no Produto Interno Bruto (PIB) Total: A taxa de participação do Produto Interno Bruto da Construção Civil no Produto Interno Bruto (PIB) Total busca identificar o impacto do Programa na dinâmica econômica nacional 
+- Projetos-piloto inovadores realizados em parceria com estados, municípios, órgãos e entidades públicos e privados: Os projetos-piloto pretendem validar novos modelos de provisão para públicos prioritários, permitindo a futura replicação das experiências em maior escala.

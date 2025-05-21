@@ -1,0 +1,202 @@
+passage: Programa: Pesquisa, Desenvolvimento, Inovação, Produção e Avaliação de Tecnologias em Saúde
+
+Descrição do Problema:
+As tecnologias em saúde são ofertadas de forma intempestiva, desigual, iníqua e insuficiente para a população.
+
+Causa do Problema:
+• Descompasso entre o desenvolvimento científico, tecnológico, produtivo, avaliativo e as necessidades de saúde da população;
+• Investimento insuficiente em pesquisa, inovação, capacitação de recursos humanos e a padronização de metodologias em Avaliação de Tecnologias de Saúde- ATS e produção em saúde;
+• Insuficiência de recursos para atender a demanda crescente do SUS;
+• Baixa institucionalização da economia da saúde no âmbito do SUS;
+• Dependência externa de produtos de tecnologia em saúde; 
+• Baixo uso de evidências científicas para a tomada de decisão pelos gestores;
+• Excesso de demandas no Poder Judiciário (Judicialização da saúde);
+• Marco regulatório desfavorável à inovação; 
+• Baixa inovação na área de genômica e saúde de precisão que causam dependência externa de tecnologias; 
+• Dificuldade de gestão da avaliação e da incorporação de tecnologias em saúde de forma integrada no SUS; 
+•Formação/capacitação incipiente de profissionais da saúde e pesquisadores; 
+• Relação distante entre as universidades e indústria e entre gestores e pesquisadores;
+• Dependência internacional de produtos e serviços considerados estratégicos, acarretando uma permanente vulnerabilidade no atendimento da população usuária do SUS;
+• Crescente déficit comercial da saúde, vinculado ao déficit de conhecimento, tecnologia e de inovação;
+• Abandono da política de desenvolvimento produtivo e tecnológico para autossuficiência nacional em vacinas, medicamentos e dispositivos médicos produzidos pela rede de laboratórios públicos e privados; 
+• Desarticulação e desestruturação dos programas e ações de investimento em pesquisa, desenvolvimento e inovação, e investimentos na modernização da infraestrutura pública de produção tecnológica para saúde; 
+• Cancelamento de projetos em curso sem justificativa técnica fundamentada causando a paralização de pesquisas, impossibilitando a conclusão de infraestruturas tecnológicas em andamento do Complexo Econômico Industrial da Saúde (CEIS); 
+• Desmobilização das iniciativas públicas para o aproveitamento do uso do poder de compra do SUS no sentido de impulsionar investimentos produtivos e qualificação da cadeia de valor e processos de transferências de tecnologia.
+
+Evidências do Problema:
+A cobertura universal de saúde no Brasil baseia-se nos princípios da equidade e da integralidade dos cuidados em saúde e, a despeito dos avanços conquistados, ainda se convive com uma realidade desigual e excludente do acesso, que se reflete em impactos evidentes na saúde da população. 
+
+Em países em desenvolvimento, como o Brasil, a oferta de tecnologias de forma intempestiva nos sistemas públicos de saúde pode não trazer resultados para a saúde e aumentar a desorganização do sistema, pois a possibilidade de incorporar tecnologia irrelevante ou danosa é um risco real. 
+
+Nesse sentido, o Plano de Ação em Pesquisa Clínica do Brasil aponta que a fragilidade das estratégias de promoção da saúde, de prevenção e de controle clínico de doenças favorece a ocorrência anual de mais de um milhão de internações processadas pelo SUS, que demandam recurso aproximado de R$ 1,8 bilhões de reais.  Tal situação suscita a necessidade de reorganização assistencial do SUS e impacta de forma significativa nos gastos em saúde. 
+
+Esse cenário corrobora com fatores responsáveis pelo agravamento da crise do sistema de saúde e, portanto, uma maior atração de investimentos em pesquisas clínicas pode contribuir para superá-los. Destaca-se que o Conselho de Ciência da OMS, identificou a genômica como o foco de seu primeiro estudo, dadas as implicações significativas para a saúde pública; seus muitos usos bem-sucedidos no enfrentamento de doenças infecciosas, cânceres e outras doenças crônicas; e as novas oportunidades de implementação de tecnologias. 
+
+Ampliar a equidade na implantação dessas tecnologias é essencial para alcançar os imensos benefícios potenciais para a saúde humana e dependem, essencialmente, da superação dos obstáculos à implementação que exigem planejamento, financiamento, formação e treinamento ampliado de recursos humanos e fornecimento de instrumentos, materiais e infraestrutura computacional. 
+
+A OMS recomenda que os ministérios dos governos, as agências financiadoras e as organizações científicas da academia e da indústria colaborem para estabelecer planos sobre como usar a genômica, construir e expandir a capacidade técnica, assim como, procurar reunir recursos por meio da implementação de programas regionais.
+
+Justificativa para a Intervenção:
+A ampliação e o aprimoramento do desenvolvimento científico e tecnológico, em avaliação de tecnologia em saúde, está diretamente relacionado à melhoria na elaboração e gestão das políticas públicas, favorecendo assim a diminuição de morbimortalidades, a otimização da aplicação de recursos e a melhoria da qualidade de vida da população.
+
+O fomento à pesquisa, a produção e tradução de evidências em saúde para subsidiar o processo decisório, a avaliação de tecnologias em saúde ao SUS, e o fortalecimento da agenda do Complexo Econômico-Industrial da Saúde contribuem para a ampliação do acesso às tecnologias em saúde e a melhoria das ações, serviços e produtos de saúde, ofertados pelo SUS à população.
+
+Vale ressaltar, ainda, que todo o conhecimento gerado pode auxiliar na elaboração/aprimoramento de políticas públicas efetivas que ampliem o acesso e a oferta de tecnologias de saúde adequadas às necessidades da população. Desta forma, a gestão e incorporação racional e otimizada de novas tecnologias em saúde possibilita a promoção e proteção da saúde da população brasileira e a redução das desigualdades regionais, melhorando, assim, a alocação dos recursos disponíveis que visam a sustentabilidade do sistema de saúde brasileiro.
+
+Além disso, é definido como estratégia prioritária reverter o processo de desindustrialização e promover a reindustrialização (nova industrialização) de amplos e novos setores e daqueles associados à transição para a economia digital e verde.
+
+É imperativo elevar a taxa de investimentos públicos e privados e reduzir o custo do crédito a fim de avançar com uma reindustrialização nacional de novo tipo, acoplada aos novos desenvolvimentos da ciência e da tecnologia. Faz parte desse esforço o desafio de reverter a desnacionalização do parque produtivo brasileiro, e modernizá-lo. Para tal, se faz necessária a reconstrução da agenda do Complexo Econômico-Industrial da Saúde, visando fortalecer a produção e inovação do setor da saúde.
+
+
+Evolução Histórica:
+Nos últimos anos, a intensificação de ações voltadas ao desenvolvimento científico e tecnológico em saúde resultaram na construção da Política Nacional de Ciência, Tecnologia e Inovação em Saúde (PNCTIS), no estabelecimento de estratégias de CT&IS nos Planos Plurianuais do Governo Federal, no fortalecimento da representação da saúde no Sistema Nacional de Ciência, Tecnologia e Inovação, no estabelecimento das prioridades em pesquisa em saúde (por meio da Agenda Nacional de Prioridades de Pesquisa em Saúde e da Agenda de Prioridades de Pesquisa do Ministério da Saúde e das especificidades de saúde pública regionais), resultaram ainda na instituição do Programa Genomas Brasil, por meio da Portaria nº 1.949, de 4 de agosto de 2020, com vistas a transformação do modelo de atenção à saúde e desenvolvimento econômico e social do país.
+
+No âmbito Legal, a aprovação do Marco Legal da Ciência Tecnologia e Inovação, por meio da Lei nº 13.243, de 11 de janeiro de 2016, é considerado um avanço para o país e todos os setores de governo. Mais recentemente, a Política Nacional de Inovação Tecnológica na Saúde, instituída por meio do Decreto nº 9.245, de 20/12/2017 e a Política Nacional de Inovação, instituída pelo Decreto nº 10.534, de 28 /10/2020, ambas no âmbito da administração pública federal, corroboraram para apoiar as ações governamentais voltadas ao fomento e apoio à inovação. 
+
+O fomento de pesquisas em saúde, bem como o aprimoramento do sistema de acompanhamento e análise ética das pesquisas em seres humanos no país, são avanços amparados pela PNCTIS, com impactos positivos no fomento de pesquisas e transferência de tecnologias. 
+
+Nos últimos quatro anos, a esfera de gestão federal do SUS investiu mais de 450 milhões (incluindo os recursos destinados às pesquisas de covid-19) em gastos diretos, sem contar os projetos atendidos em programas de renúncia fiscal para o SUS. Isso representa mais de 980 pesquisas no período 2019 a 2022, atendendo a eixos prioritários e estratégicos, apoiando a redução das desigualdades regionais no fomento à pesquisa e o fortalecimento de centros de pesquisas e parceiros como o CNPq, Fundações de Amparo à Pesquisa e outras instituições que contribuem para o avanço científico-tecnológico em saúde no Brasil. Ainda foram desenvolvidas 235 sínteses de evidências para apoiar em decisões estratégicas relacionadas as políticas, programas e ações.
+
+O Ministério da Saúde, em 2007, estabeleceu como estratégia prioritária o fortalecimento do Complexo Econômico-Industrial da Saúde (CEIS), no âmbito do Sistema Único de Saúde (SUS). Desde então, a agenda compôs o rol de prioridades no âmbito do Ministério da Saúde, sendo ainda, contemplada e priorizada nas diversas políticas industriais implementadas pelo Governo Federal. Entre 2008 e 2014 a agenda do CEIS foi contemplada e priorizada nas políticas industriais do governo federal, tornando-se um pilar das agendas de inovação, desenvolvimento e produção na área da saúde. No âmbito dos trabalhos do Grupo Executivo do Complexo Econômico-Industrial da Saúde (GECEIS), criado em 2008, foram realizadas reuniões plenárias nas quais foram apresentadas medidas tributárias, creditícias, tarifárias e regulatórias. O GECIS subsidiou as listas de produtos estratégicos apresentadas pelo Ministério da Saúde, e foi também ambiente de divulgação dos resultados das rodadas de seleção de projetos de Parcerias para o Desenvolvimento Produtivo (PDP) e assinatura dos Termos de Compromisso das PDP.
+
+Em relação ao fluxo para incorporação de tecnologias no Sistema Único de Saúde (SUS) foi normatizado pela primeira vez, por meio da Portaria n° 152, de 19 de janeiro de 2006 e Portaria nº 3.323, de 27 de dezembro de 2006, sob a coordenação da Secretaria de Atenção à Saúde (SAS). No ano de 2008, a Portaria n° 2.587, de 30 de outubro (revogada pela Portaria nº 203, de 07/02/2012) transferiu a coordenação da Comissão de Incorporação de Tecnologias (CITEC) para a Secretaria de Ciência, Tecnologia, Inovação e Complexo da Saúde (SECTICS/MS). Em 2009 houve a intensificação de ações voltadas ao processo de incorporação e uso das tecnologias no sistema de saúde, que resultaram na criação da Política Nacional de Gestão de Tecnologia em Saúde (PNGTS), no fortalecimento do uso de evidências a fim de subsidiar as instâncias decisórias quanto à incorporação e monitoramento da utilização de tecnologias no sistema de saúde, além de orientar os profissionais de saúde e usuários em relação à segurança e aprimorar a política pública voltada ao SUS. 
+
+A Comissão Nacional de Incorporação de Tecnologias no Sistema Único de Saúde (Conitec) é instituída pela Lei nº 12.401, de 28 de abril de 2011, substituindo a CITEC. É responsabilidade da Conitec, assessorar o MS na incorporação, exclusão ou alteração, bem como na constituição e alteração de protocolos clínicos e diretrizes terapêuticas pelo SUS de novas tecnologias em saúde.  Nos últimos anos a avaliação e incorporação de tecnologias em saúde teve grande avanço por meio de programas, da participação social, processo de elaboração e revisão de Protocolos Clínicos e Diretrizes Terapêuticas e melhoria na gestão da política pública direcionada ao Sistema Único de Saúde.
+
+
+Comparações Internacionais:
+Enquanto que as nações mais bem posicionadas nos rankings dos Índices Globais de Inovação e de Competitividade - como a Coreia, o Japão, a Alemanha e os Estados Unidos da América - investem de 2,5% a 4% do seu Produto Interno Bruto (PIB) em ciência, tecnologia e inovação (CT&I), o Brasil investe apenas 1,2% do seu PIB neste setor. 
+
+De acordo com os Índices Globais de Inovação e Competitividade, instrumento elaborado pela Organização Mundial da Propriedade Intelectual (WIPO, na sigla em inglês) e responsável por medir o desempenho dos ecossistemas da inovação de 132 economias e identificar as tendências globais mais recentes em matéria de inovação, aponta que, a despeito do Brasil ter avançado três posições, passando da 57ª para a 54ª posição no ranking em 2022,  o país ainda está em desvantagem em relação a outros países com economia de renda média, como Vietnã (48ª), República Islâmica do Irã (53ª) e Filipinas (59ª) e que atualmente apresentam as taxas mais aceleradas de inovação.
+
+Em áreas em ampla ascensão, como é o caso da genômica e saúde de precisão, outros países têm investido recursos na construção de um banco de dados diversificado que pode informar milhares de estudos sobre uma variedade de condições de saúde, como é o caso do Programa All of Us, dos Estados Unidos, que vai obter dados de um milhão de pessoas para acelerar e promover a medicina de precisão. Na Europa, a iniciativa '1+ Milhão de Genomas' tem o potencial de melhorar a prevenção de doenças, permitir tratamentos mais personalizados e apoiar pesquisas inovadoras por meio da criação de uma infraestrutura de dados europeia para dados genômicos e a implementação de regras nacionais comuns que permitam o acesso a esses dados. 
+
+Ainda na área de medicina de precisão e divulgação do conhecimento, a Biblioteca Nacional de Medicina dos EUA (NLM) desenvolveu os recursos para disponibilizar a hospedagem e a curadoria de repositórios e dados de conhecimento biomédico da NLM que possibilitaram o acesso de informações de qualidade a provedores e pesquisadores em todo o mundo. 
+
+O fato de estas nações terem compreendido que a CT&I é um vetor essencial para a geração de desenvolvimento social e econômico sustentáveis faz que elas sejam pouco dependentes/vulneráveis do ponto de vista tecnológico. Assim, o acesso da população destas nações a novas tecnologias, incluindo as da área da saúde, é ampliado e tem como consequência uma melhor promoção do bem-estar social. Frente o exposto, o problema da oferta de tecnologias em saúde de forma intempestiva, desigual, iníqua e insuficiente à população brasileira só há de ser superados com o crescimento impulsionado pela inovação, promovendo e apoiando políticas científicas, tecnológicas e de inovação em nosso país.
+
+Considerando o sistema de produção, ciência e tecnologia, além do destaque à crescente dependência internacional de produtos e insumos do Brasil (U$ 20 bilhões em importações), ainda foi possível notar a vulnerabilidade mundial de insumos farmacêuticos ativos. Cabe destacar a vulnerabilidade e risco de desabastecimento na área farmacêutica e vacinas. 
+
+Frente ao episódio pandêmico da covid-19 pode-se registrar também uma regressão tecnológica na área de dispositivos médicos, gerando uma movimentação mundial na demanda de ventiladores pulmonares. Neste contexto, mais de 100 países estabeleceram barreiras às exportações em saúde durante a pandemia. Outro fator relevante ao cenário mundial é a alta concentração de propriedade intelectual em saúde em apenas 10 países (88% de todas as patentes em Saúde). Entretanto, mesmo diante dos desafios globais de mercado, o Brasil é reconhecido como maior vetor de integração produtiva com a América Latina e Africa.
+
+Relação com os ODS:
+ODS 3 - Assegurar uma vida saudável e promover o bem-estar para todas as pessoas, em todas as idades.
+ODS 9 - Construir infraestruturas resilientes, promover a industrialização inclusiva e sustentável e fomentar a inovação
+ODS 12 - Consumo e produção responsáveis: Assegurar padrões de produção e de consumo sustentáveis.
+
+Agentes Envolvidos:
+Conselho Nacional de Desenvolvimento Científico e Tecnológico - CNPq;
+Fundação de Amparo à Pesquisa - FAPs;
+Fundação Oswaldo Cruz - Fiocruz;
+Instituições de Ensino e Pesquisa;
+Hospitais de excelência e demais parceiros dos programas de renúncia fiscal;
+Complexo Econômico-Industrial da Saúde (CEIS);
+Entidades de representação do setor da saúde (setor de base química e biotecnológica; setor de base mecânica, eletrônica e de materiais; setor de informação e conectividade e; setor de serviços);
+Instâncias de participação, controle social e sociedade civil;
+Tribunais de contas; 
+Universidades; 
+Secretarias estaduais e municipais de saúde; 
+Núcleos de Economia da Saúde (NES);
+Agência Nacional de Saúde Suplementar (ANS);
+Agência Nacional de Vigilância Sanitária (Anvisa);
+Conselho Nacional de Saúde (CNS), ;
+Conselho Nacional de Secretários de Saúde (Conass); 
+Conselho Nacional de Secretarias Municipais de Saúde (Conasems);
+Conselho Federal de Medicina (CFM);
+Associação Médica Brasileira (AMB);
+Núcleo de Avaliação de Tecnologias em Saúde (NATS);
+Organizações não governamentais;
+Entidades sem fins lucrativos;
+Representantes de associações de pacientes;
+Núcleos e instituições de avaliação de tecnologias em saúde.
+ 
+
+
+
+Articulação Federativa:
+A nova estrutura do Ministério da Saúde reforça o compromisso do Governo Federal com a retomada ao estímulo ao desenvolvimento do Complexo Econômico-Industrial da Saúde (CEIS) e o resgate de uma gestão participativa no SUS, com a recriação de diversas instâncias de participação social como o Grupo Executivo do Complexo Econômico-Industrial da Saúde (GECEIS). 
+
+A Recriação do GECEIS tem como finalidade instituir um ambiente institucional de articulação, promoção e formulação de ações em saúde com vistas a fortalecer a produção e a inovação para atender ao SUS assegurando o acesso universal, equânime e integral da saúde. O Grupo Executivo conta com a participação de 20 instituições públicas. Ainda, atua de forma articulada e colaborativa com diversos representantes de instâncias de participação, controle social, representações da sociedade civil, e demais entidades consideradas relevantes para agenda.
+
+Enfoque Transversal:
+Há interesse em agendas externas como na agenda do Ministério da Ciência Tecnologia e Inovação voltado para promoção da propriedade intelectual e transferência de tecnologias; além de indicadores nacionais de ciência e tecnologia e inovação. Essas temáticas são de grande relevância para o fomento a novas tecnologias e protocolos clínicos e diretrizes terapêuticas para o SUS. Ademais a parte de avaliação, gestão e compartilhamento/transferência de tecnologias é fundamental na persecução das diretrizes de atuação colaborativa entre os agentes Estatais voltando para o aprimoramento das experiências junto ao SUS. 
+
+No âmbito do Complexo Econômico-Industrial da Saúde (CEIS) tem-se transversalidade com a agenda de diversas pastas, no escopo estruturante, a articulação com o Ministério da Ciência Tecnologia e Inovação se concentra nas ações de fomento e inovação (Estratégia Nacional de Ciência e Tecnologia, Estratégia Nacional de Propriedade Intelectual) e com o Ministério do Desenvolvimento, Indústria, Comércio e Serviços no estabelecimento de medidas voltadas para a saúde na estrutura da política industrial brasileira. Com o Ministério da Fazenda, a articulação envolve questões tributárias, econômicas e de mercado. Em complemento, no âmbito dos trabalhos do Grupo Executivo do Complexo Econômico-Industrial (GECEIS) são previstas diversas ações transversais envolvendo outras instituições.   
+
+No que tange à Economia da Saúde, e devido ao seu caráter transversal por excelência, a articulação e parceria com diferentes atores é fundamental. São de grande interesse as parcerias com o Instituto Brasileiro de Geografia e Estatística (IBGE) e o Instituto de Pesquisa Econômica Aplicada (IPEA) para a elaboração de estudos e troca de dados e informações; as parcerias com o Conselho Nacional de Saúde (CNS), o Conselho Nacional de Secretários de Saúde (Conass), o Conselho de Secretarias Municipais de Saúde (Conasems), Núcleos de Economia da Saúde (NES) e Secretarias de Saúde, para o fomento a criação e fortalecimento dos NES, auxílio na gestão de custos e aprimoramento de ferramentas; e ainda a interlocução com órgãos como: Receita Federal, Secretaria do Tesouro Nacional, Tribunal Superior Eleitoral, Tribunal de Contas da União, Associação dos Tribunais de Contas e Ministério Público Federal.
+
+
+Marco Legal:
+Constituição Federal da Presidência da República: artigo 200, inciso V, que estabelece entre as competências do SUS a de “incrementar, em sua área de atuação, o desenvolvimento científico e tecnológico e a inovação”, buscando reduzir a dependência de iniciativas estrangeiras para suprir as demandas nacionais de saúde. Prevê ainda a articulação, coordenação e cooperação entre entes públicos e privados, com vistas a promover o desenvolvimento científico, tecnológico e a inovação (Art. 219 A e B).
+
+Lei 8.080, de 19 de setembro de 1990: que define no campo de atuação do SUS a competência de articular políticas e programas de saúde e de Ciência Tecnologia e Inovação.
+
+Lei nº 12.401, de 28 de abril de 2011: Altera a Lei nº 8.080, de 19 de setembro de 1990, para dispor sobre a assistência terapêutica e a incorporação de tecnologia em saúde no âmbito do Sistema Único de Saúde - SUS.
+
+Decreto nº 7.646, de 21 de dezembro de 2011: Dispõe sobre a Comissão Nacional de Incorporação de Tecnologias no Sistema Único de Saúde e sobre o processo administrativo para incorporação, exclusão e alteração de tecnologias em saúde pelo Sistema Único de Saúde - SUS, e dá outras providências.
+
+Portaria nº 2.915 de 12 de dezembro de 2011: Institui a Rede Brasileira de Avaliação de Tecnologias em Saúde (REBRATS).
+
+Portaria/GM nº 2.690, de 05 de novembro de 2009: Institui, no âmbito do Sistema Único de Saúde (SUS), a Política Nacional de Gestão de Tecnologias em Saúde;
+
+Portaria de consolidação nº 03, de 28 de setembro de 2017: Consolidação das normas sobre as redes dos Sistema Único de Saúde.
+
+Marco Legal da Ciência, Tecnologia e Inovação (Lei 13.243/2016), regulamentado pelo Decreto 9.283/2018, que altera nove leis com foco no estímulo ao desenvolvimento científico, à pesquisa, à capacitação científica e tecnológica e à inovação. 
+
+Lei 8.142/1990, de 28 de dezembro de 1990: Dispõe sobre a participação da comunidade na gestão do Sistema Único de Saúde (SUS) e sobre as transferências intergovernamentais de recursos financeiros na área da saúde e dá outras providências.
+
+Lei do Plano Plurianual; LDO; LOA.
+
+Nova estrutura regimental do Ministério da Saúde trazendo alterações nas competências da Secretaria de Ciência, Tecnologia, Inovação e Complexo da Saúde (SECTICS) -
+
+Decretos nº 11.358 e nº 11.391, ambos de janeiro de 2023, e também das competências previstas para o Departamento do Complexo Econômico - Industrial em Saúde (DECEIIS).
+
+Decreto nº 11.464, de 03 de abril de 2023: Dispõe sobre o Grupo Executivo do Complexo Econômico-Industrial da Saúde (GECEIS).
+
+
+Objetivo Geral:
+- Promover o desenvolvimento científico e tecnológico para produção, inovação e avaliação em saúde a fim de atender a população de forma equitativa, sustentável, acessível, considerando a sociobiodiversidade territorial e contribuindo para a prosperidade econômica, social e redução da dependência de insumos para a saúde.
+
+Objetivos Específicos:
+- Fomentar pesquisas prioritárias estratégicas em saúde, desenvolvidas em modelo colaborativo e/ou multicêntrico, com base em uma agenda prioritária nacional, orientando as aplicações de recursos a partir de critérios alinhados às necessidades de equidade, aplicabilidade e de sustentabilidade no Sistema Único de Saúde.
+- Ampliar a capacidade de sintetizar e disseminar evidências, e promover pesquisas avaliativas para apoio à tomada de decisão no Sistema Único de Saúde.
+- Promover o uso racional dos recursos do SUS, por meio do fortalecimento dos Núcleos de Economia da Saúde.
+- Estimular o desenvolvimento, a inovação e a produção local de tecnologias, serviços e conectividade, por meio do fortalecimento do Complexo Econômico-Industrial da Saúde (CEIS), de forma a promover a redução da vulnerabilidade tecnológica do SUS, a ampliação do acesso a saúde e fortalecer a soberania nacional
+- Gerar conhecimento científico, produtos e serviços mediante o fortalecimento da pesquisa em saúde e ambiente.
+
+Indicadores de Entrega:
+- Número de estabelecimentos de saúde que geram informações de custos no sistema APURASUS: Refere-se a estabelecimentos de saúde que apuram e gerem seus indicadores de custos 
+- Número de estudos elaborados na área de Economia e Desenvolvimento em Saúde: O indicador reflete a quantidade de documentos elaborados em Economia e Desenvolvimento em Saúde.		 
+- Número de iniciativas de disseminação de evidências em saúde realizadas: Produtos solicitados e elaborados pela equipe interna ou por parceiros e entregues à área solicitante para promoção do uso de evidências científicas para apoio à tomada de decisão em saúde. Os produtos podem ser: fichas técnicas, resumos e quadros explicativos, policy briefs, cartilhas temáticas, comunicações diversas de resultados de pesquisas, apoio à construção de planos de tradução do conhecimento, entre outros. Esses produtos podem ser elaborados por meio de parcerias ou pela equipe técnica especializada do Departamento. Para a contagem do indicador serão considerados os mais diversos formatos: pdf, vídeos, painéis de informação, entre outros. (Fonte: Carta de serviços) 
+- Número de instituições fabris e de desenvolvimento de tecnologias de informação e conectividade (TIC) estruturadas ou modernizadas: No âmbito das ações do Plano de Investimentos na Saúde serão firmados projetos para a estruturação ou modernização de plantas fabris e estruturas para o desenvolvimento de TICs, por intermédio de convênios, contrato de repasse e termos de execução descentralizada.				
+ 
+- Número de instrumentos formalizados para o fortalecimento do Complexo Econômico-Industrial da Saúde (CEIS): Os instrumentos novos ou revisados visam a convergência e a indução de medidas, programas e políticas para dar celeridade e efetividade à ação pública, com foco no estimulo da produção e da inovação nacional em tecnologias estratégicas de uso em saúde,  o fortalecimento das redes colaborativas, a convergência regulatória, a segurança jurídica, a  sustentabilidade dos investimentos e o aperfeiçoamento dos mecanismos para otimização do uso do poder de compra do Estado. Os instrumentos visam contribuir para a redução da vulnerabilidade tecnológica do SUS e ampliar o acesso. 
+- Número de pesquisas avaliativas de politicas, programas e projetos de saúde ofertadas: Pesquisas avaliativas solicitadas e elaboradas pela equipe interna ou por parceiros e entregues à área solicitante para promoção do uso de evidências científicas para apoio à tomada de decisão em saúde. 
+- Número de pesquisas prioritárias e estratégicas fomentadas: Trata-se de medir o quantitativo de pesquisas prioritárias, definidas por meio da Agenda Nacional de Prioridades de Pesquisa em Saúde (ANPPS) e Agenda de Prioridades de Pesquisas do Ministério da Saúde (APPMS), que são fomentadas, considerando o universo das pesquisas estratégicas fomentadas pelo Decit/SECTICS/MS durante o período de 2024 a 2027. 
+- Número de procedimentos de pesquisa atendidos: Procedimento é um conjunto de acessos às Plataformas Tecnológicas de Pesquisa da Fiocruz com a finalidade de responder a uma pergunta dentro de um projeto de pesquisa. Esses procedimentos fortalecem o desenvolvimento tecnológico nacional e contribuem para o alcance de autonomia, suficiência e racionalidade dos processos e produtos disponíveis no cuidado da saúde da população.	
+ 
+- Número de projetos firmados para o desenvolvimento de serviços tecnológicos e soluções para informação e conectividade: Os projetos para o desenvolvimento de serviços tecnológicos e soluções para informação e conectividade, se darão por intermédio de convênios, contrato de repasse e termos de execução descentralizada, entre outros possíveis de serem firmados pelo Ministério da Saúde, como parcerias, acordos de transferência ou encomendas tecnológicas, encomendas verticais, concursos de inovação etc. 
+- Número de projetos firmados para o desenvolvimento e a inovação em tecnologias em saúde: No âmbito do Programa para o Desenvolvimento do Complexo Industrial da Saúde (PROCIS)  são firmados projetos para o fortalecimento da inovação em tecnologias de uso em saúde, por intermédio de convênios, contrato de repasse e termos de execução descentralizada, entre outros possíveis de serem firmados pelo Ministério da Saúde (como encomendas tecnológicas, encomendas verticais, compensação tecnológica, concursos de inovação etc). 
+- Número de projetos firmados voltados para a ampliação e qualificação da produção local de tecnologias em saúde: No âmbito do Programa para o Desenvolvimento do Complexo Industrial da Saúde (PROCIS)  são firmados projetos para a ampliação e qualificação da produção local de tecnologias em saúde, por intermédio de convênios, contrato de repasse e termos de execução descentralizada, entre outros possíveis de serem firmados pelo Ministério da Saúde (como encomendas tecnológicas, encomendas verticais, compensação tecnológica, concursos de inovação etc).			
+ 
+- Número de sequências genômicas completas geradas: O Programa Genomas Brasil tem entre suas metas estimular a geração de dados genômicos e fenotípicos da população brasileira, foco em genômica clínica (doenças raras, oncológicas, cardiovasculares e infectocontagiosas) e populacional, com a finalidade de compartilhamento responsável dos dados para fins de pesquisa. Os dados servirão como um grande fórum de descobertas, possibilitando que estudos possam identificar as principais características genéticas da nossa população para prever e prevenir doenças, assim como para desenvolver novos tratamentos e novas estratégias de diagnóstico. Com isso, será possível gerar novos conhecimentos e tecnologias (diagnósticas e terapêuticas) com base no genoma da população brasileira, possibilitando a aceleração da translação das técnicas de saúde de precisão para a prática clínica.  
+- Percentual de conclusão da obra da nova planta de oncológicos de Farmanguinhos/Fiocruz: O indicador serve para mensurar o andamento da obra da planta de oncológicos de Farmanguinhos de acordo com o planejado, possibilitando a tomada de decisão, caso necessária. 
+- Percentual de obra concluída, incluindo as atividades de qualificação, validação e regulamentação do empreendimento: Este indicador consiste na conclusão das fases de Qualificação, Validação e Regulamentação definitiva de todo o Complexo Industrial de Biotecnologia em Saúde - CIBS. 
+- Percentual de operacionalização da fábrica de fator VIII recombinante: O indicador representa o avanço global do projeto em relação ao seu escopo completo até a produção nacional do medicamento fator VIII recombinante. 
+- Percentual de operacionalização da fábrica de hemoderivados: Percentual de execução acumulado do cronograma global de engenharia e de transferência de tecnologia 
+
+Indicadores de Objetivos Específicos:
+- Número de entes federativos com novos Núcleos de Economia da Saúde implantados por região: O indicador - Número de NES institucionalizados - mostra o processo de institucionalização da Economia da Saúde nas esferas estadual, municipal e do DF. 
+- Número de estudos secundários ofertados para apoiar à tomada de decisão no SUS: Estudos secundários de resposta rápida são solicitados e elaborados pela equipe interna ou por parceiros, e entregue à área solicitante para promoção do uso de evidências cientificas para apoio à tomada de decisão em saúde. Estudos secundário são estudos rápidos que sintetizam evidências já disponíveis na literatura com o intuito de facilitar o uso de evidências na tomada de decisão. 
+- Número de projetos de pesquisa em saúde e ambiente em desenvolvimento: Numero de projetos de pesquisa em andamento para a geração de conhecimento científico.	
+Há uma tendência em trabalhar em rede, diminuindo o quantitativo de projetos, por outro lado aumentando sua complexidade.	
+Contribui para todos os ODS, com ênfase nos ODS 3 e 6. 
+- Número de projetos e instrumentos voltados para o desenvolvimento, inovação e produção local formalizados: O indicador é composto por projetos e instrumentos formalizados para o fortalecimento do Complexo Econômico-Industrial da Saúde publicados. 
+
+Os projetos fomentados se dão no âmbito do Programa para o Desenvolvimento do Complexo Industrial da Saúde (PROCIS) e têm como objetivo  o desenvolvimento tecnológico, a transferência de tecnologia, a inovação e a produção nacionais, visando ampliar o acesso a tecnologias no âmbito do Sistema Único de Saúde (SUS) e promover a eficiência produtiva do Complexo Econômico-Industrial da Saúde (CEIS). 
+
+Já os instrumentos de que trata o indicador visam a convergência e a indução de ações, programas e medidas para dar celeridade e efetividade à ação pública, com foco no estimulo da produção e da inovação nacional em tecnologias de uso em saúde,  o fortalecimento das redes colaborativas, a convergência regulatória, a segurança jurídica, a  sustentabilidade dos investimentos e o aperfeiçoamento dos mecanismos para uso estratégico do poder de compra do Estado.
+
+Tanto os projetos como os instrumentos visam contribuir para a redução da vulnerabilidade tecnológica do SUS.	
+ 
+- Percentual de pesquisas prioritárias fomentadas: O indicador mede o esforço do Decit/SECTICS/MS em fomentar pesquisas prioritárias em saúde, definidas na agenda, no âmbito da PNCTIS, e no contexto epidemiológico e internacional, de forma a impulsionar a ciência e tecnologia no país e promover a utilização da produção científica e tecnológica no aprimoramento de políticas, programas e ações de saúde pública, buscando mitigar ou resolver os problemas de saúde da população e do SUS, com foco nas prioridades em saúde.
