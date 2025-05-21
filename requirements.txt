@@ -7,7 +7,9 @@ pydantic>=2.6
 tqdm>=4.66.2
 streamlit>=1.34.0
 python-dotenv>=1.0.1
-
+langchain-huggingface
 unstructured
 pdfminer.six
 faiss-cpu
+sentence-transformers
+llama-cpp-python #pip install llama-cpp-python --prefer-binary --index-url=https://pypi.org/simple/

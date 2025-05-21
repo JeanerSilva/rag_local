@@ -5,27 +5,37 @@ from langchain_community.document_loaders import TextLoader, PyPDFLoader
 from langchain_community.vectorstores import FAISS
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain.chains import RetrievalQA
-from langchain_core.embeddings import HuggingFaceBgeEmbeddings
+#from langchain_core.embeddings import HuggingFaceBgeEmbeddings
+#from langchain_community.embeddings import HuggingFaceBgeEmbeddings
+from langchain_huggingface import HuggingFaceEmbeddings
+
+
 import glob
 
 # Configuração
-MODEL_PATH = "./models/mistral.gguf"
+MODEL_PATH = "./.models/mistral-7b-instruct-v0.1.Q4_K_M.gguf"
 DOCS_PATH = "./docs"
 VECTORDB_PATH = "./vectordb"
+
+# Interface
+st.set_page_config(page_title="LLM RAG com Pastas", page_icon="🧠")
+st.title("📂 RAG com Arquivos Locais + LLM Offline")
 
 # Cache do modelo
 @st.cache_resource
 def load_llm():
     return LlamaCpp(
         model_path=MODEL_PATH,
-        n_ctx=2048,
+        n_ctx=4096,       # aumente conforme sua RAM permitir
+        n_batch=64,       # evita o warning do GGML_KQ_MASK_PAD
         temperature=0.7,
         verbose=False,
     )
 
 @st.cache_resource
 def load_embeddings():
-    return HuggingFaceBgeEmbeddings(model_name="BAAI/bge-small-en-v1.5")  # leve e compatível
+    return HuggingFaceEmbeddings(model_name="BAAI/bge-small-en-v1.5")  # leve e compatível
+
 
 @st.cache_resource
 def create_vectorstore():
@@ -37,7 +47,7 @@ def create_vectorstore():
         if ext == ".pdf":
             loader = PyPDFLoader(file)
         elif ext == ".txt":
-            loader = TextLoader(file)
+            loader = TextLoader(file, encoding="utf-8")
         else:
             continue
         docs.extend(loader.load())
@@ -56,11 +66,13 @@ def create_vectorstore():
 
 @st.cache_resource
 def load_vectorstore():
-    if os.path.exists(VECTORDB_PATH):
+    index_file = os.path.join(VECTORDB_PATH, "index.faiss")
+    if os.path.exists(index_file):
         embeddings = load_embeddings()
         return FAISS.load_local(VECTORDB_PATH, embeddings, allow_dangerous_deserialization=True)
     else:
         return create_vectorstore()
+
 
 # Carregamento
 llm = load_llm()
@@ -73,9 +85,7 @@ qa_chain = RetrievalQA.from_chain_type(
     return_source_documents=False
 )
 
-# Interface
-st.set_page_config(page_title="LLM RAG com Pastas", page_icon="🧠")
-st.title("📂 RAG com Arquivos Locais + LLM Offline")
+
 
 # Histórico
 if "chat_history" not in st.session_state:
